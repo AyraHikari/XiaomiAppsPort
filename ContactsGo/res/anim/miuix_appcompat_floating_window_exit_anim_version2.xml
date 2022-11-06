@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:duration="350"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <translatewithclip app:damping="0.9" app:floatingHeight="@dimen/miuix_appcompat_floating_window_fixed_height_major" app:floatingWidth="@dimen/miuix_appcompat_floating_window_fixed_width_major" app:interpolatorName="springInterpolator" app:response="0.8" app:roundCornerRadius="@dimen/miuix_appcompat_floating_window_background_radius" app:xOffset="0" />
+</set>

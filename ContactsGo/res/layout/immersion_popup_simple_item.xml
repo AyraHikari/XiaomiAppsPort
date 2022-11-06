@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:textDirection="locale" style="@style/Widget.ListView.Item.Immersion"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/Widget.ListView.Item.Immersion" android:textSize="@dimen/miuix_appcompat_button_text_size" android:layout_gravity="center_vertical" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="fill_parent" android:textDirection="locale" />
+    <ImageView android:textAppearance="@style/Widget.ListView.Item.Immersion" android:layout_gravity="center_vertical" android:id="@id/icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@null" />
+</FrameLayout>

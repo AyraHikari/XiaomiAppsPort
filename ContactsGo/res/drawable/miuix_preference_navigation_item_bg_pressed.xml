@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="@dimen/miuix_preference_navigation_item_mask_padding_vertical" android:bottom="@dimen/miuix_preference_navigation_item_mask_padding_vertical" android:start="@dimen/miuix_preference_navigation_item_mask_padding_horizontal" android:end="@dimen/miuix_preference_navigation_item_mask_padding_horizontal">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/miuix_preference_list_item_two_state_bg_color_pressed" />
+            <size android:height="@dimen/miuix_preference_navigation_item_min_height" />
+            <padding android:left="@dimen/miuix_preference_navigation_item_mask_padding_horizontal" android:top="@dimen/miuix_preference_navigation_item_mask_padding_vertical" android:right="@dimen/miuix_preference_navigation_item_content_padding_end" android:bottom="@dimen/miuix_preference_navigation_item_mask_padding_vertical" />
+            <corners android:radius="@dimen/miuix_preference_checkable_item_mask_radius" />
+        </shape>
+    </item>
+</layer-list>

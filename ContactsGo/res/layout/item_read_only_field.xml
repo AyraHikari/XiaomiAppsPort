@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@drawable/edit_text_group_bg_spinner_light" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/kind_title_layout" layout="@layout/edit_kind_title" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" app:children_sequence_state="false">
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:gravity="center|left" android:id="@id/type" android:background="@drawable/spinner_bg_edit_light" android:layout_width="@dimen/spinner_width" android:layout_height="@dimen/spinner_height" android:singleLine="true" android:textAllCaps="true" app:state_last_h="true" />
+        <TextView android:textAppearance="@style/Widget.Editor.Edit" android:layout_gravity="center_vertical" android:id="@id/data" android:layout_width="0.0px" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" android:paddingStart="@dimen/editor_edit_padding_h" android:paddingEnd="@dimen/editor_edit_padding_h" app:state_first_h="true" />
+        <ImageView android:id="@id/icon" android:layout_width="@dimen/editor_item_icon_size" android:layout_height="@dimen/editor_item_icon_size" android:contentDescription="@null" />
+    </LinearLayout>
+</LinearLayout>

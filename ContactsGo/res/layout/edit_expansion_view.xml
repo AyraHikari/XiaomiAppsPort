@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="end" android:paddingTop="@dimen/editor_icon_padding_top" android:layout_width="wrap_content" android:layout_height="@dimen/editor_item_height" android:paddingEnd="@dimen/editor_padding_end" android:layout_alignParentEnd="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center_vertical" android:id="@id/expansion_view" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/btn_inline_shrink_normal_light_vector" android:scaleType="center" android:contentDescription="@null" android:paddingStart="@dimen/editor_edit_padding_h" android:paddingEnd="0.0dip" />
+</FrameLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="276.35938dip" android:layout_height="wrap_content">
+        <TextView android:textSize="17.449982sp" android:textColor="@color/color_log_item_title_tv" android:gravity="center" android:id="@id/text_title" android:layout_width="wrap_content" android:layout_height="40.0dip" android:layout_marginTop="5.0899963dip" android:text="@string/calllog_call_record_menu" />
+        <SeekBar android:id="@id/progress_seek" android:layout_width="fill_parent" android:layout_height="wrap_content" android:progressDrawable="@drawable/call_logs_progress" android:thumb="@drawable/call_logs_seekbar_thumb" android:thumbOffset="0.0dip" android:paddingStart="0.0dip" android:paddingEnd="0.0dip" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.6299744dip" android:layout_marginBottom="10.899994dip">
+            <TextView android:textSize="13.809998sp" android:textColor="@color/color_log_item_start_end_tv" android:id="@id/current_time_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0:00" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+            <TextView android:textSize="13.809998sp" android:textColor="@color/color_log_item_start_end_tv" android:id="@id/real_time_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0:00" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <com.android.contacts.detail.CallLogRecordingPlayerImg android:id="@id/player_img" android:layout_width="43.629974dip" android:layout_height="43.629974dip" android:layout_marginTop="18.179993dip" android:src="@drawable/ic_stop" android:contentDescription="播放" android:layout_marginStart="21.449982dip" android:layout_alignParentEnd="true" />
+</RelativeLayout>

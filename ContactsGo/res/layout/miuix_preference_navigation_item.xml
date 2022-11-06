@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:background="?navigationPreferenceItemBackground" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center" android:layout_gravity="center" android:id="@android:id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true" android:layout_marginEnd="@dimen/miuix_preference_icon_padding_end" style="@style/Widget.PreferenceIcon" />
+    <RelativeLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/Widget.PreferenceItem.Navigation">
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.NavigationPreference" android:ellipsize="end" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:textAlignment="viewStart" />
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.NavigationPreference.Second" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/miuix_preference_summary_margin_top" android:layout_below="@android:id/title" android:textAlignment="viewStart" android:layout_alignStart="@android:id/title" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@android:id/widget_frame" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/miuix_preference_widget_width" />
+</LinearLayout>

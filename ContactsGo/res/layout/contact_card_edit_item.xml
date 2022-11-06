@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingStart="23.159973dip" style="@style/DialogDoubleList"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:id="@id/check_box" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingEnd="@dimen/contact_card_checkbox_padding_right" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/primary_action_view" android:paddingTop="@dimen/list_item_padding_vertical" android:paddingBottom="@dimen/list_item_padding_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textAppearance="@style/TextAppearance.Dialog.List.Primary" android:layout_gravity="start|center" android:id="@id/data" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:id="@id/type" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <FrameLayout android:layout_gravity="right" android:id="@id/secondary_action_view_container" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="end|center" android:id="@id/secondary_action_button" android:duplicateParentState="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/send_sms_ic" android:scaleType="centerInside" android:contentDescription="@null" />
+    </FrameLayout>
+</LinearLayout>

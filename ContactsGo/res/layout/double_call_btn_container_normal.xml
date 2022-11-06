@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:id="@id/double_call_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.contacts.widget.AutoScaleTextButton android:id="@id/call_sim1" android:background="@drawable/dialer_btn_call_sim1_bg" android:layout_width="@dimen/double_dialer_sim_width" android:layout_height="wrap_content" android:contentDescription="@string/description_image_button_sim1_named_dial" android:layout_marginEnd="@dimen/double_call_btn_divider" style="@style/DialerCallButton" />
+    <com.android.contacts.widget.AutoScaleTextButton android:id="@id/call_sim2" android:background="@drawable/dialer_btn_call_sim2_bg" android:layout_width="@dimen/double_dialer_sim_width" android:layout_height="wrap_content" android:contentDescription="@string/description_image_button_sim2_named_dial" android:layout_marginStart="@dimen/double_call_btn_divider" style="@style/DialerCallButton" />
+</LinearLayout>

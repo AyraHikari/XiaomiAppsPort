@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/group_list_header" android:visibility="gone" layout="@layout/group_account_header" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" style="@style/Widget.ListView.Item.DoubleList">
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" android:ellipsize="end" android:id="@id/label" android:layout_width="0.0dip" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" android:textAlignment="viewStart" android:layout_marginEnd="15.0dip" />
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:ellipsize="end" android:id="@id/count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_marginEnd="@dimen/group_browse_list_item_arrow_margin_right" />
+        <ImageView android:id="@id/arrow" android:background="@drawable/miuix_appcompat_arrow_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@null" />
+    </LinearLayout>
+    <View android:id="@id/group_list_footer" android:background="@drawable/list_divider" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-1.0px" android:layout_marginStart="@dimen/divider_margin_left" android:layout_marginEnd="@dimen/divider_margin_left" />
+</LinearLayout>

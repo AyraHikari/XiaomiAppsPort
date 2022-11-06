@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/content_layout" style="@style/DialerListItemSingleLine"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" android:textSize="@dimen/contact_editor_button_text_size" android:textColor="@color/action_button_positive_color" android:gravity="center_vertical" android:id="@id/text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="locale" android:layoutDirection="locale" />
+</LinearLayout>

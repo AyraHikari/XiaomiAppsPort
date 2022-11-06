@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.appcompat.internal.app.widget.ActionBarMovableLayout android:id="@id/action_bar_overlay_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <miuix.appcompat.internal.app.widget.ActionBarContainer android:layout_gravity="top" android:id="@id/action_bar_container" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:actionBarStyle">
+        <miuix.appcompat.internal.app.widget.ActionBarView android:id="@id/action_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:actionBarStyle" />
+        <ViewStub android:id="@id/action_context_bar_vs" android:layout="@layout/miuix_appcompat_screen_action_bar_context_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </miuix.appcompat.internal.app.widget.ActionBarContainer>
+    <FrameLayout android:id="@android:id/content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="?android:windowContentOverlay" android:foregroundGravity="fill_horizontal|center|top" />
+    <ViewStub android:layout_gravity="bottom" android:id="@id/split_action_bar_vs" android:layout="@layout/miuix_appcompat_screen_action_bar_split_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/search_mask_vs" android:layout="@layout/miuix_appcompat_screen_action_bar_searchmask_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/content_mask_vs" android:layout="@layout/miuix_appcompat_screen_action_bar_contentmask_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</miuix.appcompat.internal.app.widget.ActionBarMovableLayout>

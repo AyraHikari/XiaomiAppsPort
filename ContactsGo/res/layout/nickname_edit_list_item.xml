@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:longClickable="false" style="@style/Widget.ListView.Item.DoubleLine.SmallPadding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/name" style="@style/NicknameEditorTextView" />
+    <EditText android:id="@id/nick_name" android:hint="@string/nicknameLabelsGroup" style="@style/NicknameEditorEditText" />
+</LinearLayout>

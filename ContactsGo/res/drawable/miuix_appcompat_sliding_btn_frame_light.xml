@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/miuix_appcompat_sliding_button_frame_horizontal_padding" android:top="@dimen/miuix_appcompat_sliding_button_frame_vertical_padding" android:right="@dimen/miuix_appcompat_sliding_button_frame_horizontal_padding" android:bottom="@dimen/miuix_appcompat_sliding_button_frame_vertical_padding">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/miuix_appcompat_sliding_button_frame_corner_radius" />
+            <size android:height="@dimen/miuix_appcompat_sliding_button_height" android:width="@dimen/miuix_appcompat_sliding_button_width" />
+        </shape>
+    </item>
+</layer-list>

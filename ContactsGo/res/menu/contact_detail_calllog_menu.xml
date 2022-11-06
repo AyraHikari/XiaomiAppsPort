@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/action_button_delete" android:id="@id/menu_delete_calllog" android:title="@string/callrecordview_menu_delete" android:showAsAction="always|withText" />
+</menu>

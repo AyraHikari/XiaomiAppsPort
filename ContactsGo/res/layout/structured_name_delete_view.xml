@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="end" android:layout_width="wrap_content" android:layout_height="@dimen/editor_item_height" android:paddingEnd="@dimen/miuix_editor_text_padding" android:layout_alignParentEnd="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center_vertical" android:id="@id/delete_button" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/btn_inline_delete_normal_light" android:contentDescription="@string/description_minus_button" />
+</FrameLayout>

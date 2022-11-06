@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" style="@style/Widget.ListView.Item.Immersion"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@android:id/icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/miuix_appcompat_immersion_menu_icon_margin_end" />
+    <TextView android:textAppearance="@style/Widget.ListView.Item.Immersion" android:id="@android:id/text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:textAlignment="viewStart" />
+</LinearLayout>

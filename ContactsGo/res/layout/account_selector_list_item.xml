@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.widget.CheckableLinearLayout android:id="@id/content_layout" android:background="@drawable/miuix_list_item_bg_dialog" android:paddingStart="@dimen/bottom_button_padding" android:paddingEnd="@dimen/bottom_button_padding" style="@style/Widget.ListView.Item.DoubleList"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textColor="?android:textColorAlertDialogListItem" android:ellipsize="end" android:id="@android:id/text1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:ellipsize="end" android:id="@android:id/text2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="center_vertical" android:id="@android:id/icon" android:layout_width="@dimen/detail_network_icon_size" android:layout_height="@dimen/detail_network_icon_size" android:contentDescription="@null" />
+</com.android.contacts.widget.CheckableLinearLayout>

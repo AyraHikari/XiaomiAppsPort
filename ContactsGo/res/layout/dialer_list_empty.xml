@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@android:id/empty" android:paddingTop="@dimen/miui13_padding_top" android:paddingBottom="@dimen/miui13_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:visibility="gone" layout="@layout/call_log_filter_view_container" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingTop="@dimen/call_log_empty_view_margin_top" android:paddingBottom="35.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/list_empty_anim_view" />
+        <ImageView android:gravity="center_horizontal" android:id="@id/iv_list_empty" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/list_empty_no_call_log" android:contentDescription="@null" />
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.BlankPage" android:id="@id/dialer_list_empty_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/maml_empty_des_top_margin" android:text="@string/dialer_empty_text_no_call_log" />
+    </LinearLayout>
+</FrameLayout>

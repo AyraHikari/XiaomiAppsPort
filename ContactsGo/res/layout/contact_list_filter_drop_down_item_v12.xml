@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.list.ContactListFilterView android:id="@id/content_container" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.contacts.widget.CheckableLinearLayout android:gravity="center_vertical" android:id="@id/content_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:clickable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <CheckedTextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List" android:textSize="@dimen/contact_list_filter_account_type_text_size" android:ellipsize="end" android:id="@id/accountType" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <CheckedTextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:ellipsize="end" android:id="@id/accountUserName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/miuix_appcompat_spinner_dropdown_item_text_margin" android:singleLine="true" />
+        </LinearLayout>
+        <CheckedTextView android:gravity="center_vertical" android:id="@id/radioButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checkMark="?android:listChoiceIndicatorSingle" android:layout_marginStart="@dimen/miuix_appcompat_spinner_dropdown_item_icon_margin" />
+    </com.android.contacts.widget.CheckableLinearLayout>
+</com.android.contacts.list.ContactListFilterView>

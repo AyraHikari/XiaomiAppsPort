@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/people_activity_single_call_radius" />
+    <size android:height="@dimen/people_activity_single_call_size" android:width="@dimen/people_activity_single_call_size" />
+    <solid android:color="@color/dialer_accent_color_pressed" />
+</shape>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_single="true" android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_list_small_item_single_bg_pressed_light" />
+    <item android:state_single="true" android:drawable="@drawable/miuix_appcompat_list_small_item_single_bg_normal_light" />
+    <item android:state_first="true" android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_list_small_item_first_bg_pressed_light" />
+    <item android:state_first="true" android:drawable="@drawable/miuix_appcompat_list_small_item_first_bg_normal_light" />
+    <item android:state_middle="true" android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_list_small_item_middle_bg_pressed_light" />
+    <item android:state_middle="true" android:drawable="@drawable/miuix_appcompat_list_small_item_middle_bg_normal_light" />
+    <item android:state_last="true" android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_list_small_item_last_bg_pressed_light" />
+    <item android:state_last="true" android:drawable="@drawable/miuix_appcompat_list_small_item_last_bg_normal_light" />
+    <item android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_list_small_item_single_bg_pressed_light" />
+    <item android:drawable="@drawable/miuix_appcompat_list_small_item_single_bg_normal_light" />
+</selector>

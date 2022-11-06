@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="pref_key_root"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="@string/wipe_data" android:key="pref_key_wipe_data" />
+    <PreferenceScreen android:title="@string/pref_key_rebuild_t9_index_title" android:key="pref_key_rebuild_t9_index" />
+    <PreferenceScreen android:title="@string/pref_key_sim_manage" android:key="pref_key_sim_manage" />
+    <PreferenceScreen android:title="@string/pref_key_sim_manage2" android:key="pref_key_sim_manage2" />
+    <PreferenceScreen android:title="@string/pref_key_sdn_manage" android:key="pref_key_sdn_manage" />
+    <PreferenceScreen android:title="@string/pref_key_sdn_manage2" android:key="pref_key_sdn_manage2" />
+</PreferenceScreen>

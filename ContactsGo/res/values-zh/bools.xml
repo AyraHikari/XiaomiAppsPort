@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_display_order_user_changeable">false</bool>
+    <bool name="config_sort_order_user_changeable">false</bool>
+</resources>

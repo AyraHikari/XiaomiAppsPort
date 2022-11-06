@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/contact_detail_acount_container_margin" android:layout_marginStart="@dimen/contact_detail_margin_start" android:layout_marginEnd="@dimen/contact_detail_margin_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="end" android:id="@id/account_type" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:textDirection="locale" style="@style/TextAppearance.Dialer.List.Primary" />
+    <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:ellipsize="end" android:id="@id/account_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:textDirection="locale" />
+</LinearLayout>

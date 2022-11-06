@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:id="@id/content_layout" style="@style/DialerListItemDoubleLine"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_toStartOf="@id/list_item_right" android:layout_toEndOf="@id/list_item_item_left">
+        <LinearLayout android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:maxLength="@integer/dialer_list_text_max_length" />
+            <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:id="@id/phone_tag" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:id="@id/dialer_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:maxLength="@integer/dialer_list_text_max_length" android:textDirection="ltr" android:layout_marginEnd="5.0dip" />
+            <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:id="@id/telocation" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout android:id="@id/list_item_right" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_alignParentEnd="true">
+        <ImageView android:id="@id/contact_detail_action" android:paddingTop="@dimen/dialer_list_item_detail_padding_top" android:paddingBottom="@dimen/dialer_list_item_detail_padding_top" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/btn_inline_detail" android:scaleType="centerInside" android:contentDescription="@string/accessibility_contact_detail" android:paddingStart="@dimen/dialer_list_item_detail_padding" android:paddingEnd="@dimen/dialer_list_item_detail_padding_horizon" />
+        <CheckBox android:id="@android:id/checkbox" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+</RelativeLayout>

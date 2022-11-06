@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/miuix_preference_category_background_light_2" android:minLevel="2" android:maxLevel="2" />
+    <item android:drawable="@drawable/miuix_preference_category_background_light_1" android:minLevel="1" android:maxLevel="1" />
+    <item android:drawable="@drawable/miuix_preference_category_background_light_0" />
+</level-list>

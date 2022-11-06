@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.dialer.view.DialpadLayout android:orientation="vertical" android:id="@id/dialer_pad" android:layout_width="fill_parent" android:layout_height="wrap_content" contacts:shadowHeight="@dimen/shadow_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:contacts="http://schemas.android.com/apk/res-auto">
+    <com.android.contacts.dialer.view.DialerBgView android:id="@id/dialer_background_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/dialpad_container" android:paddingTop="@dimen/dialerpad_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.android.contacts.dialer.view.DialPadDigitsKeyContainer android:id="@id/dialpad_keys_container" android:paddingBottom="@dimen/dialerpad_padding_btn" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/dialerpad_height" android:splitMotionEvents="false" android:layoutDirection="ltr" android:paddingStart="@dimen/dialerpad_padding_start" android:paddingEnd="@dimen/dialerpad_padding_end" />
+        <com.android.contacts.dialer.view.DialpadBottomLayout android:gravity="center" android:orientation="horizontal" android:id="@id/bottom_container" android:background="@drawable/dialer_bottom_bar_bg" android:paddingBottom="@dimen/dialer_menu_padding_btm" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.android.contacts.widget.HapticButton android:id="@id/close_dialpad" android:background="@drawable/btn_close_dialpad_bg" android:layout_width="wrap_content" android:layout_height="fill_parent" android:contentDescription="@string/close_dial_pad_description" />
+        </com.android.contacts.dialer.view.DialpadBottomLayout>
+    </LinearLayout>
+    <FrameLayout android:id="@id/dialer_input_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dialer_input_margin_left" android:layout_marginTop="@dimen/dialer_input_margin_top" android:layout_marginRight="@dimen/dialer_input_margin_right" android:layout_marginBottom="@dimen/dialer_input_margin_btm">
+        <include layout="@layout/dialer_input" />
+        <ViewStub android:id="@id/copy_hint_view_stub" android:layout="@layout/dialer_copy_hint" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </FrameLayout>
+</com.android.contacts.dialer.view.DialpadLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:state_hovered="false">
+        <layer-list>
+            <item android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_light" />
+            <item android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_foreground" />
+        </layer-list>
+    </item>
+    <item android:state_pressed="false" android:state_hovered="true">
+        <layer-list>
+            <item android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_light" />
+            <item android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_foreground" />
+        </layer-list>
+    </item>
+    <item android:state_pressed="true" android:state_hovered="true">
+        <layer-list>
+            <item android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_light" />
+            <item android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_foreground" />
+        </layer-list>
+    </item>
+    <item android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_light" />
+</selector>

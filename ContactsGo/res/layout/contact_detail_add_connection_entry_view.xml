@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:id="@id/primary_action_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/miuix_appcompat_list_preferred_item_height"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:id="@id/add_connection_label" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/ContactDetailItemTextAppearancePrimary" />
+        <ImageView android:id="@id/add_connection_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" android:contentDescription="@null" />
+    </LinearLayout>
+    <include layout="@layout/contact_detail_list_item_type_icon" />
+</FrameLayout>

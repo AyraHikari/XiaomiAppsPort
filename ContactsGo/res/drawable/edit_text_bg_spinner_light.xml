@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:state_focused="true" android:drawable="@drawable/edit_text_bg_spinner_first_light_p" app:state_first_v="true" />
+    <item android:state_selected="true" android:drawable="@drawable/edit_text_bg_spinner_first_light_p" app:state_first_v="true" />
+    <item android:state_focused="false" android:drawable="@drawable/edit_text_bg_spinner_first_light" app:state_first_v="true" />
+    <item android:state_focused="true" android:drawable="@drawable/edit_text_bg_spinner_middle_light_p" app:state_middle_v="true" />
+    <item android:state_selected="true" android:drawable="@drawable/edit_text_bg_spinner_middle_light_p" app:state_middle_v="true" />
+    <item android:state_focused="false" android:drawable="@drawable/edit_text_bg_spinner_middle_light" app:state_middle_v="true" />
+    <item android:state_focused="true" android:drawable="@drawable/edit_text_bg_spinner_last_light_p" app:state_last_v="true" />
+    <item android:state_selected="true" android:drawable="@drawable/edit_text_bg_spinner_last_light_p" app:state_last_v="true" />
+    <item android:state_focused="false" android:drawable="@drawable/edit_text_bg_spinner_last_light" app:state_last_v="true" />
+    <item android:state_selected="true" android:drawable="@drawable/edit_text_bg_spinner_single_light_p" app:state_single_v="true" />
+    <item android:state_focused="true" android:drawable="@drawable/edit_text_bg_spinner_single_light_p" app:state_single_v="true" />
+    <item android:state_focused="false" android:drawable="@drawable/edit_text_bg_spinner_single_light" app:state_single_v="true" />
+    <item android:state_focused="false" android:drawable="@drawable/edit_text_bg_spinner_single_light" />
+    <item android:state_focused="true" android:drawable="@drawable/edit_text_bg_spinner_single_light_p" />
+</selector>

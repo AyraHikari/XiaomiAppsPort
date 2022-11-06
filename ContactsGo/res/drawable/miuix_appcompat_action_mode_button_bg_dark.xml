@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_action_mode_button_bg_single_selected_pressed_dark" />
+    <item android:state_selected="true" android:drawable="@drawable/miuix_appcompat_action_mode_button_bg_single_selected_dark" />
+    <item android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_action_mode_button_bg_single_pressed_dark" />
+    <item android:state_enabled="false" android:drawable="@drawable/miuix_appcompat_action_mode_button_bg_single_disable_dark" />
+    <item android:drawable="@drawable/miuix_appcompat_action_mode_button_bg_single_normal_dark" />
+</selector>

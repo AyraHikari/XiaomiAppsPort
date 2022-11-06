@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.ActionBarButtonIconStyle" parent="@style/Widget">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+    <style name="Widget.ActionMode.Button" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">@style/Miuix.AppCompat.TextAppearance.Widget.ActionMode.Title.Button</item>
+        <item name="android:textSize">@dimen/miuix_appcompat_secondary_text_size</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:minHeight">0.0dip</item>
+        <item name="android:text">@android:string/cancel</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+    <style name="Widget.Button" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">@style/Miuix.AppCompat.TextAppearance.Widget.Button</item>
+        <item name="android:textSize">@dimen/miuix_appcompat_button_text_size</item>
+        <item name="android:textColor">?textColorButton</item>
+        <item name="android:background">?buttonBackground</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="miuixSelectGroupButtonBackground">?selectorButtonBackground</item>
+    </style>
+    <style name="Widget.CompoundButton.CheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">@dimen/miuix_appcompat_secondary_text_size</item>
+        <item name="android:textColor">?checkableButtonTextColorSingle</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">0.0dip</item>
+        <item name="android:button">?android:listChoiceIndicatorMultiple</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="buttonCompat">?checkBoxButtonCompat</item>
+    </style>
+    <style name="Widget.CompoundButton.RadioButton" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:textSize">@dimen/miuix_appcompat_secondary_text_size</item>
+        <item name="android:textColor">?checkableButtonTextColorSingle</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">0.0dip</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

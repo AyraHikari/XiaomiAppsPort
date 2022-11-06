@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:variablePadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:state_first="true" android:drawable="@drawable/miuix_preference_category_bg_first_no_title_dark" app:state_no_title="true" />
+    <item android:state_single="true" android:drawable="@drawable/miuix_preference_category_bg_first_no_title_dark" app:state_no_title="true" />
+    <item android:state_single="true" android:drawable="@drawable/miuix_preference_category_bg_first_dark" />
+    <item android:state_first="true" android:drawable="@drawable/miuix_preference_category_bg_first_dark" />
+    <item android:drawable="@drawable/miuix_preference_category_bg_no_title_dark" app:state_no_title="true" />
+    <item android:drawable="@drawable/miuix_preference_category_bg_dark" />
+</selector>

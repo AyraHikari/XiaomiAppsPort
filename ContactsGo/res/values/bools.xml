@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abc_split_action_bar_is_narrow">true</bool>
+    <bool name="action_bar_embed_tabs">true</bool>
+    <bool name="action_bar_tight_title">false</bool>
+    <bool name="check_widget_anim_enable">true</bool>
+    <bool name="config_allow_users_select_all_vcard_import">true</bool>
+    <bool name="config_default_display_order_primary">true</bool>
+    <bool name="config_default_sort_order_primary">true</bool>
+    <bool name="config_display_order_user_changeable">true</bool>
+    <bool name="config_editor_field_order_primary">true</bool>
+    <bool name="config_editor_include_phonetic_name">false</bool>
+    <bool name="config_import_all_vcard_from_sdcard_automatically">false</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+    <bool name="config_show_group_action_in_action_bar">false</bool>
+    <bool name="config_sort_order_user_changeable">true</bool>
+    <bool name="config_use_two_panes">false</bool>
+    <bool name="config_use_two_panes_in_favorites">false</bool>
+    <bool name="default_theme">true</bool>
+    <bool name="dialerinput_with_animation">true</bool>
+    <bool name="miuix_appcompat_floating_window_is_translucent">false</bool>
+    <bool name="miuix_appcompat_window_floating">false</bool>
+    <bool name="preference_item_bg_enable_variablePadding">false</bool>
+    <bool name="preferences_show_sim_management">true</bool>
+    <bool name="show_volte">true</bool>
+    <bool name="spinner_popup_item_bg_enable_variablePadding">false</bool>
+    <bool name="status_bar_color_enable">true</bool>
+    <bool name="status_bar_color_white">true</bool>
+    <bool name="treat_as_land">false</bool>
+</resources>

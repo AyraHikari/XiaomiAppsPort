@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no" android:paddingStart="@dimen/divider_margin_left" android:paddingEnd="@dimen/divider_margin_left"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/contact_detail_head_textsize" android:textColor="@color/contact_detail_head_textcolor" android:id="@id/label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/contact_detail_head_margin_top" android:layout_marginBottom="@dimen/contact_detail_head_margin_bottom" android:textDirection="locale" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:scrollbarStyle="outsideOverlay" android:id="@android:id/list" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:cacheColorHint="@android:color/transparent" android:divider="@null" />
+    <miuix.miuixbasewidget.widget.FloatingActionButton android:gravity="center" android:layout_gravity="end|bottom|center" android:id="@id/fab" android:layout_width="@dimen/floating_action_btn_height" android:layout_height="@dimen/floating_action_btn_height" android:layout_marginBottom="@dimen/floating_action_button_shadow_margin_btm" android:src="@drawable/miuix_appcompat_action_button_main_new_light" android:contentDescription="@string/menu_new_group_action_bar" android:layout_marginEnd="@dimen/floating_action_button_shadow_margin_right" />
+</FrameLayout>

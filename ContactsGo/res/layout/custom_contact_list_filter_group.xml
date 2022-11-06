@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="@dimen/miuix_appcompat_list_preferred_item_height_small" android:paddingStart="?android:expandableListPreferredItemPaddingLeft" android:paddingEnd="?android:scrollbarSize" style="@style/Widget.ListView.Item.SingleLine"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:duplicateParentState="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" android:ellipsize="marquee" android:id="@android:id/text1" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:id="@android:id/text2" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:layout_below="@android:id/text1" android:layout_alignStart="@android:id/text1" />
+        <TextView android:id="@id/text3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <CheckBox android:gravity="center_vertical" android:orientation="vertical" android:id="@android:id/checkbox" android:focusable="false" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="4.0dip" />
+</LinearLayout>

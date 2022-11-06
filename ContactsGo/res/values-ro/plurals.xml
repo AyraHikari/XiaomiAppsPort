@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 oră în urmă</item>
+        <item quantity="one">1 oră în urmă</item>
+        <item quantity="few">1 oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 oră în urmă</item>
+        <item quantity="one">1 oră în urmă</item>
+        <item quantity="few">1 oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Jumătate de oră în urmă</item>
+        <item quantity="one">Jumătate de oră în urmă</item>
+        <item quantity="few">Jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">În 1 oră</item>
+        <item quantity="one">În 1 oră</item>
+        <item quantity="few">În 1 oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+        <item quantity="one">În jumătate de oră</item>
+        <item quantity="few">În jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+        <item quantity="one">Imediat</item>
+        <item quantity="few">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d min</item>
+        <item quantity="one">în 1 min</item>
+        <item quantity="few">în %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+        <item quantity="one">Chiar acum</item>
+        <item quantity="few">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min în urmă</item>
+        <item quantity="one">1 min în urmă</item>
+        <item quantity="few">%d min în urmă</item>
+    </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">Ștergeți %1$d contacte?</item>
+        <item quantity="one">Ștergeți %1$d contact?</item>
+        <item quantity="few">Ștergeți %1$d contacte?</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Ștergeți %1$d contacte</item>
+        <item quantity="one">Ștergeți %1$d contact</item>
+        <item quantity="few">Ștergeți %1$d contacte</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Sună %1$d ori</item>
+        <item quantity="one">Sună %1$d dată</item>
+        <item quantity="few">Sună %1$d ori</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numere de telefon</item>
+        <item quantity="one">%d număr de telefon</item>
+        <item quantity="few">%d numere de telefon</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Șterge %d numere de telefon?</item>
+        <item quantity="one">Șterge %d număr de telefon?</item>
+        <item quantity="few">Șterge %d numere de telefon?</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Ștergeți %1$d contacte din cartela SIM?</item>
+        <item quantity="one">Ștergeți %1$d contact din cartela SIM?</item>
+        <item quantity="few">Ștergeți %1$d contacte din cartela SIM?</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d contacte</item>
+        <item quantity="one">%1$d contact</item>
+        <item quantity="few">%1$d contacte</item>
+    </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">%d contacte au fost șterse definitiv</item>
+        <item quantity="one">%d contact a fost șters definitiv</item>
+        <item quantity="few">%d contacte au fost șterse definitiv</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">%d contacte au fost restabilite cu succes</item>
+        <item quantity="one">%d contact a fost restabilit cu succes</item>
+        <item quantity="few">%d contacte au fost restabilite cu succes</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d contacte importate</item>
+        <item quantity="one">%1$d contact importat</item>
+        <item quantity="few">%1$d contacte importate</item>
+    </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Importat %1$d contacte</item>
+        <item quantity="one">Importat %1$d contact</item>
+        <item quantity="few">Importat %1$d contacte</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Blocați %1$d numere de telefon?</item>
+        <item quantity="one">Blocați %1$d număr de telefon?</item>
+        <item quantity="few">Blocați %1$d numere de telefon?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Deblocați %1$d numere de telefon?</item>
+        <item quantity="one">Deblocați %1$d număr de telefon?</item>
+        <item quantity="few">Deblocați %1$d numere de telefon?</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">Cartela SIM poate stoca %1$d contacte.</item>
+        <item quantity="one">Cartela SIM poate stoca %1$d contact.</item>
+        <item quantity="few">Cartela SIM poate stoca %1$d contacte.</item>
+    </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">S-au găsit mai mult de %d contacte.</item>
+        <item quantity="one">S-a găsit mai mult de %d contact.</item>
+        <item quantity="few">S-au găsit mai mult de %d contacte.</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d  contacte adăugate"</item>
+        <item quantity="one">%1$d contact adăugat</item>
+        <item quantity="few">" %1$d  contacte adăugate"</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d persoane</item>
+        <item quantity="one">%1$d persoană</item>
+        <item quantity="few">%1$d persoane</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d numere</item>
+        <item quantity="one">%1$d număr</item>
+        <item quantity="few">%1$d numere</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Jumătate de oră în urmă</item>
+        <item quantity="one">Jumătate de oră în urmă</item>
+        <item quantity="few">Jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d elemente</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%1$d elemente</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d contacte</item>
+        <item quantity="one">%1$d contact</item>
+        <item quantity="few">%1$d contacte</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d e-mailuri</item>
+        <item quantity="one">%1$d e-mail</item>
+        <item quantity="few">%1$d e-mailuri</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d numere</item>
+        <item quantity="one">%1$d număr</item>
+        <item quantity="few">%1$d numere</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">În 1 oră</item>
+        <item quantity="one">În 1 oră</item>
+        <item quantity="few">În 1 oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+        <item quantity="one">În jumătate de oră</item>
+        <item quantity="few">În jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+        <item quantity="one">Imediat</item>
+        <item quantity="few">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">în 1 minut</item>
+        <item quantity="few">în %d minute</item>
+    </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+        <item quantity="few">(%1$d)</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+        <item quantity="one">Chiar acum</item>
+        <item quantity="few">Chiar acum</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d contacte</item>
+        <item quantity="one">%d contact</item>
+        <item quantity="few">%d contacte</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d contacte cu informații identice parțiale</item>
+        <item quantity="one">%1$d contacte cu informații identice parțiale</item>
+        <item quantity="few">%1$d contacte cu informații identice parțiale</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+        <item quantity="few">%d elemente selectate</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+        <item quantity="few">%1$d selectate</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d persoane din %2$s</item>
+        <item quantity="one">%1$d persoană din %2$s</item>
+        <item quantity="few">%1$d persoane din %2$s</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min în urmă</item>
+        <item quantity="one">Un 1 în urmă</item>
+        <item quantity="few">%d min în urmă</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+        <item quantity="few">%1$d selectate</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d favorite</item>
+        <item quantity="one">%1$d favorit</item>
+        <item quantity="few">%1$d favorite</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d favorite</item>
+        <item quantity="one">%1$d favorit</item>
+        <item quantity="few">%1$d favorite</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d găsite</item>
+        <item quantity="one">%d găsit</item>
+        <item quantity="few">%d găsite</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s rezultate</item>
+        <item quantity="one">%s rezultat</item>
+        <item quantity="few">%s rezultate</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">Selectați nu mai mult de %1$d, nu se poate selecta tot</item>
+        <item quantity="one">Selectați nu mai mult de %1$d, nu se poate selecta tot</item>
+        <item quantity="few">Selectați nu mai mult de %1$d, nu se poate selecta tot</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Selectați nu mai mult de %1$d</item>
+        <item quantity="one">Selectați nu mai mult de %1$d</item>
+        <item quantity="few">Selectați nu mai mult de %1$d</item>
+    </plurals>
+</resources>

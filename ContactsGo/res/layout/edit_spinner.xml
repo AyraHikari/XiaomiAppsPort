@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <miuix.appcompat.widget.Spinner android:gravity="start|center" android:id="@id/miui_spinner" android:focusable="true" android:visibility="gone" android:clickable="true" android:duplicateParentState="true" android:layout_width="@dimen/spinner_width" android:layout_height="fill_parent" android:spinnerMode="dropdown" />
+    <miuix.appcompat.widget.Spinner android:gravity="start|center" android:id="@id/origin_spinner" android:focusable="true" android:visibility="gone" android:clickable="true" android:duplicateParentState="true" android:layout_width="@dimen/spinner_width" android:layout_height="fill_parent" />
+</FrameLayout>

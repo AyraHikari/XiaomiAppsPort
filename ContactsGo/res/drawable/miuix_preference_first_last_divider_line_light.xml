@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/miuix_preference_category_divider_height" />
+    <solid android:color="@color/miuix_preference_first_last_divider_line_light" />
+</shape>

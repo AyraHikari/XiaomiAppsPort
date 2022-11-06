@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/miuix_preference_main_margin_start" android:paddingEnd="@dimen/miuix_preference_main_margin_end"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/miuix_preference_main_icon_min_width" android:layout_marginEnd="@dimen/miuix_preference_main_icon_padding_end">
+        <ImageView android:gravity="center" android:layout_gravity="center" android:id="@android:id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true" style="@style/Widget.PreferenceIcon" />
+    </LinearLayout>
+    <RelativeLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/Widget.PreferenceItem">
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.PreferenceList" android:ellipsize="end" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:textAlignment="viewStart" />
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary.Preference" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/miuix_preference_summary_margin_top" android:layout_below="@android:id/title" android:textAlignment="viewStart" android:layout_alignStart="@android:id/title" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@android:id/widget_frame" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/miuix_preference_widget_width" />
+    <androidx.appcompat.widget.AppCompatImageView android:gravity="center" android:layout_gravity="end|center" android:id="@id/arrow_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/miuix_preference_item_padding_inner" app:srcCompat="@drawable/miuix_appcompat_arrow_right" />
+</LinearLayout>

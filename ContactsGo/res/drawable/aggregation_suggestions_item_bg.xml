@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/aggregation_suggestions_item_stroke" android:top="@dimen/aggregation_suggestions_item_stroke" android:right="@dimen/aggregation_suggestions_item_stroke">
+        <shape android:shape="rectangle"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="@dimen/drop_down_menu_radius" />
+            <solid android:color="@color/aggregation_suggestions_item_n" />
+        </shape>
+    </item>
+</layer-list>

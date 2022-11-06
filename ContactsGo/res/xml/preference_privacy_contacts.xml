@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/privacy_settings_privacy_policy" android:key="pref_key_privacy_policy">
+        <PreferenceScreen android:title="@string/privacy_settings_view_policy" android:key="pref_key_view_privacy_policy" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/privacy_settings_permission_related" android:key="pref_key_permission_related">
+        <PreferenceScreen android:title="@string/privacy_settings_permission_description" android:key="pref_key_permission_description" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingTop="@dimen/dialer_menu_padding" android:paddingBottom="@dimen/dialer_menu_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/dialer_menu_padding" android:paddingEnd="@dimen/dialer_menu_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@android:id/title" android:text="@string/add_xiaomi_account_dialog_title" style="@style/AddXiaomiAccountTitleStyle" />
+    <TextView android:paddingTop="10.0dip" android:paddingBottom="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/add_xiaomi_account_dialog_msg" android:paddingStart="@dimen/bottom_button_padding" android:paddingEnd="@dimen/bottom_button_padding" style="@style/Miuix.AppCompat.TextAppearance.Medium.Dialog" />
+    <Button android:gravity="center" android:id="@id/add_xiaomi_account" android:text="@string/add_xiaomi_account_dialog_btn" style="@style/AddXiaomiAccountBtnPositiveStyle" />
+    <Button android:gravity="center" android:id="@id/btn_keep_local" android:text="@string/keep_local_btn" style="@style/AddXiaomiAccountBtnStyle" />
+</LinearLayout>

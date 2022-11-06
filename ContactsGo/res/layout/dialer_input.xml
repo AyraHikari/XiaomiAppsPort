@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.dialer.view.DialerInputView android:orientation="vertical" android:id="@id/dialer_input" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no" android:layoutDirection="ltr" android:paddingStart="@dimen/dialer_digits_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.contacts.dialpad.DigitsEditText android:ellipsize="start" android:gravity="center" android:id="@id/digits" android:paddingTop="@dimen/twelve_key_digits_input_margin_top" android:layout_width="wrap_content" android:layout_height="wrap_content" android:cursorVisible="false" android:textCursorDrawable="@drawable/dialer_edit_text_cursor" android:textDirection="ltr" style="@style/TextStyleDialerDigits" />
+    <ImageView android:layout_gravity="end|center" android:id="@id/clear_button" android:paddingTop="@dimen/twelve_key_digits_input_margin_top" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/dialer_digits_clear_btn" android:scaleType="fitCenter" android:contentDescription="@string/clear_digits" android:paddingEnd="@dimen/clear_btn_margin_end" />
+</com.android.contacts.dialer.view.DialerInputView>

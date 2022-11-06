@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.widget.CheckableLinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/content_layout" android:background="@drawable/miuix_appcompat_list_item_bg_dropdown_popup_light_local" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/account_item" android:layout_width="@dimen/account_swithcer_width" android:layout_height="fill_parent" android:paddingStart="20.0dip" android:paddingEnd="20.0dip">
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_marginStart="6.0dip">
+            <TextView android:textSize="@dimen/account_primary_textsize" android:textColor="?android:textColorAlertDialogListItem" android:ellipsize="end" android:id="@android:id/text1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/account_secondary_textsize" android:textColor="@color/dropdown_popup_list_second_text_color_normal" android:ellipsize="end" android:id="@android:id/text2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.5dip" android:singleLine="true" />
+        </LinearLayout>
+        <CheckedTextView android:gravity="center_vertical" android:id="@id/radioButton" android:clickable="false" android:layout_width="20.0dip" android:layout_height="fill_parent" android:checkMark="?android:listChoiceIndicatorSingle" android:layout_marginStart="8.0dip" />
+    </LinearLayout>
+</com.android.contacts.widget.CheckableLinearLayout>

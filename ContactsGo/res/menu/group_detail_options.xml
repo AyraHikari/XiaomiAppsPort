@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/action_button_new" android:id="@id/menu_group_add" android:title="@string/menu_bar_group_add" android:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/ic_menu_group_sms" android:id="@id/menu_group_sms" android:title="@string/menu_bar_group_sms" android:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/action_button_rename" android:id="@id/menu_group_rename" android:title="@string/menu_bar_group_rename" android:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/action_button_delete" android:id="@id/menu_group_delete" android:title="@string/menu_bar_group_delete" android:showAsAction="ifRoom|withText" />
+</menu>

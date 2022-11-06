@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="miuix_appcompat_action_bar_subtitle_text_dark">@color/miuix_appcompat_action_bar_title_text_color_dark</color>
+    <color name="miuix_appcompat_action_bar_subtitle_text_light">@color/miuix_appcompat_action_bar_title_text_color_light</color>
+</resources>

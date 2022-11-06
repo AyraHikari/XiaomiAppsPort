@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:background="@drawable/edit_nickname_header_bg" android:layout_width="fill_parent" android:layout_height="@dimen/nickname_editor_item_height">
+            <TextView android:id="@id/name" android:text="@string/nickname_picker_name_column" android:paddingStart="@dimen/nickname_editor_title_margin" style="@style/NicknameEditorTitle" />
+            <View android:background="@color/nickname_editor_vertical_divider" android:layout_width="1.0px" android:layout_height="fill_parent" />
+            <TextView android:id="@id/nick_name" android:text="@string/nickname_picker_nickname_column" android:paddingStart="15.0dip" style="@style/NicknameEditorTitle" />
+        </LinearLayout>
+        <Button android:id="@id/auto_nickname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/auto_nickname" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/nickname_editor_title_margin" android:layout_alignParentEnd="true" style="@style/Widget.Button.Rect" />
+    </RelativeLayout>
+    <ListView android:gravity="center" android:id="@id/contact_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="@null" android:overScrollMode="never" />
+</LinearLayout>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+        <item quantity="one">prije 1 sat</item>
+        <item quantity="few">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+        <item quantity="one">prije 1 sat</item>
+        <item quantity="few">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+        <item quantity="one">Prije pola sata</item>
+        <item quantity="few">Prije pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+        <item quantity="one">Za 1 sat</item>
+        <item quantity="few">Za 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pola sata</item>
+        <item quantity="one">Za pola sata</item>
+        <item quantity="few">Za pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+        <item quantity="one">Odmah</item>
+        <item quantity="few">Odmah</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za%d min</item>
+        <item quantity="one">za 1 min</item>
+        <item quantity="few">za%d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+        <item quantity="one">Upravo sada</item>
+        <item quantity="few">Upravo sada</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 min</item>
+        <item quantity="few">prije %d min</item>
+    </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">Izbrisati kontakte %1$d?</item>
+        <item quantity="one">Izbrisati %1$d kontakt?</item>
+        <item quantity="few">Izbrisati kontakte %1$d?</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Izbriši kontakte %1$d</item>
+        <item quantity="one">Izbriši %1$d kontakt</item>
+        <item quantity="few">Izbriši kontakte %1$d</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Zvoni %1$d puta</item>
+        <item quantity="one">Zvoni %1$d put</item>
+        <item quantity="few">Zvoni %1$d puta</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d telefonska broja</item>
+        <item quantity="one">%d telefonski broj</item>
+        <item quantity="few">%d telefonska broja</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Obrisati %d brojeva telefona?</item>
+        <item quantity="one">Obrisati %d broj telefona?</item>
+        <item quantity="few">Obrisati %d broja telefona?</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Izbrisati kontakte (%1$d) sa SIM kartice?</item>
+        <item quantity="one">Izbrisati %1$d kontakt sa SIM kartice?</item>
+        <item quantity="few">Izbrisati kontakte (%1$d) sa SIM kartice?</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d kontakata</item>
+        <item quantity="one">%1$d kontakt</item>
+        <item quantity="few">%1$d kontakata</item>
+    </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">Trajno obrisati %d kontakta</item>
+        <item quantity="one">Trajno obrisati %d kontakt</item>
+        <item quantity="few">Trajno obrisati %d kontakta</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">Uspješno vraćen %d kontakta</item>
+        <item quantity="one">Uspješno vraćen %d kontakt</item>
+        <item quantity="few">Uspješno vraćen %d kontakta</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">Uvezeno %1$d kontakata</item>
+        <item quantity="one">Uvezen %1$d kontakt</item>
+        <item quantity="few">Uvezeno %1$d kontakata</item>
+    </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Uvezeni %1$d kontakti</item>
+        <item quantity="one">Uvezen%1$d kontakt</item>
+        <item quantity="few">Uvezeni %1$d kontakti</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Blokirati %1$d brojeva telefona?</item>
+        <item quantity="one">Blokirati %1$d broj telefona?</item>
+        <item quantity="few">Blokirati %1$d brojeva telefona?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Odblokirati %1$d brojeva telefona?</item>
+        <item quantity="one">Odblokirati %1$d broj telefona?</item>
+        <item quantity="few">Odblokirati %1$d brojeva telefona?</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM kartica može pohraniti %1$d kontakata.</item>
+        <item quantity="one">SIM kartica može pohraniti %1$d kontakt.</item>
+        <item quantity="few">SIM kartica može pohraniti %1$d kontakata.</item>
+    </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Pronađeno je više od %d kontakata.</item>
+        <item quantity="one">Pronađeno je više od %d kontakata.</item>
+        <item quantity="few">Pronađeno je više od %d kontakata.</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">Dodano %1$d kontakata</item>
+        <item quantity="one">Dodan %1$d kontakt</item>
+        <item quantity="few">Dodano %1$d kontakata</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d osoba</item>
+        <item quantity="one">%1$d osoba</item>
+        <item quantity="few">%1$d osoba</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d brojeva</item>
+        <item quantity="one">%1$d broj</item>
+        <item quantity="few">%1$d brojeva</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+        <item quantity="one">Prije pola sata</item>
+        <item quantity="few">Prije pola sata</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d stavki</item>
+        <item quantity="one">%1$d stavka</item>
+        <item quantity="few">%1$d stavke</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d kontakata</item>
+        <item quantity="one">%1$d kontakt</item>
+        <item quantity="few">%1$d kontakata</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d E-pošte</item>
+        <item quantity="one">%1$d E-pošta</item>
+        <item quantity="few">%1$d E-pošte</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d brojeva</item>
+        <item quantity="one">%1$d broj</item>
+        <item quantity="few">%1$d brojeva</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+        <item quantity="one">Za 1 sat</item>
+        <item quantity="few">Za 1 sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+        <item quantity="one">Za pola sata</item>
+        <item quantity="few">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+        <item quantity="one">Odmah</item>
+        <item quantity="few">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za%d minuta</item>
+        <item quantity="one">Za 1 minutu</item>
+        <item quantity="few">za%d minute</item>
+    </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+        <item quantity="few">(%1$d)</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+        <item quantity="one">Upravo sada</item>
+        <item quantity="few">Upravo sada</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d kontakata</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakta</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d kontakti sa djelomično identičnim informacijama</item>
+        <item quantity="one">%1$d kontakti sa djelomično identičnim informacijama</item>
+        <item quantity="few">%1$d kontakti sa djelomično identičnim informacijama</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Broj odabranih stavki:%d</item>
+        <item quantity="one">%d odabrana stavka</item>
+        <item quantity="few">Broj odabranih stavki: %d</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">Odabrano %1$d</item>
+        <item quantity="one">Odabrano %1$d</item>
+        <item quantity="few">Odabrano %1$d</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d osoba iz %2$s</item>
+        <item quantity="one">%1$d osoba iz grupe %2$s</item>
+        <item quantity="few">%1$d osoba iz %2$s</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">Prije 1 minute</item>
+        <item quantity="few">prije %d min</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Odabrano %1$d</item>
+        <item quantity="one">Odabrano %1$d</item>
+        <item quantity="few">Odabrano %1$d</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d favorita</item>
+        <item quantity="one">%1$d favorit</item>
+        <item quantity="few">%1$d favorita</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d favorita</item>
+        <item quantity="one">%1$d favorit</item>
+        <item quantity="few">%1$d favorita</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d pronađena</item>
+        <item quantity="one">%d pronađen</item>
+        <item quantity="few">%d pronađena</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s rezultata</item>
+        <item quantity="one">%s rezultat</item>
+        <item quantity="few">%s rezultata</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">Odaberite ne više od %1$d, ne možete odabrati sve</item>
+        <item quantity="one">Odaberite ne više od %1$d, ne možete odabrati sve</item>
+        <item quantity="few">Odaberite ne više od %1$d, ne možete odabrati sve</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Odaberite ne više od %1$d</item>
+        <item quantity="one">Odaberite ne više od %1$d</item>
+        <item quantity="few">Odaberite ne više od %1$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.androidbasewidget.internal.view.SeekBarBackGroundShapeDrawable android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/miuix_appcompat_progressBackground_dark" />
+    <corners android:radius="@dimen/miuix_appcompat_seekbar_progress_bg_radius" />
+</miuix.androidbasewidget.internal.view.SeekBarBackGroundShapeDrawable>

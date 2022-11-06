@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_sim">UIM kart</string>
+    <string name="contacts_unavailable_import_sim_contacts">UIM kişilerini içe aktar</string>
+    <string name="delete_sim_entries_finish">USIM karttaki kişiler silindi.</string>
+    <string name="deleting_sim_entry_miui">UIM karttaki kişiler siliniyor…</string>
+    <string name="display_sim_contacts">UIM kişilerini göster</string>
+    <string name="export_sim_contact_finish">UIM karta aktarıldı</string>
+    <string name="export_to_sim">UIM karta aktar</string>
+    <string name="export_to_sim1">"UIM kart 1'e aktar"</string>
+    <string name="export_to_sim2">"UIM kart 2'ye aktar"</string>
+    <string name="export_to_sim_title">UIM karta aktarılıyor…</string>
+    <string name="import_from_sim">UIM karttan içe aktar</string>
+    <string name="import_from_sim1">"UIM kart 1'den içe aktar"</string>
+    <string name="import_from_sim2">"UIM kart 2'den içe aktar"</string>
+    <string name="import_sim_contacts_hint_title">UIM kişilerini içe aktar</string>
+    <string name="import_sim_entries_finish">Kişiler UIM karttan içe aktarıldı.</string>
+    <string name="importing_sim_contacts_miui">Kişiler UIM karttan içe aktarılıyor…</string>
+    <string name="pref_key_sim_manage">UIM kart yönetimi</string>
+    <string name="pref_key_sim_manage1">UIM kart 1</string>
+    <string name="pref_key_sim_manage2">UIM kart 2</string>
+    <string name="readingSimContacts">UIM kart okunuyor…</string>
+    <string name="simContacts_airplaneMode">Kişileri UIM kart ile içe aktarmak için uçak modunu kapatın.</string>
+    <string name="simContacts_empty">UIM kartta kişi yok.</string>
+    <string name="simContacts_emptyLoading">UIM kartınızdan kişiler yükleniyor…</string>
+    <string name="simContacts_title">UIM kart kişileri</string>
+    <string name="sim_account_name">UIM</string>
+    <string name="sim_capacity">UIM kart belleği</string>
+    <string name="sim_card_no_free_space_message">UIM kartınız dolu, yeni kişiler içe aktarılamıyor. UIM kartta yer açın ve tekrar deneyin.</string>
+    <string name="sim_card_no_free_space_title">UIM kart dolu</string>
+    <string name="sim_contact_existing">UIM kişisi zaten mevcut</string>
+    <string name="sim_contact_invalid">Geçersiz UIM kişisi.</string>
+    <string name="sim_contact_search_error">UIM kart kişileri aranırken hata oluştu</string>
+    <string name="sim_contacts">UIM Kişileri</string>
+    <string name="sim_error_not_ready">UIM kişileri yükleniyor…</string>
+    <string name="sim_export_error">UIM hazır değil, daha sonra tekrar deneyin</string>
+    <string name="sim_export_loading">UIM kart okunuyor…</string>
+    <string name="sim_indexed_contact_not_exist">\"%1$d\" konumu UIM kartınızda mevcut değil. %2$d ve %3$d aralığında bir konum girin.</string>
+    <string name="sim_no_contact">UIM kartta kişi yok</string>
+    <string name="account_sim2">UIM kart %d</string>
+</resources>

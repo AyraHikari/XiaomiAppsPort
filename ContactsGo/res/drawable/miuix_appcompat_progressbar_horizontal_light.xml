@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="fill_horizontal|center" android:id="@android:id/background" android:drawable="@drawable/miuix_appcompat_progressbar_horizontal_bg_light" />
+    <item android:gravity="fill_horizontal|center" android:id="@android:id/progress">
+        <scale android:drawable="@drawable/miuix_appcompat_progressbar_horizontal_primary_light" android:scaleWidth="100%" />
+    </item>
+</layer-list>

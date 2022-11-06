@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:variablePadding="@bool/preference_item_bg_enable_variablePadding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_first="true" android:drawable="@drawable/miuix_preference_navigation_item_first_bg" />
+    <item android:state_middle="true" android:drawable="@drawable/miuix_preference_navigation_item_middle_bg" />
+    <item android:state_last="true" android:drawable="@drawable/miuix_preference_navigation_item_last_bg" />
+    <item android:drawable="@drawable/miuix_preference_navigation_item_bg" />
+</selector>

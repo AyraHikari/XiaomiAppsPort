@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.editor.RawContactEditorView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/editor_padding_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/body" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/edit_photo" layout="@layout/elderly_item_photo_editor" />
+        <LinearLayout android:orientation="vertical" android:id="@id/name_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <include android:id="@id/edit_name" layout="@layout/structured_name_editor_view" />
+            <include android:id="@id/edit_phonetic_name" layout="@layout/phonetic_name_editor_view" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/sect_fields" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <Button android:gravity="start|center" android:id="@id/button_add_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/editor_divider_height" android:text="@string/add_field" style="@style/PositiveActionButton" />
+    </LinearLayout>
+    <ViewStub android:id="@id/account_container_view" android:layout="@layout/editor_account_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/footer_option_view" android:layout="@layout/contact_editor_footer_option_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</com.android.contacts.editor.RawContactEditorView>

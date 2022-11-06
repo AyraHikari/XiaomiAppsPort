@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/dropdown_popup_list_item_bg" />
+    <corners android:topLeftRadius="@dimen/drop_down_menu_radius" android:topRightRadius="@dimen/drop_down_menu_radius" />
+    <padding android:top="@dimen/drop_down_menu_radius" />
+</shape>

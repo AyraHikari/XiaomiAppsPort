@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:background="@drawable/contact_detail_content_bg" android:paddingTop="8.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/ll_lock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/contact_detail_option_width" android:paddingStart="5.0dip" android:paddingEnd="5.0dip">
+        <ImageView android:orientation="vertical" android:id="@id/iv_lock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_contact_detail_option_unlock" android:scaleType="fitCenter" android:paddingStart="@dimen/action_image_margin_half" android:paddingEnd="@dimen/action_image_margin_half" />
+        <TextView android:textSize="12.0sp" android:textColor="@color/svg_icon_color_normal" android:ellipsize="end" android:id="@id/tv_lock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_addStar" android:maxEms="18" android:singleLine="true" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/ll_edit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/contact_detail_option_width" android:paddingStart="5.0dip" android:paddingEnd="5.0dip">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_contact_detail_option_edit" android:scaleType="fitCenter" android:paddingStart="@dimen/action_image_margin_half" android:paddingEnd="@dimen/action_image_margin_half" />
+        <TextView android:textSize="12.0sp" android:textColor="@color/svg_icon_color_normal" android:ellipsize="end" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/editContactDescription" android:maxEms="18" android:singleLine="true" />
+    </LinearLayout>
+</LinearLayout>

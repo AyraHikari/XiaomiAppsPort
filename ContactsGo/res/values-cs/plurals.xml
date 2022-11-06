@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Před hodinou</item>
+        <item quantity="one">Před hodinou</item>
+        <item quantity="few">Před hodinou</item>
+        <item quantity="many">Před hodinou</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Před hodinou</item>
+        <item quantity="one">Před hodinou</item>
+        <item quantity="few">Před hodinou</item>
+        <item quantity="many">Před hodinou</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Před půl hodinou</item>
+        <item quantity="one">Před půl hodinou</item>
+        <item quantity="few">Před půl hodinou</item>
+        <item quantity="many">Před půl hodinou</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za hodinu</item>
+        <item quantity="one">Za hodinu</item>
+        <item quantity="few">Za hodinu</item>
+        <item quantity="many">Za hodinu</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za půl hodiny</item>
+        <item quantity="one">Za půl hodiny</item>
+        <item quantity="few">Za půl hodiny</item>
+        <item quantity="many">Za půl hodiny</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Okamžitě</item>
+        <item quantity="one">Okamžitě</item>
+        <item quantity="few">Okamžitě</item>
+        <item quantity="many">Immediately</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Za %d minut</item>
+        <item quantity="one">Za 1 minutu</item>
+        <item quantity="few">Za %d minuty</item>
+        <item quantity="many">Za %d minuty</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Právě teď</item>
+        <item quantity="one">Právě teď</item>
+        <item quantity="few">Právě teď</item>
+        <item quantity="many">Právě teď</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Před %d minutami</item>
+        <item quantity="one">Před minutou</item>
+        <item quantity="few">Před %d minutami</item>
+        <item quantity="many">Před %d minutou</item>
+    </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">Smazat %1$d kontaktů?</item>
+        <item quantity="one">Smazat %1$d kontakt?</item>
+        <item quantity="few">Smazat %1$d kontakty?</item>
+        <item quantity="many">Delete %1$d contacts?</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Vymazat %1$d kontaktů</item>
+        <item quantity="one">Vymazat %1$d kontakt</item>
+        <item quantity="few">Vymazat %1$d kontakty</item>
+        <item quantity="many">Delete %1$d contacts</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Zazvonilo %1$dkrát</item>
+        <item quantity="one">Zazvonilo %1$dkrát</item>
+        <item quantity="few">Zazvonilo %1$dkrát</item>
+        <item quantity="many">Zazvonilo %1$dkrát</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d telefonních čísel</item>
+        <item quantity="one">%d telefonní číslo</item>
+        <item quantity="few">%d telefonní čísla</item>
+        <item quantity="many">%d telefonního čísla</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Smazat %d telefonních čísel?</item>
+        <item quantity="one">Smazat %d telefonní číslo?</item>
+        <item quantity="few">Smazat %d telefonní čísla?</item>
+        <item quantity="many">Smazat %d telefonního čísla?</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Smazat %1$d kontaktů ze SIM karty?</item>
+        <item quantity="one">Smazat %1$d kontakt ze SIM karty?</item>
+        <item quantity="few">Smazat %1$d kontakty ze SIM karty?</item>
+        <item quantity="many">Delete %1$d contacts from SIM card?</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d kontaktů</item>
+        <item quantity="one">%1$d kontakt</item>
+        <item quantity="few">%1$d kontakty</item>
+        <item quantity="many">%1$d contacts</item>
+    </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">%d kontaktů bylo trvale smazáno</item>
+        <item quantity="one">%d kontakt byl trvale smazán</item>
+        <item quantity="few">%d kontakty byly trvale smazány</item>
+        <item quantity="many">%d kontaktu bylo trvale smazáno</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">%d kontaktů úspěšně obnoveno</item>
+        <item quantity="one">%d kontakt úspěšně obnoven</item>
+        <item quantity="few">%d kontakty úspěšně obnoveny</item>
+        <item quantity="many">%d kontaktu úspěšně obnoveno</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">Importováno %1$d kontaktů</item>
+        <item quantity="one">Importován %1$d kontakt</item>
+        <item quantity="few">Importovány %1$d kontakty</item>
+        <item quantity="many">%1$d contacts imported</item>
+    </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Importováno %1$d kontaktů</item>
+        <item quantity="one">Importován %1$d kontakt</item>
+        <item quantity="few">Importovány %1$d kontakty</item>
+        <item quantity="many">Importováno %1$d kontaktu</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Blokovat %1$d telefonních čísel?</item>
+        <item quantity="one">Blokovat %1$d telefonní číslo?</item>
+        <item quantity="few">Blokovat %1$d telefonní čísla?</item>
+        <item quantity="many">Block %1$d phone numbers?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Odblokovat %1$d telefonních čísel?</item>
+        <item quantity="one">Odblokovat %1$d telefonní číslo?</item>
+        <item quantity="few">Odblokovat %1$d telefonní čísla?</item>
+        <item quantity="many">Unblock %1$d phone numbers?</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">Na SIM kartě může být uloženo %1$d kontaktů.</item>
+        <item quantity="one">Na SIM kartě může být uložen %1$d kontakt.</item>
+        <item quantity="few">Na SIM kartě mohou být uloženy %1$d kontakty.</item>
+        <item quantity="many">SIM card can store %1$d contacts.</item>
+    </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Nalezeno více než %d kontaktů.</item>
+        <item quantity="one">Nalezen více než %d kontakt.</item>
+        <item quantity="few">Nalezeny více než %d kontakty.</item>
+        <item quantity="many">Nalezeno více než %d kontaktu.</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">Přidáno %1$d kontaktů</item>
+        <item quantity="one">Přidán %1$d kontakt</item>
+        <item quantity="few">Přidány %1$d kontakty</item>
+        <item quantity="many">%1$d contacts added</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d lidí</item>
+        <item quantity="one">%1$d osoba</item>
+        <item quantity="few">%1$d lidé</item>
+        <item quantity="many">%1$d osob</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d čísel</item>
+        <item quantity="one">%1$d číslo</item>
+        <item quantity="few">%1$d čísla</item>
+        <item quantity="many">%1$d čísla</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Před půl hodinou</item>
+        <item quantity="one">Před půl hodinou</item>
+        <item quantity="few">Před půl hodinou</item>
+        <item quantity="many">Před půl hodinou</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d položek</item>
+        <item quantity="one">%1$d položka</item>
+        <item quantity="few">%1$d položky</item>
+        <item quantity="many">%1$d položky</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d kontaktů</item>
+        <item quantity="one">%1$d kontakt</item>
+        <item quantity="few">%1$d kontakty</item>
+        <item quantity="many">%1$d contacts</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d e-mailů</item>
+        <item quantity="one">%1$d e-mail</item>
+        <item quantity="few">%1$d e-maily</item>
+        <item quantity="many">%1$d emails</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d čísel</item>
+        <item quantity="one">%1$d číslo</item>
+        <item quantity="few">%1$d čísla</item>
+        <item quantity="many">%1$d numbers</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za hodinu</item>
+        <item quantity="one">Za hodinu</item>
+        <item quantity="few">Za hodinu</item>
+        <item quantity="many">Za hodinu</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za půl hodiny</item>
+        <item quantity="one">Za půl hodiny</item>
+        <item quantity="few">Za půl hodiny</item>
+        <item quantity="many">Za půl hodiny</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Okamžitě</item>
+        <item quantity="one">Okamžitě</item>
+        <item quantity="few">Okamžitě</item>
+        <item quantity="many">Okamžitě</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">Za %d minut</item>
+        <item quantity="one">Za 1 minutu</item>
+        <item quantity="few">Za %d minuty</item>
+        <item quantity="many">Za %d minuty</item>
+    </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+        <item quantity="few">(%1$d)</item>
+        <item quantity="many">(%1$d)</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Právě teď</item>
+        <item quantity="one">Právě teď</item>
+        <item quantity="few">Právě teď</item>
+        <item quantity="many">Právě teď</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d kontaktů</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="many">%d kontakty</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d kontaktů s částečně duplicitními informacemi</item>
+        <item quantity="one">%1$d kontakt s částečně duplicitními informacemi</item>
+        <item quantity="few">%1$d kontakty s částečně duplicitními informacemi</item>
+        <item quantity="many">%1$d kontaktu s částečně duplicitními informacemi</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Vybráno %d položek</item>
+        <item quantity="one">Vybrána %d položka</item>
+        <item quantity="few">Vybrány %d položky</item>
+        <item quantity="many">Vybráno %d položky</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">Vybráno %1$d</item>
+        <item quantity="one">Vybrán %1$d</item>
+        <item quantity="few">Vybrány %1$d</item>
+        <item quantity="many">%1$d selected</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d lidí z %2$s</item>
+        <item quantity="one">%1$d osoba z %2$s</item>
+        <item quantity="few">%1$d lidé z %2$s</item>
+        <item quantity="many">%1$d osob z %2$s</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Před %d minutami</item>
+        <item quantity="one">Před minutou</item>
+        <item quantity="few">Před %d minutami</item>
+        <item quantity="many">Před %d minutou</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Vybráno %1$d</item>
+        <item quantity="one">Vybrán %1$d</item>
+        <item quantity="few">Vybrány %1$d</item>
+        <item quantity="many">%1$d selected</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">Oblíbených %1$d</item>
+        <item quantity="one">Oblíbený %1$d</item>
+        <item quantity="few">Oblíbené %1$d</item>
+        <item quantity="many">%1$d favorites</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">oblíbených %1$d</item>
+        <item quantity="one">oblíbené %1$d</item>
+        <item quantity="few">oblíbená %1$d</item>
+        <item quantity="many">%1$d favorites</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Nalezeno %d kontaktů</item>
+        <item quantity="one">Nalezen %d kontakt</item>
+        <item quantity="few">Nalezeny %d kontakty</item>
+        <item quantity="many">Nalezeno %d kontaktu</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s výsledků</item>
+        <item quantity="one">%s výsledek</item>
+        <item quantity="few">%s výsledky</item>
+        <item quantity="many">%s výsledku</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">Můžete vybrat maximálně %1$d, nelze vybrat vše</item>
+        <item quantity="one">Můžete vybrat maximálně %1$d, nelze vybrat vše</item>
+        <item quantity="few">Můžete vybrat maximálně %1$d, nelze vybrat vše</item>
+        <item quantity="many">Můžete vybrat maximálně %1$d, nelze vybrat vše</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Můžete vybrat maximálně %1$d</item>
+        <item quantity="one">Můžete vybrat maximálně %1$d</item>
+        <item quantity="few">Můžete vybrat maximálně %1$d</item>
+        <item quantity="many">Můžete vybrat maximálně %1$d</item>
+    </plurals>
+</resources>

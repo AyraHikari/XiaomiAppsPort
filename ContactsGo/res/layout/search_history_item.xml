@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/search_history_item_height" android:paddingStart="@dimen/search_group_title_padding" android:paddingEnd="@dimen/search_group_title_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" android:ellipsize="end" android:gravity="start|center" android:id="@id/history_text" android:layout_width="0.0dip" android:layout_height="fill_parent" android:singleLine="true" android:layout_weight="1.0" android:textDirection="locale" />
+    <ImageView android:gravity="end|center" android:layout_gravity="end|center" android:id="@id/clear_item" android:layout_width="@dimen/search_history_item_delete_width" android:layout_height="@dimen/search_history_item_delete_height" android:src="@drawable/ic_history_delete" android:scaleType="centerCrop" android:contentDescription="@string/description_minus_button" />
+</LinearLayout>

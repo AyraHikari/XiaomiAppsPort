@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.dialer.view.CallButtonLayout android:layout_gravity="center" android:id="@id/call_button_container" android:paddingBottom="@dimen/dialer_menu_padding_btm" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.contacts.dialer.view.SingleCallLayout android:layout_gravity="center" android:id="@id/single_call_container" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.android.contacts.widget.HapticImageButton android:layout_gravity="center" android:id="@id/single_call_button" android:background="@drawable/dialer_btn_call_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/dialer_btn_call_icon" android:scaleType="center" android:contentDescription="@string/description_image_button_dial" />
+        <ImageView android:layout_gravity="center" android:id="@id/animation_view" android:background="@drawable/action_button_open_dialpad_normal_light" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" android:contentDescription="@null" />
+    </com.android.contacts.dialer.view.SingleCallLayout>
+    <ViewStub android:layout_gravity="center" android:id="@id/double_call_button_layout" android:layout="@layout/double_call_button_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</com.android.contacts.dialer.view.CallButtonLayout>

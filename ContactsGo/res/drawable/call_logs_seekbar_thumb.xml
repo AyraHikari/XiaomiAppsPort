@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="oval" android:useLevel="false">
+            <solid android:color="#ffffffff" />
+            <size android:height="12.0dip" android:width="12.0dip" />
+        </shape>
+    </item>
+    <item android:state_focused="true">
+        <shape android:shape="oval" android:useLevel="false">
+            <solid android:color="#ffffffff" />
+            <size android:height="12.0dip" android:width="12.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval" android:useLevel="false">
+            <solid android:color="@color/color_log_item_seekbar_progress_dot" />
+            <stroke android:width="0.30000007dip" android:color="#43000000" />
+            <size android:height="10.899994dip" android:width="10.899994dip" />
+        </shape>
+    </item>
+</selector>

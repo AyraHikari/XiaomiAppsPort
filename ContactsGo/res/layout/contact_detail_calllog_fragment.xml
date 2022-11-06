@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/recycler_view" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" />
+    <TextView android:layout_gravity="center" android:id="@android:id/empty" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="0.0dip" android:text="@string/contact_detail_calllog_empty" style="@style/Miuix.AppCompat.TextAppearance.BlankPage" />
+</FrameLayout>

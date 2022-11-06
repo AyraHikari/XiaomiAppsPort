@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:id="@id/footer_view_container" android:layout_width="fill_parent" android:layout_height="@dimen/miuix_appcompat_list_preferred_item_height_large" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_vertical" android:id="@id/footer_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/view_more_call_logs" style="@style/ContactDetailItemTextAppearanceSecondary" />
+</LinearLayout>

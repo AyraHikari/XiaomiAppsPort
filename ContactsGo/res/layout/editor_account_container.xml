@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/account_container" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/list_divider_margin_left_right" />
+    <TextView android:textAppearance="@style/HeaderTextLabel" android:ellipsize="end" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/contact_detail_head_margin_top" android:layout_marginBottom="@dimen/contact_detail_head_margin_bottom" android:text="@string/account_container_title" android:singleLine="true" android:textDirection="locale" android:layout_marginStart="@dimen/miuix_edit_action_margin" />
+</LinearLayout>

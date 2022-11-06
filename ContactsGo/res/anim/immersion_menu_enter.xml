@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:interpolator="@anim/decelerate_sextic"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <scale android:duration="@integer/immersion_menu_enter_duration" android:pivotX="@fraction/immersion_menu_anim_pivot_x" android:pivotY="0.0%" android:fromXScale="0.8" android:toXScale="1.0" android:fromYScale="0.8" android:toYScale="1.0" />
+    <alpha android:duration="@integer/immersion_menu_enter_duration" android:fromAlpha="0.0" android:toAlpha="1.0" />
+</set>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/timePickerLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr" android:paddingStart="@dimen/miuix_appcompat_picker_horizontal_padding" android:paddingEnd="@dimen/miuix_appcompat_picker_horizontal_padding">
+        <miuix.pickerwidget.widget.NumberPicker android:id="@id/hour" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/time_picker_label_hour" android:layout_weight="1.0" android:layoutDirection="locale" />
+        <miuix.pickerwidget.widget.NumberPicker android:id="@id/minute" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/time_picker_label_minute" android:layout_weight="1.0" android:layoutDirection="locale" />
+        <miuix.pickerwidget.widget.NumberPicker android:id="@id/amPm" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" android:layoutDirection="locale" />
+    </LinearLayout>
+</LinearLayout>

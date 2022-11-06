@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:gravity="center_vertical" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.android.contacts.list.ContactListFilterView" style="@style/Widget.ListView.Item.DoubleList"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckedTextView android:gravity="center_vertical" android:id="@id/radioButton" android:clickable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:checkMark="?android:listChoiceIndicatorSingle" />
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginStart="8.0dip">
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" android:ellipsize="end" android:id="@id/accountType" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:ellipsize="end" android:id="@id/accountUserName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-3.0dip" android:singleLine="true" />
+    </LinearLayout>
+    <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:gravity="center_vertical" android:id="@id/count" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</view>

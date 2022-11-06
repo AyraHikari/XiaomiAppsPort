@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/search_empty" android:paddingTop="@dimen/search_empty_view_margin_top" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/list_empty_anim_view" />
+    <ImageView android:gravity="center_horizontal" android:id="@id/iv_list_empty" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/list_empty_no_contact" android:contentDescription="@null" android:importantForAccessibility="no" />
+    <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.BlankPage" android:id="@id/empty_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/maml_empty_des_top_margin" android:text="@string/listFoundAllContactsZero" />
+</LinearLayout>

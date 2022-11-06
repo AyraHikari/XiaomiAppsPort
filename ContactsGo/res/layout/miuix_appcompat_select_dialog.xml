@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.AlertDialogListItem" android:layout_gravity="start" android:id="@id/select_dialog_listview" android:scrollbars="vertical" android:fadingEdge="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="@null" android:divider="?android:listDividerAlertDialog" android:overScrollMode="ifContentScrolls" android:textAlignment="viewStart"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

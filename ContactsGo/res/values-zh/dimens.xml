@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialer_buttons_min_text_size">8.0dip</dimen>
+    <dimen name="dialer_buttons_text_size">13.0dip</dimen>
+</resources>

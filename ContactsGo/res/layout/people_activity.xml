@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/people_activity_content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:layout_gravity="end|bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/people_activity_fab" />
+</merge>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="action_bar_back">@drawable/miuix_appcompat_action_bar_back_light</item>
+    <item type="drawable" name="action_button_blacklist">@drawable/miuix_appcompat_action_button_blacklist_light</item>
+    <item type="drawable" name="action_button_delete">@drawable/miuix_appcompat_action_button_delete_light</item>
+    <item type="drawable" name="action_button_new">@drawable/miuix_appcompat_action_button_new_light</item>
+    <item type="drawable" name="action_button_rename">@drawable/miuix_appcompat_action_button_rename_light</item>
+    <item type="drawable" name="action_mode_immersion_more">@drawable/miuix_appcompat_action_mode_immersion_more_light</item>
+    <item type="drawable" name="action_mode_immersion_setting">@drawable/miuix_appcompat_icon_settings_light</item>
+    <item type="drawable" name="action_mode_title_button_cancel">@drawable/miuix_appcompat_action_mode_title_button_cancel_light</item>
+    <item type="drawable" name="action_mode_title_button_confirm">@drawable/miuix_appcompat_action_mode_title_button_confirm_light</item>
+    <item type="drawable" name="action_mode_title_button_deselect_all">@drawable/miuix_appcompat_action_mode_title_button_deselect_all_light</item>
+    <item type="drawable" name="action_mode_title_button_select_all">@drawable/miuix_appcompat_action_mode_title_button_select_all_light</item>
+    <item type="drawable" name="btn_bg_dark">@drawable/miuix_appcompat_btn_bg_dialog_dark</item>
+    <item type="drawable" name="btn_bg_light">@drawable/miuix_appcompat_btn_bg_dialog_light</item>
+    <item type="drawable" name="btn_inline_detail">@drawable/appcompat_btn_inline_detail_light</item>
+    <item type="drawable" name="dialer_arrow_right">@drawable/miuix_appcompat_arrow_right</item>
+    <item type="drawable" name="expander_close">@drawable/miuix_appcompat_expander_close_light</item>
+    <item type="drawable" name="expander_open">@drawable/miuix_appcompat_expander_open_light</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="window_bg_secondary">@drawable/miuix_appcompat_window_bg_secondary_light</item>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="?contact_browser_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/search_view" layout="@layout/search_view" />
+    <include layout="@layout/list_empty_view" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <com.android.contacts.widget.recyclerView.BaseRecyclerView android:id="@android:id/list" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fastScrollEnabled="true" android:layout_marginStart="?contact_browser_list_padding_left" android:layout_marginEnd="?contact_browser_list_padding_right" />
+        <include layout="@layout/search_empty_view" />
+        <miuix.miuixbasewidget.widget.AlphabetIndexer android:id="@id/fast_indexer" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="480.0dip" style="@style/Widget.AlphabetIndexer.Starred.MIUI12" />
+    </FrameLayout>
+</LinearLayout>

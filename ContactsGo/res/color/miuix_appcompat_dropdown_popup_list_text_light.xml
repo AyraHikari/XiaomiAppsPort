@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:color="@color/miuix_appcompat_dropdown_popup_list_text_color_disabled_light" />
+    <item android:state_checked="true" android:color="@color/miuix_appcompat_dropdown_popup_list_text_color_checked_light" />
+    <item android:color="@color/miuix_appcompat_dropdown_popup_list_text_color_normal_light" />
+</selector>

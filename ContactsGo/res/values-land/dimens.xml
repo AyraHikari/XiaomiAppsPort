@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="miuix_appcompat_action_bar_max_height">56.0dip</dimen>
+    <dimen name="miuix_appcompat_action_button_bg_bottom_padding">10.299988dip</dimen>
+    <dimen name="miuix_appcompat_action_button_bg_top_padding">10.299988dip</dimen>
+</resources>

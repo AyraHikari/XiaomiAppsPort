@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/contacts_detail_list_header_view_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:id="@id/label_container" android:background="@drawable/contact_detail_list_item_bg_normal_light" android:paddingBottom="@dimen/details_list_group_header_padding_bottom" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/details_list_group_header_view_height">
+        <TextView android:id="@id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/DetailListGroupHeaderTextStyle" />
+    </LinearLayout>
+</LinearLayout>

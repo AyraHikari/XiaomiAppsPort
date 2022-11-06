@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/photo_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/viewContactTitle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/name_layout" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:paddingStart="@dimen/qcb_name_padding_left">
+        <TextView android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/QcbNameText" />
+        <TextView android:id="@id/company" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/qcb_company_margin_top" android:maxLength="@integer/yellowpage_company_max_length" style="@style/QcbCompanyText" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/arrow_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/miuix_appcompat_arrow_right" android:contentDescription="@null" android:importantForAccessibility="no" android:layout_marginEnd="@dimen/quickcontact_window_arrow_right_marginRight" />
+</LinearLayout>

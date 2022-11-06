@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/list_separator" style="@style/ListSeparator"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@color/picker_recent_header_color" android:gravity="center_vertical" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/picker_recent_header_margin_vertical" android:layout_marginBottom="@dimen/picker_recent_header_margin_vertical" android:layout_marginStart="@dimen/default_contact_list_margin_left" style="@style/ListSeparatorText" />
+</LinearLayout>

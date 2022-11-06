@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:fillViewport="true" style="@style/CustomContactListFilterView"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ExpandableListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="0.0dip" android:groupIndicator="@null" android:layout_weight="1.0" android:overScrollMode="always" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:buttonBarStyle">
+        <Button android:id="@id/btn_discard" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@android:string/cancel" android:layout_weight="1.0" style="?android:buttonBarButtonStyle" />
+        <Button android:id="@id/btn_done" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@android:string/ok" android:layout_weight="1.0" style="?android:buttonBarButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

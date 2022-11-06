@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/miuix_appcompat_edit_text_border_radius_size" />
+    <solid android:color="@color/edit_text_bg_color" />
+    <padding android:left="@dimen/miuix_editor_text_padding" android:right="@dimen/miuix_editor_text_padding" />
+</shape>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/contact_detail_margin_start" android:paddingEnd="@dimen/contact_detail_margin_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/primary_action_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/miuix_appcompat_list_preferred_item_height">
+        <TextView android:id="@id/network_title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layoutDirection="locale" style="@style/ContactDetailItemTextAppearancePrimary" />
+        <ImageView android:id="@id/network_icon" android:layout_width="@dimen/detail_network_icon_size" android:layout_height="@dimen/detail_network_icon_size" android:scaleType="centerInside" android:contentDescription="@null" />
+    </LinearLayout>
+    <include layout="@layout/contact_detail_list_item_type_icon" />
+</FrameLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/miuix_appcompat_dropdown_popup_list_item_bg_dark" />
+    <corners android:topLeftRadius="@dimen/miuix_appcompat_drop_down_menu_radius" android:topRightRadius="@dimen/miuix_appcompat_drop_down_menu_radius" />
+</shape>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="43.629974dip" android:width="43.629974dip" android:viewportWidth="120.0" android:viewportHeight="120.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/call_log_player_button" android:pathData="M90.574,54.327C94.523,56.646 94.523,62.356 90.574,64.675L47.92,89.726C43.921,92.075 38.882,89.19 38.882,84.552L38.882,34.45C38.882,29.812 43.921,26.927 47.92,29.277L90.574,54.327Z" android:fillAlpha="0.6" />
+</vector>

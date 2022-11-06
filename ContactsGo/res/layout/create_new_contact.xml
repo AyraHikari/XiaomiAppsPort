@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/picker_new_contact" android:background="@drawable/contact_detail_list_item_bg" android:layout_width="fill_parent" android:layout_height="?list_item_height" android:paddingStart="@dimen/default_contact_list_margin_left" android:layout_marginStart="@dimen/contact_list_item_left_margin_offset">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/add_contact" android:layout_width="?list_item_photo_size" android:layout_height="?list_item_photo_size" android:contentDescription="@null" android:layout_marginStart="?list_item_photo_left_margin" android:layout_marginEnd="?list_item_gap_between_image_and_text" />
+        <TextView android:textAppearance="@style/TextAppearance.Dialer.List.Primary" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pickerNewContactHeader" android:singleLine="true" android:textDirection="locale" style="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" />
+    </LinearLayout>
+</LinearLayout>

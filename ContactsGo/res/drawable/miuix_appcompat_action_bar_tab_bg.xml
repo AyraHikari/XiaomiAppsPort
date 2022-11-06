@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <padding android:left="@dimen/miuix_appcompat_action_bar_tab_bg_padding_horizontal" android:top="0.0dip" android:right="@dimen/miuix_appcompat_action_bar_tab_bg_padding_horizontal" android:bottom="0.0dip" />
+    <size android:height="@dimen/miuix_appcompat_action_bar_tab_bg_height" />
+</shape>

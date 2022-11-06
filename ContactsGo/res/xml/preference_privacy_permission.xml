@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <miuix.preference.TextPreference android:title="@string/privacy_settings_read_contacts" android:key="pref_key_read_contacts" android:summary="@string/privacy_settings_read_contacts_description" />
+    <miuix.preference.TextPreference android:title="@string/privacy_settings_write_contacts" android:key="pref_key_write_contacts" android:summary="@string/privacy_settings_write_contacts_description" />
+    <miuix.preference.TextPreference android:title="@string/privacy_settings_read_call_log" android:key="pref_key_read_call_log" android:summary="@string/privacy_settings_read_call_log_description" />
+    <miuix.preference.TextPreference android:title="@string/privacy_settings_write_call_log" android:key="pref_key_write_call_log" android:summary="@string/privacy_settings_write_call_log_description" />
+    <miuix.preference.TextPreference android:title="@string/privacy_settings_read_phone_state" android:key="pref_key_read_phone_state" android:summary="@string/privacy_settings_read_phone_state_description" />
+    <miuix.preference.TextPreference android:title="@string/privacy_settings_read_write_phone" android:key="pref_key_read_write_phone" android:summary="@string/privacy_settings_read_write_phone_description" />
+    <miuix.preference.TextPreference android:title="@string/privacy_settings_take_photo_record_video" android:key="pref_key_take_photo_record_video" android:summary="@string/privacy_settings_take_photo_record_video_description" />
+    <miuix.preference.TextPreference android:title="@string/privacy_settings_call_phone" android:key="pref_key_call_phone" android:summary="@string/privacy_settings_call_phone_description" />
+    <miuix.preference.TextPreference android:title="@string/privacy_settings_phone_position" android:key="pref_key_phone_position" android:summary="@string/privacy_settings_phone_position_description" />
+    <miuix.preference.TextPreference android:title="@string/privacy_settings_blue_scan_connect" android:key="pref_key_phone_bluetooth_scan" android:summary="@string/privacy_settings_phone_position_description" />
+</PreferenceScreen>

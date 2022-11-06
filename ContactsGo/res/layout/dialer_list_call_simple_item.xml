@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:id="@id/content_layout" android:paddingStart="@dimen/dialer_list_item_detail_padding_horizon" style="@style/DialerListItemDoubleLine"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/text_content" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_toStartOf="@id/secondary_action_view">
+        <TextView android:textAppearance="@style/TextAppearance.Dialer.List.Primary" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="false" android:maxLength="@integer/dialer_list_text_max_length" android:layout_weight="1.0" android:textDirection="locale" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/simple_dialer_list_bottom_line_margin_top">
+            <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:layout_gravity="center_vertical" android:id="@id/time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:textDirection="locale" android:layout_marginEnd="5.0dip" />
+            <ViewStub android:layout_gravity="center_vertical" android:id="@id/sim_icon_view" android:layout="@layout/call_log_sim_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout android:id="@id/secondary_action_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_alignParentEnd="true">
+        <ImageView android:layout_gravity="center" android:id="@id/secondary_action_iv" android:paddingTop="@dimen/dialer_list_item_detail_padding" android:paddingBottom="@dimen/dialer_list_item_detail_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/btn_inline_detail" android:contentDescription="@string/accessibility_calllog_detail" android:paddingStart="@dimen/dialer_list_item_detail_padding" android:paddingEnd="@dimen/dialer_list_item_detail_padding_horizon" />
+        <ViewStub android:id="@id/secondary_action" android:layout="@layout/call_log_second_action_view" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    </FrameLayout>
+</RelativeLayout>

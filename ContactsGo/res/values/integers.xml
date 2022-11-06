@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_max_action_buttons">5</integer>
+    <integer name="action_bar_appear_duration">350</integer>
+    <integer name="action_bar_disappear_duration">250</integer>
+    <integer name="action_bar_tab_layout_weight">0</integer>
+    <integer name="action_button_exit_fade_duration">200</integer>
+    <integer name="button_exit_fade_duration">200</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="checkwidget_background_disable_alpha_dark">51</integer>
+    <integer name="checkwidget_background_disable_alpha_light">15</integer>
+    <integer name="checkwidget_background_normal_alpha_dark">51</integer>
+    <integer name="checkwidget_background_normal_alpha_light">15</integer>
+    <integer name="checkwidget_stroke_disable_alpha_dark">0</integer>
+    <integer name="checkwidget_stroke_disable_alpha_light">255</integer>
+    <integer name="checkwidget_stroke_normal_alpha_dark">0</integer>
+    <integer name="checkwidget_stroke_normal_alpha_light">255</integer>
+    <integer name="config_export_file_max_index">99999</integer>
+    <integer name="config_export_file_min_index">1</integer>
+    <integer name="config_tooltipAnimTime">150</integer>
+    <integer name="dialer_list_text_max_length">100</integer>
+    <integer name="dialog_enter_duration">280</integer>
+    <integer name="dialog_exit_duration">150</integer>
+    <integer name="drop_down_menu_enter_duration">150</integer>
+    <integer name="drop_down_menu_exit_duration">150</integer>
+    <integer name="immersion_menu_enter_duration">150</integer>
+    <integer name="immersion_menu_exit_duration">150</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <integer name="window_translucent_status">100</integer>
+    <integer name="yellowpage_company_max_length">100</integer>
+</resources>

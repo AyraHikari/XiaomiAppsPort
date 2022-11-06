@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="@string/privacy_settings_contacts" android:key="pref_key_contacts_privacy_settings" />
+    <PreferenceScreen android:title="@string/privacy_settings_yellowpage" android:key="pref_key_yellowpage_privacy_settings" />
+</PreferenceScreen>

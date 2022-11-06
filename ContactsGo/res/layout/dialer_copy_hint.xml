@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.dialer.view.DialerCopyHintView android:orientation="vertical" android:id="@id/dialer_copy_hint" android:background="@drawable/dialer_digits_copy_bg" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="end|center" android:id="@id/clear_button" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/dialer_copy_hint_delete_bg" android:scaleType="fitCenter" android:contentDescription="@string/dialer_copy_view_delete_description" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/digits_group" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:ellipsize="marquee" android:gravity="center" android:id="@id/digits" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:textDirection="ltr" style="@style/TextStyleDialerCopiedNumber" />
+        <TextView android:ellipsize="middle" android:gravity="center" android:id="@id/digits_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dialer_digits_copy_number_label" android:textDirection="ltr" style="@style/TextStyleDialerDigits.Location" />
+    </LinearLayout>
+</com.android.contacts.dialer.view.DialerCopyHintView>

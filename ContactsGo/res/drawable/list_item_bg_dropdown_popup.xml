@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/aggregation_suggestions_item_n" />
+    <corners android:radius="@dimen/drop_down_menu_radius" />
+</shape>

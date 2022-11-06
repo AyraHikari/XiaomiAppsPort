@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.contacts.widget.recyclerView.BaseRecyclerView android:layout_gravity="start|center|top" android:id="@id/recyclerlist" android:paddingTop="@dimen/miui13_padding_top" android:paddingBottom="@dimen/miui13_padding_bottom" android:scrollbars="vertical" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false" android:importantForAccessibility="no" />
+</FrameLayout>

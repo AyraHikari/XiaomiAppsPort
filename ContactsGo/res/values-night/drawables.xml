@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="action_bar_back">@drawable/miuix_appcompat_action_bar_back_dark</item>
+    <item type="drawable" name="action_button_blacklist">@drawable/miuix_appcompat_action_button_blacklist_dark</item>
+    <item type="drawable" name="action_button_delete">@drawable/miuix_appcompat_action_button_delete_dark</item>
+    <item type="drawable" name="action_button_new">@drawable/miuix_appcompat_action_button_new_dark</item>
+    <item type="drawable" name="action_button_rename">@drawable/miuix_appcompat_action_button_rename_dark</item>
+    <item type="drawable" name="action_mode_immersion_more">@drawable/miuix_appcompat_action_mode_immersion_more_dark</item>
+    <item type="drawable" name="action_mode_immersion_setting">@drawable/miuix_appcompat_icon_settings_dark</item>
+    <item type="drawable" name="action_mode_title_button_cancel">@drawable/miuix_appcompat_action_mode_title_button_cancel_dark</item>
+    <item type="drawable" name="action_mode_title_button_confirm">@drawable/miuix_appcompat_action_mode_title_button_confirm_dark</item>
+    <item type="drawable" name="action_mode_title_button_deselect_all">@drawable/miuix_appcompat_action_mode_title_button_deselect_all_dark</item>
+    <item type="drawable" name="action_mode_title_button_select_all">@drawable/miuix_appcompat_action_mode_title_button_select_all_dark</item>
+    <item type="drawable" name="btn_inline_detail">@drawable/appcompat_btn_inline_detail_dark</item>
+    <item type="drawable" name="expander_close">@drawable/miuix_appcompat_expander_close_dark</item>
+    <item type="drawable" name="expander_open">@drawable/miuix_appcompat_expander_open_dark</item>
+    <item type="drawable" name="window_bg_secondary">@drawable/miuix_appcompat_window_bg_secondary_dark</item>
+</resources>

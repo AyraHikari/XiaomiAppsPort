@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="@dimen/miuix_appcompat_dialog_progress_title_vertical_padding_top" android:paddingBottom="@dimen/miuix_appcompat_dialog_progress_title_vertical_padding_bottom" android:layout_width="wrap_content" android:layout_height="fill_parent" android:paddingStart="@dimen/miuix_appcompat_dialog_title_horizontal_padding" android:paddingEnd="@dimen/miuix_appcompat_dialog_title_horizontal_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/message_container" android:paddingTop="@dimen/miuix_appcompat_dialog_progress_message_padding_vertical" android:paddingBottom="@dimen/miuix_appcompat_dialog_progress_message_padding_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <TextView android:textSize="@dimen/miuix_appcompat_dialog_progress_message_text_size" android:gravity="center_vertical" android:id="@id/message" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:textAlignment="viewStart" style="?android:textAppearanceLarge" />
+        <TextView android:textSize="@dimen/miuix_appcompat_dialog_progress_message_text_size" android:gravity="end" android:id="@id/progress_percent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/miuix_appcompat_dialog_progress_horizontal_margin" style="?android:textAppearanceLarge" />
+    </LinearLayout>
+    <miuix.androidbasewidget.widget.ProgressBar android:id="@android:id/progress" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/message_container" style="?progressBarHorizontalStyle" />
+</RelativeLayout>

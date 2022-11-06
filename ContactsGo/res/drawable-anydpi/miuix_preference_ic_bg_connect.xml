@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/shape_preference_disconnected" android:drawable="@drawable/miuix_ic_preference_disconnected_bg" />
+    <item android:id="@id/anim_preference_connecting">
+        <animated-vector android:drawable="@drawable/miuix_preference_ic_connecting_translation">
+            <target android:name="animgroup" android:animation="@animator/anim_connecting" />
+        </animated-vector>
+    </item>
+    <item android:id="@id/shape_preference_connected" android:drawable="@drawable/miuix_ic_preference_connected_bg" />
+</layer-list>

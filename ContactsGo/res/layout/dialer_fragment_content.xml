@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:id="@id/header_view" layout="@layout/miuix_appcompat_search_stub" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <com.android.contacts.widget.recyclerView.BaseRecyclerView android:layout_gravity="start|center|top" android:id="@id/recyclerlist" android:paddingTop="@dimen/miui13_padding_top" android:paddingBottom="@dimen/miui13_padding_bottom" android:scrollbars="vertical" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false" android:importantForAccessibility="no" />
+            <ViewStub android:id="@id/empty_view_stub" android:layout="@layout/dialer_list_empty" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </LinearLayout>
+    <FrameLayout android:layout_gravity="bottom" android:id="@id/dialer_view_stub" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</FrameLayout>

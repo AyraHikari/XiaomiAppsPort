@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:gravity="start|center" android:id="@id/button_merge" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/titleJoinContactDataWith" style="@style/PositiveActionButton" />
+    <ViewStub android:id="@id/split_button_view" android:layout="@layout/contact_editor_split_option_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <Button android:gravity="start|center" android:id="@id/button_delete" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/NegativeActionButton" />
+</LinearLayout>

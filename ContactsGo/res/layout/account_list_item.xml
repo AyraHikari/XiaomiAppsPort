@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Widget.DropDownItem"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:paddingStart="@dimen/account_container_left_padding">
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" android:id="@id/name" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:id="@id/count" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

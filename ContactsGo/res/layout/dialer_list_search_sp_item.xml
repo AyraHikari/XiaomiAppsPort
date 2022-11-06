@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.calllog.DialerListSearchSpItem android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="start|center" android:id="@id/item_container" android:layout_width="fill_parent" android:layout_height="@dimen/search_sp_item_height" style="@style/PositiveActionButton">
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="@dimen/dialer_sp_search_item_margin_bottom" />
+</com.android.contacts.calllog.DialerListSearchSpItem>

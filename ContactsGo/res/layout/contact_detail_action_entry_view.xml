@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="@dimen/miuix_appcompat_list_preferred_item_height" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.contacts.detail.ContactDetailActionItemView android:orientation="horizontal" android:id="@id/action_left" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="locale" />
+    <com.android.contacts.detail.ContactDetailActionItemView android:orientation="horizontal" android:id="@id/action_center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="locale" />
+    <include layout="@layout/list_divider_margin_left_right" />
+</LinearLayout>

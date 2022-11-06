@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.PreferenceRight" android:ellipsize="marquee" android:gravity="end" android:id="@id/text_right" android:paddingTop="@dimen/miuix_preference_text_padding_top" android:paddingBottom="@dimen/miuix_preference_text_padding_bottom" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/miuix_preference_text_max_width" android:maxLines="10"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

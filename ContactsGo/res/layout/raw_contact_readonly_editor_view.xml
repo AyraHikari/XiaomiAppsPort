@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.editor.RawContactReadOnlyEditorView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/editor_divider_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/edit_photo" layout="@layout/item_photo_editor" />
+        <TextView android:textAppearance="@style/Widget.Editor.Edit" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/read_only_name" android:background="@drawable/edit_text_bg_spinner_light" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/sect_general" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/editor_divider_height" />
+    <ViewStub android:id="@id/account_container_view" android:layout="@layout/editor_account_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/footer_option_view" android:layout="@layout/contact_editor_footer_option_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</com.android.contacts.editor.RawContactReadOnlyEditorView>

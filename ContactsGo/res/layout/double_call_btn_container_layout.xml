@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/double_call_btn_container_normal" />
+    <FrameLayout android:id="@id/animation_mask" android:background="@drawable/btn_call_double_sim_fg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</merge>

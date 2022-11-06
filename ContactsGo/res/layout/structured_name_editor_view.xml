@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.editor.StructuredNameEditorView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:orientation="horizontal" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" app:children_sequence_state="false">
+        <include layout="@layout/structured_name_anchor_view" />
+        <ViewStub android:layout_gravity="end" android:id="@id/expansion_view_container" android:paddingTop="@dimen/editor_icon_padding_top" android:layout="@layout/edit_expansion_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentEnd="true" />
+        <include android:id="@id/delete_button_container" android:visibility="gone" layout="@layout/structured_name_delete_view" />
+    </RelativeLayout>
+</com.android.contacts.editor.StructuredNameEditorView>

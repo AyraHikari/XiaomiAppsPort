@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.androidbasewidget.widget.CheckedTextView android:textSize="@dimen/miuix_appcompat_spinner_double_line_title_size" android:ellipsize="marquee" android:id="@android:id/text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="false" style="@style/Widget.DropDownItem.Spinner"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

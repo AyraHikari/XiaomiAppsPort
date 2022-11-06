@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miuix_appcompat_action_mode_title_button_height" android:width="@dimen/miuix_appcompat_action_mode_title_button_width" android:autoMirrored="true" android:viewportWidth="40.0" android:viewportHeight="40.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/miuix_appcompat_icon_foreground_color_dark" android:pathData="M9.808,19.3555C9.6424,19.521 9.5598,19.7381 9.5601,19.9551C9.5574,20.1752 9.6399,20.3962 9.8079,20.5641L15.9156,26.6718C16.246,27.0022 16.7818,27.0022 17.1122,26.6718C17.4427,26.3413 17.4427,25.8056 17.1122,25.4751L12.5662,20.9291H29.1896C29.6866,20.9291 30.0896,20.5262 30.0896,20.0291C30.0896,19.5321 29.6866,19.1291 29.1896,19.1291H12.4276L17.1123,14.4445C17.4427,14.114 17.4427,13.5783 17.1123,13.2478C16.7818,12.9174 16.2461,12.9174 15.9156,13.2478L9.808,19.3555Z" android:fillType="evenOdd" />
+</vector>

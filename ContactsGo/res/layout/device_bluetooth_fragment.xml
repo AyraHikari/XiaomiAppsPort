@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="?android:dividerHorizontal" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <ScrollView android:paddingLeft="@dimen/device_bluetooth_text_padding_h" android:paddingTop="@dimen/device_bluetooth_text_padding_v" android:paddingRight="@dimen/device_bluetooth_text_padding_h" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" android:id="@id/device_bluetooth_hint" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/TextDirectionStyle" />
+    </ScrollView>
+    <LinearLayout android:orientation="horizontal" android:id="@id/bottom_action" android:paddingLeft="@dimen/bottom_button_padding" android:paddingRight="@dimen/bottom_button_padding" android:paddingBottom="@dimen/bottom_button_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:gravity="center" android:id="@id/btn_cancel" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/previous" android:layout_weight="1.0" style="?buttonBackground" />
+        <View android:id="@id/divider_view" android:layout_width="@dimen/bottom_button_divider_padding" android:layout_height="fill_parent" />
+        <Button android:gravity="center" android:id="@id/btn_next" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/next" android:layout_weight="1.0" style="?buttonBarDefaultButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

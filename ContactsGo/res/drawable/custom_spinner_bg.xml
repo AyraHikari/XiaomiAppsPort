@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:start="@dimen/miuix_appcompat_spinner_bg_padding" android:end="@dimen/miuix_appcompat_spinner_bg_padding">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/miuix_appcompat_round_corner_radius" />
+            <solid android:color="@color/list_item_bg_normal" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/circle_photo" android:visibility="gone" android:layout_width="@dimen/contact_detail_circle_photo_size" android:layout_height="@dimen/contact_detail_circle_photo_size" android:layout_marginBottom="13.819977dip" android:contentDescription="@string/description_contact_photo" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/title_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:textDirection="locale">
+        <com.android.contacts.widget.MarqueeTextView android:ellipsize="marquee" android:layout_gravity="center_vertical" android:id="@id/custom_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layoutDirection="locale" style="@style/DetailTitleCustomStyle" />
+        <TextView android:ellipsize="end" android:id="@id/custom_sub_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:textAlignment="viewStart" android:layoutDirection="locale" style="@style/DetailSubTitleCustomStyle" />
+    </LinearLayout>
+</LinearLayout>

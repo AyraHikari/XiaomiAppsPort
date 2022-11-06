@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="locale" android:paddingStart="@dimen/contact_detail_margin_start" android:paddingEnd="@dimen/contact_detail_margin_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.contacts.detail.ActionsViewContainer android:layout_gravity="center_vertical" android:id="@id/actions_view_container" android:nextFocusRight="@id/secondary_action_view_container" android:layout_width="0.0dip" android:layout_height="wrap_content" android:minHeight="@dimen/miuix_appcompat_list_preferred_item_height" android:layout_weight="1.0">
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/primary_action_view" android:paddingTop="@dimen/contact_detail_list_item_padding_vertical" android:paddingBottom="@dimen/contact_detail_list_item_padding_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/data" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="6.0dip" style="@style/ContactDetailItemTextAppearancePrimary" />
+                <ImageView android:id="@id/sim_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <TextView android:id="@id/type" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/ContactDetailItemTextAppearanceSecondary" />
+        </LinearLayout>
+    </com.android.contacts.detail.ActionsViewContainer>
+    <LinearLayout android:layout_gravity="end" android:orientation="horizontal" android:id="@id/secondary_action_view_container" android:nextFocusLeft="@id/actions_view_container" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="end|center" android:id="@id/first_action_button" android:background="@drawable/send_call_ic" android:duplicateParentState="false" android:layout_width="@dimen/action_image_width" android:layout_height="@dimen/action_image_height" android:scaleType="fitXY" android:contentDescription="@string/description_image_button_dial" android:layout_marginStart="@dimen/action_image_margin" android:layout_marginEnd="@dimen/action_image_margin_half" />
+        <com.android.contacts.detail.SendMmsView android:layout_gravity="end|center" android:id="@id/secondary_action_button" android:duplicateParentState="false" android:layout_width="@dimen/action_image_width" android:layout_height="@dimen/action_image_height" android:scaleType="fitXY" android:layout_marginStart="@dimen/action_image_margin_half" />
+    </LinearLayout>
+</LinearLayout>

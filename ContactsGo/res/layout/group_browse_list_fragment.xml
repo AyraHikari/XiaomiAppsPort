@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.android.contacts.widget.recyclerView.BaseRecyclerView android:scrollbarStyle="outsideOverlay" android:id="@android:id/list" android:paddingTop="@dimen/miui13_padding_top" android:paddingBottom="@dimen/miui13_padding_bottom" android:fadingEdge="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:cacheColorHint="@android:color/transparent" android:divider="@null" android:splitMotionEvents="false" />
+        <include layout="@layout/list_empty_view" />
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/add_accounts" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorSecondary" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/no_accounts_message_margin" android:text="@string/noAccounts" />
+            <Button android:textAppearance="?android:textAppearanceMedium" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/add_account_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/group_browse_list_btn_add_account_margin_horizontal" android:layout_marginRight="@dimen/group_browse_list_btn_add_account_margin_horizontal" android:layout_marginBottom="@dimen/group_browse_list_btn_add_account_margin_bottom" android:text="@string/contacts_unavailable_add_account" />
+        </LinearLayout>
+    </LinearLayout>
+    <miuix.miuixbasewidget.widget.FloatingActionButton android:gravity="center" android:layout_gravity="end|bottom|center" android:id="@id/fab" android:layout_width="@dimen/floating_action_btn_width" android:layout_height="@dimen/floating_action_btn_height" android:layout_marginBottom="@dimen/floating_action_button_shadow_margin_btm" android:src="@drawable/miuix_appcompat_action_button_main_new_light" android:contentDescription="@string/menu_new_group_action_bar" android:layout_marginEnd="@dimen/floating_action_button_shadow_margin_right" />
+</FrameLayout>

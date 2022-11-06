@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.dialer.list.CallsFilterView android:id="@id/filter_view_container" android:background="@drawable/dialer_filter_view_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/call_log_filter_view" />
+</com.android.contacts.dialer.list.CallsFilterView>

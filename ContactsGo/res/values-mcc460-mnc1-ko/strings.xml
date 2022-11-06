@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_sim">USIM 카드</string>
+    <string name="contacts_unavailable_import_sim_contacts">USIM 연락처 가져오기</string>
+    <string name="delete_sim_entries_finish">USIM 카드에서 연락처를 삭제했습니다.</string>
+    <string name="deleting_sim_entry_miui">USIM 카드에서 연락처 삭제 중…</string>
+    <string name="display_sim_contacts">USIM 연락처 보이기</string>
+    <string name="export_sim_contact_finish">USIM 카드로 내보냄</string>
+    <string name="export_to_sim">USIM 카드로 내보내기</string>
+    <string name="export_to_sim1">USIM 카드 1으로 내보내기</string>
+    <string name="export_to_sim2">USIM 카드 2로 내보내기</string>
+    <string name="export_to_sim_title">USIM 카드로 내보내는 중…</string>
+    <string name="import_from_sim">USIM 카드에서 가져오기</string>
+    <string name="import_from_sim1">USIM 카드 1에서 가져오기</string>
+    <string name="import_from_sim2">USIM 카드 2에서 가져오기</string>
+    <string name="import_sim_contacts_hint_title">USIM 연락처 가져오기</string>
+    <string name="import_sim_entries_finish">USIM 카드에서 연락처 가져옴</string>
+    <string name="importing_sim_contacts_miui">USIM 카드에서 연락처를 가져오는 중…</string>
+    <string name="pref_key_sim_manage">USIM 카드 관리</string>
+    <string name="pref_key_sim_manage1">USIM 카드 1</string>
+    <string name="pref_key_sim_manage2">USIM 카드 2</string>
+    <string name="readingSimContacts">USIM 카드 읽는 중…</string>
+    <string name="simContacts_airplaneMode">USIM 카드를 통하여 연락처를 가져오려면 비행기 모드를 끄십시오.</string>
+    <string name="simContacts_empty">USIM 카드에 연락처가 없습니다.</string>
+    <string name="simContacts_emptyLoading">USIM 카드에서 연락처 불러오는 중…</string>
+    <string name="simContacts_title">USIM 카드 연락처</string>
+    <string name="sim_account_name">USIM</string>
+    <string name="sim_capacity">USIM 카드 저장소</string>
+    <string name="sim_card_no_free_space_message">USIM 카드가 가득 차서 새 연락처를 가져올 수 없습니다. USIM 카드를 정리한 후 다시 시도하십시오.</string>
+    <string name="sim_card_no_free_space_title">USIM 카드 가득 참</string>
+    <string name="sim_contact_existing">USIM 연락처가 이미 존재합니다.</string>
+    <string name="sim_contact_invalid">USIM 연락처가 잘못되었습니다.</string>
+    <string name="sim_contact_search_error">USIM 카드 연락처 검색 중 오류 발생</string>
+    <string name="sim_contacts">USIM 연락처</string>
+    <string name="sim_error_not_ready">USIM 연락처 불러오는 중…</string>
+    <string name="sim_export_error">USIM 준비되지 않음, 나중에 다시 시도하십시오.</string>
+    <string name="sim_export_loading">USIM 카드 읽는 중…</string>
+    <string name="sim_indexed_contact_not_exist">\"%1$d\" 위치가 USIM 카드에 존재하지 않습니다. %2$d와 %3$d 사이에 위치를 입력하십시오.</string>
+    <string name="sim_no_contact">USIM 카드에 연락처 없음</string>
+    <string name="account_sim2">USIM 카드 %d</string>
+</resources>

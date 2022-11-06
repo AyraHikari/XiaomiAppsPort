@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/container_layout" android:background="@drawable/contact_detail_content_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:contacts="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:paddingTop="100.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.android.contacts.detail.ContactDetailTitleView android:layout_gravity="bottom" android:id="@id/content_header" android:paddingBottom="@dimen/contact_detail_title_content_margin_bottom" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/contact_detail_margin_start" android:paddingEnd="@dimen/contact_detail_margin_end" contacts:titleMarginSubTitle="@dimen/detail_title_margin_subtitle" contacts:titleMinX="@dimen/detail_title_minX" contacts:titleMinY="@dimen/detail_title_minY" contacts:titlePhotoOffsetWithSubTitle="@dimen/detail_title_photo_offset" contacts:titlePhotoOrienX="@dimen/detail_title_photo_orienX" contacts:titlePhotoWidth="@dimen/detail_title_photo_width" contacts:titleTransXRange="@dimen/detail_title_transX_range" contacts:titleTransYOffset="@dimen/detail_title_transY_offset" contacts:titleTransYRange="@dimen/detail_title_transY_range" />
+        </FrameLayout>
+        <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:id="@id/content_container" android:tag="content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </ScrollView>
+    </LinearLayout>
+    <ViewStub android:id="@id/action_cover_view" android:layout="@layout/contact_detail_action_cover_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <RelativeLayout android:id="@id/button_action" android:layout_width="fill_parent" android:layout_height="@dimen/contact_detail_title_container_height">
+        <ImageView android:id="@id/action_bar_back" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/action_bar_back" android:contentDescription="@string/back_view_description" android:paddingStart="@dimen/contact_detail_title_container_margin_left" android:paddingEnd="@dimen/contact_detail_title_container_margin_left" android:layout_alignParentStart="true" />
+        <ImageView android:layout_gravity="end" android:id="@id/action_bar_more" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/action_mode_immersion_more" android:contentDescription="@string/menuMoreDescription" android:layout_marginStart="@dimen/contact_detail_title_container_margin_left" android:layout_marginEnd="@dimen/contact_detail_title_container_margin_left" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <ViewStub android:layout_gravity="bottom" android:id="@id/detail_option_view" android:layout="@layout/layout_contact_detail_option" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</FrameLayout>

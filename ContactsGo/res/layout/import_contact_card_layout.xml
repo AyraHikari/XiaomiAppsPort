@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:id="@id/floating_layout" android:focusable="true" android:focusableInTouchMode="true" android:descendantFocusability="afterDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.android.contacts.quickcontact.FloatingChildLayout"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@android:id/content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/quickcontact_window_horizontal_margin" android:layout_marginEnd="@dimen/quickcontact_window_horizontal_margin">
+        <include layout="@layout/quickcontact_header" />
+        <ListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/cancel" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@android:string/cancel" android:layout_weight="1.0" style="@style/Widget.Button.Dialog" />
+            <Button android:id="@id/ok" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/import_contact_card_button" android:layout_weight="1.0" style="@style/Widget.Button.Dialog" />
+            <Button android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/import_contact_card_aggregate_suggestion_button" android:layout_weight="1.0" style="@style/Widget.Button.Dialog" />
+        </LinearLayout>
+    </LinearLayout>
+</view>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.widget.DispatchFrameLayout android:id="@id/content" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:id="@id/header_view" layout="@layout/miuix_appcompat_search_stub" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <ViewStub android:id="@id/search_empty_view_stub" android:layout="@layout/search_empty_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <com.android.contacts.widget.recyclerView.BaseRecyclerView android:id="@android:id/list" android:paddingTop="@dimen/miui13_padding_top" android:paddingBottom="@dimen/miui13_padding_bottom" android:fadingEdge="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false" android:importantForAccessibility="no" app:fastScrollEnabled="false" />
+            </LinearLayout>
+            <FrameLayout android:layout_gravity="end" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <FrameLayout android:layout_gravity="end|center" android:id="@id/fast_indexer_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <ViewStub android:layout_gravity="end" android:id="@id/fast_indexer_stub" android:layout="@layout/fast_indexer_view_stub" android:layout_width="fill_parent" android:layout_height="550.0dip" />
+            </FrameLayout>
+        </FrameLayout>
+    </LinearLayout>
+</com.android.contacts.widget.DispatchFrameLayout>

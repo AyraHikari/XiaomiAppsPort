@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.dialer.view.CustomConstrainLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:id="@id/dialer_number" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/dialer_item_number_marginbtm" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/DialerItemViewNumber" />
+    <TextView android:id="@id/dialer_letter" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/dialer_item_letter_marginbtm" app:layout_constraintBottom_toBottomOf="parent" style="@style/DialerItemViewLetter" />
+    <ViewStub android:id="@id/letter_img_layout" android:layout="@layout/dialer_item_letter_img_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/dialer_item_letter_marginbtm" app:layout_constraintBottom_toBottomOf="parent" />
+    <View android:id="@id/dialer_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="parent" />
+</com.android.contacts.dialer.view.CustomConstrainLayout>

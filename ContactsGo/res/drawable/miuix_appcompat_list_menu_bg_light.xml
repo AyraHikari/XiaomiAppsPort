@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/miuix_appcompat_list_menu_bg_color_light" />
+    <corners android:topLeftRadius="@dimen/miuix_appcompat_list_menu_bg_header_radius" android:topRightRadius="@dimen/miuix_appcompat_list_menu_bg_header_radius" />
+    <padding android:top="@dimen/miuix_appcompat_list_menu_bg_header_height" android:bottom="@dimen/miuix_appcompat_list_menu_bg_header_height" />
+</shape>

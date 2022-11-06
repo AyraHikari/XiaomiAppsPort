@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/aggregation_suggestions_item_stroke" android:top="@dimen/aggregation_suggestions_item_stroke" android:right="@dimen/aggregation_suggestions_item_stroke">
+        <shape android:shape="rectangle"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="@dimen/aggregation_suggestions_item_corner" />
+            <solid android:color="@color/aggregation_suggestions_item_n" />
+            <stroke android:width="@dimen/aggregation_suggestions_item_stroke" android:color="@color/aggregation_suggestions_item_stroke" />
+        </shape>
+    </item>
+</layer-list>

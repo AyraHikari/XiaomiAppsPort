@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/content" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/info" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_marginBottom="7.0dip" android:drawableLeft="@drawable/merge_contact_info" android:drawablePadding="7.0dip" />
+        <ListView android:id="@id/list_view" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@android:id/empty" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/list_empty_no_contact" android:contentDescription="@null" android:importantForAccessibility="no" />
+            <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.List.Secondary" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/label_no_duplicate_contacts" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" android:textStyle="normal" android:gravity="start|center" android:id="@id/msg" android:padding="@dimen/remove_duplicate_contact_layout_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/remove_duplicate" android:textDirection="locale" />
+</FrameLayout>

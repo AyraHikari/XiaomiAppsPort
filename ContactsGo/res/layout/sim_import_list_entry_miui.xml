@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/Widget.ListView.Item.DoubleList"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:paddingTop="@dimen/sim_import_list_item_padding" android:paddingBottom="@dimen/sim_import_list_item_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Miuix.AppCompat.TextAppearance.Widget.EditText" />
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sim_contact_item_margin_tb">
+            <TextView android:id="@id/dialer_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr" style="@style/Miuix.AppCompat.TextAppearance.List.Secondary" />
+            <TextView android:id="@id/anr" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/sim_contact_item_margin_left" style="@style/Miuix.AppCompat.TextAppearance.List.Secondary" />
+        </LinearLayout>
+        <TextView android:id="@id/emails" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sim_contact_item_margin_tb" style="@style/Miuix.AppCompat.TextAppearance.List.Secondary" />
+    </LinearLayout>
+    <CheckBox android:layout_gravity="end" android:id="@android:id/checkbox" android:focusable="false" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+</FrameLayout>

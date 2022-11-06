@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miuix_appcompat_arrow_popup_triangle_middle_h" android:width="@dimen/miuix_appcompat_arrow_popup_triangle_middle_w" android:viewportWidth="65.0" android:viewportHeight="26.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/miuix_appcompat_arrow_popup_triangle_color_dark" android:pathData="M61.9844,-0.341L41.4152,18.8928C38.3589,21.7507 36.8307,23.1796 35.0887,23.7247C33.5549,24.2046 31.9122,24.2114 30.3744,23.7442C28.628,23.2136 27.0881,21.7974 24.0082,18.965L3.0157,-0.341L61.9844,-0.341Z" />
+    <path android:fillColor="@color/miuix_appcompat_arrow_popup_triangle_color_dark" android:pathData="M62.3259,0.0242L63.2512,-0.841L61.9844,-0.841L3.0157,-0.841L1.7334,-0.841L2.6772,0.027L23.6697,19.333L23.686,19.348C25.2121,20.7515 26.3791,21.8247 27.3829,22.6114C28.3952,23.4046 29.2728,23.9321 30.2291,24.2226C31.8629,24.719 33.6084,24.7118 35.238,24.2019C36.1919,23.9034 37.0651,23.3686 38.0707,22.5671C39.068,21.7721 40.226,20.6893 41.7404,19.2732L41.7567,19.258L62.3259,0.0242Z" android:strokeColor="@color/miuix_appcompat_arrow_popup_triangle_color_dark" android:strokeWidth="1.0" />
+</vector>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/miuix_appcompat_message_view_warning_bg_color_light" />
+    <corners android:radius="@dimen/miuix_appcompat_message_view_bg_radius" />
+    <size android:height="@dimen/miuix_appcompat_message_view_bg_height" />
+</shape>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingStart="@dimen/miuix_appcompat_edit_text_search_bg_padding_start"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <size android:height="@dimen/miuix_appcompat_edit_text_search_bg_height" />
+            <corners android:radius="@dimen/miuix_appcompat_edit_text_search_bg_radius" />
+            <solid android:color="@color/miuix_appcompat_edit_text_dialog_bg_solid_dark" />
+        </shape>
+    </item>
+    <item android:gravity="center_vertical" android:drawable="?miuixAppcompatEditTextSearchIcon" />
+</layer-list>
