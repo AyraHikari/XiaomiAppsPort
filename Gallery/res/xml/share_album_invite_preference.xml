@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/share_album_family_invite_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.GalleryPreferenceCategory android:title="@string/share_album_family_invite_other_cate_title" android:key="share_to_others_category">
+        <com.miui.gallery.share.ShareToOthersPreference android:persistent="false" android:key="share_to_others" app:allowDividerAbove="false" app:allowDividerBelow="false" />
+    </com.miui.gallery.widget.GalleryPreferenceCategory>
+</PreferenceScreen>

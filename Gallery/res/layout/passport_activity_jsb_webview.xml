@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/passport_activity_bg_color" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/network_error_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/passport_page_header_height" android:paddingStart="@dimen/passport_page_min_horizontal_padding" android:paddingEnd="@dimen/passport_page_min_horizontal_padding">
+            <TextView android:textSize="17.0sp" android:textColor="@color/passport_page_header_title" android:ellipsize="end" android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/passport_page_load_failed" android:maxLines="1" android:layout_centerHorizontal="true" android:paddingStart="@dimen/passport_page_header_icon_size" android:paddingEnd="@dimen/passport_page_header_icon_size" />
+            <ImageView android:layout_width="@dimen/passport_page_header_icon_size" android:layout_height="@dimen/passport_page_header_icon_size" android:src="@drawable/passport_back_icon" android:scaleType="fitCenter" android:layout_centerVertical="true" android:onClick="onBackClicked" android:layout_alignParentStart="true" />
+        </RelativeLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="@dimen/passport_page_content_max_width" android:layout_height="wrap_content" android:layout_centerInParent="true" android:layout_marginStart="@dimen/passport_page_min_horizontal_padding" android:layout_marginEnd="@dimen/passport_page_min_horizontal_padding">
+            <ImageView android:focusable="false" android:layout_width="58.0dip" android:layout_height="58.0dip" android:layout_marginBottom="21.0dip" android:src="@drawable/passport_no_network" />
+            <TextView android:textSize="15.0sp" android:textColor="@color/passport_web_page_hint" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/passport_network_error" android:alpha="0.4" />
+            <TextView android:textSize="15.0sp" android:textColor="@color/passport_web_page_hint" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/passport_network_error_hint" android:alpha="0.4" />
+            <Button android:id="@id/btn_retry" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:text="@string/passport_retry" android:onClick="onRetryClicked" style="@style/Passport.CommonRoundButton" />
+            <Button android:id="@id/btn_copy_link" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/passport_copy_link" android:onClick="onCopyClicked" style="@style/Passport.CommonRoundButton" />
+        </LinearLayout>
+    </RelativeLayout>
+    <com.xiaomi.passport.webview.PassportJsbWebView android:id="@id/jsb_webview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

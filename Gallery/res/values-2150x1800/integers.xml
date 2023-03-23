@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="photo_page_anim_pivot_x">1850</integer>
+    <integer name="photo_page_anim_pivot_y">1450</integer>
+    <integer name="photo_page_anim_support_height">2160</integer>
+    <integer name="photo_page_anim_support_width">1914</integer>
+</resources>

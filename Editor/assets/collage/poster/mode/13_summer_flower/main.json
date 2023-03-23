@@ -1,0 +1,34 @@
+{
+  "background": "#ffffff",
+  "collagePositions": [
+    {
+      "margin": 1,
+      "position": [
+        0.182,
+        0.140,
+        0.818,
+        0.815
+      ]
+    }
+  ],
+  "collageModels": [
+    10,
+    20,
+    30,
+    40,
+    51,
+    60
+  ],
+  "textElementModels": [
+    {
+      "x": 0.5,
+      "y": 0.912,
+      "locationType": 5,
+      "textSize": 7.333,
+      "textColor": "#8c000000",
+      "letterSpace": 0.6,
+      "text": "SUMMER FLOWER",
+      "maxLength": 11
+    }
+  ]
+}

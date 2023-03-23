@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.ui.PeoplePageGridItem android:focusable="true" android:focusableInTouchMode="true" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/face_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+        <com.miui.gallery.widget.CircleAppCompatImageView android:id="@id/face" android:duplicateParentState="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" android:layout_centerHorizontal="true" android:contentDescription="@null" app:whRatio="1.0" />
+        <CheckBox android:theme="@style/Checkbox_NewStyle" android:id="@android:id/checkbox" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBottom="@id/face" android:paddingEnd="7.0dip" android:layout_alignEnd="@id/face" />
+    </RelativeLayout>
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.PeopleName" android:ellipsize="end" android:gravity="center" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/people_name_margin_top" android:text="@string/people_page_unname" android:singleLine="true" android:layout_below="@id/face_container" android:layout_centerHorizontal="true" android:importantForAccessibility="no" />
+</com.miui.gallery.ui.PeoplePageGridItem>

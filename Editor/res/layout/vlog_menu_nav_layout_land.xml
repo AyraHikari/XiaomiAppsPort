@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center_vertical" android:id="@id/navRoot" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.recyclerview.SingleChoiceRecyclerView android:id="@id/vlog_menu_nav_recycler_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/vlog_menu_nav_item_padding_start" android:paddingEnd="@dimen/vlog_menu_nav_item_padding_start" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/vlog_menu_nav_pro_layout" />
+    <View android:id="@id/vlog_menu_nav_pro_mask" android:background="@drawable/vlog_menu_nav_mask_land" android:layout_width="@dimen/vlog_menu_nav_mask_view_width" android:layout_height="@dimen/vlog_menu_nav_mask_view_height" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/vlog_menu_nav_pro_layout" />
+    <FrameLayout android:id="@id/vlog_menu_nav_pro_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <ImageView android:layout_gravity="center" android:id="@id/vlog_menu_nav_pro" android:layout_width="@dimen/vlog_menu_nav_pro_icon_width" android:layout_height="@dimen/vlog_menu_nav_pro_icon_height" android:layout_marginTop="@dimen/vlog_menu_nav_pro_icon_margin_start" android:layout_marginBottom="@dimen/vlog_menu_nav_pro_icon_margin_end" android:src="@drawable/ic_vlog_pro" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

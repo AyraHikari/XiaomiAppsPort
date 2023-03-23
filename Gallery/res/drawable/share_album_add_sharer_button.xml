@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="62.0dip" android:width="63.0dip" android:viewportWidth="63.0" android:viewportHeight="62.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/share_album_family_add_sharer_button_bg" android:pathData="M31.6599,0L31.6599,0A31,31 0,0 1,62.6599 31L62.6599,31A31,31 0,0 1,31.6599 62L31.6599,62A31,31 0,0 1,0.6599 31L0.6599,31A31,31 0,0 1,31.6599 0z" />
+    <path android:fillColor="#ff0d84ff" android:pathData="M31.8997,20.8999C31.4026,20.8999 30.9997,21.3028 30.9997,21.7999V30H22.7997C22.3026,30 21.8997,30.4029 21.8997,30.9C21.8997,31.3971 22.3026,31.8 22.7997,31.8H30.9997V39.9999C30.9997,40.497 31.4026,40.8999 31.8997,40.8999C32.3967,40.8999 32.7997,40.497 32.7997,39.9999V31.8H40.9997C41.4967,31.8 41.8997,31.3971 41.8997,30.9C41.8997,30.4029 41.4967,30 40.9997,30H32.7997V21.7999C32.7997,21.3028 32.3967,20.8999 31.8997,20.8999Z" android:fillType="evenOdd" />
+</vector>

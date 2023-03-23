@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/navRoot" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/apply_layout" android:layout_width="fill_parent" android:layout_height="@dimen/px_120" android:layout_alignParentBottom="true" layout="@layout/common_editor_menu_apply_layout" />
+    <com.miui.gallery.widget.recyclerview.SimpleRecyclerView android:id="@id/sortRecyclerView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/px_50" android:layout_above="@id/apply_layout" />
+</RelativeLayout>

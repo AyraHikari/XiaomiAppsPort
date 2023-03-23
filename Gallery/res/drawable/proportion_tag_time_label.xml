@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/proportion_tag_list_time_label_color" />
+    <size android:height="@dimen/proportion_tag_list_time_label_diameter" android:width="@dimen/proportion_tag_list_time_label_diameter" />
+</shape>

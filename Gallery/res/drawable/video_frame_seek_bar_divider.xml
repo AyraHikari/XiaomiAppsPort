@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/white_70_transparent" />
+        </shape>
+    </item>
+    <item android:gravity="center_horizontal" android:width="@dimen/video_frame_seek_bar_width">
+        <shape>
+            <solid android:color="@color/photo_page_video_frame_seek_bar_color" />
+        </shape>
+    </item>
+</layer-list>

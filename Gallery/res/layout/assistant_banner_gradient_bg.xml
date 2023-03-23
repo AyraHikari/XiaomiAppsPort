@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.AssistantBannerBgView android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/color_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:translationZ="10.0dip" />
+    <ImageView android:id="@id/color_bg_2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:translationZ="10.0dip" />
+    <ImageView android:id="@id/white_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:translationZ="20.0dip" />
+</com.miui.gallery.widget.AssistantBannerBgView>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="1.0px" android:bottom="1.0px">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/trash_delete_all_button_bg_color" />
+            <corners android:radius="@dimen/trash_delete_all_button_radius" />
+            <size android:height="@dimen/warning_page_button_height" />
+        </shape>
+    </item>
+</layer-list>

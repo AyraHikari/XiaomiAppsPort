@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_brush_markpen_indicator_margin_start">41.332977dip</dimen>
+    <dimen name="screen_brush_pen_indicator_margin_start">40.888977dip</dimen>
+    <dimen name="screen_mosaic_indicator_margin_start">38.221985dip</dimen>
+    <dimen name="screen_text_indicator_margin_start">36.888977dip</dimen>
+</resources>

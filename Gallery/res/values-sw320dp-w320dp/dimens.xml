@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="editor_menu_text_radio_button_bubble_width">@dimen/px_170</item>
+    <item type="dimen" name="magic_galery_top">@dimen/px_37</item>
+    <item type="dimen" name="magic_id_photo_guide_text_content_height">@dimen/px_48</item>
+    <item type="dimen" name="magic_id_photo_guide_text_height">@dimen/px_74</item>
+    <item type="dimen" name="magic_id_photo_guide_text_margin_left">@dimen/px_99</item>
+    <item type="dimen" name="magic_id_photo_guide_text_margin_top">@dimen/px_130</item>
+    <item type="dimen" name="magic_id_photo_guide_text_size">@dimen/px_36</item>
+    <item type="dimen" name="magic_id_photo_guide_text_title_size">@dimen/px_56</item>
+    <item type="dimen" name="magic_id_photo_guide_text_width">@dimen/px_750</item>
+    <item type="dimen" name="magic_idp_bottom_height">@dimen/px_1763</item>
+    <item type="dimen" name="magic_idp_bottom_margin_top">@dimen/px_537</item>
+    <item type="dimen" name="magic_idp_guide_btn1h">@dimen/px_190</item>
+    <item type="dimen" name="magic_idp_guide_btn1w">@dimen/px_310</item>
+    <item type="dimen" name="magic_idp_guide_btn_halfGap">@dimen/px_22</item>
+    <item type="dimen" name="magic_idp_guide_text_margin_2">@dimen/px_100</item>
+    <item type="dimen" name="magic_idp_guide_text_margin_3">@dimen/px_80</item>
+    <item type="dimen" name="magic_idp_icon">@dimen/px_70</item>
+    <item type="dimen" name="magic_idp_make_search_height_left">@dimen/px_50</item>
+    <item type="dimen" name="magic_idp_make_search_look_max_width">@dimen/px_636</item>
+    <item type="dimen" name="magic_idp_make_tab_margin_left">@dimen/px_115</item>
+    <item type="dimen" name="magic_idp_make_tab_width">@dimen/px_115</item>
+    <item type="dimen" name="magic_idp_search_edit_font">@dimen/px_34</item>
+    <item type="dimen" name="magic_search_edit_width">@dimen/px_750</item>
+    <item type="dimen" name="magic_search_list_width">@dimen/px_750</item>
+    <dimen name="magic_status_bar_height">29.819977dip</dimen>
+    <dimen name="magic_text_top">0.0dip</dimen>
+    <dimen name="magic_idp_guide_photo_height">170.91dip</dimen>
+    <dimen name="magic_idp_guide_photo_width">235.63998dip</dimen>
+</resources>

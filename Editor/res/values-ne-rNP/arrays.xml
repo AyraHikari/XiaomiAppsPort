@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>सेतो</item>
+        <item>गाढा निलो</item>
+        <item>हल्का नीलो</item>
+        <item>रातो</item>
+        <item>हरियो</item>
+        <item>गुलाबी</item>
+        <item>खैरो</item>
+        <item>खरानी</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>छवि चयन गर्नुहोस्</item>
+        <item>पारदर्शी पृष्ठभूमि</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>आराम</item>
+        <item>मन्द हावा</item>
+        <item>सपनाहरू</item>
+        <item>बादल</item>
+        <item>विचार</item>
+        <item>कोपिला</item>
+        <item>मेटामोर्फोसिस</item>
+        <item>गहिराई</item>
+        <item>प्रतिबिम्ब</item>
+        <item>मिनिमालिस्ट</item>
+        <item>रहस्यमयी</item>
+        <item>कुहिरो लागेको</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>भविष्यकालिन ज्यामितीय पृष्ठभूमि</item>
+        <item>पुरानो मास्टर प्रिन्टको वातावरण</item>
+        <item>पृष्ठभूमिलाई स्केचहरूमा बदल्नुहोस्</item>
+        <item>वाटर कलर शैली भएको पृष्ठभूमि</item>
+        <item>साइबरपंक रेट्रो</item>
+        <item>गलत तरिकाले राखेको ठाडो खण्डहरू</item>
+        <item>हेजी ब्लर</item>
+        <item>भविष्यको अनुभूति दिलाउने</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>लो पोली</item>
+        <item>इचिंग</item>
+        <item>स्केच</item>
+        <item>वाटरकलर</item>
+        <item>RGB</item>
+        <item>ब्लाइन्ड्स</item>
+        <item>कुहिरो लागेको झ्याल</item>
+        <item>टेक</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>रंगीन आउटलाइन</item>
+        <item>ड्याश जस्तो देखिने आउटलाइन</item>
+        <item>फ्लोरोसेंट आउटलाइन</item>
+        <item>रंगिन छाँया</item>
+        <item>इलेक्ट्रिक तरंग</item>
+        <item>जल धारा</item>
+        <item>लहर</item>
+        <item>कणहरू</item>
+        <item>पाठ</item>
+        <item>पखेटा</item>
+        <item>परी</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Two cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+</resources>

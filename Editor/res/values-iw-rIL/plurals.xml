@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">לפני שעה אחת</item>
+        <item quantity="one">לפני שעה אחת</item>
+        <item quantity="two">לפני שעה אחת</item>
+        <item quantity="many">לפני שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">לפני שעה אחת</item>
+        <item quantity="one">לפני שעה אחת</item>
+        <item quantity="two">לפני שעה אחת</item>
+        <item quantity="many">לפני שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">לפני חצי שעה</item>
+        <item quantity="one">לפני חצי שעה</item>
+        <item quantity="two">לפני חצי שעה</item>
+        <item quantity="many">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">בעוד שעה אחת</item>
+        <item quantity="one">בעוד שעה אחת</item>
+        <item quantity="two">בעוד שעה אחת</item>
+        <item quantity="many">בעוד שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">בעוד חצי שעה</item>
+        <item quantity="one">בעוד חצי שעה</item>
+        <item quantity="two">בעוד חצי שעה</item>
+        <item quantity="many">בעוד חצי שעה</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">באופן מיידי</item>
+        <item quantity="one">באופן מיידי</item>
+        <item quantity="two">באופן מיידי</item>
+        <item quantity="many">באופן מיידי</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ממש עכשיו</item>
+        <item quantity="one">ממש עכשיו</item>
+        <item quantity="two">ממש עכשיו</item>
+        <item quantity="many">ממש עכשיו</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d קבצים</item>
+        <item quantity="one">קובץ %1$d</item>
+        <item quantity="two">%1$d קבצים</item>
+        <item quantity="many">%1$d קבצים</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">לפני חצי שעה</item>
+        <item quantity="one">לפני חצי שעה</item>
+        <item quantity="two">לפני חצי שעה</item>
+        <item quantity="many">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">בעוד שעה אחת</item>
+        <item quantity="one">בעוד שעה אחת</item>
+        <item quantity="two">בעוד שעה אחת</item>
+        <item quantity="many">בעוד שעה אחת</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">בעוד חצי שעה</item>
+        <item quantity="one">בעוד חצי שעה</item>
+        <item quantity="two">בעוד חצי שעה</item>
+        <item quantity="many">בעוד חצי שעה</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">באופן מיידי</item>
+        <item quantity="one">באופן מיידי</item>
+        <item quantity="two">באופן מיידי</item>
+        <item quantity="many">באופן מיידי</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ממש עכשיו</item>
+        <item quantity="one">ממש עכשיו</item>
+        <item quantity="two">ממש עכשיו</item>
+        <item quantity="many">ממש עכשיו</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d פריטים נבחרו</item>
+        <item quantity="one">פריט %d נבחר</item>
+        <item quantity="two">%d פריטים נבחרו</item>
+        <item quantity="many">%d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">סיבוב ב-%d מעלות</item>
+        <item quantity="one">סיבוב במעלה %d</item>
+        <item quantity="two">סיבוב ב-%d מעלות</item>
+        <item quantity="many">סיבוב ב-%d מעלות</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d חבילות התקנה (%3$s) צ%1$s</item>
+        <item quantity="one">חבילת התקנה %2$d (%3$s) מ%1$s</item>
+        <item quantity="two">%2$d חבילות התקנה (%3$s) צ%1$s</item>
+        <item quantity="many">%2$d חבילות התקנה (%3$s) צ%1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">התקבלו %2$d חבילות התקנה (%3$s) מ%1$s</item>
+        <item quantity="one">התקבלה חבילת התקנה %2$d%3$s מ%1$s</item>
+        <item quantity="two">התקבלו %2$d חבילות התקנה (%3$s) מ%1$s</item>
+        <item quantity="many">התקבלו %2$d חבילות התקנה (%3$s) מ%1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">מקבל %2$d חבילות התקנה (%3$s) מ%1$s…</item>
+        <item quantity="one">מקבל חבילת התקנה %2$d%3$s מ%1$s…</item>
+        <item quantity="two">מקבל %2$d חבילות התקנה (%3$s) מ%1$s…</item>
+        <item quantity="many">מקבל %2$d חבילות התקנה (%3$s) מ%1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d קבצי שמע%3$s מ%1$s</item>
+        <item quantity="one">קובץ שמע %2$d (%3$s) מ%1$s</item>
+        <item quantity="two">%2$d קבצי שמע%3$s מ%1$s</item>
+        <item quantity="many">%2$d קבצי שמע%3$s מ%1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">התקבלו %2$d קבצי שמע (%3$s) מ%1$s</item>
+        <item quantity="one">התקבל קובץ שמע %2$d%3$s מ%1$s</item>
+        <item quantity="two">התקבלו %2$d קבצי שמע (%3$s) מ%1$s</item>
+        <item quantity="many">התקבלו %2$d קבצי שמע (%3$s) מ%1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">מקבל %2$d קבצי שמע (%3$s) מ%1$s…</item>
+        <item quantity="one">מקבל קובץ שמע %2$d%3$s מ%1$s…</item>
+        <item quantity="two">מקבל %2$d קבצי שמע (%3$s) מ%1$s…</item>
+        <item quantity="many">מקבל %2$d קבצי שמע (%3$s) מ%1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d קבצי %3$s (%4$s מ%1$s</item>
+        <item quantity="one">קובץ %3$s%2$d (%4$s) מ%1$s</item>
+        <item quantity="two">%2$d קבצי %3$s (%4$s מ%1$s</item>
+        <item quantity="many">%2$d קבצי %3$s (%4$s מ%1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">התקבלו %2$d קבצי %3$s (%4$s מ%1$s</item>
+        <item quantity="one">התקבל קובץ %3$s%2$d (%4$s) מ%1$s</item>
+        <item quantity="two">התקבלו %2$d קבצי %3$s (%4$s מ%1$s</item>
+        <item quantity="many">התקבלו %2$d קבצי %3$s (%4$s מ%1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">מקבל %2$d קבצי %3$s (%4$s מ%1$s…</item>
+        <item quantity="one">מקבל קובץ %3$s%2$d (%4$s) מ%1$s…</item>
+        <item quantity="two">מקבל %2$d קבצי %3$s (%4$s מ%1$s…</item>
+        <item quantity="many">מקבל %2$d קבצי %3$s (%4$s מ%1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d תמונות מ%1$s</item>
+        <item quantity="one">תמונה %2$d מ%1$s</item>
+        <item quantity="two">%2$d תמונות מ%1$s</item>
+        <item quantity="many">%2$d תמונות מ%1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">התקבלו %2$d תמונות מ%1$s</item>
+        <item quantity="one">התקבלה תמונה %2$d מ%1$s</item>
+        <item quantity="two">התקבלו %2$d תמונות מ%1$s</item>
+        <item quantity="many">התקבלו %2$d תמונות מ%1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">מקבל %2$d תמונות מ%1$s…</item>
+        <item quantity="one">מקבל תמונה %2$d מ%1$s…</item>
+        <item quantity="two">מקבל %2$d תמונות מ%1$s…</item>
+        <item quantity="many">מקבל %2$d תמונות מ%1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d תמונות או סרטונים מ%1$s</item>
+        <item quantity="one">תמונה או סרטון %2$d מ%1$s</item>
+        <item quantity="two">%2$d תמונות או סרטונים מ%1$s</item>
+        <item quantity="many">%2$d תמונות או סרטונים מ%1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">התקבלו %2$d תמונות וסרטונים מ%1$s</item>
+        <item quantity="one">התקבל/ה סרטון או תמונה %2$d מ%1$s</item>
+        <item quantity="two">התקבלו %2$d תמונות וסרטונים מ%1$s</item>
+        <item quantity="many">התקבלו %2$d תמונות וסרטונים מ%1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">מקבל %2$d תמונות וסרטונים מ%1$s…</item>
+        <item quantity="one">מקבל סרטון או תמונה %2$d מ%1$s…</item>
+        <item quantity="two">מקבל %2$d תמונות וסרטונים מ%1$s…</item>
+        <item quantity="many">מקבל %2$d תמונות וסרטונים מ%1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d קבצים מ%1$s</item>
+        <item quantity="one">קובץ %2$d מ%1$s</item>
+        <item quantity="two">%2$d קבצים מ%1$s</item>
+        <item quantity="many">%2$d קבצים מ%1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">התקבלו %2$d קבצים מ%1$s</item>
+        <item quantity="one">התקבל קובץ %2$d מ%1$s</item>
+        <item quantity="two">התקבלו %2$d קבצים מ%1$s</item>
+        <item quantity="many">התקבלו %2$d קבצים מ%1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">מקבל %2$d קבצים מ%1$s…</item>
+        <item quantity="one">מקבל קובץ %2$d מ%1$s…</item>
+        <item quantity="two">מקבל %2$d קבצים מ%1$s…</item>
+        <item quantity="many">מקבל %2$d קבצים מ%1$s…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d סרטונים מ%1$s</item>
+        <item quantity="one">סרטון %2$d מ%1$s</item>
+        <item quantity="two">%2$d סרטונים מ%1$s</item>
+        <item quantity="many">%2$d סרטונים מ%1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">התקבלו %2$d סרטונים מ%1$s</item>
+        <item quantity="one">התקבל סרטון %2$d מ%1$s</item>
+        <item quantity="two">התקבלו %2$d סרטונים מ%1$s</item>
+        <item quantity="many">התקבלו %2$d סרטונים מ%1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">מקבל %2$d סרטונים מ%1$s…</item>
+        <item quantity="one">מקבל סרטון %2$d מ%1$s…</item>
+        <item quantity="two">מקבל %2$d סרטונים מ%1$s…</item>
+        <item quantity="many">מקבל %2$d סרטונים מ%1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d ארכיונים (%3$s) מ%1$s</item>
+        <item quantity="one">ארכיון %2$d%3$s מ%1$s</item>
+        <item quantity="two">%2$d ארכיונים (%3$s) מ%1$s</item>
+        <item quantity="many">%2$d ארכיונים (%3$s) מ%1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">התקבלו %2$d ארכיונים (%3$s) מ%1$s</item>
+        <item quantity="one">התקבל ארכיון %2$d%3$s מ%1$s</item>
+        <item quantity="two">התקבלו %2$d ארכיונים (%3$s) מ%1$s</item>
+        <item quantity="many">התקבלו %2$d ארכיונים (%3$s) מ%1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">מקבל %2$d ארכיונים (%3$s) מ%1$s…</item>
+        <item quantity="one">מקבל ארכיון %2$d%3$s מ%1$s…</item>
+        <item quantity="two">מקבל %2$d ארכיונים (%3$s) מ%1$s…</item>
+        <item quantity="many">מקבל %2$d ארכיונים (%3$s) מ%1$s…</item>
+    </plurals>
+</resources>

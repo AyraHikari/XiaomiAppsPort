@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.signature.widget.SelectColorView android:layout_gravity="center" android:id="@id/color_view" android:clickable="false" android:layout_width="@dimen/signature_dialog_top_color_view_width_height" android:layout_height="@dimen/signature_dialog_top_color_view_width_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

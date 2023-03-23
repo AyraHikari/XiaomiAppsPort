@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.support.cardview.CardView android:layout_gravity="end|bottom|center" android:id="@id/content_layout" android:layout_width="@dimen/map_floating_menu_width" android:layout_height="@dimen/map_floating_menu_height" android:layout_marginBottom="@dimen/map_floating_menu_margin_bottom" android:layout_marginEnd="@dimen/map_floating_menu_margin_end" app:cardCornerRadius="@dimen/map_floating_menu_corner_radius" style="@style/Gallery.Widget.CardView.Map"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_gravity="center" android:id="@id/location_btn" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_map_location" android:contentDescription="@string/map_location" />
+    <ImageView android:layout_gravity="center" android:id="@id/show_nearby_btn" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_map_show_nearby" android:contentDescription="@string/show_nearby_photos" />
+    <ViewStub android:id="@id/map_expand_viewstub" android:layout="@layout/map_expand_floating_menu_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</com.miui.support.cardview.CardView>

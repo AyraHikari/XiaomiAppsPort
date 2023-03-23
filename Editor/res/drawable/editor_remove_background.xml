@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#a8474747" />
+    <padding android:left="@dimen/editor_remove_button_background_padding_horizontal" android:top="@dimen/editor_capsule_background_padding_vertical" android:right="@dimen/editor_remove_button_background_padding_horizontal" android:bottom="@dimen/editor_capsule_background_padding_vertical" />
+    <corners android:radius="1000.0px" />
+</shape>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="@dimen/screen_brush_popwin_height" android:width="@dimen/screen_brush_popwin_width">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/px_30" />
+            <solid android:color="@color/screen_tool_popwin_bg" />
+        </shape>
+    </item>
+</layer-list>

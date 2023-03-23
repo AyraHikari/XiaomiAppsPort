@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/people_page_footer_text_size" android:textStyle="bold" android:textColor="@color/see_more_people_view_text_color" android:gravity="center" android:id="@id/see_more_people_text" android:background="@drawable/see_more_people_view_bg" android:layout_width="fill_parent" android:layout_height="@dimen/people_page_footer_height" android:layout_marginTop="@dimen/people_page_footer_margin_top" android:layout_marginBottom="@dimen/people_page_footer_margin_bottom" android:text="@string/expand_people" />
+</LinearLayout>

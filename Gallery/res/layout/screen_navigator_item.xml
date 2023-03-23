@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/screen_nav_parent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/screen_editor_nav_item_image_margin_top" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <TextView android:textAppearance="@style/PhotoEditor.TextAppearance.Label" android:ellipsize="marquee" android:id="@id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/screen_editor_nav_item_image_margin_bottom" android:singleLine="true" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/icon" />
+    <ImageView android:id="@id/selected_iv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="2.3299866dip" android:src="@drawable/screen_nav_item_selected_ic" android:layout_marginStart="1.6599731dip" app:layout_constraintBottom_toBottomOf="@id/label" app:layout_constraintStart_toEndOf="@id/label" />
+</androidx.constraintlayout.widget.ConstraintLayout>

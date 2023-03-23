@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/slip_layout" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/top_part" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_marginTop="@dimen/burst_slip_layout_margin_top" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/burst_title_size" android:textColor="@color/burst_photo_choice_title_color" android:gravity="center" android:layout_gravity="center|top" android:id="@id/title" android:layout_width="@dimen/burst_title_width" android:layout_height="@dimen/burst_title_height" android:fontFamily="mipro-medium" />
+        <miuix.springback.view.SpringBackLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/burst_pager_margin_top" android:layout_marginBottom="@dimen/burst_pager_margin_bottom" app:scrollOrientation="horizontal" app:scrollableView="@id/photo_pager">
+            <com.miui.gallery.widget.GalleryViewPager android:id="@id/photo_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </miuix.springback.view.SpringBackLayout>
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="bottom" android:id="@id/photo_detail_preview" android:paddingBottom="@dimen/burst_preview_button_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

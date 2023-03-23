@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/navRoot" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/vlog_ratio_panel_recycler_view_margin_top" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <include android:id="@id/ratio_panel" android:layout_width="@dimen/editor_menu_common_content_item_size" android:layout_height="@dimen/editor_menu_common_content_item_size" android:layout_marginStart="@dimen/editor_ratio_origin_margin_start" android:layout_marginEnd="@dimen/editor_ratio_recycler_view_first_item_start" layout="@layout/common_frame_menu_item" />
+        <View android:layout_gravity="center" android:background="@color/vlog_menu_ratio_line_bg" android:layout_width="@dimen/vlog_ratio_panel_divider_width" android:layout_height="@dimen/vlog_ratio_panel_divider_height" />
+        <com.miui.gallery.widget.recyclerview.SimpleRecyclerView android:id="@id/recycler_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

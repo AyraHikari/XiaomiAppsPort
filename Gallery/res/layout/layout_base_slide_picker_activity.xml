@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.pickdrag.PickerSlideLayer android:id="@id/dragLayer" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="bottom" android:id="@id/viewBottomSpaceHolder" android:background="@color/bottom_space_holder_background" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="@dimen/bottom_space_holder_height" />
+    <FrameLayout android:id="@id/picker_slide_content_body" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/default_slide_page_margin_top">
+        <miuix.smooth.SmoothFrameLayout android:id="@id/picker_black_background" android:background="@color/black" android:layout_width="fill_parent" android:layout_height="fill_parent" android:topLeftRadius="@dimen/default_slide_page_radius" android:topRightRadius="@dimen/default_slide_page_radius" android:alpha="0.0" />
+        <miuix.smooth.SmoothFrameLayout android:id="@id/smooth_container" android:background="@color/default_slide_page_content_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:topLeftRadius="@dimen/default_slide_page_radius" android:topRightRadius="@dimen/default_slide_page_radius">
+            <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/content_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <include layout="@layout/layout_common_pick_drag_slide_handle" />
+                <FrameLayout android:id="@id/content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            </LinearLayout>
+        </miuix.smooth.SmoothFrameLayout>
+    </FrameLayout>
+</com.miui.pickdrag.PickerSlideLayer>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Fari</item>
+        <item>Shuɗi mai duhu</item>
+        <item>Shuɗi mai haske</item>
+        <item>Ja</item>
+        <item>Kore</item>
+        <item>Ruwan hoda</item>
+        <item>Launin ruwan kasa</item>
+        <item>Toka</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Zabi hoto</item>
+        <item>Bango bayananne</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Namiji</item>
+        <item>Mace</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Rana na musamman</item>
+        <item>Ranar tunawa</item>
+        <item>Lokaci masu ban mamaki</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Shekara mai dadi</item>
+        <item>Darussa uku. Yanayi hudu.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Barka da zuwa!</item>
+        <item>Akan hanyan</item>
+        <item>Kaleidoscope na wurare</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Kawa na Kaka</item>
+        <item>Faduwa annuri</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Yaro</item>
+        <item>Yarinya</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Adana hotuna</item>
+        <item>Daidaita hotuna da cloud</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Daren tunawa</item>
+        <item>Sabon shafin</item>
+        <item>Wasan wuta</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Barka da Sabuwar shekara!</item>
+        <item>Alfijir na sabuwar shekara</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Shekarar Biri</item>
+        <item>Shekarar Zakara</item>
+        <item>Shekarar Kare</item>
+        <item>Shekarar Alade</item>
+        <item>Shekarar bera</item>
+        <item>Shekarar sa</item>
+        <item>Shekarar Damisa</item>
+        <item>Shekarar Zomo</item>
+        <item>Shekarar Dodon Dragon</item>
+        <item>Shekarar Maciji</item>
+        <item>Shekarar Doki</item>
+        <item>Shekarar Akuya</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Yanayin birni</item>
+        <item>Tituna da kusurwoyi</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Ganyayyaki masu laushi</item>
+        <item>A cikin cikakken furanni</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Cikin daji</item>
+        <item>Daji da kyauta</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Taron mu</item>
+        <item>Kamfanin abokai</item>
+        <item>Kwana biyu</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Abubuwan da ka fiso</item>
+        <item>Ruhohin dangi</item>
+        <item>Lokutan haske na rayuwa</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Ya shagaltu da girma</item>
+        <item>"Sha'awa da sha'awa"</item>
+        <item>Karamin mai bincike</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Tsarin lokaci na motsa jiki</item>
+        <item>Mai ƙarfi da ƙarfi</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Bisimillah!</item>
+        <item>Karshen loma?</item>
+        <item>A mayar da hankali!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Yi murmushi da kaɗawa!</item>
+        <item>Lokacin wasa</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Babban waje</item>
+        <item>Waƙoƙi a cikin dusar ƙanƙara</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Mara tsayawa</item>
+        <item>Kasancewa da lafiya</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Babban rana</item>
+        <item>Kasa da hanya!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Time to play</item>
+        <item>"Kiddo's weekend"</item>
+        <item>The little one</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Ƙarshen mako</item>
+        <item>Sashi na ruwa</item>
+        <item>Tunani na ƙarshen mako</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>New friends and old pals</item>
+        <item>"Last year's get-togethers"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Sukuni</item>
+        <item>Iska mai karfi</item>
+        <item>Mafarkai</item>
+        <item>Girgije</item>
+        <item>Tunani</item>
+        <item>Toho</item>
+        <item>Metamorphosis</item>
+        <item>Zurfi</item>
+        <item>Tunani</item>
+        <item>Karami</item>
+        <item>Asiri</item>
+        <item>Hazo</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Juya bango zuwa zane</item>
+        <item>Bangon tsarin ruwa mai launi</item>
+        <item>Bege na Cyberpunk</item>
+        <item>Yankin karkatattun bangarori</item>
+        <item>Duhu mai hazo</item>
+        <item>Ji na rayuban gaba</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Na zane</item>
+        <item>Launin ruwa</item>
+        <item>RGB</item>
+        <item>Makafi</item>
+        <item>Taga mai hazo</item>
+        <item>Fasaha</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Tsarin rubutu mai launi</item>
+        <item>Ruce tsarin rubutu</item>
+        <item>Haske mai kyalli</item>
+        <item>Inuwa mai launi</item>
+        <item>Wutar lantarki</item>
+        <item>Na yanzu</item>
+        <item>Kaɗi</item>
+        <item>Barbashi</item>
+        <item>Rubutu</item>
+        <item>Fuka-fukai</item>
+        <item>"Mala'ika"</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Canza wuri</item>
+        <item>Kwafi</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Janairu</item>
+        <item>Fabrairu</item>
+        <item>Maris</item>
+        <item>Afrilu</item>
+        <item>Yiwu</item>
+        <item>Yuni</item>
+        <item>Yuli</item>
+        <item>Agusta</item>
+        <item>Satumba</item>
+        <item>Oktoba</item>
+        <item>Nuwamba</item>
+        <item>Disamba</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>Kun girma!</item>
+        <item>Kun sake girma!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Mazaɓa na na sirri</item>
+        <item>Tunani na da masu dadi</item>
+        <item>Taimako na biyu, don Allah!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>"Mafi kyawun ra'ayi na duniya"</item>
+        <item>Ci gaba da hawan</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Uba</item>
+        <item>Uwa</item>
+        <item>Kakan ka</item>
+        <item>Kakar ka</item>
+        <item>Kakan ka</item>
+        <item>Kakar ka</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Tare</item>
+        <item>Lokaci masu kyau</item>
+        <item>A cikin zaman tare</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Inda hanya ta kai mu</item>
+        <item>An raba tafiye-tafiye da kyau</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Bazara mai kyau</item>
+        <item>Damina mai dadi</item>
+        <item>Kaka mai dadi</item>
+        <item>Hunturu mai kyau</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Abincin bazara</item>
+        <item>Maganin bazara</item>
+        <item>Bukukuwan kaka</item>
+        <item>Tuk-ins an bazara</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Together</item>
+        <item>Bonds and ties</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Ni</item>
+        <item>Yaro</item>
+        <item>Iyali</item>
+        <item>Abokan aiki</item>
+        <item>Abokan aji</item>
+        <item>Abokai</item>
+        <item>Raba</item>
+    </string-array>
+    <string-array name="season">
+        <item>Damina</item>
+        <item>Bazara</item>
+        <item>Autumn</item>
+        <item>Sanyi</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Uba</item>
+        <item>Uwa</item>
+        <item>Kakan ka</item>
+        <item>Kakar ka</item>
+        <item>Kakan ka</item>
+        <item>Kakar ka</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Wuce wa gaba</item>
+        <item>Cikakke da karfi</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Furani na bazara</item>
+        <item>Bazara yana cikin iska</item>
+        <item>Barka zuwa bazara!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Yan damina kadan</item>
+        <item>Inda damina bata karewa</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Awanni masu muhimmanci</item>
+        <item>Haskoki na zinariya</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>They grow so fast</item>
+        <item>"Kiddo's photos"</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Kwanakin hunturu</item>
+        <item>"Al'ajabin hunturu"</item>
+    </string-array>
+</resources>

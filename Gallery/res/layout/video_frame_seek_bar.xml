@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.video.VideoFrameSeekBar android:background="@drawable/photo_page_action_bar_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="bottom" android:background="@drawable/photo_page_split_bar_divider" android:layout_width="fill_parent" android:layout_height="@dimen/photo_page_action_bar_divider_height" />
+    <View android:layout_gravity="top" android:id="@id/transition_view" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="@dimen/video_frame_thumb_height" android:layout_marginTop="@dimen/video_frame_seek_bar_margin_top" />
+    <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:layout_gravity="top" android:id="@id/video_frame_thumb_list" android:layout_width="fill_parent" android:layout_height="@dimen/video_frame_thumb_height" android:layout_marginTop="@dimen/video_frame_seek_bar_margin_top" />
+    <com.miui.gallery.video.VideoTagsView android:layout_gravity="top" android:id="@id/video_tags" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/video_tags_height" android:layout_marginTop="@dimen/video_tags_margin_top" />
+    <View android:layout_gravity="center|top" android:background="@drawable/video_frame_seek_bar_divider" android:layout_width="@dimen/video_frame_seek_bar_divider" android:layout_height="@dimen/video_frame_thumb_height" android:layout_marginTop="@dimen/video_frame_seek_bar_margin_top" />
+    <View android:layout_gravity="top" android:background="@drawable/photo_page_split_bar_divider" android:layout_width="fill_parent" android:layout_height="@dimen/photo_page_action_bar_divider_height" />
+</com.miui.gallery.video.VideoFrameSeekBar>

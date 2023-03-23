@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <files-path name="magic_images" path="magic_editor_image/" />
+        <files-path name="magic_videos" path="magic_editor_video/" />
+        <external-files-path name="external_magic_images" path="magic_editor_image/" />
+        <external-files-path name="external_magic_videos" path="magic_editor_video/" />
+        <external-path name="external_autodownload" path="Download/" />
+    </paths>
+</resources>

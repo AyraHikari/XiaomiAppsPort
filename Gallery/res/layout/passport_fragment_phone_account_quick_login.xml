@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:passport="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/query_phone_account" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <Button android:gravity="center" android:id="@id/skip_query" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="48.0dip" android:text="@string/skip_query_account" android:layout_alignParentBottom="true" style="@style/Passport.CommonRoundButton" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/skip_query">
+            <TextView android:textSize="15.0sp" android:gravity="center" android:id="@id/loading_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/passport_account_login_margin_normal" android:text="@string/doing_query_account" android:layout_centerInParent="true" />
+            <ProgressBar android:id="@id/pb_loading" android:layout_above="@id/loading_text" android:layout_centerHorizontal="true" style="@style/Passport.ProgressBar" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/single_phone_account" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.xiaomi.passport.ui.view.PhoneCard android:id="@id/phone_account_card" android:layout_width="fill_parent" android:layout_height="wrap_content" passport:card_mode="big" />
+        <com.xiaomi.passport.ui.view.AgreementView android:id="@id/agreement_view_for_single" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/passport_view_group_internal_margin_vertical" />
+        <Button android:id="@id/login_or_register" android:layout_marginTop="@dimen/passport_view_group_internal_margin_vertical" android:text="@string/login_by_local_phone_long_text" style="@style/Passport.HighlightRoundButton" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/double_phone_account" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.xiaomi.passport.ui.view.PhoneCard android:id="@id/phone_account_card_1" android:layout_width="wrap_content" android:layout_height="wrap_content" passport:card_mode="small" />
+        <com.xiaomi.passport.ui.view.PhoneCard android:id="@id/phone_account_card_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/passport_view_group_internal_margin_vertical" passport:card_mode="small" />
+        <com.xiaomi.passport.ui.view.AgreementView android:id="@id/agreement_view_for_double" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/passport_view_group_internal_margin_vertical" />
+    </LinearLayout>
+    <Button android:id="@id/login_other" android:layout_marginTop="@dimen/passport_view_group_internal_margin_vertical" android:text="@string/login_other" style="@style/Passport.CommonRoundButton" />
+</LinearLayout>

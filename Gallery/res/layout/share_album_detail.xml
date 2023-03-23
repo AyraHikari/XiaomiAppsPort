@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.GalleryPullZoomLayout android:id="@id/scrolling_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:gpzl_contentView="@id/content" app:gpzl_headerView="@id/face_header_item" app:gpzl_zoomableView="@id/header_background">
+        <include android:id="@id/face_header_item" layout="@layout/share_album_detail_header_item" />
+        <FrameLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/content" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/content_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <com.miui.gallery.share.ShareAlbumSyncTextLine android:textAppearance="@style/Gallery.TextAppearance.ShareAlbum.SyncLine" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/text_line_content" android:paddingTop="@dimen/sync_text_line_padding_top" android:paddingBottom="@dimen/sync_text_line_padding_bottom" android:layout_width="wrap_content" android:layout_height="0.0dip" android:maxWidth="@dimen/sync_text_line_share_album_max_width" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" android:lineHeight="20.0dip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+                <miuix.springback.view.SpringBackLayout android:id="@id/content_spring" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/home_page_margin_horizontal" android:layout_marginEnd="@dimen/home_page_margin_horizontal" app:scrollableView="@id/grid" app:springBackMode="bottom">
+                    <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/grid" android:paddingBottom="@dimen/safe_distance_bottom_share_album" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" style="@style/Gallery.Widget.GridView.ThumbNail" />
+                </miuix.springback.view.SpringBackLayout>
+            </LinearLayout>
+            <RelativeLayout android:id="@android:id/empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:showActionButton="false">
+                <ImageView android:id="@id/empty_icon" android:layout_width="100.0dip" android:layout_height="64.0dip" android:layout_marginTop="@dimen/share_album_detail_empty_icon_margin_top" android:src="@drawable/share_album_detail_empty_icon" android:scaleType="centerCrop" android:layout_centerHorizontal="true" />
+                <TextView android:textSize="15.0sp" android:textColor="@color/black_40_transparent_with_dark_mode" android:id="@id/empty_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:text="@string/album_detail_page_empty" android:layout_below="@id/empty_icon" android:layout_centerHorizontal="true" android:fontFamily="misans-regular" android:textFontWeight="340" />
+                <Button android:textSize="17.0sp" android:textColor="@color/black_80_transparent_with_dark_mode" android:id="@id/empty_button" android:background="@drawable/share_album_detail_empty_button_shape" android:layout_width="190.0dip" android:layout_height="51.0dip" android:layout_marginTop="18.0dip" android:text="@string/share_album_add_share_photos" android:layout_below="@id/empty_text" android:layout_centerHorizontal="true" android:fontFamily="misans-regular" android:textFontWeight="400" />
+            </RelativeLayout>
+        </FrameLayout>
+    </com.miui.gallery.widget.GalleryPullZoomLayout>
+    <include layout="@layout/floating_button" />
+</FrameLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="end|center" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:layout_gravity="center_vertical" android:id="@id/do_select" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/ok" style="@style/Gallery.Widget.ActionMode.Button" />
+    <Button android:id="@id/more" android:background="?immersionButtonMoreBackground" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/actionbar_overflow_item_desc" android:layout_marginStart="@dimen/cleaner_photo_pick_more_margin" />
+</LinearLayout>

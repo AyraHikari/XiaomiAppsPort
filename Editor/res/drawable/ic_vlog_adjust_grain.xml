@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/editor_menu_common_item_icon_size" android:width="@dimen/editor_menu_common_item_icon_size" android:viewportWidth="60.0" android:viewportHeight="60.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/vlog_adjust_icon_common_color" android:pathData="M33,19C33,20.6569 31.6569,22 30,22C28.3431,22 27,20.6569 27,19C27,17.3431 28.3431,16 30,16C31.6569,16 33,17.3431 33,19Z" />
+    <path android:fillColor="@color/vlog_adjust_icon_common_color" android:pathData="M40.2695,29.54C41.9264,29.54 43.2695,28.1969 43.2695,26.54C43.2695,24.8832 41.9264,23.54 40.2695,23.54C38.6127,23.54 37.2695,24.8832 37.2695,26.54C37.2695,28.1969 38.6127,29.54 40.2695,29.54Z" />
+    <path android:fillColor="@color/vlog_adjust_icon_common_color" android:pathData="M23.5576,41.6802C25.2145,41.6802 26.5576,40.337 26.5576,38.6802C26.5576,37.0233 25.2145,35.6802 23.5576,35.6802C21.9008,35.6802 20.5576,37.0233 20.5576,38.6802C20.5576,40.337 21.9008,41.6802 23.5576,41.6802Z" />
+    <path android:fillColor="@color/vlog_adjust_icon_common_color" android:pathData="M36.4746,41.6797C38.1315,41.6797 39.4746,40.3365 39.4746,38.6797C39.4746,37.0228 38.1315,35.6797 36.4746,35.6797C34.8178,35.6797 33.4746,37.0228 33.4746,38.6797C33.4746,40.3365 34.8178,41.6797 36.4746,41.6797Z" />
+    <path android:fillColor="@color/vlog_adjust_icon_common_color" android:pathData="M22.7305,26.54C22.7305,28.1969 21.3873,29.54 19.7305,29.54C18.0736,29.54 16.7305,28.1969 16.7305,26.54C16.7305,24.8832 18.0736,23.54 19.7305,23.54C21.3873,23.54 22.7305,24.8832 22.7305,26.54Z" />
+    <path android:fillColor="@color/vlog_adjust_icon_common_color" android:pathData="M56,30C56,44.3594 44.3594,56 30,56C15.6406,56 4,44.3594 4,30C4,15.6406 15.6406,4 30,4C44.3594,4 56,15.6406 56,30ZM50,30C50,41.0457 41.0457,50 30,50C18.9543,50 10,41.0457 10,30C10,18.9543 18.9543,10 30,10C41.0457,10 50,18.9543 50,30Z" android:fillType="evenOdd" />
+</vector>

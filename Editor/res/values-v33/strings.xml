@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="required_permissions">android.permission.READ_MEDIA_IMAGES;android.permission.READ_MEDIA_VIDEO;</string>
+</resources>

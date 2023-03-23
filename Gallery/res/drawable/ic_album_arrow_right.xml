@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/album_arrow_right_button_height" android:width="@dimen/album_arrow_right_button_width" android:autoMirrored="true" android:viewportWidth="10.0" android:viewportHeight="17.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/black_30_transparent_with_dark_mode" android:pathData="M7.2307,8.1502L2.4886,3.4082L1.7088,2.6284C1.4603,2.3798 1.4603,1.9768 1.7088,1.7282C1.9574,1.4796 2.3605,1.4796 2.6091,1.7282L3.3889,2.508L8.1309,7.25L8.9107,8.0298C9.0428,8.162 9.1047,8.3378 9.0964,8.5108C9.1053,8.6845 9.0435,8.8612 8.9108,8.9939L8.131,9.7737L3.389,14.5157L2.6092,15.2955C2.3606,15.5441 1.9575,15.5441 1.7089,15.2955C1.4604,15.0469 1.4604,14.6438 1.7089,14.3953L2.4887,13.6155L7.2308,8.8734L7.5923,8.5119L7.2307,8.1502Z" android:fillType="evenOdd" />
+</vector>

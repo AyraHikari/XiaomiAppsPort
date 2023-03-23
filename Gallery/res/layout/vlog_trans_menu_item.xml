@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/item_root" android:layout_width="@dimen/vlog_trans_item_width" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:gravity="center_horizontal" android:layout_width="@dimen/vlog_trans_item_width" android:layout_height="@dimen/vlog_trans_item_width">
+        <com.miui.gallery.editor.ui.view.RoundImageView android:id="@id/item_iv" android:layout_width="@dimen/vlog_trans_item_width" android:layout_height="@dimen/vlog_trans_item_width" android:scaleType="centerCrop" />
+        <ImageView android:id="@id/iv_selected" android:layout_width="@dimen/vlog_trans_item_selected" android:layout_height="@dimen/vlog_trans_item_selected" android:src="@drawable/editor_icon_selected" android:scaleType="centerCrop" android:layout_centerInParent="true" />
+        <com.miui.gallery.editor.ui.view.DownloadView android:gravity="top" android:id="@id/item_download" android:background="@drawable/editor_download_circle_backgroud_old" android:paddingBottom="@dimen/vlog_trans_item_download_view_padding_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBottom="@id/item_iv" android:paddingEnd="@dimen/vlog_trans_item_download_view_padding_end" android:layout_alignEnd="@id/item_iv" app:downloadingDrawable="@drawable/editor_downloading_old" app:toDownloadDrawable="@drawable/editor_download_old" />
+    </RelativeLayout>
+    <TextView android:textSize="@dimen/vlog_trans_item_title_size" android:textColor="@color/vlog_trans_view_title_color" android:ellipsize="marquee" android:layout_gravity="center_horizontal" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/vlog_trans_item_title_margin_top" android:singleLine="true" android:layout_alignParentBottom="true" />
+</LinearLayout>

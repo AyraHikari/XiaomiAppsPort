@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.editor.photo.core.imports.filter.FilterEditorView android:id="@id/gl_surface_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/editor_confirm_menu_height" />
+    <com.miui.gallery.editor.photo.widgets.ProtectiveImageView android:id="@id/image_placeholder" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/editor_confirm_menu_height" />
+    <com.airbnb.lottie.LottieAnimationView android:id="@id/progress" android:background="@drawable/editor_loading_background" android:visibility="gone" android:layout_width="@dimen/px_260" android:layout_height="@dimen/px_260" android:layout_marginStart="@dimen/editor_confirm_menu_height" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:lottie_autoPlay="true" app:lottie_loop="true" app:lottie_rawRes="@raw/loading" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/movie_root" android:background="@color/movie_view_background" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.movie.ui.view.MovieControllerView android:id="@id/movie_controller_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" />
+    <FrameLayout android:id="@id/preview_panel" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    <FrameLayout android:id="@id/nav_area" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="@dimen/photo_movie_edit_menu_height" android:layout_marginTop="@dimen/photo_movie_edit_menu_margin_top" android:layout_alignParentTop="true" />
+    <FrameLayout android:id="@id/editor_panel" android:paddingBottom="@dimen/photo_movie_edit_menu_guide_line_end" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="@dimen/photo_movie_edit_panel_height" android:layout_alignParentBottom="true" />
+</RelativeLayout>

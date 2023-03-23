@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="map_entrance_show_as_action">true</bool>
+</resources>

@@ -1,0 +1,28 @@
+{
+    "music name": "Normal10s",
+    "version": 1,
+    "music duration": 10000,
+    "clip max duration": 2280,
+	"fullSizeTrans": [{"transName":"Fade"}],
+	"halfSizeTrans": [{"transName":"Fade"}],
+	"h-fSizeTrans": [{"transName":"Fade"}],
+	"f-hSizeTrans": [{"transName":"Fade"}],
+    "points": [
+		{
+            "cutPoint": 1920,
+            "transLen": 800
+        },
+        {
+            "cutPoint": 4080,
+            "transLen": 800
+        },
+		{
+            "cutPoint": 5720,
+            "transLen": 800
+        },
+		{
+            "cutPoint": 8000,
+            "transLen": 800
+        }
+    ]
+}

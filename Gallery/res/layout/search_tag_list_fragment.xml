@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollableView="@id/result_view">
+        <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/result_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </miuix.springback.view.SpringBackLayout>
+    <include android:id="@id/info_view" android:visibility="gone" layout="@layout/search_full_screen_error_layout" />
+    <com.miui.gallery.widget.EmptyPage android:id="@id/empty_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:emptyIcon="@drawable/ic_pic_empty_things" app:emptyTitle="@string/search_result_empty" app:showActionButton="false"
+      xmlns:app="http://schemas.android.com/apk/res/com.miui.gallery" />
+    <include android:id="@id/loading_view" android:visibility="visible" layout="@layout/search_full_screen_loading_layout" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ViewStub android:layout_gravity="end|bottom|center" android:id="@id/search_feedback_task_indicator" android:layout="@layout/search_feedback_task_indicator_layout" android:layout_width="wrap_content" android:layout_height="@dimen/feedback_task_indicator_height" android:layout_margin="@dimen/feedback_task_indicator_margin" />
+    </FrameLayout>
+</FrameLayout>

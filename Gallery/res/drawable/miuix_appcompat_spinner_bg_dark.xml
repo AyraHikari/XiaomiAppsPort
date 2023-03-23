@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:start="@dimen/miuix_appcompat_spinner_bg_padding" android:end="@dimen/miuix_appcompat_spinner_bg_padding">
+        <miuix.smooth.SmoothContainerDrawable android:radius="@dimen/miuix_appcompat_spinner_round_corner_radius">
+            <child>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/miuix_appcompat_black" />
+                </shape>
+            </child>
+        </miuix.smooth.SmoothContainerDrawable>
+    </item>
+</layer-list>

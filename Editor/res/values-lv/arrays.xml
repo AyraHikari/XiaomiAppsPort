@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Balts</item>
+        <item>Tumši zils</item>
+        <item>Gaiši zils</item>
+        <item>Sarkans</item>
+        <item>Zaļš</item>
+        <item>Rozā</item>
+        <item>Brūns</item>
+        <item>Pelēks</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Izvēlēt attēlu</item>
+        <item>Caurspīdīgs fons</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Atpūta</item>
+        <item>Brīze</item>
+        <item>Sapņi</item>
+        <item>Mākoņi</item>
+        <item>Domas</item>
+        <item>Pumpuri</item>
+        <item>Metamorfoze</item>
+        <item>Dziļums</item>
+        <item>Atspīdumi</item>
+        <item>Minimālisms</item>
+        <item>Mistērija</item>
+        <item>Migla</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Futūristisks ģeometriskais fons</item>
+        <item>Veco meistaru izdruku atmosfēra</item>
+        <item>Pārvērtiet fonus par skicēm</item>
+        <item>Akvareļu stila foni</item>
+        <item>Retro kiberpunkts</item>
+        <item>Pārvietoti vertikāli segmenti</item>
+        <item>Miglains izplūdums</item>
+        <item>Futūristiska izjūta</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Mazie poli</item>
+        <item>Gravējums</item>
+        <item>Skice</item>
+        <item>Akvarelis</item>
+        <item>RGB</item>
+        <item>Žalūzijas</item>
+        <item>Miglains logs</item>
+        <item>Tehnoloģija</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Krāsaina struktūra</item>
+        <item>Svītrota struktūra</item>
+        <item>Fluorescējoša struktūra</item>
+        <item>Krāsaina ēna</item>
+        <item>Elektriskais vilnis</item>
+        <item>Strāva</item>
+        <item>Viļņi</item>
+        <item>Daļiņas</item>
+        <item>Teksts</item>
+        <item>Spārni</item>
+        <item>Eņģelis</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Vispārīgi</item>
+        <item>Ceļošana</item>
+        <item>Darbs</item>
+        <item>Dokumenti</item>
+        <item>Izglītība</item>
+        <item>Eksāmeni</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Sociālā drošība</item>
+        <item>Veselības paziņojums</item>
+        <item>Veselības apdrošināšana</item>
+        <item>ID</item>
+        <item>Uzturēšanās atļauja</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Divi cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Uzņemšanas pieteikums</item>
+        <item>Studentu tīkls</item>
+        <item>Pamatskolu studentu tīkls</item>
+        <item>Studentu tīkla profils</item>
+        <item>Universitātes uzņemšana</item>
+        <item>NCEE</item>
+        <item>CV</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Koledžas angļu valodas tests 1</item>
+        <item>Koledžas angļu valodas tests 2</item>
+        <item>Koledžas angļu valodas tests 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Pamatskolas un vidusskolas skolotāju sertificēšana</item>
+        <item>Skolotāju sertificēšana</item>
+        <item>Vadītāja apliecība</item>
+        <item>Rokasgrāmata</item>
+        <item>Elektroniskā rokasgrāmata</item>
+        <item>Nacionālās tiesvedības eksāmens</item>
+        <item>Pirmās klases elektroniskais konstruktora sertifikāts</item>
+        <item>Otrās klases konstruktora sertifikāts</item>
+        <item>Jaunākais grāmatvedības eksāmens</item>
+        <item>Sertificēts publiskais grāmatvedis</item>
+        <item>Pekinas ceļvedis</item>
+        <item>Starpposma grāmatvedības titulu eksāmens</item>
+        <item>Vecākais grāmatvedības titulu eksāmens</item>
+        <item>Grāmatveža kvalifikācijas sertifikāts</item>
+        <item>Sertificēta publiskā grāmatveža eksāmens</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>ASV</item>
+        <item>Vjetnama</item>
+        <item>Japāna</item>
+        <item>Honkonga un Makao</item>
+        <item>Dienvidkoreja</item>
+        <item>Taizeme (tūrists)</item>
+        <item>Taizeme (ierašanās brīdī)</item>
+        <item>Indija</item>
+        <item>Izraēla</item>
+        <item>Taivāna</item>
+        <item>Malaizija</item>
+        <item>Jaunzēlande</item>
+        <item>Itālija</item>
+        <item>Argentīna</item>
+        <item>Brazīlija</item>
+        <item>Īslande</item>
+        <item>Kenija</item>
+    </string-array>
+</resources>

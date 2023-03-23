@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="collage_stitching_layout_max_width">334.53906dip</dimen>
+    <dimen name="editor_menu_filter_category_gap">7.269989dip</dimen>
+    <dimen name="editor_menu_filter_item_gap">7.269989dip</dimen>
+    <dimen name="editor_menu_filter_top_guide_line_end">147.63998dip</dimen>
+    <dimen name="editor_menu_sticker_tab_width">61.819977dip</dimen>
+    <dimen name="editor_menu_sticker_top_guide_end">228.44dip</dimen>
+    <dimen name="editor_menu_sticker_view_pager_item_width">65.44998dip</dimen>
+    <dimen name="screen_editor_base_guideline_end">316.8828dip</dimen>
+    <dimen name="screen_editor_base_guideline_end_with_nearby_share">390.23438dip</dimen>
+    <dimen name="screen_editor_share_mode_bottom_guideline_end">316.8828dip</dimen>
+    <dimen name="screen_editor_share_mode_bottom_guideline_end_with_nearby_share">390.23438dip</dimen>
+    <dimen name="screen_editor_share_mode_title_height">64.889984dip</dimen>
+    <dimen name="screen_editor_share_mode_top_guideline_begin">64.889984dip</dimen>
+    <item type="dimen" name="text_edit_dialog_options_style_item_height">@dimen/px_210</item>
+    <item type="dimen" name="text_edit_dialog_options_style_item_width">@dimen/px_210</item>
+    <item type="dimen" name="editor_menu_item_min_width">@dimen/px_184</item>
+    <dimen name="photo_editor_frame_color_select_layout_margin_end">17.779999dip</dimen>
+    <dimen name="photo_editor_frame_seek_bar_margin_end">0.0dip</dimen>
+    <dimen name="text_edit_dialog_options_style_panel_rl_seek_bar_margin_right">15.109985dip</dimen>
+    <item type="dimen" name="text_edit_dialog_tab_font_item_img_width">@dimen/px_210</item>
+    <dimen name="text_edit_dialog_tab_font_margin">226.22dip</dimen>
+    <dimen name="text_edit_dialog_tab_font_recycler_item_spaces">14.549988dip</dimen>
+    <dimen name="text_edit_dialog_tab_style_recycler_view_margin_left">72.359985dip</dimen>
+    <dimen name="text_edit_dialog_tab_style_transparent_title_margin_right">9.819977dip</dimen>
+    <dimen name="text_edit_style_adapter_item_column_spaces">16.359985dip</dimen>
+    <dimen name="text_edit_style_adapter_item_spaces">14.549988dip</dimen>
+</resources>

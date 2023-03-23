@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/collage_margin_icon_wrapper" android:background="@drawable/layout_icon_background" android:layout_width="@dimen/collage_item_width" android:layout_height="@dimen/collage_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/collage_margin_icon" android:layout_width="@dimen/collage_margin_icon_size" android:layout_height="@dimen/collage_margin_icon_size" android:layout_marginTop="@dimen/px_83" android:src="@drawable/collage_layout_none_to_s" android:contentDescription="@null" />
+    <TextView android:textSize="@dimen/collage_margin_layout_text_size" android:textColor="@color/collage_margin_text_color" android:layout_gravity="bottom|center" android:id="@id/collage_margin_icon_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/px_75" android:text="@string/collage_margin_text" android:singleLine="true" android:fontFamily="mipro-medium" />
+</FrameLayout>

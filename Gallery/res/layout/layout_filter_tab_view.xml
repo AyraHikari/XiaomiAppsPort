@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_width="wrap_content" android:layout_height="wrap_content" miuix:descending="false" miuix:indicatorVisibility="gone" class="miuix.miuixbasewidget.widget.FilterSortView$TabView" style="@style/Widget.FilterSortTabView.DayNight"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:miuix="http://schemas.android.com/apk/res-auto" />

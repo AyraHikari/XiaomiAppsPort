@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:clickable="true" style="@style/Gallery.Widget.ListView.Item.TripleLine"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.RoundedImageView android:layout_gravity="center_vertical" android:id="@id/cover" android:background="@drawable/album_empty_cover" android:layout_width="@dimen/baby_lock_wallpaper_image_size" android:layout_height="@dimen/baby_lock_wallpaper_image_size" android:scaleType="centerCrop" app:outlineCornerRadius="@dimen/general_radius" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/file_info_layout" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:paddingStart="@dimen/baby_lock_wallpaper_name_margin" android:paddingEnd="@dimen/baby_lock_wallpaper_name_margin">
+        <TextView android:textSize="@dimen/baby_lock_wallpaper_name_size" android:id="@id/baby_album_name" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Gallery.TextAppearance.List.Primary" />
+    </LinearLayout>
+    <miuix.slidingwidget.widget.SlidingButton android:id="@id/slide_button" android:focusable="true" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

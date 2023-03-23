@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">في %d دق</item>
+        <item quantity="zero">في %d دق</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دق</item>
+        <item quantity="few">في %d دق</item>
+        <item quantity="many">في %d دق</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">منذ %d دقيقة</item>
+        <item quantity="zero">منذ %d دقيقة</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دقائق</item>
+        <item quantity="few">منذ %d دقائق</item>
+        <item quantity="many">منذ %d دقيقة</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">إضافة هذه العناصر إلى الألبوم الخاص؟</item>
+        <item quantity="zero">إضافة هذا العنصر إلى الألبوم الخاص؟</item>
+        <item quantity="one">إضافة هذا العنصر إلى الألبوم الخاص؟</item>
+        <item quantity="two">إضافة هذه العناصر إلى الألبوم الخاص؟</item>
+        <item quantity="few">إضافة هذه العناصر إلى الألبوم الخاص؟</item>
+        <item quantity="many">إضافة هذه العناصر إلى الألبوم الخاص؟</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">تم إضافة %d صورة Cloud، إيقاف تشغيل \"إظهار فقط الألبومات المحلية\" للعرض.</item>
+        <item quantity="zero">تم إضافة %d صورة Cloud، إيقاف تشغيل \"إظهار فقط الألبومات المحلية\" للعرض.</item>
+        <item quantity="one">تم إضافة %d صورة Cloud، إيقاف تشغيل \"إظهار فقط الألبومات المحلية\" للعرض.</item>
+        <item quantity="two">تم إضافة %d صور Cloud، إيقاف تشغيل \"إظهار فقط الألبومات المحلية\" للعرض.</item>
+        <item quantity="few">تم إضافة %d صور Cloud، إيقاف تشغيل \"إظهار فقط الألبومات المحلية\" للعرض.</item>
+        <item quantity="many">تم إضافة %d صورة Cloud، إيقاف تشغيل \"إظهار فقط الألبومات المحلية\" للعرض.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">لا يمكن إضافة %2$d عنصر إلى الألبوم. %1$s.</item>
+        <item quantity="zero">لا يمكن إضافة %2$d عنصر إلى الألبوم. %1$s.</item>
+        <item quantity="one">لا يمكن إضافة %2$d عنصر إلى الألبوم. %1$s.</item>
+        <item quantity="two">لا يمكن إضافة %2$d عناصر إلى الألبوم. %1$s.</item>
+        <item quantity="few">لا يمكن إضافة %2$d عناصر إلى الألبوم. %1$s.</item>
+        <item quantity="many">لا يمكن إضافة %2$d عنصر إلى الألبوم. %1$s.</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">لا يمكن إضافة %2$d عنصر إلى الألبوم الخاص. %1$s.</item>
+        <item quantity="zero">لا يمكن إضافة %2$d عنصر إلى الألبوم الخاص. %1$s.</item>
+        <item quantity="one">لا يمكن إضافة %2$d عنصر إلى الألبوم الخاص. %1$s.</item>
+        <item quantity="two">لا يمكن إضافة %2$d عناصر إلى الألبوم الخاص. %1$s.</item>
+        <item quantity="few">لا يمكن إضافة %2$d عناصر إلى الألبوم الخاص. %1$s.</item>
+        <item quantity="many">لا يمكن إضافة %2$d عنصر إلى الألبوم الخاص. %1$s.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d أيام</item>
+        <item quantity="few">%d يوم</item>
+        <item quantity="many">%d يوم</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d شهر</item>
+        <item quantity="zero">%d شهر</item>
+        <item quantity="one">%d شهر</item>
+        <item quantity="two">%d شهور</item>
+        <item quantity="few">%d شهر</item>
+        <item quantity="many">%d شهر</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d سنة</item>
+        <item quantity="zero">%d سنة</item>
+        <item quantity="one">%d سنة</item>
+        <item quantity="two">%d سنوات</item>
+        <item quantity="few">%d سنوات</item>
+        <item quantity="many">%d سنة</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">تم المشاركة إلى %d شخص</item>
+        <item quantity="zero">تم المشاركة إلى %d شخص</item>
+        <item quantity="one">تم المشاركة إلى %d شخص</item>
+        <item quantity="two">تم المشاركة إلى %d أشخاص</item>
+        <item quantity="few">تم المشاركة إلى %d أشخاص</item>
+        <item quantity="many">تم المشاركة إلى %d شخص</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d صورة</item>
+        <item quantity="zero">%d صورة</item>
+        <item quantity="one">%d صورة</item>
+        <item quantity="two">%d صور</item>
+        <item quantity="few">%d صور</item>
+        <item quantity="many">%d صورة</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d عنصر| %2$s</item>
+        <item quantity="zero">%1$d عنصر| %2$s</item>
+        <item quantity="one">%1$d عنصر| %2$s</item>
+        <item quantity="two">%1$d عناصر| %2$s</item>
+        <item quantity="few">%1$d عناصر| %2$s</item>
+        <item quantity="many">%1$d عنصر| %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d عنصر)</item>
+        <item quantity="zero">(%d عنصر)</item>
+        <item quantity="one">(%d عنصر)</item>
+        <item quantity="two">(%d عناصر)</item>
+        <item quantity="few">(%d عناصر)</item>
+        <item quantity="many">(%d عنصر)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d ألبوم</item>
+        <item quantity="zero">%d ألبوم</item>
+        <item quantity="one">%d ألبوم</item>
+        <item quantity="two">%d ألبومات</item>
+        <item quantity="few">%d ألبومات</item>
+        <item quantity="many">%d ألبوم</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s شخص يمكنه مشاهدة هذا الألبوم</item>
+        <item quantity="zero">%s شخص يمكنه مشاهدة هذا الألبوم</item>
+        <item quantity="one">%s شخص يمكنه مشاهدة هذا الألبوم</item>
+        <item quantity="two">%s أشخاص يمكنه مشاهدة هذا الألبوم</item>
+        <item quantity="few">%s أشخاص يمكنه مشاهدة هذا الألبوم</item>
+        <item quantity="many">%s شخص يمكنه مشاهدة هذا الألبوم</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">تحديث %2$d ألبوم بما في ذلك %1$s</item>
+        <item quantity="zero">تحديث %2$d ألبوم بما في ذلك %1$s</item>
+        <item quantity="one">تحديث %2$d ألبوم بما في ذلك %1$s</item>
+        <item quantity="two">تحديث %2$d ألبومات بما في ذلك %1$s</item>
+        <item quantity="few">تحديث %2$d ألبومات بما في ذلك %1$s</item>
+        <item quantity="many">تحديث %2$d ألبوم بما في ذلك %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d عنصر</item>
+        <item quantity="zero">%1$d عنصر</item>
+        <item quantity="one">%1$d عنصر</item>
+        <item quantity="two">%1$d عناصر</item>
+        <item quantity="few">%1$d عناصر</item>
+        <item quantity="many">%1$d عنصر</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d ذكرى</item>
+        <item quantity="zero">%d ذكرى</item>
+        <item quantity="one">%d ذكرى</item>
+        <item quantity="two">%d ذكريات</item>
+        <item quantity="few">%d ذكريات</item>
+        <item quantity="many">%d ذكرى</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d صورة من %2$s ستتم إضافتها</item>
+        <item quantity="zero">%1$d صورة من %2$s ستتم إضافتها</item>
+        <item quantity="one">%1$d صورة من %2$s ستتم إضافتها</item>
+        <item quantity="two">%1$d صور من %2$s سيتم إضافتها</item>
+        <item quantity="few">%1$d صور من %2$s سيتم إضافتها</item>
+        <item quantity="many">%1$d صورة من %2$s ستتم إضافتها</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d صورة من %2$s ستتم أضافتها</item>
+        <item quantity="zero">%1$d صورة من %2$s ستتم إضافتها</item>
+        <item quantity="one">%1$d صورة من %2$s ستتم إضافتها</item>
+        <item quantity="two">%1$d صور من %2$s سيتم إضافتها</item>
+        <item quantity="few">%1$d صور من %2$s سيتم إضافتها</item>
+        <item quantity="many">%1$d صورة من %2$s ستتم إضافتها</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">إعادة تسمية النسخة الاحتياطية في غضون %d ساعة</item>
+        <item quantity="zero">إعادة تسمية النسخة الاحتياطية في غضون %d ساعة</item>
+        <item quantity="one">إعادة تسمية النسخة الاحتياطية في غضون %d ساعة</item>
+        <item quantity="two">إعادة تسمية النسخة الاحتياطية في غضون %d ساعات</item>
+        <item quantity="few">إعادة تسمية النسخة الاحتياطية في غضون %d ساعات</item>
+        <item quantity="many">إعادة تسمية النسخة الاحتياطية في غضون %d ساعة</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="zero">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="one">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="two">تجاوز %d عناصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="few">تجاوز %d عناصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="many">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">سيتم الاستئناف بعد %dدق</item>
+        <item quantity="zero">سيتم الاستئناف بعد %dدق</item>
+        <item quantity="one">سيتم الاستئناف بعد %dدق</item>
+        <item quantity="two">سيتم الاستئناف بعد %dدق</item>
+        <item quantity="few">سيتم الاستئناف بعد %dدق</item>
+        <item quantity="many">سيتم الاستئناف بعد %dدق</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d دقيقة.</item>
+        <item quantity="zero">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d دقيقة.</item>
+        <item quantity="one">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d دقيقة.</item>
+        <item quantity="two">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d دقائق.</item>
+        <item quantity="few">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d قائق.</item>
+        <item quantity="many">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d دقيقة.</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d صورة وفيديو | %2$s</item>
+        <item quantity="zero">%1$d صورة وفيديو | %2$s</item>
+        <item quantity="one">%1$d صورة وفيديو | %2$s</item>
+        <item quantity="two">%1$d صور وفيديوهات | %2$s</item>
+        <item quantity="few">%1$d صور وفيديوهات | %2$s</item>
+        <item quantity="many">%1$d صورة وفيديو | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d صورة وفيديو</item>
+        <item quantity="zero">%1$d صورة وفيديو</item>
+        <item quantity="one">%1$d صورة وفيديو</item>
+        <item quantity="two">%1$d صور وفيديوهات</item>
+        <item quantity="few">%1$d صور وفيديوهات</item>
+        <item quantity="many">%1$d صورة وفيديو</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d صورة</item>
+        <item quantity="zero">%d صور</item>
+        <item quantity="one">%d صور</item>
+        <item quantity="two">%d صورة</item>
+        <item quantity="few">%d صور</item>
+        <item quantity="many">%d صورة</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">حذف %d صورة لم تحددها؟</item>
+        <item quantity="zero">حذف %d صورة لم تحددها؟</item>
+        <item quantity="one">حذف %d صورة لم تحددها؟</item>
+        <item quantity="two">حذف %d صور لم تحددها؟</item>
+        <item quantity="few">حذف %d صور لم تحددها؟</item>
+        <item quantity="many">حذف %d صورة لم تحددها؟</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">حذف %d صورة</item>
+        <item quantity="zero">حذف %d صورة</item>
+        <item quantity="one">حذف %d صورة</item>
+        <item quantity="two">حذف %d صور</item>
+        <item quantity="few">حذف %d صور</item>
+        <item quantity="many">حذف %d صورة</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">حفظ %d صورة محددة</item>
+        <item quantity="zero">حفظ %d صورة محددة</item>
+        <item quantity="one">حفظ %d صورة محددة</item>
+        <item quantity="two">حفظ %d صور محددة</item>
+        <item quantity="few">حفظ %d صور محددة</item>
+        <item quantity="many">حفظ %d صورة محددة</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d صورة</item>
+        <item quantity="zero">%d صور</item>
+        <item quantity="one">%d صورة</item>
+        <item quantity="two">%d صور</item>
+        <item quantity="few">%d صور</item>
+        <item quantity="many">%d صورة</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d فيديو</item>
+        <item quantity="zero">%d فيديو</item>
+        <item quantity="one">%d فيديوهات</item>
+        <item quantity="two">%d فيديوهات</item>
+        <item quantity="few">%d فيديوهات</item>
+        <item quantity="many">%d فيديو</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">لا تتوفر مساحة كافية على Cloud لمزامنة %d عنصر</item>
+        <item quantity="zero">لا تتوفر مساحة كافية على Cloud لمزامنة %d عنصر</item>
+        <item quantity="one">لا تتوفر مساحة كافية على Cloud لمزامنة %d عنصر</item>
+        <item quantity="two">لا تتوفر مساحة كافية على Cloud لمزامنة %d عناصر</item>
+        <item quantity="few">لا تتوفر مساحة كافية على Cloud لمزامنة %d عناصر</item>
+        <item quantity="many">لا تتوفر مساحة كافية على Cloud لمزامنة %d عنصر</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">يمكن أن يحتوي دمج الصور %1$d- %2$d صورة</item>
+        <item quantity="zero">يمكن أن يحتوي دمج الصور %1$d- %2$d صورة</item>
+        <item quantity="one">يمكن أن يحتوي دمج الصور %1$d-%2$d صورة</item>
+        <item quantity="two">يمكن أن يحتوي دمج الصور %1$d- %2$d صور</item>
+        <item quantity="few">يمكن أن يحتوي دمج الصور %1$d- %2$d صور</item>
+        <item quantity="many">يمكن أن يحتوي دمج الصور %1$d- %2$d صورة</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">حدد مايصل إلى %d صورة</item>
+        <item quantity="zero">حدد مايصل إلى %d صورة</item>
+        <item quantity="one">حدد مايصل إلى %d صورة</item>
+        <item quantity="two">حدد مايصل إلى %d صور</item>
+        <item quantity="few">حدد مايصل إلى %d صور</item>
+        <item quantity="many">حدد مايصل إلى %d صورة</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d عنصر مُحدد</item>
+        <item quantity="zero">%d عنصر مُحدد</item>
+        <item quantity="one">%d عنصر مُحدد</item>
+        <item quantity="two">%d عناصر مُحددة</item>
+        <item quantity="few">%d عناصر مُحددة</item>
+        <item quantity="many">%d عنصر مُحدد</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">حذف %d لقطة متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
+        <item quantity="zero">حذف %d لقطة متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
+        <item quantity="one">حذف %d لقطة متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
+        <item quantity="two">حذف %d لقطات متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
+        <item quantity="few">حذف %d لقطات متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
+        <item quantity="many">حذف %d لقطة متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">حذف %d لقطة متتالية؟</item>
+        <item quantity="zero">حذف %d لقطة متتالية؟</item>
+        <item quantity="one">حذف %d لقطة متتالية؟</item>
+        <item quantity="two">حذف %d لقطات متتالية؟</item>
+        <item quantity="few">حذف %d لقطات متتالية؟</item>
+        <item quantity="many">حذف %d لقطة متتالية؟</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">تم حذف %d عنصر</item>
+        <item quantity="zero">تم حذف %d عنصر</item>
+        <item quantity="one">تم حذف %d عنصر</item>
+        <item quantity="two">تم حذف %d عناصر</item>
+        <item quantity="few">تم حذف %d عناصر</item>
+        <item quantity="many">تم حذف %d عنصر</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">حذف %d عنصر من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="zero">حذف %d عنصر من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="one">حذف %d عنصر من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="two">حذف %d عناصر من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="few">حذف %d عناصر من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="many">حذف %d عنصر من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">حذف %d عنصر؟</item>
+        <item quantity="zero">حذف %d عناصر؟</item>
+        <item quantity="one">حذف %d عنصر؟</item>
+        <item quantity="two">حذف %d عناصر؟</item>
+        <item quantity="few">حذف %d عناصر؟</item>
+        <item quantity="many">حذف %d عنصر؟</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">حذف %d صورة من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="zero">حذف %d صورة من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="one">حذف %d صورة من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="two">حذف %d صور من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="few">حذف %d صور من جميع الأجهزة ومن Mi Cloud؟</item>
+        <item quantity="many">حذف %d صورة من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">حذف %d لقطة متتالية من الجهاز؟</item>
+        <item quantity="zero">حذف %d لقطة متتالية من الجهاز؟</item>
+        <item quantity="one">حذف %d لقطة متتالية من الجهاز؟</item>
+        <item quantity="two">حذف %d لقطات متتالية من الجهاز؟</item>
+        <item quantity="few">حذف %d لقطات متتالية من الجهاز؟</item>
+        <item quantity="many">حذف %d لقطة متتالية من الجهاز؟</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">حذف %d فيديو من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="zero">حذف %d فيديو من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="one">حذف %d فيديو من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="two">حذف %d فيديوهات من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="few">حذف %d فيديوهات من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+        <item quantity="many">حذف %d فيديو من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">تعذر تنزيل %1$d ملف</item>
+        <item quantity="zero">تعذر تنزيل %1$d ملف</item>
+        <item quantity="one">تعذر تنزيل %1$d ملف</item>
+        <item quantity="two">تعذر تنزيل %1$d ملفات</item>
+        <item quantity="few">تعذر تنزيل %1$d ملفات</item>
+        <item quantity="many">تعذر تنزيل %1$d ملف</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">تعذر تنزيل %1$d ملف، تحقق من اتصال الشبكة ثم حاول مجددا</item>
+        <item quantity="zero">تعذر تنزيل %1$d ملف، تحقق من اتصال الشبكة ثم حاول مجددا</item>
+        <item quantity="one">تعذر تنزيل %1$d ملف، تحقق من اتصال الشبكة ثم حاول مجددا</item>
+        <item quantity="two">تعذر تنزيل %1$d ملفات، تحقق من اتصال الشبكة ثم حاول مجددا</item>
+        <item quantity="few">تعذر تنزيل %1$d ملفات، تحقق من اتصال الشبكة ثم حاول مجددا</item>
+        <item quantity="many">تعذر تنزيل %1$d ملف، تحقق من اتصال الشبكة ثم حاول مجددا</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">يتم مزامنة العناصر من Cloud (%2$d/%1$d)</item>
+        <item quantity="zero">يتم مزامنة العناصر من Cloud (%2$d/%1$d)</item>
+        <item quantity="one">يتم مزامنة العناصر من Cloud (%2$d/%1$d)</item>
+        <item quantity="two">يتم مزامنة العناصر من Cloud (%2$d/%1$d)</item>
+        <item quantity="few">يتم مزامنة العناصر من Cloud (%2$d/%1$d)</item>
+        <item quantity="many">يتم مزامنة العناصر من Cloud (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">مجموع %d صورة</item>
+        <item quantity="zero">مجموع %d صور</item>
+        <item quantity="one">مجموع %d صورة</item>
+        <item quantity="two">مجموع %d صور</item>
+        <item quantity="few">مجموع %d صور</item>
+        <item quantity="many">مجموع %d صورة</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">جارٍ معالجة الصورة…</item>
+        <item quantity="zero">جارٍ معالجة الصورة…</item>
+        <item quantity="one">جارٍ معالجة الصورة…</item>
+        <item quantity="two">جارٍ معالجة الصور…</item>
+        <item quantity="few">جارٍ معالجة الصور…</item>
+        <item quantity="many">جارٍ معالجة الصورة…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">تم تخطي %1$d صور تعذر عرضها.</item>
+        <item quantity="zero">تم تخطي %1$d صورة تعذر عرضها.</item>
+        <item quantity="one">تم تخطي %1$d صورة تعذر عرضها.</item>
+        <item quantity="two">تم تخطي %1$d صور تعذر عرضها.</item>
+        <item quantity="few">تم تخطي %1$d صورة تعذر عرضها.</item>
+        <item quantity="many">تم تخطي %1$d صور تعذر عرضها.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ملف</item>
+        <item quantity="zero">%1$d ملف</item>
+        <item quantity="one">%1$d ملف</item>
+        <item quantity="two">%1$d ملفات</item>
+        <item quantity="few">%1$d ملفات</item>
+        <item quantity="many">%1$d ملف</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">في %d دقيقة</item>
+        <item quantity="zero">في %d دقيقة</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دقائق</item>
+        <item quantity="few">في %d دقائق</item>
+        <item quantity="many">في %d دقيقة</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">%d دقائق</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d ثانية</item>
+        <item quantity="zero">%d ثانية</item>
+        <item quantity="one">%d ثانية</item>
+        <item quantity="two">%d ثواني</item>
+        <item quantity="few">%d ثواني</item>
+        <item quantity="many">%d ثانية</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">تم تحديد %d عنصر</item>
+        <item quantity="zero">تم تحديد %d عنصر</item>
+        <item quantity="one">تم تحديد %d عنصر</item>
+        <item quantity="two">تم تحديد %d عناصر</item>
+        <item quantity="few">تم تحديد %d عناصر</item>
+        <item quantity="many">تم تحديد %d عنصر</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">منذ %d دق</item>
+        <item quantity="zero">منذ %d دق</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دق</item>
+        <item quantity="few">منذ %d دق</item>
+        <item quantity="many">منذ %d دق</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d عنصر في انتظار المزامنة</item>
+        <item quantity="zero">%1$d عنصر في انتظار المزامنة</item>
+        <item quantity="one">%1$d عنصر في انتظار المزامنة</item>
+        <item quantity="two">%1$d عناصر في انتظار المزامنة</item>
+        <item quantity="few">%1$d عنصر في انتظار المزامنة</item>
+        <item quantity="many">%1$d عنصر في انتظار المزامنة</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d صورة</item>
+        <item quantity="zero">%1$d صورة</item>
+        <item quantity="one">%1$d صورة</item>
+        <item quantity="two">%1$d صور</item>
+        <item quantity="few">%1$d صور</item>
+        <item quantity="many">%1$d صورة</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d صورة في انتظار المزامنة</item>
+        <item quantity="zero">%1$d صورة في انتظار المزامنة</item>
+        <item quantity="one">%1$d صورة في انتظار المزامنة</item>
+        <item quantity="two">%1$d صور في انتظار المزامنة</item>
+        <item quantity="few">%1$d صور في انتظار المزامنة</item>
+        <item quantity="many">%1$d صورة في انتظار المزامنة</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">جارٍ مزامنة %1$dصورة…</item>
+        <item quantity="zero">جارٍ مزامنة %1$dصورة…</item>
+        <item quantity="one">جارٍ مزامنة %1$dصورة…</item>
+        <item quantity="two">جارٍ مزامنة %1$dصور…</item>
+        <item quantity="few">جارٍ مزامنة %1$dصور…</item>
+        <item quantity="many">جارٍ مزامنة %1$dصورة…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">جارٍ مزامنة %1$d عنصر…</item>
+        <item quantity="zero">جارٍ مزامنة %1$d عنصر…</item>
+        <item quantity="one">جارٍ مزامنة %1$d عنصر…</item>
+        <item quantity="two">جارٍ مزامنة %1$d عناصر…</item>
+        <item quantity="few">جارٍ مزامنة %1$d عناصر…</item>
+        <item quantity="many">جارٍ مزامنة %1$d عنصر…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">جارٍ مزامنة %1$d فيديو…</item>
+        <item quantity="zero">جارٍ مزامنة %1$d فيديو…</item>
+        <item quantity="one">جارٍ مزامنة %1$d فيديو…</item>
+        <item quantity="two">جارٍ مزامنة %1$d فيديوهات…</item>
+        <item quantity="few">جارٍ مزامنة %1$d فيديوهات…</item>
+        <item quantity="many">جارٍ مزامنة %1$d فيديو…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d فيديو</item>
+        <item quantity="zero">%1$d فيديو</item>
+        <item quantity="one">%1$d فيديو</item>
+        <item quantity="two">%1$d فيديوهات</item>
+        <item quantity="few">%1$d فيديوهات</item>
+        <item quantity="many">%1$d فيديو</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d فيديو في انتظار المزامنة</item>
+        <item quantity="zero">%1$d فيديو في انتظار المزامنة</item>
+        <item quantity="one">%1$d فيديو في انتظار المزامنة</item>
+        <item quantity="two">%1$d فيديوهات في انتظار المزامنة</item>
+        <item quantity="few">%1$d فيديوهات في انتظار المزامنة</item>
+        <item quantity="many">%1$d فيديو في انتظار المزامنة</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d صورة</item>
+        <item quantity="zero">%d صورة</item>
+        <item quantity="one">%d صورة</item>
+        <item quantity="two">%d صور</item>
+        <item quantity="few">%d صور</item>
+        <item quantity="many">%d صورة</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">%1$d عنصر</item>
+        <item quantity="zero">%1$d عنصر</item>
+        <item quantity="one">%1$d عنصر</item>
+        <item quantity="two">%1$d عناصر</item>
+        <item quantity="few">%1$d عناصر</item>
+        <item quantity="many">%1$d عنصر</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">تدوير %d درجة</item>
+        <item quantity="zero">تدوير %d درجة</item>
+        <item quantity="one">تدوير %d درجة</item>
+        <item quantity="two">تدوير %d درجات</item>
+        <item quantity="few">تدوير %d درجات</item>
+        <item quantity="many">تدوير %d درجة</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d أيام</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يوم</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">%d ساعة</item>
+        <item quantity="two">%d ساعات</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">تمت تصفية %d عنصر غير معتمد</item>
+        <item quantity="zero">تمت تصفية %d عنصر غير معتمد</item>
+        <item quantity="one">تمت تصفية %d عنصر غير معتمد</item>
+        <item quantity="two">تمت تصفية %d عناصر غير معتمدة</item>
+        <item quantity="few">تمت تصفية %d عناصر غير معتمدة</item>
+        <item quantity="many">تمت تصفية %d عنصر غير معتمد</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">يمكن أن تحتوي ملفات PDF ما يصل إلى %d صورة</item>
+        <item quantity="zero">يمكن أن تحتوي ملفات PDF ما يصل إلى %d صورة</item>
+        <item quantity="one">يمكن أن تحتوي ملفات PDF ما يصل إلى %d صورة</item>
+        <item quantity="two">يمكن أن تحتوي ملفات PDF ما يصل إلى %d صور</item>
+        <item quantity="few">يمكن أن تحتوي ملفات PDF ما يصل إلى %d صور</item>
+        <item quantity="many">يمكن أن تحتوي ملفات PDF ما يصل إلى %d صورة</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">الصور المُحددة ليست على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="zero">الصورة المُحددة ليست على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="one">الصورة المُحددة ليست على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="two">الصور المُحددة ليست على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="few">الصور المُحددة ليست على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="many">الصور المُحددة ليست على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">الصور المُحددة ليست على الجهاز. سيتم تحميلها.</item>
+        <item quantity="zero">الصورة المُحددة ليست على الجهاز. سيتم تحميلها.</item>
+        <item quantity="one">الصورة المُحددة ليست على الجهاز. سيتم تحميلها.</item>
+        <item quantity="two">الصور المُحددة ليست على الجهاز. سيتم تحميلها.</item>
+        <item quantity="few">الصور المُحددة ليست على الجهاز. سيتم تحميلها.</item>
+        <item quantity="many">الصور المُحددة ليست على الجهاز. سيتم تحميلها.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">لا توجد الصور المحددة (%d ميجابايت) على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="zero">لا توجد الصور المحددة (%d ميجابايت) على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="one">لا توجد الصور المحددة (%d ميجابايت) على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="two">لا توجد الصور المحددة (%d ميجابايت) على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="few">لا توجد الصور المحددة (%d ميجابايت) على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="many">لا توجد الصور المحددة (%d ميجابايت) على الجهاز. التحميل بإستخدام بيانات الهاتف؟</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">لم يتم تنزيل %d ملف بعد. إلغاء التنزيل على أية حال؟</item>
+        <item quantity="zero">لم يتم تنزيل %d ملف بعد. إلغاء التنزيل على أية حال؟</item>
+        <item quantity="one">لم يتم تنزيل %d ملف بعد. إلغاء التنزيل على أية حال؟</item>
+        <item quantity="two">لم يتم تنزيل %d ملفات بعد. إلغاء التنزيل على أية حال؟</item>
+        <item quantity="few">لم يتم تنزيل %d ملفات بعد. إلغاء التنزيل على أية حال؟</item>
+        <item quantity="many">لم يتم تنزيل %d ملف بعد. إلغاء التنزيل على أية حال؟</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">يتم تنزيل %d من الملفات المتبقية</item>
+        <item quantity="zero">يتم تنزيل %d من الملفات المتبقية</item>
+        <item quantity="one">يتم تنزيل %d من الملفات المتبقية</item>
+        <item quantity="two">يتم تنزيل %d من الملفات المتبقية</item>
+        <item quantity="few">يتم تنزيل %d من الملفات المتبقية</item>
+        <item quantity="many">يتم تنزيل %d من الملفات المتبقية</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">تعذر تحميل %1$d صورة، قم بتوصيل الشبكة وأعد المحاولة</item>
+        <item quantity="zero">تعذر تحميل %1$d صورة، قم بتوصيل الشبكة وأعد المحاولة</item>
+        <item quantity="one">تعذر تحميل %1$d صورة، قم بتوصيل الشبكة وأعد المحاولة</item>
+        <item quantity="two">تعذر تحميل %1$d صور، قم بتوصيل الشبكة وأعد المحاولة</item>
+        <item quantity="few">تعذر تحميل %1$d صور، قم بتوصيل الشبكة وأعد المحاولة</item>
+        <item quantity="many">تعذر تحميل %1$d صورة، قم بتوصيل الشبكة وأعد المحاولة</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">لا يمكن تنزيل %1$d ملف (%2$d م.ب). قم بالاتصال بالشبكة وحاول مجددا.</item>
+        <item quantity="zero">لا يمكن تنزيل %1$d ملف (%2$d م.ب). قم بالاتصال بالشبكة وحاول مجددا.</item>
+        <item quantity="one">لا يمكن تنزيل %1$d ملف (%2$d م.ب). قم بالاتصال بالشبكة وحاول مجددا.</item>
+        <item quantity="two">لا يمكن تنزيل %1$d ملفات (%2$d م.ب). قم بالاتصال بالشبكة وحاول مجددا.</item>
+        <item quantity="few">لا يمكن تنزيل %1$d ملفات (%2$d م.ب). قم بالاتصال بالشبكة وحاول مجددا.</item>
+        <item quantity="many">لا يمكن تنزيل %1$d ملف (%2$d م.ب). قم بالاتصال بالشبكة وحاول مجددا.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">لم يتم تنزيل %1$d ملف (%2$d م.ب) بعد. هل ترغب في التنزيل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="zero">لم يتم تنزيل %1$d ملف (%2$d م.ب) بعد. هل ترغب في التنزيل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="one">لم يتم تنزيل %1$d ملف (%2$d م.ب) بعد. هل ترغب في التنزيل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="two">لم يتم تنزيل %1$d ملفات (%2$d م.ب) بعد. هل ترغب في التنزيل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="few">لم يتم تنزيل %1$d ملفات (%2$d م.ب) بعد. هل ترغب في التنزيل بإستخدام بيانات الهاتف؟</item>
+        <item quantity="many">لم يتم تنزيل %1$d ملف (%2$d م.ب) بعد. هل ترغب في التنزيل بإستخدام بيانات الهاتف؟</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">تعذر تحميل %1$d صورة، إعادة المحاولة؟</item>
+        <item quantity="zero">تعذر تحميل %1$d صورة، إعادة المحاولة؟</item>
+        <item quantity="one">تعذر تحميل %1$d صورة، إعادة المحاولة؟</item>
+        <item quantity="two">تعذر تحميل %1$d صور، إعادة المحاولة؟</item>
+        <item quantity="few">تعذر تحميل %1$d صور، إعادة المحاولة؟</item>
+        <item quantity="many">تعذر تحميل %1$d صورة، إعادة المحاولة؟</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">تعذر تحميل %1$d صورة (%2$d ميجابايت)، هل ترغب في إعادة المحاولة؟</item>
+        <item quantity="zero">تعذر تحميل %1$d صورة (%2$d ميجابايت)، هل ترغب في إعادة المحاولة؟</item>
+        <item quantity="one">تعذر تحميل %1$d صورة (%2$d ميجابايت)، هل ترغب في إعادة المحاولة؟</item>
+        <item quantity="two">تعذر تحميل %1$d صور (%2$d ميجابايت)، هل ترغب في إعادة المحاولة؟</item>
+        <item quantity="few">تعذر تحميل %1$d صور (%2$d ميجابايت)، هل ترغب في إعادة المحاولة؟</item>
+        <item quantity="many">تعذر تحميل %1$d صورة (%2$d ميجابايت)، هل ترغب في إعادة المحاولة؟</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">تخطي %d صورة ليست موجودة على الجهاز.</item>
+        <item quantity="zero">تخطي %d صورة ليست موجودة على الجهاز.</item>
+        <item quantity="one">تخطي %d صورة ليست موجودة على الجهاز.</item>
+        <item quantity="two">تخطي %d صور ليست موجودة على الجهاز.</item>
+        <item quantity="few">تخطي %d صور ليست موجودة على الجهاز.</item>
+        <item quantity="many">تخطي %d صورة ليست موجودة على الجهاز.</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">تم العثور على %1$d صورة جديدة</item>
+        <item quantity="zero">تم العثور على %1$d صورة جديدة</item>
+        <item quantity="one">تم العثور على %1$d صورة جديدة</item>
+        <item quantity="two">تم العثور على %1$d صور جديدة</item>
+        <item quantity="few">تم العثور على %1$d صور جديدة</item>
+        <item quantity="many">تم العثور على %1$d صورة جديدة</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">مجموع %d صورة</item>
+        <item quantity="zero">مجموع %d صور</item>
+        <item quantity="one">مجموع %d صورة</item>
+        <item quantity="two">مجموع %d صور</item>
+        <item quantity="few">مجموع %d صور</item>
+        <item quantity="many">مجموع %d صورة</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">لا يمكن إزالة %2$d عنصر من الألبوم الخاص. %1$s.</item>
+        <item quantity="zero">لا يمكن إزالة %2$d عنصر من الألبوم الخاص. %1$s.</item>
+        <item quantity="one">لا يمكن إزالة %2$d عنصر من الألبوم الخاص. %1$s.</item>
+        <item quantity="two">لا يمكن إزالة %2$d عناصر من الألبوم الخاص. %1$s.</item>
+        <item quantity="few">لا يمكن إزالة %2$d عناصر من الألبوم الخاص. %1$s.</item>
+        <item quantity="many">لا يمكن إزالة %2$d عنصر من الألبوم الخاص. %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">تمت إضافة %1$d صورة من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+        <item quantity="zero">تمت إضافة %1$d صورة من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+        <item quantity="one">تمت إضافة %1$d صورة من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+        <item quantity="two">تمت إضافة %1$d صور من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+        <item quantity="few">تمت إضافة %1$d صور من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+        <item quantity="many">تمت إضافة %1$d صورة من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">حذف %1$d صورة من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+        <item quantity="zero">حذف %1$d صورة من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+        <item quantity="one">حذف %1$d صورة من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+        <item quantity="two">حذف %1$d صور من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+        <item quantity="few">حذف %1$d صور من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+        <item quantity="many">حذف %1$d صورة من \"%2$s\" وإضافتها إلى قاعدة البيانات.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">تمت إضافة %1$d صورة إلى \"%2$s\".</item>
+        <item quantity="zero">تمت إضافة %1$d صورة إلى \"%2$s\".</item>
+        <item quantity="one">تمت إضافة %1$d صورة إلى \"%2$s\".</item>
+        <item quantity="two">تمت إضافة %1$d صور إلى \"%2$s\".</item>
+        <item quantity="few">تمت إضافة %1$d صور إلى \"%2$s\".</item>
+        <item quantity="many">تمت إضافة %1$d صورة إلى \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">حذف %1$d صورة من \"%2$s\".</item>
+        <item quantity="zero">حذف %1$d صورة من \"%2$s\".</item>
+        <item quantity="one">حذف %1$d صورة من \"%2$s\".</item>
+        <item quantity="two">حذف %1$d صور من \"%2$s\".</item>
+        <item quantity="few">حذف %1$d صور من \"%2$s\".</item>
+        <item quantity="many">حذف %1$d صورة من \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d حزمة تثبيت (%3$s) من %1$s</item>
+        <item quantity="zero">%2$d حزمة تثبيت (%3$s) من %1$s</item>
+        <item quantity="one">%2$d حزمة تثبيت (%3$s) من %1$s</item>
+        <item quantity="two">%2$d حزم تثبيت (%3$s) من %1$s</item>
+        <item quantity="few">%2$d حزم تثبيت (%3$s) من %1$s</item>
+        <item quantity="many">%2$d حزمة تثبيت (%3$s) من %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">تم استلام %2$d حزمة تثبيت (%3$s) من %1$s بنجاح</item>
+        <item quantity="zero">تم استلام %2$d حزمة تثبيت (%3$s) من %1$s بنجاح</item>
+        <item quantity="one">تم استلام %2$d حزمة تثبيت (%3$s) من %1$s بنجاح</item>
+        <item quantity="two">تم استلام %2$d حزم تثبيت (%3$s) من %1$s بنجاح</item>
+        <item quantity="few">تم استلام %2$d حزم تثبيت (%3$s) من %1$s بنجاح</item>
+        <item quantity="many">تم استلام %2$d حزمة تثبيت (%3$s) من %1$s بنجاح</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">جارٍ استلام %2$d حزمة تثبيت (%3$s) من %1$s…</item>
+        <item quantity="zero">جارٍ استلام %2$d حزمة تثبيت (%3$s) من %1$s…</item>
+        <item quantity="one">جارٍ استلام %2$d حزمة تثبيت (%3$s) من %1$s…</item>
+        <item quantity="two">جارٍ استلام %2$d حزم تثبيت (%3$s) من %1$s…</item>
+        <item quantity="few">جارٍ استلام %2$d حزم تثبيت (%3$s) من %1$s…</item>
+        <item quantity="many">جارٍ استلام %2$d حزمة تثبيت (%3$s) من %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d ملف صوتي (%3$s) من %1$s</item>
+        <item quantity="zero">%2$d ملف صوتي (%3$s) من %1$s</item>
+        <item quantity="one">%2$d ملف صوتي (%3$s) من %1$s</item>
+        <item quantity="two">%2$d ملفات صوتية (%3$s) من %1$s</item>
+        <item quantity="few">%2$d ملفات صوتية (%3$s) من %1$s</item>
+        <item quantity="many">%2$d ملف صوتي (%3$s) من %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">تم استلام %2$d ملف صوتي (%3$s) من %1$s بنجاح</item>
+        <item quantity="zero">تم استلام %2$d ملف صوتي (%3$s) من %1$s بنجاح</item>
+        <item quantity="one">تم استلام %2$d ملف صوتي (%3$s) من %1$s بنجاح</item>
+        <item quantity="two">تم استلام %2$d ملفات صوتية (%3$s) من %1$s بنجاح</item>
+        <item quantity="few">تم استلام %2$d ملفات صوتية (%3$s) من %1$s بنجاح</item>
+        <item quantity="many">تم استلام %2$d ملف صوتي (%3$s) من %1$s بنجاح</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">جارٍ استلام %2$d ملف صوتي (%3$s) من %1$s…</item>
+        <item quantity="zero">جارٍ استلام %2$d ملف صوتي (%3$s) من %1$s…</item>
+        <item quantity="one">جارٍ استلام %2$d ملف صوتي (%3$s) من %1$s…</item>
+        <item quantity="two">جارٍ استلام %2$d ملفات صوتية (%3$s) من %1$s…</item>
+        <item quantity="few">جارٍ استلام %2$d ملفات صوتية (%3$s) من %1$s…</item>
+        <item quantity="many">جارٍ استلام %2$d ملف صوتي (%3$s) من %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d ملف %3$s (%4$s) من %1$s</item>
+        <item quantity="zero">%2$d ملف %3$s (%4$s) من %1$s</item>
+        <item quantity="one">%2$d ملف %3$s (%4$s) من %1$s</item>
+        <item quantity="two">%2$d ملفات %3$s (%4$s) من %1$s</item>
+        <item quantity="few">%2$d ملفات %3$s (%4$s) من %1$s</item>
+        <item quantity="many">%2$d ملف %3$s (%4$s) من %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">تم استلام %2$d ملف %3$s (%4$s) من %1$s بنجاح</item>
+        <item quantity="zero">تم استلام %2$d ملف %3$s (%4$s) من %1$s بنجاح</item>
+        <item quantity="one">تم استلام %2$d ملف %3$s (%4$s) من %1$s بنجاح</item>
+        <item quantity="two">تم استلام %2$d ملفات %3$s (%4$s) من %1$s بنجاح</item>
+        <item quantity="few">تم استلام %2$d ملفات %3$s (%4$s) من %1$s بنجاح</item>
+        <item quantity="many">تم استلام %2$d ملف %3$s (%4$s) من %1$s بنجاح</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">جارٍ استلام %2$d ملف %3$s (%4$s) من …%1$s</item>
+        <item quantity="zero">جارٍ استلام %2$d ملف %3$s (%4$s) من …%1$s</item>
+        <item quantity="one">جارٍ استلام %2$d ملف %3$s (%4$s) من …%1$s</item>
+        <item quantity="two">جارٍ استلام %2$d ملفات %3$s (%4$s) من …%1$s</item>
+        <item quantity="few">جارٍ استلام %2$d ملفات %3$s (%4$s) من …%1$s</item>
+        <item quantity="many">جارٍ استلام %2$d ملف %3$s (%4$s) من …%1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d صورة من %1$s</item>
+        <item quantity="zero">%2$d صورة من %1$s</item>
+        <item quantity="one">%2$d صورة من %1$s</item>
+        <item quantity="two">%2$d صور من %1$s</item>
+        <item quantity="few">%2$d صور من %1$s</item>
+        <item quantity="many">%2$d صورة من %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">تم استلام %2$d صورة من %1$s بنجاح</item>
+        <item quantity="zero">تم استلام %2$d صورة من %1$s بنجاح</item>
+        <item quantity="one">تم استلام %2$d صورة من %1$s بنجاح</item>
+        <item quantity="two">تم استلام %2$d صور من %1$s بنجاح</item>
+        <item quantity="few">تم استلام %2$d صور من %1$s بنجاح</item>
+        <item quantity="many">تم استلام %2$d صورة من %1$s بنجاح</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">جارٍ استلام %2$d صورة من %1$s…</item>
+        <item quantity="zero">جارٍ استلام %2$d صورة من %1$s…</item>
+        <item quantity="one">جارٍ استلام %2$d صورة من %1$s…</item>
+        <item quantity="two">جارٍ استلام %2$d صور من %1$s…</item>
+        <item quantity="few">جارٍ استلام %2$d صور من %1$s…</item>
+        <item quantity="many">جارٍ استلام %2$d صورة من %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d صورة أو فيديو من %1$s</item>
+        <item quantity="zero">%2$d صورة أو فيديو من %1$s</item>
+        <item quantity="one">%2$d صورة أو فيديو من %1$s</item>
+        <item quantity="two">%2$d صور أو فيديوهات من %1$s</item>
+        <item quantity="few">%2$d صور أو فيديوهات من %1$s</item>
+        <item quantity="many">%2$d صورة أو فيديو من %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">تم استلام %2$d صورة أو فيديو من %1$s بنجاح</item>
+        <item quantity="zero">تم استلام %2$d صورة أو فيديو من %1$s بنجاح</item>
+        <item quantity="one">تم استلام %2$d صورة أو فيديو من %1$s بنجاح</item>
+        <item quantity="two">تم استلام %2$d صور أو فيديوهات من %1$s بنجاح</item>
+        <item quantity="few">تم استلام %2$d صور أو فيديوهات من %1$s بنجاح</item>
+        <item quantity="many">تم استلام %2$d صورة أو فيديو من %1$s بنجاح</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">جارٍ استلام %2$d صورة أو فيديو من %1$s…</item>
+        <item quantity="zero">جارٍ استلام %2$d صورة أو فيديو من %1$s…</item>
+        <item quantity="one">جارٍ استلام %2$d صورة أو فيديو من %1$s…</item>
+        <item quantity="two">جارٍ استلام %2$d صور أو فيديوهات من %1$s…</item>
+        <item quantity="few">جارٍ استلام %2$d صور أو فيديوهات من %1$s…</item>
+        <item quantity="many">جارٍ استلام %2$d صورة أو فيديو من %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d ملف من %1$s</item>
+        <item quantity="zero">%2$d ملف من %1$s</item>
+        <item quantity="one">%2$d ملف من %1$s</item>
+        <item quantity="two">%2$d ملفات من %1$s</item>
+        <item quantity="few">%2$d ملفات من %1$s</item>
+        <item quantity="many">%2$d ملف من %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">تم استلام %2$d ملف من %1$s بنجاح</item>
+        <item quantity="zero">تم استلام %2$d ملف من %1$s بنجاح</item>
+        <item quantity="one">تم استلام %2$d ملف من %1$s بنجاح</item>
+        <item quantity="two">تم استلام %2$d ملفات من %1$s بنجاح</item>
+        <item quantity="few">تم استلام %2$d ملفات من %1$s بنجاح</item>
+        <item quantity="many">تم استلام %2$d ملف من %1$s بنجاح</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">جارٍ استلام %2$d ملف من %1$s…</item>
+        <item quantity="zero">جارٍ استلام %2$d ملف من %1$s…</item>
+        <item quantity="one">جارٍ استلام %2$d ملف من %1$s…</item>
+        <item quantity="two">جارٍ استلام %2$d ملفات من %1$s…</item>
+        <item quantity="few">جارٍ استلام %2$d ملفات من %1$s…</item>
+        <item quantity="many">جارٍ استلام %2$d ملف من %1$s…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">تعذر المشاركة. جارٍ اتمام معالجة %dصور…</item>
+        <item quantity="zero">تعذر المشاركة. جارٍ اتمام معالجة %dصورة…</item>
+        <item quantity="one">تعذر المشاركة. جارٍ اتمام معالجة %dصورة…</item>
+        <item quantity="two">تعذر المشاركة. جارٍ اتمام معالجة %dصورة…</item>
+        <item quantity="few">تعذر المشاركة. جارٍ اتمام معالجة %dصورة…</item>
+        <item quantity="many">تعذر المشاركة. جارٍ اتمام معالجة %dصور…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d فيديو من %1$s</item>
+        <item quantity="zero">%2$d فيديو من %1$s</item>
+        <item quantity="one">%2$d فيديو من %1$s</item>
+        <item quantity="two">%2$d فيديوهات من %1$s</item>
+        <item quantity="few">%2$d فيديوهات من %1$s</item>
+        <item quantity="many">%2$d فيديو من %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">تم استلام %2$d فيديو من %1$s بنجاح</item>
+        <item quantity="zero">تم استلام %2$d فيديو من %1$s بنجاح</item>
+        <item quantity="one">تم استلام %2$d فيديو من %1$s بنجاح</item>
+        <item quantity="two">تم استلام %2$d فيديوهات من %1$s بنجاح</item>
+        <item quantity="few">تم استلام %2$d فيديوهات من %1$s بنجاح</item>
+        <item quantity="many">تم استلام %2$d فيديو من %1$s بنجاح</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">جارٍ استلام %2$d فيديو من %1$s…</item>
+        <item quantity="zero">جارٍ استلام %2$d فيديو من %1$s…</item>
+        <item quantity="one">جارٍ استلام %2$d فيديو من %1$s…</item>
+        <item quantity="two">جارٍ استلام %2$d فيديوهات من %1$s…</item>
+        <item quantity="few">جارٍ استلام %2$d فيديوهات من %1$s…</item>
+        <item quantity="many">جارٍ استلام %2$d فيديو من %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d أرشيف (%3$s) من %1$s</item>
+        <item quantity="zero">%2$d أرشيف (%3$s) من %1$s</item>
+        <item quantity="one">%2$d أرشيف (%3$s) من %1$s</item>
+        <item quantity="two">%2$d أرشيفات (%3$s) من %1$s</item>
+        <item quantity="few">%2$d أرشيفات (%3$s) من %1$s</item>
+        <item quantity="many">%2$d أرشيف (%3$s) من %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">تم استلام %2$d أرشيف (%3$s) من %1$s بنجاح</item>
+        <item quantity="zero">تم استلام %2$d أرشيف (%3$s) من %1$s بنجاح</item>
+        <item quantity="one">تم استلام %2$d أرشيف (%3$s) من %1$s بنجاح</item>
+        <item quantity="two">تم استلام %2$d أرشيفات (%3$s) من %1$s بنجاح</item>
+        <item quantity="few">تم استلام %2$d أرشيفات (%3$s) من %1$s بنجاح</item>
+        <item quantity="many">تم استلام %2$d أرشيف (%3$s) من %1$s بنجاح</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
+        <item quantity="zero">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
+        <item quantity="one">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
+        <item quantity="two">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
+        <item quantity="few">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
+        <item quantity="many">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">تم تحميل %d صور</item>
+        <item quantity="zero">تم تحميل %d صور</item>
+        <item quantity="one">تم تحميل %d صور</item>
+        <item quantity="two">تم تحميل %d صورة</item>
+        <item quantity="few">تم تحميل %d صورة</item>
+        <item quantity="many">تم تحميل %d صور</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d غرفة</item>
+        <item quantity="zero">%1$d غرفة</item>
+        <item quantity="one">%1$d غرفة</item>
+        <item quantity="two">%1$d غرف</item>
+        <item quantity="few">%1$d غرف</item>
+        <item quantity="many">%1$d غرفة</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d شاشة</item>
+        <item quantity="zero">%1$d شاشة</item>
+        <item quantity="one">%1$d شاشة</item>
+        <item quantity="two">%1$d شاشات</item>
+        <item quantity="few">%1$d شاشات</item>
+        <item quantity="many">%1$d شاشة</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d شاشة</item>
+        <item quantity="zero">%1$d شاشة</item>
+        <item quantity="one">%1$d شاشة</item>
+        <item quantity="two">%1$d شاشات</item>
+        <item quantity="few">%1$d شاشات</item>
+        <item quantity="many">%1$d شاشة</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d شاشة مشاركة</item>
+        <item quantity="zero">%1$d شاشة مشاركة</item>
+        <item quantity="one">%1$d شاشة مشاركة</item>
+        <item quantity="two">%1$d شاشات مشاركة</item>
+        <item quantity="few">%1$d شاشات مشاركة</item>
+        <item quantity="many">%1$d شاشة مشاركة</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">حجم %d عنصر كبير جدا، فشلت المزامنة.</item>
+        <item quantity="zero">حجم %d عنصر كبير جدا، فشلت المزامنة.</item>
+        <item quantity="one">حجم %d عنصر كبير جدا، فشلت المزامنة.</item>
+        <item quantity="two">حجم %d عناصر كبير جدا، فشلت المزامنة.</item>
+        <item quantity="few">حجم %d عناصر كبير جدا، فشلت المزامنة.</item>
+        <item quantity="many">حجم %d عنصر كبير جدا، فشلت المزامنة.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">فشل مزامنة %d عنصر. قم بترقية خطة التخزين.</item>
+        <item quantity="zero">فشل مزامنة %d عنصر. قم بترقية خطة التخزين.</item>
+        <item quantity="one">فشل مزامنة %d عنصر. قم بترقية خطة التخزين.</item>
+        <item quantity="two">فشل مزامنة %d عناصر. قم بترقية خطة التخزين.</item>
+        <item quantity="few">فشل مزامنة %d عناصر. قم بترقية خطة التخزين.</item>
+        <item quantity="many">فشل مزامنة %d عنصر. قم بترقية خطة التخزين.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">تعذر مزامنة %d عنصر. حاول مجددا.</item>
+        <item quantity="zero">تعذر مزامنة %d عنصر. حاول مجددا.</item>
+        <item quantity="one">تعذر مزامنة %d عنصر. حاول مجددا.</item>
+        <item quantity="two">تعذر مزامنة %d عناصر. حاول مجددا.</item>
+        <item quantity="few">تعذر مزامنة %d عناصر. حاول مجددا.</item>
+        <item quantity="many">تعذر مزامنة %d عنصر. حاول مجددا.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">فشلت مزامنة %d عنصر. مساحة Cloud لمالك هذا الألبوم ممتلئة.</item>
+        <item quantity="zero">فشلت مزامنة %d عنصر. مساحة Cloud لمالك هذا الألبوم ممتلئة.</item>
+        <item quantity="one">فشلت مزامنة %d عنصر. مساحة Cloud لمالك هذا الألبوم ممتلئة.</item>
+        <item quantity="two">فشلت مزامنة %d عناصر. مساحة Cloud لمالك هذا الألبوم ممتلئة.</item>
+        <item quantity="few">فشلت مزامنة %d عناصر. مساحة Cloud لمالك هذا الألبوم ممتلئة.</item>
+        <item quantity="many">فشلت مزامنة %d عنصر. مساحة Cloud لمالك هذا الألبوم ممتلئة.</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d ثانية</item>
+        <item quantity="zero">%1$d ثانية</item>
+        <item quantity="one">%1$d ثانية</item>
+        <item quantity="two">%1$d ثواني</item>
+        <item quantity="few">%1$d ثواني</item>
+        <item quantity="many">%1$d ثانية</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">تم تحسين %d صورة</item>
+        <item quantity="zero">تم تحسين %d صورة</item>
+        <item quantity="one">تم تحسين %d صورة</item>
+        <item quantity="two">تم تحسين %d صور</item>
+        <item quantity="few">تم تحسين %d صور</item>
+        <item quantity="many">تم تحسين %d صورة</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">تم تحسين %d صورة</item>
+        <item quantity="zero">تم تحسين %d صورة</item>
+        <item quantity="one">تم تحسين %d صورة</item>
+        <item quantity="two">تم تحسين %d صور</item>
+        <item quantity="few">تم تحسين %d صور</item>
+        <item quantity="many">تم تحسين %d صورة</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">تم تحسين %d فيديو</item>
+        <item quantity="zero">تم تحسين %d فيديو</item>
+        <item quantity="one">تم تحسين %d فيديو</item>
+        <item quantity="two">تم تحسين %d فيديوهات</item>
+        <item quantity="few">تم تحسين %d فيديوهات</item>
+        <item quantity="many">تم تحسين %d فيديو</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">لم يتم تحسين %d صور. توقف الأن؟</item>
+        <item quantity="zero">لم يتم تحسين %d صورة. اتوقف الأن؟</item>
+        <item quantity="one">لم يتم تحسين %d صورة. اتوقف الأن؟</item>
+        <item quantity="two">لم يتم تحسين %d صور. توقف الأن؟</item>
+        <item quantity="few">لم يتم تحسين %d صورة. توقف الأن؟</item>
+        <item quantity="many">لم يتم تحسين %d صور. توقف الأن؟</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d صور</item>
+        <item quantity="zero">%d صورة</item>
+        <item quantity="one">%d صورة</item>
+        <item quantity="two">%d صور</item>
+        <item quantity="few">%d صورة</item>
+        <item quantity="many">%d صور</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">تبقى %d صورة</item>
+        <item quantity="zero">تبقى %d صورة</item>
+        <item quantity="one">تبقى %d صورة</item>
+        <item quantity="two">تبقى %d صور</item>
+        <item quantity="few">تبقى %d صور</item>
+        <item quantity="many">تبقى %d صورة</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d عنصر متبقي للتحسين</item>
+        <item quantity="zero">%d عنصر متبقي للتحسين</item>
+        <item quantity="one">%d عنصر متبقي للتحسين</item>
+        <item quantity="two">%d عناصر متبقية للتحسين</item>
+        <item quantity="few">%d عنصر متبقية للتحسين</item>
+        <item quantity="many">%d عنصر متبقي للتحسين</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d فيديو</item>
+        <item quantity="zero">%d فيديو</item>
+        <item quantity="one">%d فيديو</item>
+        <item quantity="two">%d فيديوهات</item>
+        <item quantity="few">%d فيديوهات</item>
+        <item quantity="many">%d فيديو</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">لم يتم النسخ احتياطياً لـ %d صورة أو فيديو</item>
+        <item quantity="zero">لم يتم النسخ احتياطياً لـ %d صور أو فيديوهات</item>
+        <item quantity="one">لم يتم النسخ احتياطياً لـ %d صورة أو فيديو</item>
+        <item quantity="two">لم يتم النسخ احتياطياً لـ %d صور أو فيديوهات</item>
+        <item quantity="few">لم يتم النسخ احتياطياً لـ %d صور أو فيديوهات</item>
+        <item quantity="many">لم يتم النسخ احتياطياً لـ %d صورة أو فيديو</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="zero">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="one">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="two">تجاوز %d عناصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="few">تجاوز %d عناصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="many">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d عنصر</item>
+        <item quantity="zero">%d عناصر</item>
+        <item quantity="one">%d عنصر</item>
+        <item quantity="two">%d عناصر</item>
+        <item quantity="few">%d عناصر</item>
+        <item quantity="many">%d عنصر</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">تم مزامنة %d صورة</item>
+        <item quantity="zero">تم مزامنة %d صورة</item>
+        <item quantity="one">تم مزامنة %d صورة</item>
+        <item quantity="two">تم مزامنة %d صور</item>
+        <item quantity="few">تم مزامنة %d صور</item>
+        <item quantity="many">تم مزامنة %d صورة</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">تم مزامنة %d فيديو</item>
+        <item quantity="zero">تم مزامنة %d فيديو</item>
+        <item quantity="one">تم مزامنة %d فيديو</item>
+        <item quantity="two">تم مزامنة %d فيديوهات</item>
+        <item quantity="few">تم مزامنة %d فيديوهات</item>
+        <item quantity="many">تم مزامنة %d فيديو</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">يتم مزامنة %d عنصر باستخدام بيانات الهاتف</item>
+        <item quantity="zero">يتم مزامنة %d عنصر باستخدام بيانات الهاتف</item>
+        <item quantity="one">يتم مزامنة %d عنصر باستخدام بيانات الهاتف</item>
+        <item quantity="two">يتم مزامنة %d عناصر باستخدام بيانات الهاتف</item>
+        <item quantity="few">يتم مزامنة %d عناصر باستخدام بيانات الهاتف</item>
+        <item quantity="many">يتم مزامنة %d عنصر باستخدام بيانات الهاتف</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">يتم مزامنة %d عنصر</item>
+        <item quantity="zero">يتم مزامنة %d عنصر</item>
+        <item quantity="one">يتم مزامنة %d عنصر</item>
+        <item quantity="two">يتم مزامنة %d عناصر</item>
+        <item quantity="few">يتم مزامنة %d عناصر</item>
+        <item quantity="many">يتم مزامنة %d عنصر</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s، %2$s عنصر</item>
+        <item quantity="zero">%1$s، %2$s عنصر</item>
+        <item quantity="one">%1$s، %2$s عنصر</item>
+        <item quantity="two">%1$s، %2$s عناصر</item>
+        <item quantity="few">%1$s، %2$s عناصر</item>
+        <item quantity="many">%1$s، %2$s عنصر</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d أيام</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يوم</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d شهر</item>
+        <item quantity="zero">%d شهر</item>
+        <item quantity="one">%d شهر</item>
+        <item quantity="two">%d شهور</item>
+        <item quantity="few">%d شهور</item>
+        <item quantity="many">%d شهر</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d سنة</item>
+        <item quantity="zero">%d سنة</item>
+        <item quantity="one">%d سنة</item>
+        <item quantity="two">%d سنوات</item>
+        <item quantity="few">%d سنوات</item>
+        <item quantity="many">%d سنة</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">سيتم حذف %d عنصر محدد نهائيا من Cloud وجميع الأجهزة المتزامنة. هل ترغب في المتابعة؟</item>
+        <item quantity="zero">سيتم حذف %d عنصر محدد نهائيا من Cloud وجميع الأجهزة المتزامنة. هل ترغب في المتابعة؟</item>
+        <item quantity="one">سيتم حذف %d عنصر محدد نهائيا من Cloud وجميع الأجهزة المتزامنة. هل ترغب في المتابعة؟</item>
+        <item quantity="two">سيتم حذف %d عناصر محددة نهائيا من Cloud وجميع الأجهزة المتزامنة. هل ترغب في المتابعة؟</item>
+        <item quantity="few">سيتم حذف %d عناصر محددة نهائيا من Cloud وجميع الأجهزة المتزامنة. هل ترغب في المتابعة؟</item>
+        <item quantity="many">سيتم حذف %d عنصر محدد نهائيا من Cloud وجميع الأجهزة المتزامنة. هل ترغب في المتابعة؟</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+        <item quantity="zero">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+        <item quantity="one">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+        <item quantity="two">لن تتمكن من استرداد %d عناصر محددة إذا قمت بحذفها. الحذف على أي حال؟</item>
+        <item quantity="few">لن تتمكن من استرداد %d عناصر محددة إذا قمت بحذفها. الحذف على أي حال؟</item>
+        <item quantity="many">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">سيتم حذف %d عنصر محدد نهائيا. هل ترغب في المتابعة؟</item>
+        <item quantity="zero">سيتم حذف %d عنصر محدد نهائيا. هل ترغب في المتابعة؟</item>
+        <item quantity="one">سيتم حذف %d عنصر محدد نهائيا. هل ترغب في المتابعة؟</item>
+        <item quantity="two">سيتم حذف %d عناصر محددة نهائيا. هل ترغب في المتابعة؟</item>
+        <item quantity="few">سيتم حذف %d عناصر محددة نهائيا. هل ترغب في المتابعة؟</item>
+        <item quantity="many">سيتم حذف %d عنصر محدد نهائيا. هل ترغب في المتابعة؟</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+        <item quantity="zero">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+        <item quantity="one">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+        <item quantity="two">لن تتمكن من استرداد %d عناصر محددة إذا قمت بحذفها. الحذف على أي حال؟</item>
+        <item quantity="few">لن تتمكن من استرداد %d عناصر محددة إذا قمت بحذفها. الحذف على أي حال؟</item>
+        <item quantity="many">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+        <item quantity="zero">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+        <item quantity="one">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+        <item quantity="two">لن تتمكن من استرداد %d عناصر محددة إذا قمت بحذفها. الحذف على أي حال؟</item>
+        <item quantity="few">لن تتمكن من استرداد %d عناصر محددة إذا قمت بحذفها. الحذف على أي حال؟</item>
+        <item quantity="many">لن تتمكن من استرداد %d عنصر محدد إذا قمت بحذفه. الحذف على أي حال؟</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">سيتم تخزين العناصر هنا لمدة %1$d يوم (%2$s)</item>
+        <item quantity="zero">سيتم تخزين العناصر هنا لمدة %1$d يوم (%2$s)</item>
+        <item quantity="one">سيتم تخزين العناصر هنا لمدة %1$d يوم (%2$s)</item>
+        <item quantity="two">سيتم تخزين العناصر هنا لمدة %1$d أبام (%2$s)</item>
+        <item quantity="few">سيتم تخزين العناصر هنا لمدة %1$d أيام (%2$s)</item>
+        <item quantity="many">سيتم تخزين العناصر هنا لمدة %1$d يوم (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">يمكن تخزين العناصر هنا لمدة %1$d يوم. ترقية خطتك لتمديد هذه الفترة.</item>
+        <item quantity="zero">يمكن تخزين العناصر هنا لمدة %1$d يوم. ترقية خطتك لتمديد هذه الفترة.</item>
+        <item quantity="one">يمكن تخزين العناصر هنا لمدة %1$d يوم. ترقية خطتك لتمديد هذه الفترة.</item>
+        <item quantity="two">يمكن تخزين العناصر هنا لمدة %1$d أيام. ترقية خطتك لتمديد هذه الفترة.</item>
+        <item quantity="few">يمكن تخزين العناصر هنا لمدة %1$d أيام. ترقية خطتك لتمديد هذه الفترة.</item>
+        <item quantity="many">يمكن تخزين العناصر هنا لمدة %1$d يوم. ترقية خطتك لتمديد هذه الفترة.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d ملف</item>
+        <item quantity="zero">%1$d ملف</item>
+        <item quantity="one">%1$d ملف</item>
+        <item quantity="two">%1$d ملفات</item>
+        <item quantity="few">%1$d ملفات</item>
+        <item quantity="many">%1$d ملف</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d فيديو</item>
+        <item quantity="zero">%d فيديو</item>
+        <item quantity="one">%d فيديو</item>
+        <item quantity="two">%d فيديوهات</item>
+        <item quantity="few">%d فيديوهات</item>
+        <item quantity="many">%d فيديو</item>
+    </plurals>
+</resources>

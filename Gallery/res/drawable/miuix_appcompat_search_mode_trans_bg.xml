@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingMode="stack"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/miuix_appcompat_transparent" />
+            <padding android:left="@dimen/miuix_appcompat_search_mode_bg_padding" android:right="@dimen/miuix_appcompat_search_mode_bg_padding" android:bottom="@dimen/miuix_appcompat_search_mode_bg_padding_bottom" />
+        </shape>
+    </item>
+</layer-list>

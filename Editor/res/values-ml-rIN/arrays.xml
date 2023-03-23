@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>വെളുപ്പ്</item>
+        <item>കടും നീല</item>
+        <item>ഇളം നീല</item>
+        <item>ചുവപ്പ്</item>
+        <item>പച്ച</item>
+        <item>പിങ്ക്</item>
+        <item>ബ്രൗൺ</item>
+        <item>ചാരനിറം</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>ഇമേജ് തിരഞ്ഞെടുക്കുക</item>
+        <item>സുതാര്യമായ പശ്ചാത്തലം</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>വിശ്രമം</item>
+        <item>ഇളംകാറ്റ്</item>
+        <item>സ്വപ്നം</item>
+        <item>മേഘങ്ങൾ</item>
+        <item>ചിന്തകൾ</item>
+        <item>മുകുളങ്ങൾ</item>
+        <item>രൂപാന്തരീകരണം</item>
+        <item>ആഴം</item>
+        <item>പ്രതിബിംബം</item>
+        <item>മിനിമലിസ്റ്റ്</item>
+        <item>രഹസ്യം</item>
+        <item>മൂടൽമഞ്ഞ്</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>ഭാവിസംബന്ധിയായ ജ്യാമിതീയ പശ്ചാത്തലം</item>
+        <item>പഴയ മാസ്റ്റർ പ്രിന്റുകളുടെ അന്തരീക്ഷം</item>
+        <item>പശ്ചാത്തലങ്ങൾ സ്കെച്ചുകളാക്കി മാറ്റുക</item>
+        <item>വാട്ടർ കളർ ശൈലി പശ്ചാത്തലങ്ങൾ</item>
+        <item>സൈബർ‌പങ്ക് റെട്രോ</item>
+        <item>തെറ്റായ ലംബ ഭാഗങ്ങൾ</item>
+        <item>അവ്യക്തമായ മങ്ങൽ</item>
+        <item>ഫ്യൂച്ചറിസ്റ്റിക് ഫീൽ</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>ലോ പോളി</item>
+        <item>ഇച്ചിംഗ്</item>
+        <item>സ്കെച്ച്</item>
+        <item>വാട്ടർ കളർ</item>
+        <item>RGB</item>
+        <item>അന്ധകാരം</item>
+        <item>ഫോഗി വിൻഡോ</item>
+        <item>ടെക്</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>നിറമുള്ള ബാഹ്യരേഖ</item>
+        <item>തകർന്ന ഔട്ട്ലൈൻ</item>
+        <item>ഫ്ലൂറസെന്റ് ഔട്ട്‌ലൈൻ</item>
+        <item>നിറമുള്ള നിഴൽ</item>
+        <item>ഇലക്ട്രിക് വേവ്</item>
+        <item>ഒഴുക്ക്</item>
+        <item>തിരമാല</item>
+        <item>കണികകൾ</item>
+        <item>ടെക്സ്റ്റ്</item>
+        <item>ചിറകുകൾ</item>
+        <item>ഏയ്ഞ്ചൽ</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Two cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+</resources>

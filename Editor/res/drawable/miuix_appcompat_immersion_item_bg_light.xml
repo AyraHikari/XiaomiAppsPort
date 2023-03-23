@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_single="true" android:drawable="@drawable/miuix_appcompat_immersion_item_bg_single_light" />
+    <item android:state_first="true" android:drawable="@drawable/miuix_appcompat_immersion_item_bg_first_light" />
+    <item android:state_middle="true" android:drawable="@drawable/miuix_appcompat_immersion_item_bg_middle_light" />
+    <item android:state_last="true" android:drawable="@drawable/miuix_appcompat_immersion_item_bg_last_light" />
+    <item android:drawable="@drawable/miuix_appcompat_immersion_item_bg_single_light" />
+</selector>

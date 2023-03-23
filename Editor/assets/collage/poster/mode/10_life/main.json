@@ -1,0 +1,33 @@
+{
+  "background": "#ffffff",
+  "ratio": 1,
+  "collagePositions": [
+    {
+      "margin": 1,
+      "position": [
+        0.159,
+        0.153,
+        0.841,
+        0.712
+      ]
+    }
+  ],
+  "collageModels": [
+    10,
+    20,
+    30,
+    40
+  ],
+  "textElementModels": [
+    {
+      "x": 0.5,
+      "y": 0.72,
+      "locationType": 3,
+      "textSize": 10,
+      "textColor": "#66000000",
+      "letterSpace": 5,
+      "text": "LIFE",
+      "maxLength": 4
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/album_empty_cover_background" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/default_album_empty_cover_content_small" />
+</layer-list>

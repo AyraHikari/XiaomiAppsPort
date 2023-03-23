@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/empty_card_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/cards_page_title_margin_start" android:layout_marginEnd="18.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent">
+        <LinearLayout android:layout_gravity="start|center" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="18.0dip" android:textStyle="bold" android:textColor="@color/white" android:ellipsize="end" android:id="@id/empty_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/story_guide_tip_open_title" android:lines="1" android:drawablePadding="10.0dip" android:drawableStart="@drawable/card_empty_icon" android:fontFamily="mipro-medium" android:textFontWeight="500" />
+            <TextView android:textSize="14.0dip" android:textColor="@color/white" android:ellipsize="end" android:id="@id/empty_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/story_guide_tip_open_desc" android:lines="1" android:layout_below="@id/title" android:fontFamily="misans-regular" />
+        </LinearLayout>
+        <Button android:textSize="14.0dip" android:textColor="@color/white" android:layout_gravity="end|center" android:id="@id/empty_operation_btn" android:background="@drawable/guide_card_operation_btn_bg" android:paddingTop="8.5dip" android:paddingBottom="8.5dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/story_guide_tip_open_btn" android:paddingStart="20.0dip" android:paddingEnd="20.0dip" android:layout_marginStart="3.0dip" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

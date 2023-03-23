@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="collage_render_margin_bottom">30.0dip</dimen>
+    <dimen name="collage_render_margin_top">0.0dip</dimen>
+    <dimen name="collage_stitching_layout_max_width">408.8828dip</dimen>
+    <item type="dimen" name="editor_confirm_menu_height">@dimen/px_450</item>
+    <item type="dimen" name="editor_loupe_margin_left">@dimen/px_83</item>
+    <item type="dimen" name="editor_loupe_margin_top">@dimen/px_83</item>
+    <item type="dimen" name="editor_menu_bottom_region_height">@dimen/px_352</item>
+    <item type="dimen" name="editor_menu_crop_content_guide_line_end">@dimen/px_248</item>
+    <item type="dimen" name="editor_menu_crop_top_guide_line_end">@dimen/px_504</item>
+    <item type="dimen" name="editor_menu_filter_top_guide_line_end">@dimen/px_418</item>
+    <item type="dimen" name="editor_menu_sticker_content_guide_end">@dimen/px_340</item>
+    <item type="dimen" name="editor_menu_sticker_top_guide_end">@dimen/px_690</item>
+    <dimen name="editor_menu_title_button_padding">10.0dip</dimen>
+    <item type="dimen" name="editor_menu_zone_height">@dimen/px_864</item>
+    <dimen name="magic_effects_guide_item_h">398.20312dip</dimen>
+    <dimen name="magic_effects_guide_item_w">302.21875dip</dimen>
+    <dimen name="magic_effects_guide_list_magin_end">67.54999dip</dimen>
+    <dimen name="magic_effects_guide_list_magin_start">67.54999dip</dimen>
+    <dimen name="magic_id_photo_guide_text_width">942.21875dip</dimen>
+    <dimen name="magic_idp_bottom_height">444.4375dip</dimen>
+    <dimen name="magic_idp_make_recycler_item_margin">23.549988dip</dimen>
+    <dimen name="magic_idp_make_search_height_left">31.109985dip</dimen>
+    <dimen name="magic_idp_make_search_look_max_width">982.21875dip</dimen>
+    <dimen name="magic_idp_make_tab_width">332.5dip</dimen>
+    <dimen name="magic_search_edit_width">982.21875dip</dimen>
+    <dimen name="screen_arrow_popwin_height">11.556dip</dimen>
+    <dimen name="screen_arrow_popwin_width">23.110992dip</dimen>
+    <dimen name="screen_brush_markpen_indicator_margin_start">15.556dip</dimen>
+    <dimen name="screen_brush_markpen_margin_start">8.888977dip</dimen>
+    <dimen name="screen_brush_pen_indicator_margin_start">16.0dip</dimen>
+    <dimen name="screen_brush_pen_margin_start">0.0dip</dimen>
+    <dimen name="screen_brush_popwin_alpha_text_size">17.777985dip</dimen>
+    <dimen name="screen_brush_popwin_height">156.444dip</dimen>
+    <dimen name="screen_brush_popwin_offset_x">12.444dip</dimen>
+    <dimen name="screen_brush_popwin_offset_y">8.888977dip</dimen>
+    <dimen name="screen_brush_popwin_seekbar_height">35.556dip</dimen>
+    <dimen name="screen_brush_popwin_seekbar_margin_start">35.556dip</dimen>
+    <dimen name="screen_brush_popwin_seekbar_margin_top">35.556dip</dimen>
+    <dimen name="screen_brush_popwin_seekbar_width">246.66699dip</dimen>
+    <dimen name="screen_brush_popwin_width">359.10938dip</dimen>
+    <dimen name="screen_color_ball_size">24.0dip</dimen>
+    <dimen name="screen_color_margin_start">11.556dip</dimen>
+    <dimen name="screen_color_pick_view_height">174.22198dip</dimen>
+    <dimen name="screen_color_pick_view_width">323.5547dip</dimen>
+    <dimen name="screen_color_popwin_height">209.77798dip</dimen>
+    <dimen name="screen_color_popwin_offset_x">1.3329773dip</dimen>
+    <dimen name="screen_color_popwin_offset_y">8.888977dip</dimen>
+    <dimen name="screen_color_popwin_width">359.10938dip</dimen>
+    <dimen name="screen_delete_icon_margin_s">19.556dip</dimen>
+    <dimen name="screen_editor_activity_navigation_height">17.777985dip</dimen>
+    <dimen name="screen_editor_activity_status_height">26.666992dip</dimen>
+    <dimen name="screen_editor_bottom_layout_height">72.0dip</dimen>
+    <dimen name="screen_editor_edit_mode_bottom_guideline_end">72.0dip</dimen>
+    <dimen name="screen_editor_share_mode_title_back_padding_start">19.556dip</dimen>
+    <dimen name="screen_editor_tool_box_height">72.0dip</dimen>
+    <dimen name="screen_editor_tool_box_margin_start">52.444dip</dimen>
+    <dimen name="screen_editor_tool_empty_height">17.777985dip</dimen>
+    <dimen name="screen_editor_top_height">54.221985dip</dimen>
+    <dimen name="screen_editor_view_bottom_margin">43.110992dip</dimen>
+    <dimen name="screen_editor_view_horizontal_margin">186.66699dip</dimen>
+    <dimen name="screen_editor_view_top_margin">19.556dip</dimen>
+    <dimen name="screen_eraser_margin_start">22.221985dip</dimen>
+    <dimen name="screen_left_color_margin_start">13.332977dip</dimen>
+    <dimen name="screen_mosaic_default_size">43.556dip</dimen>
+    <dimen name="screen_mosaic_indicator_margin_start">18.221985dip</dimen>
+    <dimen name="screen_mosaic_item_hInterval">21.777985dip</dimen>
+    <dimen name="screen_mosaic_margin_markpen_start">9.332977dip</dimen>
+    <dimen name="screen_mosaic_menu_item_width">40.0dip</dimen>
+    <dimen name="screen_mosaic_popwin_height">156.444dip</dimen>
+    <dimen name="screen_mosaic_popwin_offset_x">11.0dip</dimen>
+    <dimen name="screen_mosaic_popwin_offset_y">8.888977dip</dimen>
+    <dimen name="screen_mosaic_popwin_size_bar_bg_corner">20.221985dip</dimen>
+    <dimen name="screen_mosaic_popwin_size_bar_bg_height">21.332977dip</dimen>
+    <dimen name="screen_mosaic_popwin_size_bar_bg_width">246.66699dip</dimen>
+    <dimen name="screen_mosaic_popwin_size_bar_height">28.444dip</dimen>
+    <dimen name="screen_mosaic_popwin_size_bar_margin_top">35.556dip</dimen>
+    <dimen name="screen_mosaic_popwin_size_bar_width">246.66699dip</dimen>
+    <dimen name="screen_mosaic_popwin_width">359.10938dip</dimen>
+    <dimen name="screen_operation_icon_width">33.332977dip</dimen>
+    <dimen name="screen_operation_redo_margin_end">21.329987dip</dimen>
+    <dimen name="screen_pen_seek_bar_bg_height">21.332977dip</dimen>
+    <dimen name="screen_pen_seek_bar_height">35.556dip</dimen>
+    <dimen name="screen_pen_seek_bar_thumb_size">28.444dip</dimen>
+    <dimen name="screen_pen_seek_bar_width">246.66699dip</dimen>
+    <dimen name="screen_shape_icon_margin_top">31.556dip</dimen>
+    <dimen name="screen_shape_indicator_margin_top">22.666992dip</dimen>
+    <dimen name="screen_shape_popwin_height">80.0dip</dimen>
+    <dimen name="screen_shape_popwin_item_margin">42.666992dip</dimen>
+    <dimen name="screen_shape_popwin_item_size">40.0dip</dimen>
+    <dimen name="screen_shape_popwin_offset_y">8.888977dip</dimen>
+    <dimen name="screen_shape_popwin_width">359.10938dip</dimen>
+    <dimen name="screen_shape_right_margin_start">40.0dip</dimen>
+    <dimen name="screen_share_and_delete_margin_start">56.888977dip</dimen>
+    <dimen name="screen_share_icon_margin_e">19.556dip</dimen>
+    <dimen name="screen_stroke_item_bg_level_1">6.221985dip</dimen>
+    <dimen name="screen_stroke_item_bg_level_2">10.666992dip</dimen>
+    <dimen name="screen_stroke_item_bg_level_3">15.110992dip</dimen>
+    <dimen name="screen_stroke_item_bg_level_4">19.556dip</dimen>
+    <dimen name="screen_stroke_item_bg_level_5">24.0dip</dimen>
+    <dimen name="screen_stroke_item_level_1">4.4439697dip</dimen>
+    <dimen name="screen_stroke_item_level_2">8.888977dip</dimen>
+    <dimen name="screen_stroke_item_level_3">13.332977dip</dimen>
+    <dimen name="screen_stroke_item_level_4">17.777985dip</dimen>
+    <dimen name="screen_stroke_item_level_5">22.221985dip</dimen>
+    <dimen name="screen_text_indicator_margin_start">20.0dip</dimen>
+    <dimen name="screen_text_margin_start">17.777985dip</dimen>
+    <dimen name="screen_text_popwin_height">80.0dip</dimen>
+    <dimen name="screen_text_popwin_item_interval">21.777985dip</dimen>
+    <dimen name="screen_text_popwin_item_size">40.0dip</dimen>
+    <dimen name="screen_text_popwin_offset_x">8.888977dip</dimen>
+    <dimen name="screen_text_popwin_offset_y">8.888977dip</dimen>
+    <dimen name="screen_text_popwin_width">359.10938dip</dimen>
+    <dimen name="screen_tool_bar_bottom_line_height">0.444dip</dimen>
+    <dimen name="screen_tool_bar_color_ball_margin_top">32.888977dip</dimen>
+    <dimen name="screen_tool_bar_margin_start">20.0dip</dimen>
+    <dimen name="screen_tool_bar_operation_icon_margin_top">28.444dip</dimen>
+    <dimen name="screen_tool_indicator_margin_top">8.888977dip</dimen>
+    <dimen name="screen_tool_indicator_size">2.6669922dip</dimen>
+    <dimen name="screen_tool_item_height">53.332977dip</dimen>
+    <dimen name="screen_tool_item_width">59.556dip</dimen>
+    <dimen name="screen_tool_popwin_elevation">6.665985dip</dimen>
+    <dimen name="screen_tool_popwin_layout_margin_bottom">11.556dip</dimen>
+    <dimen name="screen_tool_select_tran_y">14.666992dip</dimen>
+    <dimen name="screen_tool_shape_size">26.666992dip</dimen>
+    <dimen name="screen_top_operation_layout_height">54.221985dip</dimen>
+    <dimen name="screen_undo_redo_icon_margin">8.888977dip</dimen>
+    <dimen name="storage_guide_content_margin_start">283.0dip</dimen>
+    <dimen name="text_edit_dialog_tab_font_margin">416.0dip</dimen>
+    <dimen name="text_style_color_picker_width">444.4375dip</dimen>
+    <dimen name="screen_color_pick_view_corner">8.888977dip</dimen>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "background": "#ffffff",
+  "collagePositions": [
+    {
+      "margin": 1,
+      "position": [
+        0.091,
+        0.356,
+        0.909,
+        0.928
+      ]
+    }
+  ],
+  "collageModels": [
+    10,
+    20
+  ],
+  "imageElementModels": [
+    {
+      "name": "img_01.png",
+      "x": 0.5,
+      "y": 0.105,
+      "width": 0.049,
+      "locationType": 3
+    }
+  ],
+  "textElementModels": [
+    {
+      "x": 0.5,
+      "y": 0.254,
+      "locationType": 3,
+      "textSize": 5.333,
+      "textColor": "#66000000",
+      "letterSpace": 0.85,
+      "text": "GOOD MORNING",
+      "maxLength": 8
+    }
+  ]
+}

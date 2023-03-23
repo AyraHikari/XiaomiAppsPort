@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/movie_blue" />
+    <corners android:topLeftRadius="@dimen/movie_preview_progress_corner" android:topRightRadius="@dimen/movie_preview_progress_corner" android:bottomLeftRadius="@dimen/movie_preview_progress_corner" android:bottomRightRadius="@dimen/movie_preview_progress_corner" />
+</shape>

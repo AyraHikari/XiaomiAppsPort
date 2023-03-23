@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Branco</item>
+        <item>Azul escuro</item>
+        <item>Azul claro</item>
+        <item>Vermelho</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Marrom</item>
+        <item>Cinza</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Selecionar imagem</item>
+        <item>Fundo transparente</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Dia especial</item>
+        <item>Dia para lembrar</item>
+        <item>Momentos vibrantes</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Um ano delicioso</item>
+        <item>Três pratos. Quatro estações.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Olá mundo!</item>
+        <item>Na estrada</item>
+        <item>Um caleidoscópio de lugares</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Esplendor do outono</item>
+        <item>Outono radiante</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Menino</item>
+        <item>Menina</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Fazer backup de fotos</item>
+        <item>Sincronizar fotos com a nuvem</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Uma noite para ser lembrada</item>
+        <item>Nova página</item>
+        <item>Fogos de artifício</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Feliz Ano Novo!</item>
+        <item>Véspera do Ano novo</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Ano do Macaco</item>
+        <item>Ano do Galo</item>
+        <item>Ano do Cachorro</item>
+        <item>Ano do Porco</item>
+        <item>Ano do Rato</item>
+        <item>Ano do Boi</item>
+        <item>Ano do Tigre</item>
+        <item>Ano do Coelho</item>
+        <item>Ano do Dragão</item>
+        <item>Ano da Cobra</item>
+        <item>Ano do Cavalo</item>
+        <item>Ano da Cabra</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Cenários urbanos</item>
+        <item>Ruas e esquinas</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Pétalas gentis</item>
+        <item>A desabrochar</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Na natureza</item>
+        <item>Selvagem e livre</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Nossos encontros</item>
+        <item>Na companhia de amigos</item>
+        <item>Reuniões para lembrar</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Seus assuntos favoritos</item>
+        <item>Espíritos gentis</item>
+        <item>Melhores momentos da vida</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Ocupado crescendo</item>
+        <item>Cada vez mais belo</item>
+        <item>Pequeno explorador</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Diário de exercícios</item>
+        <item>Mais forte a cada dia</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Bom apetite!</item>
+        <item>Quer outro pedaço?</item>
+        <item>Aproveite sua comida!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Sorria e acene!</item>
+        <item>Hora da diversão</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Ao ar livre</item>
+        <item>Trilhas na neve</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Imparável</item>
+        <item>Ficando em forma</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Um grande dia</item>
+        <item>Lá vem a noiva!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Time to play</item>
+        <item>"Kiddo's weekend"</item>
+        <item>The little one</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Meus fins de semana</item>
+        <item>Pedaços da vida</item>
+        <item>Lembranças do fim de semana</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>New friends and old pals</item>
+        <item>"Last year's get-togethers"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Lazer</item>
+        <item>Brisa</item>
+        <item>Sonhos</item>
+        <item>Nuvens</item>
+        <item>Pensamentos</item>
+        <item>Brotos</item>
+        <item>Metamorfose</item>
+        <item>Profundidade</item>
+        <item>Reflexos</item>
+        <item>Minimalista</item>
+        <item>Mistério</item>
+        <item>Névoa</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Torne fundos em rascunhos</item>
+        <item>Fundos estilo aquarela</item>
+        <item>Retrô cyberpunk</item>
+        <item>Segmentos verticais deslocados</item>
+        <item>Desfoque difuso</item>
+        <item>Sensação futurista</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Rascunho</item>
+        <item>Aquarela</item>
+        <item>RGB</item>
+        <item>Persianas</item>
+        <item>Janela embaçada</item>
+        <item>Tecnologia</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Contorno colorido</item>
+        <item>Contorno pontilhado</item>
+        <item>Contorno fluorescente</item>
+        <item>Sombra colorida</item>
+        <item>Onda elétrica</item>
+        <item>Corrente</item>
+        <item>Ondas</item>
+        <item>Partículas</item>
+        <item>Texto</item>
+        <item>Asas</item>
+        <item>Anjo</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Mover</item>
+        <item>Copiar</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Janeiro</item>
+        <item>Fevereiro</item>
+        <item>Março</item>
+        <item>Abril</item>
+        <item>Maio</item>
+        <item>Junho</item>
+        <item>Julho</item>
+        <item>Agosto</item>
+        <item>Setembro</item>
+        <item>Outubro</item>
+        <item>Novembro</item>
+        <item>Dezembro</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>Você cresceu!</item>
+        <item>Você cresceu de novo!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Meu menu pessoal</item>
+        <item>Memórias deliciosas</item>
+        <item>Segunda dose, por favor!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>As melhores vistas do mundo</item>
+        <item>Continue escalando</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Pai</item>
+        <item>Mãe</item>
+        <item>Avô paterno</item>
+        <item>Avó paterna</item>
+        <item>Avô materno</item>
+        <item>Avó materna</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Juntos</item>
+        <item>Bons tempos</item>
+        <item>Em uníssono</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Onde a estrada nos leva</item>
+        <item>Jornadas bem comparilhadas</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Uma primavera alegre</item>
+        <item>Um verão divertido</item>
+        <item>Um outono feliz</item>
+        <item>Um inverno acolhedor</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Comidas do inverno</item>
+        <item>Delícias do verão</item>
+        <item>Banquetes de outono</item>
+        <item>Guarnições de inverno</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Together</item>
+        <item>Bonds and ties</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Eu</item>
+        <item>Crianças</item>
+        <item>Familiares</item>
+        <item>Colegas de trabalho</item>
+        <item>Colegas de classe</item>
+        <item>Amigos</item>
+        <item>Desagrupado</item>
+    </string-array>
+    <string-array name="season">
+        <item>Primavera</item>
+        <item>Verão</item>
+        <item>Outono</item>
+        <item>Inverno</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Pai</item>
+        <item>Mãe</item>
+        <item>Avô paterno</item>
+        <item>Avó paterna</item>
+        <item>Avô materno</item>
+        <item>Avó materna</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Melhor a cada dia</item>
+        <item>Cheio de energia</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Flores primaveris</item>
+        <item>A primavera está no ar</item>
+        <item>Olá, primavera!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Um pouco de verão</item>
+        <item>Onde o verão nunca termina</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Horas douradas</item>
+        <item>Raios de ouro</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>They grow so fast</item>
+        <item>"Kiddo's photos"</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Dias frios</item>
+        <item>Terra das Maravilhas Invernais</item>
+    </string-array>
+</resources>

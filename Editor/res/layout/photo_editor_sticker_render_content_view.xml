@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/editor_view_container" android:background="@color/transparent" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.editor.photo.core.imports.sticker.StickerEditorView android:id="@id/sticker_editor_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

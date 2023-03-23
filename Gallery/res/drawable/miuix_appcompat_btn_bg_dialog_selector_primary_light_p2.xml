@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/miuix_appcompat_dialog_default_btn_bg_primary_light" />
+    <item android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_foreground_light_p2" />
+</layer-list>

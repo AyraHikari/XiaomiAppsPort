@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/video_editor_popup_bg_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:textSize="20.0sp" android:textColor="@color/video_editor_water_mark_edit_color" android:gravity="center" android:id="@id/et_pop_window" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/video_editor_text_edit_input_hint" android:maxLength="10" android:layout_centerInParent="true" android:textAlignment="gravity" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/video_editor_watermark_popwindow_choice_view_height" android:layout_alignParentBottom="true">
+        <ImageView android:layout_gravity="start|center" android:id="@id/video_editor_btn_cancel" android:layout_width="@dimen/menu_panel_bottom_bar_button_width" android:layout_height="fill_parent" android:src="@drawable/common_editor_apply_cancel_selector" android:scaleType="center" android:contentDescription="@string/photo_editor_talkback_cancel" />
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <ImageView android:layout_gravity="end|center" android:id="@id/video_editor_btn_ok" android:layout_width="@dimen/menu_panel_bottom_bar_button_width" android:layout_height="fill_parent" android:src="@drawable/common_editor_apply_done_selector" android:scaleType="center" android:contentDescription="@string/photo_editor_talkback_confirm" />
+    </LinearLayout>
+</RelativeLayout>

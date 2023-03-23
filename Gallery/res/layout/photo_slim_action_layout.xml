@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/action_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/slim_action_title_text" android:textColor="@color/slim_action_title_text_color" android:layout_gravity="center_horizontal" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textSize="@dimen/slim_action_description_text" android:textColor="@color/slim_action_description_text_color" android:layout_gravity="center_horizontal" android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/slim_action_description_margin_top" />
+            <TextView android:textSize="@dimen/slim_action_description_text" android:textColor="@color/slim_action_description_text_color" android:layout_gravity="center_horizontal" android:id="@id/sub_description" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/slim_action_description_margin_top" android:text="@string/slim_complete_download_tip" />
+        </LinearLayout>
+    </FrameLayout>
+    <Button android:textSize="@dimen/stop_scan_btn_text_size" android:textColor="@color/stop_scan_text_color" android:layout_gravity="center" android:id="@id/action_button" android:background="@drawable/btn_bg_cleaner_action" android:layout_width="fill_parent" android:layout_height="@dimen/cleaner_item_action_layout_height" android:layout_marginBottom="@dimen/stop_scan_btn_margin" android:fontFamily="miui-bold" android:layout_marginStart="@dimen/space_action_margin" android:layout_marginEnd="@dimen/space_action_margin" />
+</LinearLayout>

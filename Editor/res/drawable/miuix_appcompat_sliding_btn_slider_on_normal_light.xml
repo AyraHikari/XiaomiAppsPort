@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/miuix_appcompat_sliding_button_slider_horizontal_padding" android:top="@dimen/miuix_appcompat_sliding_button_slider_vertical_padding" android:right="@dimen/miuix_appcompat_sliding_button_slider_horizontal_padding" android:bottom="@dimen/miuix_appcompat_sliding_button_slider_vertical_padding">
+        <shape android:shape="oval">
+            <solid android:color="@color/miuix_appcompat_sliding_btn_slider_on_normal_color_light" />
+            <size android:height="@dimen/miuix_appcompat_sliding_button_slider_size" android:width="@dimen/miuix_appcompat_sliding_button_slider_size" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/discard" android:layout_width="@dimen/menu_panel_bottom_bar_button_width" android:layout_height="fill_parent" android:src="@drawable/menu_button_discard" android:scaleType="center" android:contentDescription="@string/photo_editor_talkback_cancel" android:layout_alignParentStart="true" />
+    <TextView android:textSize="@dimen/menu_panel_bottom_bar_title_size" android:textColor="@color/photo_editor_menu_bottom_bar_title_color" android:gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/operation_panel" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerInParent="true">
+        <ImageView android:id="@id/operation_revoke" android:layout_width="@dimen/menu_panel_bottom_bar_button_width" android:layout_height="fill_parent" android:src="@drawable/editor_menu_undo" android:scaleType="centerInside" android:contentDescription="@string/photo_editor_talkback_undo" />
+        <ImageView android:id="@id/operation_revert" android:layout_width="@dimen/menu_panel_bottom_bar_button_width" android:layout_height="fill_parent" android:src="@drawable/editor_menu_redo" android:scaleType="centerInside" android:contentDescription="@string/photo_editor_talkback_redo" android:layout_marginStart="@dimen/mosaic_revert_margin" />
+    </LinearLayout>
+    <ImageView android:id="@id/save" android:layout_width="@dimen/menu_panel_bottom_bar_button_width" android:layout_height="fill_parent" android:src="@drawable/menu_button_save" android:scaleType="center" android:contentDescription="@string/photo_editor_talkback_confirm" android:layout_alignParentEnd="true" />
+</RelativeLayout>

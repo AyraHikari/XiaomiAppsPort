@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:height="@dimen/collage_item_height" android:width="@dimen/collage_item_width" android:color="@color/collage_edit_bg_solid_color" />
+    <corners android:radius="@dimen/collage_edit_bg_rect_radius" />
+</shape>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/map_menu_icon_size" android:width="@dimen/map_menu_icon_size" android:viewportWidth="100.0" android:viewportHeight="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000" android:pathData="M50,50m-17,0a17,17 0,1 1,34 0a17,17 0,1 1,-34 0" android:strokeColor="@color/map_fill_blue" android:strokeWidth="5.0" />
+    <path android:fillColor="@color/map_fill_blue" android:pathData="M50,50m-11,0a11,11 0,1 1,22 0a11,11 0,1 1,-22 0" />
+    <path android:fillColor="#00000000" android:pathData="M72.5,50.5L69.5,50.5" android:strokeColor="@color/map_fill_blue" android:strokeWidth="5.0" android:strokeLineCap="round" />
+    <path android:fillColor="#00000000" android:pathData="M30.5,50.5L27.5,50.5" android:strokeColor="@color/map_fill_blue" android:strokeWidth="5.0" android:strokeLineCap="round" />
+    <path android:fillColor="#00000000" android:pathData="M50.5,27.5L50.5,30.5" android:strokeColor="@color/map_fill_blue" android:strokeWidth="5.0" android:strokeLineCap="round" />
+    <path android:fillColor="#00000000" android:pathData="M50.5,69.5L50.5,72.5" android:strokeColor="@color/map_fill_blue" android:strokeWidth="5.0" android:strokeLineCap="round" />
+</vector>

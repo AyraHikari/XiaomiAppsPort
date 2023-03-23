@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:width="@dimen/passport_edit_text_stroke_width" />
+    <solid android:color="@color/passport_edit_text_focus_color" />
+</shape>

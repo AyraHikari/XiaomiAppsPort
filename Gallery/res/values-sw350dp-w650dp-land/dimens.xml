@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="assistant_banner_card_height">302.0dip</dimen>
+    <dimen name="assistant_page_margin_end">32.0dip</dimen>
+    <dimen name="assistant_page_margin_start">32.0dip</dimen>
+    <dimen name="assistant_today_of_year_image_bottom_height">123.0dip</dimen>
+    <dimen name="assistant_today_of_year_image_bottom_width">104.0dip</dimen>
+    <dimen name="assistant_today_of_year_image_margin_end">54.0dip</dimen>
+    <dimen name="assistant_today_of_year_image_margin_top">17.0dip</dimen>
+    <dimen name="assistant_today_of_year_image_padding_bottom">26.0dip</dimen>
+    <dimen name="assistant_today_of_year_image_padding_end">4.0dip</dimen>
+    <dimen name="assistant_today_of_year_image_padding_start">4.0dip</dimen>
+    <dimen name="assistant_today_of_year_image_padding_top">4.0dip</dimen>
+    <dimen name="assistant_today_of_year_image_top_height">140.0dip</dimen>
+    <dimen name="assistant_today_of_year_image_top_width">117.0dip</dimen>
+    <dimen name="assistant_today_of_year_title_margin_start">24.0dip</dimen>
+    <dimen name="assistant_today_of_year_title_margin_top">22.0dip</dimen>
+    <dimen name="detail_today_of_year_margin_start_and_end">40.0dip</dimen>
+    <dimen name="share_album_detail_title_margin_start">62.25dip</dimen>
+    <dimen name="tab_or_assistant_place_holder_height">55.549988dip</dimen>
+    <dimen name="today_of_year_empty_gallery_icon_margin_top">94.0dip</dimen>
+    <dimen name="today_of_year_empty_text_margin_top">176.0dip</dimen>
+</resources>

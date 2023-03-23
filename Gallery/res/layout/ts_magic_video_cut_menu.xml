@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/id_bottom_control" android:layout_width="fill_parent" android:layout_height="@dimen/magic_menu_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/magic_video_time" android:layout_width="@dimen/magic_px_181" android:layout_height="@dimen/magic_px_90" android:layout_marginTop="@dimen/magic_px_50" android:layout_centerInParent="true">
+        <TextView android:textSize="@dimen/magic_px_36" android:textColor="@color/white_90_transparent" android:id="@id/magic_video_play_total_time" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/magic_px_150" android:layout_marginTop="@dimen/magic_margin_110" android:layout_weight="1.0">
+        <FrameLayout android:paddingLeft="@dimen/magic_padding_80" android:paddingRight="@dimen/magic_padding_80" android:layout_width="fill_parent" android:layout_height="@dimen/magic_px_150">
+            <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/magic_cut_body_image" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/magic_131px" />
+            <com.miui.gallery.magic.widget.frame.CoverView android:layout_gravity="center_vertical" android:id="@id/cover_view" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/magic_131px" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/magic_px_150">
+                <ImageView android:background="@drawable/magic_clip_frame_left_mask" android:layout_width="@dimen/magic_px_56" android:layout_height="@dimen/magic_px_150" />
+                <RelativeLayout android:background="@drawable/magic_frame_selector_body_mask" android:layout_width="0.0dip" android:layout_height="@dimen/magic_px_150" android:layout_marginLeft="@dimen/magic_px_010" android:layout_marginRight="@dimen/magic_px_010" android:layout_weight="1.0" />
+                <ImageView android:background="@drawable/magic_clip_frame_right_mask" android:layout_width="@dimen/magic_px_56" android:layout_height="@dimen/magic_px_150" />
+            </LinearLayout>
+            <com.miui.gallery.magic.widget.frame.FrameSelectorView android:id="@id/magic_video_cut_selector" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </RelativeLayout>
+</LinearLayout>

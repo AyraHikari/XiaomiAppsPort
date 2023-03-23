@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingTop="@dimen/miuix_appcompat_dialog_progress_title_vertical_padding_top" android:paddingBottom="@dimen/miuix_appcompat_dialog_progress_title_vertical_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/miuix_appcompat_dialog_title_horizontal_padding" android:paddingEnd="@dimen/miuix_appcompat_dialog_title_horizontal_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/body" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false">
+        <miuix.androidbasewidget.widget.ProgressBar android:id="@android:id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:max="10000" android:layout_marginEnd="@dimen/miuix_appcompat_dialog_progress_horizontal_margin" style="?dialogProgressBarStyle" />
+        <TextView android:textSize="@dimen/miuix_appcompat_dialog_progress_message_text_size" android:layout_gravity="center_vertical" android:id="@id/message" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?dialogPrimaryTextAppearance" />
+    </LinearLayout>
+</FrameLayout>

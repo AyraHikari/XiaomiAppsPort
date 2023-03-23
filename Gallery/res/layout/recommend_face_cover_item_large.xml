@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.miui.gallery.widget.CircleAppCompatImageView android:id="@id/recommend_face_cover" android:layout_width="@dimen/face_page_face_size" android:layout_height="@dimen/face_page_face_size" android:contentDescription="@null" style="@style/Gallery.Widget.ThumbNail.People" />
+        <CheckBox android:layout_gravity="end|bottom|center" android:id="@id/face_check" android:focusable="false" android:clickable="false" android:layout_width="@dimen/face_page_checkbox_size" android:layout_height="@dimen/face_page_checkbox_size" android:button="@drawable/recommend_face_checkbox" />
+    </FrameLayout>
+</FrameLayout>

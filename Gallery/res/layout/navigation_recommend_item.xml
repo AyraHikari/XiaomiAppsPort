@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/click_view" android:background="@drawable/navigation_recommend_item_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="@drawable/navigation_recommend_item_fg"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" android:layout_width="@dimen/search_navigation_recommend_item_icon_width" android:layout_height="fill_parent" android:scaleType="centerCrop" android:contentDescription="@null" />
+    <View android:background="@color/image_stroke_color" android:layout_width="1.0px" android:layout_height="fill_parent" android:layout_marginTop="1.0px" android:layout_marginBottom="1.0px" android:layout_marginStart="@dimen/search_navigation_recommend_divider_start_margin" />
+    <TextView android:ellipsize="end" android:gravity="center" android:id="@id/title" android:paddingTop="@dimen/search_navigation_recommend_item_vertical_padding" android:paddingBottom="@dimen/search_navigation_recommend_item_vertical_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lines="1" android:paddingStart="@dimen/search_navigation_recommend_item_text_padding" android:paddingEnd="@dimen/search_navigation_recommend_item_text_padding" android:layout_marginStart="@dimen/search_navigation_recommend_item_icon_width" style="@style/Gallery.TextAppearance.Search.List.Primary.Small" />
+</FrameLayout>

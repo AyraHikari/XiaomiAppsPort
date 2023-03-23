@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#26ffffff" />
+    <corners android:topLeftRadius="@dimen/magic_iap_item_top_radius" android:topRightRadius="@dimen/magic_iap_item_top_radius" android:bottomLeftRadius="@dimen/magic_iap_item_bottom_radius" android:bottomRightRadius="@dimen/magic_iap_item_bottom_radius" />
+</shape>

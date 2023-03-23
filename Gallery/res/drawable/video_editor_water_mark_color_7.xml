@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="@dimen/editor_water_mark_item_height" android:width="@dimen/editor_water_mark_item_width">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/video_editor_water_mark_bg_color_7" />
+        </shape>
+    </item>
+</layer-list>

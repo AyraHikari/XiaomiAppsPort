@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/collage_append_text_edit_color_background" />
+    <corners android:radius="@dimen/text_editor_menu_text_edit_radius" />
+</shape>

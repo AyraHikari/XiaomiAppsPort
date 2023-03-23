@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/item_root" android:paddingBottom="@dimen/editor_menu_smart_video_download_item_padding_bottom" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:gravity="center_horizontal" android:layout_width="@dimen/editor_smart_effect_item_img_width" android:layout_height="@dimen/editor_smart_effect_item_img_width">
+        <ImageView android:id="@id/item_iv" android:layout_width="@dimen/editor_smart_effect_item_img_width" android:layout_height="@dimen/editor_smart_effect_item_img_width" android:scaleType="centerCrop" />
+        <ImageView android:id="@id/iv_selected" android:layout_width="@dimen/editor_smart_effect_item_img_selected" android:layout_height="@dimen/editor_smart_effect_item_img_selected" android:src="@drawable/editor_icon_selected" android:scaleType="centerCrop" android:layout_centerInParent="true" />
+        <com.miui.gallery.editor.ui.view.DownloadView android:gravity="center" android:id="@id/item_download" android:background="@drawable/editor_download_circle_backgroud_old" android:layout_width="@dimen/photo_editor_navigator_download_icon_size" android:layout_height="@dimen/photo_editor_navigator_download_icon_size" android:layout_alignBottom="@id/item_iv" android:layout_alignEnd="@id/item_iv" app:downloadedDrawable="@drawable/editor_downloaded_old" app:downloadingDrawable="@drawable/editor_downloading_old" app:toDownloadDrawable="@drawable/editor_to_download_old" />
+    </RelativeLayout>
+    <TextView android:textSize="@dimen/editor_smart_effect_text_size" android:textColor="@color/video_editor_smart_effect_selector_item_text" android:ellipsize="marquee" android:gravity="center_horizontal" android:id="@id/item_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/editor_smart_effect_text_margin_top" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+</LinearLayout>

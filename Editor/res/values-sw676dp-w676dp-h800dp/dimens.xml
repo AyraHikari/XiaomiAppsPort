@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="collage_stitching_layout_max_width">397.08594dip</dimen>
+    <dimen name="signature_dialog_top_color_view_item_gap">10.909973dip</dimen>
+    <dimen name="signature_dialog_top_color_view_item_inner_radius">18.179993dip</dimen>
+    <dimen name="signature_dialog_top_color_view_width_height">48.0dip</dimen>
+    <dimen name="signature_dialog_top_frame_height">48.0dip</dimen>
+</resources>

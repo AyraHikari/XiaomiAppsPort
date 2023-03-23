@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@color/navigation_section_header_text_color" android:ellipsize="middle" android:layout_gravity="start" android:id="@id/navigation_header" android:paddingTop="@dimen/search_section_item_top_margin" android:paddingBottom="@dimen/search_navigation_section_header_padding_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingEnd="@dimen/search_navigation_horizontal_margin" style="@style/Gallery.TextAppearance.Search.List.Secondary" />
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/navigation_content" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

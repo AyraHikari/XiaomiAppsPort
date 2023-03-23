@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>白色底</item>
+        <item>深藍色底</item>
+        <item>淺藍色底</item>
+        <item>紅色底</item>
+        <item>綠色底</item>
+        <item>粉色底</item>
+        <item>淺褐色底</item>
+        <item>灰色底</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>選擇圖片</item>
+        <item>透明背景</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>徜徉</item>
+        <item>微風</item>
+        <item>如夢</item>
+        <item>歸雲</item>
+        <item>拾憶</item>
+        <item>萌芽</item>
+        <item>蜿蜒</item>
+        <item>深音</item>
+        <item>流影</item>
+        <item>簡約</item>
+        <item>迷離</item>
+        <item>浮嵐</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>幾何圖形背景，讓照片更具未來感</item>
+        <item>背景版畫效果，讓照片更具美術氛圍</item>
+        <item>背景素描風，照片新玩法</item>
+        <item>背景水彩風，讓照片更具藝術感</item>
+        <item>錯位故障，營造多彩復古感</item>
+        <item>分割錯位線條，讓照片更具時尚感</item>
+        <item>玻璃窗霧效果，讓照片更具朦朧感</item>
+        <item>科技故障感，秒變潮酷大片</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>低建模</item>
+        <item>版畫</item>
+        <item>素描</item>
+        <item>水彩</item>
+        <item>RGB</item>
+        <item>百葉窗</item>
+        <item>窗霧</item>
+        <item>故障風</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>彩色描邊</item>
+        <item>虛線描邊</item>
+        <item>螢光描邊</item>
+        <item>彩色拖影</item>
+        <item>電波掃過</item>
+        <item>對稱流動</item>
+        <item>流動電波</item>
+        <item>粒子環繞</item>
+        <item>文字排版</item>
+        <item>惡魔翅膀</item>
+        <item>天使翅膀</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>常用</item>
+        <item>簽證</item>
+        <item>職業</item>
+        <item>證件</item>
+        <item>升學</item>
+        <item>考試</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>社保卡</item>
+        <item>健康證</item>
+        <item>醫保卡</item>
+        <item>身份證</item>
+        <item>居住證</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>一吋</item>
+        <item>二吋</item>
+        <item>小一吋</item>
+        <item>小二吋</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>入學報名</item>
+        <item>學籍網</item>
+        <item>小學生學籍</item>
+        <item>學籍照片</item>
+        <item>大學入學</item>
+        <item>高考報名</item>
+        <item>簡歷照</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>英語四六級考試1</item>
+        <item>英語四六級考試2</item>
+        <item>英語四六級考試3</item>
+        <item>普通話水平測試1</item>
+        <item>普通話水平測試2</item>
+        <item>學位英語</item>
+        <item>英語AB級</item>
+        <item>英語三級考試</item>
+        <item>電腦等級考試1</item>
+        <item>電腦等級考試2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>中小學生教師資格證</item>
+        <item>教師資格證</item>
+        <item>駕照</item>
+        <item>導遊證</item>
+        <item>電子導遊證</item>
+        <item>國家司法考試</item>
+        <item>一級建造師證（電子版）</item>
+        <item>二級建造師證</item>
+        <item>初級會計職稱考試</item>
+        <item>註冊會計師</item>
+        <item>北京導遊證</item>
+        <item>中級會計職稱考試</item>
+        <item>高級會計職稱考試</item>
+        <item>會計資格證</item>
+        <item>註冊會計師考試</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>美國簽證</item>
+        <item>越南簽證</item>
+        <item>日本簽證</item>
+        <item>港澳通行證</item>
+        <item>韓國簽證</item>
+        <item>泰國簽證(旅遊簽)</item>
+        <item>泰國簽證(落地簽)</item>
+        <item>印度簽證</item>
+        <item>以色列簽證</item>
+        <item>入台證</item>
+        <item>馬來西亞簽證</item>
+        <item>紐西蘭簽證</item>
+        <item>義大利簽證</item>
+        <item>阿根廷簽證</item>
+        <item>巴西簽證</item>
+        <item>冰島簽證</item>
+        <item>肯亞簽證</item>
+    </string-array>
+</resources>

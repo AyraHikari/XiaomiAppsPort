@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="text_edit_dialog_tab_style_bsb_empty_width">@dimen/px_636</item>
+    <item type="dimen" name="text_edit_dialog_tab_style_bsb_visibility_width">@dimen/px_660</item>
+    <dimen name="vlog_mutli_clip_slide_swirch_width">353.5dip</dimen>
+    <dimen name="vlog_resolution_button_width_large">95.23999dip</dimen>
+    <dimen name="vlog_resolution_button_width_small">80.0dip</dimen>
+    <dimen name="vlog_resolution_drop_down_icon_width">7.2359924dip</dimen>
+    <dimen name="vlog_resolution_hot_area_width">130.25dip</dimen>
+    <dimen name="vlog_resolution_item_divider_margin">4.569977dip</dimen>
+    <dimen name="vlog_resolution_item_divider_width">1.1399841dip</dimen>
+    <dimen name="vlog_resolution_item_estimate_size_tv_margin_start">30.46997dip</dimen>
+    <dimen name="vlog_resolution_item_estimate_size_tv_max_width">207.948dip</dimen>
+    <dimen name="vlog_resolution_item_first_line_margin_start">30.46997dip</dimen>
+    <dimen name="vlog_resolution_item_selected_icon_margin_end">32.0dip</dimen>
+    <dimen name="vlog_resolution_item_tv_resolution_max_width">83.78998dip</dimen>
+    <dimen name="vlog_resolution_large_drop_down_icon_margin_end">11.809998dip</dimen>
+    <dimen name="vlog_resolution_pop_window_width_large">317.25dip</dimen>
+    <dimen name="vlog_resolution_pop_window_width_normal">272.6875dip</dimen>
+    <dimen name="vlog_resolution_pop_window_y">101.5dip</dimen>
+    <dimen name="vlog_resolution_small_drop_down_icon_margin_end">11.809998dip</dimen>
+    <dimen name="vlog_resolution_tv_margin_start">14.849976dip</dimen>
+    <dimen name="vlog_resolution_tv_padding_end">8.759979dip</dimen>
+    <dimen name="vlog_resolution_tv_width_large">54.842987dip</dimen>
+    <dimen name="vlog_resolution_tv_width_small">41.50998dip</dimen>
+    <dimen name="vlog_single_clip_bar_margin_start">30.475983dip</dimen>
+    <dimen name="vlog_single_clip_speed_picker_indicator_width">72.379974dip</dimen>
+    <dimen name="vlog_speed_picker_padding_left">4.8599854dip</dimen>
+    <dimen name="vlog_speed_picker_padding_right">4.8599854dip</dimen>
+    <dimen name="vlog_speed_picker_width">353.5dip</dimen>
+    <dimen name="vlog_speed_selected_width">72.379974dip</dimen>
+</resources>

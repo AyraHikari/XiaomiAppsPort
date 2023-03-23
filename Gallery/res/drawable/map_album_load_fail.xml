@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/map_album_cover_size" android:width="@dimen/map_album_cover_size" android:viewportWidth="328.0" android:viewportHeight="305.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffc3c9d3" android:pathData="M157.205,119.055C156.162,117.252 153.559,117.252 152.516,119.055L132.347,153.942C131.304,155.747 132.606,158.005 134.692,158.005H175.029C177.114,158.005 178.417,155.747 177.374,153.942L157.205,119.055Z" android:strokeColor="#ffc3c9d3" android:strokeWidth="5.41605" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillType="evenOdd" />
+    <path android:fillColor="#ff96a1b4" android:pathData="M185.867,159.349L171.025,135.223L175.765,126.692C177.313,123.906 181.319,123.906 182.867,126.692L197.657,153.314C199.161,156.022 197.203,159.349 194.106,159.349H185.867Z" android:fillAlpha="0.5" android:fillType="evenOdd" />
+</vector>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.appcompat.internal.view.menu.ListMenuItemView android:layout_width="fill_parent" android:layout_height="wrap_content" style="?listMenuItemStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center_vertical" android:duplicateParentState="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginStart="?android:listPreferredItemPaddingLeft" android:layout_marginEnd="?android:listPreferredItemPaddingRight">
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Medium.MenuList" android:ellipsize="marquee" android:id="@id/title" android:fadingEdge="horizontal" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignParentTop="true" android:textAlignment="viewStart" />
+        <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Small.MenuList" android:id="@id/shortcut" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="@id/title" android:textAlignment="viewStart" />
+    </RelativeLayout>
+</miuix.appcompat.internal.view.menu.ListMenuItemView>

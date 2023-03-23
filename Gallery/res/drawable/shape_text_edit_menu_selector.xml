@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@null" />
+            <stroke android:width="@dimen/editor_menu_text_selector_white_width" android:color="@color/photo_editor_white" />
+            <corners android:radius="@dimen/editor_menu_text_selector_corners" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@null" />
+            <stroke android:width="@dimen/editor_menu_text_selector_blue_width" android:color="@color/text_menu_color_blue" />
+            <corners android:radius="@dimen/editor_menu_text_selector_corners" />
+        </shape>
+    </item>
+</layer-list>

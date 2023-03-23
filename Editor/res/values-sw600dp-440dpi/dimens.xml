@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="editor_menu_guideline_begin">@dimen/px_200</item>
+    <dimen name="photo_editor_frame_color_select_layout_margin_end">58.179993dip</dimen>
+    <dimen name="photo_editor_frame_display_margin">22.0dip</dimen>
+    <item type="dimen" name="text_edit_dialog_options_style_item_width">@dimen/px_210</item>
+    <dimen name="text_edit_dialog_options_style_panel_rl_seek_bar_margin_right">12.363983dip</dimen>
+    <dimen name="text_edit_dialog_tab_font_margin">205.32999dip</dimen>
+    <dimen name="text_edit_dialog_tab_style_transparent_title_margin_right">9.819977dip</dimen>
+    <dimen name="text_edit_style_adapter_item_row_spaces">16.359985dip</dimen>
+    <dimen name="text_edit_style_adapter_item_spaces">14.549988dip</dimen>
+</resources>

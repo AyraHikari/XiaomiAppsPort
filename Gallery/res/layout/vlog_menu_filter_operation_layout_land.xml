@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@id/menu_panel_line" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_end="@dimen/vlog_main_landscape_panel_bottom_line" />
+    <FrameLayout android:id="@id/seek_bar_layout" android:layout_width="@dimen/vlog_menu_common_operation_btn_hot_area_width" android:layout_height="fill_parent" app:layout_constraintBottom_toTopOf="@id/layout_master" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <com.miui.gallery.editor.ui.view.BubbleSeekBar android:id="@id/seek_bar" android:paddingTop="@dimen/vlog_filter_menu_bubble_seekbar_margin_end" android:paddingBottom="@dimen/vlog_filter_menu_bubble_seekbar_margin_end" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr" style="@style/bubble_seek_bar_vlog" />
+    </FrameLayout>
+    <FrameLayout android:gravity="center" android:id="@id/layout_master" android:visibility="invisible" android:layout_width="@dimen/vlog_menu_common_operation_btn_hot_area_width" android:layout_height="@dimen/vlog_menu_common_operation_height" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="@id/menu_panel_line">
+        <View android:layout_gravity="center" android:background="@drawable/vlog_common_operation_btn_bg" android:layout_width="@dimen/vlog_menu_common_operation_btn_bg_size" android:layout_height="@dimen/vlog_menu_common_operation_btn_bg_size" />
+        <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center" android:id="@id/image_master_open" android:visibility="invisible" android:layout_width="@dimen/vlog_menu_common_operation_btn_bg_size" android:layout_height="@dimen/vlog_menu_common_operation_btn_bg_size" app:lottie_autoPlay="false" app:lottie_loop="false" app:lottie_rawRes="@raw/vlog_filter_master_close" />
+        <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center" android:id="@id/image_master_close" android:visibility="invisible" android:layout_width="@dimen/vlog_menu_common_operation_btn_bg_size" android:layout_height="@dimen/vlog_menu_common_operation_btn_bg_size" app:lottie_autoPlay="false" app:lottie_loop="false" app:lottie_rawRes="@raw/vlog_filter_master_open" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

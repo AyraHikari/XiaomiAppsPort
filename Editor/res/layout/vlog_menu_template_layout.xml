@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/navRoot" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:gravity="center" android:visibility="gone" android:layout_width="@dimen/vlog_menu_common_operation_btn_hot_area_width" android:layout_height="@dimen/vlog_menu_common_operation_height" layout="@layout/vlog_play_layout" />
+    <com.miui.gallery.widget.recyclerview.SimpleRecyclerView android:layout_gravity="center_horizontal" android:id="@id/recycler_view" android:paddingTop="@dimen/vlog_template_recycler_view_padding_top" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+</LinearLayout>

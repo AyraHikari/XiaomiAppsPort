@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/signature_dialog_top_clear_btn_bg_round" />
+    <solid android:color="@color/signature_dialog_clear_bg_color" />
+</shape>

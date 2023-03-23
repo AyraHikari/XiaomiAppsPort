@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/magic_main_pad" android:paddingRight="@dimen/magic_main_pad" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:background="@drawable/shape_tv_video_make_bg_unselected" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/magic_main_item_mb" android:layout_marginBottom="@dimen/magic_main_item_mb">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="开关模拟相册入口" android:layout_marginStart="@dimen/magic_px_20" />
+            <ToggleButton android:id="@id/toggle_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="模拟相册入口" android:layout_marginStart="@dimen/magic_px_20" android:layout_marginEnd="@dimen/magic_px_20" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/magic_filter" android:background="@drawable/magic_mani_btn1" android:layout_width="fill_parent" android:layout_height="@dimen/magic_main_item_height" android:layout_marginBottom="@dimen/magic_main_item_mb" android:onClick="onClick">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:layout_height="wrap_content" android:layout_marginBottom="@dimen/magic_main_item_textm" android:text="@string/magic_filter" style="@style/magic_main_title" />
+                <TextView android:layout_height="wrap_content" android:layout_marginBottom="13.0dip" android:text="@string/magic_filter_dsc" style="@style/magic_main_text" />
+            </LinearLayout>
+            <ImageView android:layout_width="135.6dip" android:layout_height="136.0dip" android:src="@drawable/magic_main_matting" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/magic_id_photo" android:background="@drawable/magic_mani_btn2" android:layout_width="fill_parent" android:layout_height="@dimen/magic_main_item_height" android:layout_marginBottom="@dimen/magic_main_item_mb" android:onClick="onClick">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:layout_height="wrap_content" android:layout_marginBottom="@dimen/magic_main_item_textm" android:text="@string/magic_id_photo" style="@style/magic_main_title" />
+                <TextView android:layout_height="wrap_content" android:layout_marginBottom="13.0dip" android:text="@string/magic_id_photo_dsc" style="@style/magic_main_text" />
+            </LinearLayout>
+            <ImageView android:layout_width="135.6dip" android:layout_height="136.0dip" android:src="@drawable/magic_main_idp" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/magic_protrait_art" android:background="@drawable/magic_mani_btn3" android:layout_width="fill_parent" android:layout_height="@dimen/magic_main_item_height" android:layout_marginBottom="@dimen/magic_main_item_mb" android:onClick="onClick">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:layout_height="wrap_content" android:layout_marginBottom="@dimen/magic_main_item_textm" android:text="@string/magic_protrait_art" style="@style/magic_main_title" />
+                <TextView android:layout_height="wrap_content" android:layout_marginBottom="13.0dip" android:text="@string/magic_protrait_art_dsc" style="@style/magic_main_text" />
+            </LinearLayout>
+            <ImageView android:layout_width="135.6dip" android:layout_height="136.0dip" android:src="@drawable/magic_main_special_effects" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/magic_mani_btn4" android:layout_width="fill_parent" android:layout_height="@dimen/magic_main_item_height">
+            <TextView android:id="@id/video_test" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/magic_main_more" android:layout_weight="1.0" android:onClick="onClick" />
+            <TextView android:id="@id/video_test1" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="test" android:layout_weight="1.0" android:onClick="onClick" style="@style/magic_main_bottom_text" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

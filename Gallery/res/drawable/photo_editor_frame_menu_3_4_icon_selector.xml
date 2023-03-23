@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/photo_editor_frame_menu_3_4_icon_sel" />
+    <item android:drawable="@drawable/photo_editor_frame_menu_3_4_icon_nor" />
+</selector>

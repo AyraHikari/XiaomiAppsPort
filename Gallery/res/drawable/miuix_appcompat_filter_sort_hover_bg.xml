@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/miuix_appcompat_filter_sort_hover_bg_color" />
+    <corners android:radius="@dimen/miuix_appcompat_filter_sort_view_corner" />
+</shape>

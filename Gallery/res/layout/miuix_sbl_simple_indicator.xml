@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:paddingBottom="@dimen/miuix_sbl_tracking_up_progress_bg_marginbottom" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/indicator_locked_header" android:layout_width="@dimen/miuix_sbl_indicator_locked_header_width" android:layout_height="@dimen/miuix_sbl_indicator_locked_header_height" android:src="@drawable/miuix_sbl_simple_indicator_locked_header_gray" android:layout_centerHorizontal="true" />
+    <ImageView android:id="@id/indicator_locked_body" android:layout_width="@dimen/miuix_sbl_indicator_locked_body_width" android:layout_height="@dimen/miuix_sbl_indicator_locked_body_height" android:layout_marginTop="@dimen/miuix_sbl_indicator_locked_body_margintop" android:src="@drawable/miuix_sbl_simple_indicator_locked_body_gray" android:layout_centerHorizontal="true" />
+    <TextView android:textAppearance="@style/Miuix.Spring.TextAppearance.indicator" android:id="@id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/miuix_sbl_indicator_locked_labe_margintop" android:layout_below="@id/indicator_locked_body" android:layout_centerHorizontal="true" />
+</RelativeLayout>

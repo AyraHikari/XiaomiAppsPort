@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>ಬಿಳುಪು</item>
+        <item>ಗಾಢ ನೀಲಿ</item>
+        <item>ತಿಳಿ ನೀಲಿ</item>
+        <item>ಕೆಂಪು</item>
+        <item>ಹಸಿರು</item>
+        <item>ಗುಲಾಬಿ</item>
+        <item>ಕಂದು</item>
+        <item>ಬೂದು</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>ಚಿತ್ರ ಆಯ್ಕೆಮಾಡಿ</item>
+        <item>ಪಾರದರ್ಶಕ ಹಿನ್ನೆಲೆ</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>ಲೀಶರ್‌</item>
+        <item>ಬ್ರೀಝ್‌</item>
+        <item>ಡ್ರೀಮ್ಸ್‌</item>
+        <item>ಕ್ಲೌಡ್ಸ್‌</item>
+        <item>ಥಾಟ್ಸ್‌</item>
+        <item>ಬಡ್ಸ್‌</item>
+        <item>ಮೆಟಾಮಾರ್ಫೋಸಿಸ್‌</item>
+        <item>ಡೆಪ್ತ್‌</item>
+        <item>ರಿಫ್ಲೆಕ್ಷನ್ಸ್‌</item>
+        <item>ಮಿನಿಮಲಿಸ್ಟ್‌</item>
+        <item>ಮಿಸ್ಟರಿ</item>
+        <item>ಫಾಗ್‌</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>ಭವಿಷ್ಯದ ಜಿಯೋಮ್ಯಾಟ್ರಿಕ್‌ ಹಿನ್ನೆಲೆ</item>
+        <item>ಹಳೆಯ ಮಾಸ್ಟರ್‌ ಪ್ರಿಂಟ್‌ಗಳ ಸನ್ನಿವೇಶ</item>
+        <item>ಹಿನ್ನೆಲೆಗಳನ್ನು ಸ್ಕೆಚ್‌ಗಳನ್ನಾಗಿ ಪರಿವರ್ತಿಸಿ</item>
+        <item>ವಾಟರ್‌ಕಲರ್‌ ಸ್ಟೈಲ್‌ ಹಿನ್ನೆಲೆಗಳು</item>
+        <item>ಸೈಬರ್‌ಪಂಕ್‌ ರೆಟ್ರೋ</item>
+        <item>ಮಿಸ್‌ಪ್ಲೇಸ್ಡ್‌ ವರ್ಟಿಕಲ್‌ ಸೆಗ್ಮೆಂಟ್‌ಗಳು</item>
+        <item>ಹೇಝಿ ಬ್ಲರ್‌</item>
+        <item>ಫ್ಯೂಚರಿಸ್ಟಿಕ್‌ ಫೀಲ್‌</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>ಲೋ ಪೋಲಿ</item>
+        <item>ಎಚಿಂಗ್‌</item>
+        <item>ಸ್ಕೆಚ್‌‌</item>
+        <item>ವಾಟರ್‌ಕಲರ್</item>
+        <item>RGB</item>
+        <item>ಬ್ಲೈಂಡ್ಸ್‌</item>
+        <item>ಫಾಗ್ಗಿ ವಿಂಡೋ</item>
+        <item>ಟೆಕ್‌</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>ಕಲರ್ಡ್‌ ಔಟ್‌ಲೈನ್‌</item>
+        <item>ಡ್ಯಾಶ್‌ ಔಟ್‌ಲೈನ್‌</item>
+        <item>ಫ್ಲೋರೋಸೆಂಟ್‌ ಔಟ್‌ಲೈನ್‌</item>
+        <item>ಕಲರ್ಡ್‌ ಶಾಡೋ</item>
+        <item>ಎಲೆಕ್ಟಿಕ್‌ ವೇವ್‌</item>
+        <item>ಪ್ರಸ್ತುತ</item>
+        <item>ವೇವ್ಸ್‌</item>
+        <item>ಪಾರ್ಟಿಕಲ್ಸ್‌</item>
+        <item>ಪಠ್ಯ</item>
+        <item>ವಿಂಗ್ಸ್‌</item>
+        <item>ಏಂಜೆಲ್‌</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Two cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+</resources>

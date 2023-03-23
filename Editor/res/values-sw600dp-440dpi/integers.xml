@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="text_dialog_style_span_count">6</integer>
+    <integer name="thumb_columns_day_compact">6</integer>
+    <integer name="thumbnail_columns">6</integer>
+    <integer name="thumbnail_recent_columns">5</integer>
+    <integer name="thumbnail_screenshot_columns">5</integer>
+</resources>

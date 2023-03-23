@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/container" android:background="@color/black" android:paddingTop="@dimen/magic_status_bar_height_96" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:paddingTop="@dimen/magic_width_10" android:paddingBottom="@dimen/magic_width_30" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/magic_px_20" android:layout_marginBottom="@dimen/magic_search_margin_bottom_47">
+        <RelativeLayout android:background="@drawable/shape_search_ed_bg" android:layout_width="@dimen/magic_idp_make_search_look_max_width" android:layout_height="@dimen/magic_idp_search_height" android:layout_marginStart="@dimen/magic_70px" android:transitionName="@string/image_transition_name">
+            <RelativeLayout android:layout_width="@dimen/magic_idp_search_image" android:layout_height="@dimen/magic_idp_search_image" android:layout_centerVertical="true" android:layout_marginStart="@dimen/magic_px_39">
+                <ImageView android:layout_width="@dimen/magic_px_39" android:layout_height="@dimen/magic_px_40" android:src="@drawable/magic_idp_search" android:layout_centerInParent="true" />
+            </RelativeLayout>
+            <miuix.androidbasewidget.widget.EditText android:textSize="@dimen/magic_idp_search_edit_font" android:textColor="#ffffffff" android:textColorHint="#4dffffff" android:gravity="start|center" android:id="@id/magic_idp_search_edit" android:background="@null" android:layout_width="fill_parent" android:layout_height="@dimen/magic_idp_search_height" android:layout_marginLeft="@dimen/magic_idp_search_edit_margin" android:layout_marginRight="@dimen/magic_idp_search_edit_margin" android:hint="@string/magic_idp_search_text" android:maxLength="100" android:imeOptions="actionSearch" android:textAlignment="viewStart" />
+            <RelativeLayout android:id="@id/rl_edit_cancel" android:layout_width="@dimen/magic_idp_search_rl_cancel_86" android:layout_height="@dimen/magic_idp_search_rl_cancel_86" android:layout_centerVertical="true" android:layout_alignParentEnd="true">
+                <ImageView android:layout_width="@dimen/magic_px_50" android:layout_height="@dimen/magic_px_50" android:src="@drawable/magic_idp_search_cancel" android:layout_centerVertical="true" android:contentDescription="@string/acc_clear_button" />
+            </RelativeLayout>
+        </RelativeLayout>
+        <TextView android:textSize="@dimen/magic_px_size_42" android:textColor="@color/color_0D84FF" android:gravity="center" android:id="@id/tv_search_cancel" android:layout_width="@dimen/magic_px_200" android:layout_height="@dimen/magic_idp_search_height" android:text="@string/base_btn_cancel" android:layout_alignParentEnd="true" style="@style/magic_style_medium" />
+    </RelativeLayout>
+    <com.miui.gallery.magic.widget.TouchFrameLayout android:id="@id/magic_idp_search_list_root" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.miui.gallery.magic.widget.EmptyRecyclerView android:layout_gravity="center_horizontal" android:id="@id/magic_idp_search_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingHorizontal="@dimen/magic_idp_search_list_padding" />
+        <include layout="@layout/ts_magic_id_photo_search_recycler_empty" />
+    </com.miui.gallery.magic.widget.TouchFrameLayout>
+</LinearLayout>

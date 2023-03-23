@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:id="@id/item_root" android:clipChildren="false" android:layout_width="@dimen/gallery_widget_editor_recycler_item_width" android:layout_height="@dimen/gallery_widget_editor_recycler_item_width"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.movie.ui.view.MovieRoundImageView android:id="@id/item_iv" android:background="@drawable/movie_video_audio_item_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/gallery_widget_editor_recycler_item_image_margin" android:scaleType="centerCrop" />
+    <View android:id="@id/iv_selected" android:background="@drawable/shape_widget_editor_item_select_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/gallery_widget_editor_recycler_item_select_margin" />
+    <RelativeLayout android:id="@id/layout_delete" android:visibility="visible" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gallery_widget_editor_delete_layout_margin_top" android:layout_alignParentTop="true" android:layout_marginEnd="@dimen/gallery_widget_editor_delete_layout_margin_end" android:layout_alignParentEnd="true">
+        <ImageView android:layout_width="@dimen/gallery_widget_editor_delete_mask_width" android:layout_height="@dimen/gallery_widget_editor_delete_mask_height" android:src="@drawable/widget_editor_item_image_delete_mask" android:scaleType="fitXY" />
+        <ImageView android:id="@id/image_delete" android:layout_width="@dimen/gallery_widget_editor_delete_image_width" android:layout_height="@dimen/gallery_widget_editor_delete_image_height" android:src="@drawable/widget_editor_item_image_delete" android:scaleType="fitXY" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</RelativeLayout>

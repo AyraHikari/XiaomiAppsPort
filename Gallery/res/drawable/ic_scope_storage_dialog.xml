@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/scope_storage_dialog_icon_size" android:width="@dimen/scope_storage_dialog_icon_size" android:viewportWidth="67.0" android:viewportHeight="68.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff0d84ff" android:pathData="M33,66C50.6731,66 65,51.6731 65,34C65,16.3269 50.6731,2 33,2C15.3269,2 1,16.3269 1,34C1,51.6731 15.3269,66 33,66Z" />
+    <path android:fillColor="#ffffffff" android:pathData="M33,24m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="#ffffffff" android:pathData="M33,31L33,31A3,3 0,0 1,36 34L36,45A3,3 0,0 1,33 48L33,48A3,3 0,0 1,30 45L30,34A3,3 0,0 1,33 31z" />
+</vector>

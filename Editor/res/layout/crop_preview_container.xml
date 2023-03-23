@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/photo_editor_window_bg" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.editor.photo.core.imports.obsoletes.EditorView android:id="@id/editor_view" android:paddingTop="@dimen/editor_menu_crop_preview_content_padding_top" android:paddingBottom="@dimen/editor_menu_crop_preview_content_padding_bottom" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/effect_title" android:contentDescription="@string/photo_editor_talkback_crop_view" android:paddingStart="@dimen/editor_menu_crop_preview_content_padding_start_end" android:paddingEnd="@dimen/editor_menu_crop_preview_content_padding_start_end" />
+</RelativeLayout>

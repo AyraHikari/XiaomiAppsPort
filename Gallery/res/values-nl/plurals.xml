@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+        <item quantity="one">Een half uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Binnen 1 uur</item>
+        <item quantity="one">Binnen 1 uur</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">In een half uur</item>
+        <item quantity="one">In een half uur</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Onmiddellijk</item>
+        <item quantity="one">Onmiddellijk</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">in 1 min.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Zojuist</item>
+        <item quantity="one">Zojuist</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Deze items toevoegen aan privéalbum?</item>
+        <item quantity="one">Dit item toevoegen aan privéalbum?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">"%d cloud-foto's toegevoegd, schakel \"Alleen lokale albums tonen\" uit om te bekijken."</item>
+        <item quantity="one">%d cloud-foto toegevoegd, schakel \"Alleen lokale albums tonen\" uit om te bekijken.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">%2$d items kunnen niet aan album worden toegevoegd. %1$s.</item>
+        <item quantity="one">%2$d item kan niet aan album worden toegevoegd. %1$s.</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d items kan niet worden toegevoegd aan privéalbum. %1$s.</item>
+        <item quantity="one">%2$d item kan niet worden toegevoegd aan privéalbum. %1$s.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d maanden</item>
+        <item quantity="one">%d maand</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d jaar</item>
+        <item quantity="one">%d jaar</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Gedeeld met %d mensen</item>
+        <item quantity="one">Gedeeld met %d persoon</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">"%d foto's"</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d items | %2$s</item>
+        <item quantity="one">%1$d item | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d items)</item>
+        <item quantity="one">(%d item)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s personen kunnen dit album bekijken</item>
+        <item quantity="one">%s persoon kan dit album bekijken</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d albums inclusief %1$s</item>
+        <item quantity="one">%2$d album inclusief %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d herinneringen</item>
+        <item quantity="one">%d herinnering</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">"%1$d foto's van %2$s zullen worden toegevoegd"</item>
+        <item quantity="one">%1$d foto van %2$s zal worden toegevoegd</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">"%1$d foto's van %2$s zullen worden toegevoegd"</item>
+        <item quantity="one">%1$d foto van %2$s zal worden toegevoegd</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Back-up voortzetten over %d uren</item>
+        <item quantity="one">Back-up voortzetten over %d uur</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d bestanden zijn te groot voor een back-up</item>
+        <item quantity="one">%d bestand is te groot voor een back-up</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">Zal hervat worden over %d minuten</item>
+        <item quantity="one">Zal hervat worden over %d min</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">"Pauzeer het synchroniseren van foto's, video's, contacten, notities en andere items met de cloud voor %d minuten."</item>
+        <item quantity="one">"Pauzeer het synchroniseren van foto's, video's, contacten, notities en andere items met de cloud voor %d minuut."</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">"%1$d foto's en video's | %2$s"</item>
+        <item quantity="one">%1$d foto of video | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">"%1$d foto's en video's"</item>
+        <item quantity="one">%1$d foto of video</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">"%d foto's"</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">"%d niet geselecteerde foto's verwijderen?"</item>
+        <item quantity="one">%d niet geselecteerde foto verwijderen?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">"Deze %d foto's verwijderen"</item>
+        <item quantity="one">%d foto verwijderen</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">"%d geselecteerde foto's behouden"</item>
+        <item quantity="one">%d geselecteerde foto behouden</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">"%d foto's"</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">"%d video's"</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">Kon %d items niet synchroniseren vanwege onvoldoende cloud opslag</item>
+        <item quantity="one">Kon %d item niet synchroniseren vanwege onvoldoende cloud opslag</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">"Collages kunnen %1$d-%2$d foto's bevatten"</item>
+        <item quantity="one">Collages kunnen %1$d-%2$d foto bevatten</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">"Selecteer tot %d foto's"</item>
+        <item quantity="one">Selecteer tot %d foto</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d burst shots van Xiaomi Cloud en alle gesynchroniseerde apparaten verwijderen?</item>
+        <item quantity="one">%d burst shot van Xiaomi Cloud en alle gesynchroniseerde apparaten verwijderen?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">%d burst-opnames verwijderen?</item>
+        <item quantity="one">%d burst-opname verwijderen?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d items verwijderd</item>
+        <item quantity="one">%d item verwijderd</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d items van alle apparaten en Xiaomi Cloud verwijderen?</item>
+        <item quantity="one">%d item van alle apparaten en Xiaomi Cloud verwijderen?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">%d items verwijderen?</item>
+        <item quantity="one">%d item verwijderen?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">"%d foto's van alle apparaten en Xiaomi Cloud verwijderen?"</item>
+        <item quantity="one">%d foto van alle apparaten en Xiaomi Cloud verwijderen?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">%d burst-opnames van uw apparaat verwijderen?</item>
+        <item quantity="one">%d burst-opname van uw apparaat verwijderen?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">"%d video's van alle apparaten en Xiaomi Cloud verwijderen?"</item>
+        <item quantity="one">%d video van alle apparaten en Xiaomi Cloud verwijderen?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Kon %1$d bestanden niet downloaden</item>
+        <item quantity="one">Kon %1$d bestand niet downloaden</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">Kon %1$d bestanden niet downloaden, controleer netwerkverbinding en probeer opnieuw</item>
+        <item quantity="one">Kon %1$d bestand niet downloaden, controleer netwerkverbinding en probeer opnieuw</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Items downloaden uit de cloud (%2$d/%1$d)</item>
+        <item quantity="one">Items downloaden uit de cloud (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">"Totaal %d foto's"</item>
+        <item quantity="one">Totaal %d foto</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">"Foto's verwerken…"</item>
+        <item quantity="one">Foto verwerken…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"%1$d foto's overgeslagen die niet konden worden weergegeven."</item>
+        <item quantity="one">%1$d foto overgeslagen die niet kon worden weergegeven.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d bestanden</item>
+        <item quantity="one">%1$d bestand</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+        <item quantity="one">Een half uur geleden</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Binnen 1 uur</item>
+        <item quantity="one">Binnen 1 uur</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">In een half uur</item>
+        <item quantity="one">In een half uur</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Onmiddellijk</item>
+        <item quantity="one">Onmiddellijk</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">in 1 minuut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Zojuist</item>
+        <item quantity="one">Zojuist</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d items te synchroniseren</item>
+        <item quantity="one">%1$d item te synchroniseren</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">"%1$d foto's"</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">"%1$d foto's te synchroniseren"</item>
+        <item quantity="one">%1$d foto te synchroniseren</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">"%1$d foto's… synchroniseren"</item>
+        <item quantity="one">%1$d foto… synchroniseren</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">%1$d items… synchroniseren</item>
+        <item quantity="one">%1$d item… synchroniseren</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">"%1$d video's… synchroniseren"</item>
+        <item quantity="one">%1$d video… synchroniseren</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">"%1$d video's"</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">"%1$d video's te synchroniseren"</item>
+        <item quantity="one">%1$d video te synchroniseren</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">"%d foto's"</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Totaal %1$d items</item>
+        <item quantity="one">Totaal %1$d item</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d graden roteren</item>
+        <item quantity="one">%d graad roteren</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d uren</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Gefilterd %d niet-ondersteunde items</item>
+        <item quantity="one">Gefilterd %d niet-ondersteund item</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF-bestanden kunnen maximaal %d afbeeldingen bevatten</item>
+        <item quantity="one">PDF-bestanden kunnen maximaal %d afbeelding bevatten</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">"Geselecteerde foto's bevinden zich niet op dit apparaat. Downloaden via mobiele data?"</item>
+        <item quantity="one">Geselecteerde foto bevindt zich niet op dit apparaat. Downloaden via mobiele data?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">"Geselecteerde foto's bevinden zich niet op dit apparaat. Ze worden gedownload."</item>
+        <item quantity="one">Geselecteerde foto bevindt zich niet op dit apparaat. Deze wordt gedownload.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">"Geselecteerde foto's (%d MB) bevindt zich niet op dit apparaat. Downloaden via mobiele data?"</item>
+        <item quantity="one">Geselecteerde foto (%d MB) bevindt zich niet op dit apparaat. Downloaden via mobiele data?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d bestanden zijn nog niet gedownload. Toch annuleren?</item>
+        <item quantity="one">%d bestand is nog niet gedownload. Toch annuleren?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Downloaden %d resterende bestanden</item>
+        <item quantity="one">Downloaden %d resterend bestand</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">"Kon %1$d foto's niet downloaden, maak verbinding met het netwerk en probeer het opnieuw"</item>
+        <item quantity="one">Kon %1$d foto niet downloaden, maak verbinding met het netwerk en probeer het opnieuw</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Kon niet downloaden %1$d bestanden (%2$d MB). Maak verbinding met het netwerk en probeer het opnieuw.</item>
+        <item quantity="one">Kon niet downloaden %1$d bestand (%2$d MB). Maak verbinding met het netwerk en probeer het opnieuw.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d bestanden (%2$d MB) zijn nog niet gedownload. Downloaden met mobiele data?</item>
+        <item quantity="one">%1$d bestand (%2$d MB) is nog niet gedownload. Downloaden met mobiele data?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">"Kon %1$d foto's niet downloaden, opnieuw proberen?"</item>
+        <item quantity="one">Kon %1$d foto niet downloaden, opnieuw proberen?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">"%1$d foto's (%2$d MB) konden niet worden gedownload, opnieuw proberen?"</item>
+        <item quantity="one">%1$d foto (%2$d MB) kon niet worden gedownload, opnieuw proberen?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">"Overgeslagen %d foto's die niet op apparaat staat."</item>
+        <item quantity="one">Overgeslagen %d foto die niet op apparaat staat.</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">"%1$d nieuwe foto's gevonden"</item>
+        <item quantity="one">%1$d nieuwe foto gevonden</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">"Totaal %d foto's"</item>
+        <item quantity="one">Totaal %d foto</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d items kan niet worden verwijderd uit privéalbum. %1$s.</item>
+        <item quantity="one">%2$d item kan niet worden verwijderd uit privéalbum. %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">"%1$d foto's aan \"%2$s\" toegevoegd en toegevoegd aan de database."</item>
+        <item quantity="one">%1$d foto aan \"%2$s\" toegevoegd en toegevoegd aan de database.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">"%1$d foto's uit \"%2$s\" verwijderd en toegevoegd aan de database."</item>
+        <item quantity="one">%1$d foto uit \"%2$s\" verwijderd en toegevoegd aan de database.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">"%1$d foto's aan \"%2$s\" toegevoegd."</item>
+        <item quantity="one">%1$d foto aan \"%2$s\" toegevoegd.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">"%1$d foto's uit \"%2$s\" verwijderd."</item>
+        <item quantity="one">%1$d foto van \"%2$s\" verwijderd.</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d installatiepakketten (%3$s) van %1$s</item>
+        <item quantity="one">%2$d installatiepakket (%3$s) van %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Heeft ontvangen %2$d installatiepakketten (%3$s) van %1$s</item>
+        <item quantity="one">Heeft ontvangen %2$d installatiepakket (%3$s) van %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Ontvangen %2$d installatiepakketten (%3$s) van %1$s…</item>
+        <item quantity="one">Ontvangen %2$d installatiepakket (%3$s) van %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d audiobestanden (%3$s) van %1$s</item>
+        <item quantity="one">%2$d audiobestand (%3$s) van %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Heeft ontvangen %2$d audiobestanden (%3$s) van %1$s</item>
+        <item quantity="one">Heeft ontvangen %2$d audiobestand (%3$s) van %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Ontvangen %2$d audiobestanden (%3$s) van %1$s…</item>
+        <item quantity="one">Ontvangen %2$d audiobestand (%3$s) van %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s bestanden (%4$s) van %1$s</item>
+        <item quantity="one">%2$d %3$s bestand (%4$s) van %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Heeft ontvangen %2$d %3$s bestanden (%4$s) van %1$s</item>
+        <item quantity="one">Heeft ontvangen %2$d %3$s bestand (%4$s) van %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Ontvangen %2$d %3$s bestanden (%4$s) van %1$s…</item>
+        <item quantity="one">Ontvangen %2$d %3$s bestand (%4$s) van %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d afbeeldingen van %1$s</item>
+        <item quantity="one">%2$d afbeelding van %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Heeft ontvangen %2$d afbeeldingen van %1$s</item>
+        <item quantity="one">Heeft ontvangen %2$d afbeelding van %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%2$d afbeeldingen ontvangen van %1$s…</item>
+        <item quantity="one">%2$d afbeelding ontvangen van %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">"%2$d afbeeldingen of video's van %1$s"</item>
+        <item quantity="one">%2$d afbeelding of video van %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">"Heeft ontvangen %2$d afbeeldingen of video's van %1$s"</item>
+        <item quantity="one">Heeft ontvangen %2$d afbeelding of video van %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">"%2$d afbeeldingen of video's ontvangen van %1$s…"</item>
+        <item quantity="one">%2$d afbeelding of video ontvangen van %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d bestanden van %1$s</item>
+        <item quantity="one">%2$d bestand van %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Heeft ontvangen %2$d bestanden van %1$s</item>
+        <item quantity="one">Heeft ontvangen %2$d bestand van %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%2$d bestanden ontvangen van %1$s…</item>
+        <item quantity="one">%2$d bestand ontvangen van %1$s…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">"Delen mislukt. Nog steeds bezig met het verwerken van %d foto's…"</item>
+        <item quantity="one">Delen mislukt. Nog steeds bezig met het verwerken van %d foto…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">"%2$d video's van %1$s"</item>
+        <item quantity="one">%2$d video van %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">"Heeft ontvangen %2$d video's van %1$s"</item>
+        <item quantity="one">Heeft ontvangen %2$d video van %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">"%2$d video's ontvangen van %1$s…"</item>
+        <item quantity="one">%2$d video ontvangen van %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d archieven (%3$s) van %1$s</item>
+        <item quantity="one">%2$d archief (%3$s) van %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Heeft ontvangen %2$d archieven (%3$s) van %1$s</item>
+        <item quantity="one">Heeft ontvangen %2$d archief (%3$s) van %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Ontvangen %2$d archieven (%3$s) van %1$s…</item>
+        <item quantity="one">Ontvangen %2$d archief (%3$s) van %1$s…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">"%d foto's geüpload"</item>
+        <item quantity="one">%d foto geüpload</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d kamers</item>
+        <item quantity="one">%1$d kamer</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d schermen</item>
+        <item quantity="one">%1$d scherm</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d schermen</item>
+        <item quantity="one">%1$d scherm</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d gedeelde schermen</item>
+        <item quantity="one">%1$d gedeeld scherm</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d items zijn te groot om te synchroniseren</item>
+        <item quantity="one">%d item is te groot om te synchroniseren</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">Kon %d items niet synchroniseren. Upgrade uw opslagabonnement.</item>
+        <item quantity="one">Kon %d item niet synchroniseren. Upgrade uw opslagabonnement.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">Kon %d items niet synchroniseren. Probeer het opnieuw.</item>
+        <item quantity="one">Kon %d item niet synchroniseren. Probeer het opnieuw.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">Kon %d items niet synchroniseren. De eigenaar van dit album heeft geen cloud opslag meer.</item>
+        <item quantity="one">Kon %d item niet synchroniseren. De eigenaar van dit album heeft geen cloud opslag meer.</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d seconden</item>
+        <item quantity="one">%1$d seconde</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">"%d foto's geoptimaliseerd"</item>
+        <item quantity="one">%d foto geoptimaliseerd</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">"%d foto's geoptimaliseerd"</item>
+        <item quantity="one">"%d foto's geoptimaliseerd"</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">"%d video's geoptimaliseerd"</item>
+        <item quantity="one">%d video geoptimaliseerd</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">"%d foto's zijn niet geoptimaliseerd. Nu stoppen?"</item>
+        <item quantity="one">%d foto is niet geoptimaliseerd. Nu stoppen?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">"%d foto's"</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">"%d foto's resterend"</item>
+        <item quantity="one">%d foto resterend</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d items over om te optimaliseren</item>
+        <item quantity="one">%d item over om te optimaliseren</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">"%d video's"</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">"Er is geen back-up van %d foto's en video's"</item>
+        <item quantity="one">Er is geen back-up van %d foto of video</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d bestanden zijn te groot voor een back-up</item>
+        <item quantity="one">%d bestand is te groot voor een back-up</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">"%d foto's gesynchroniseerd"</item>
+        <item quantity="one">%d foto gesynchroniseerd</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">"%d video's gesynchroniseerd"</item>
+        <item quantity="one">%d video gesynchroniseerd</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">%d items synchroniseren met mobiele data</item>
+        <item quantity="one">%d item synchroniseren met mobiele data</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">%d items synchroniseren</item>
+        <item quantity="one">%d item synchroniseren</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s items</item>
+        <item quantity="one">%1$s, %2$s item</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d maanden</item>
+        <item quantity="one">%d maand</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d jaar</item>
+        <item quantity="one">%d jaar</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d geselecteerde items worden permanent verwijderd uit de cloud en alle gesynchroniseerde apparaten. Toch verwijderen?</item>
+        <item quantity="one">%d geselecteerd item wordt permanent verwijderd uit de cloud en alle gesynchroniseerde apparaten. Toch verwijderen?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">U kunt niet herstellen %d de geselecteerde items als u ze verwijdert. Toch verwijderen?</item>
+        <item quantity="one">U kunt niet herstellen %d de geselecteerde item als u ze verwijdert. Toch verwijderen?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d geselecteerde items worden permanent verwijderd. Toch verwijderen?</item>
+        <item quantity="one">%d geselecteerd item wordt permanent verwijderd. Toch verwijderen?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">U kunt niet herstellen %d de geselecteerde items als u ze verwijdert. Toch verwijderen?</item>
+        <item quantity="one">U kunt niet herstellen %d de geselecteerde item als u ze verwijdert. Toch verwijderen?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">U kunt niet herstellen %d de geselecteerde items als u ze verwijdert. Toch verwijderen?</item>
+        <item quantity="one">U kunt niet herstellen %d de geselecteerde item als u ze verwijdert. Toch verwijderen?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Items kunnen hier maximaal worden opgeslagen tot %1$d dagen (%2$s)</item>
+        <item quantity="one">Items kunnen hier worden opgeslagen voor %1$d dag (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Items kunnen hier maximaal worden opgeslagen tot %1$d dagen. Upgrade uw abonnement om deze periode te verlengen.</item>
+        <item quantity="one">Items kunnen hier worden opgeslagen voor %1$d dag. Upgrade uw abonnement om deze periode te verlengen.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d bestanden</item>
+        <item quantity="one">%1$d bestand</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">"%d video's"</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+</resources>

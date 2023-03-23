@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/editor_menu_filter_category_origin_button_height" android:width="@dimen/editor_menu_filter_category_origin_button_width" android:viewportWidth="50.0" android:viewportHeight="50.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M34.713,38.955L11.045,15.287C6.419,21.916 7.064,31.106 12.979,37.021C18.894,42.936 28.084,43.581 34.713,38.955ZM38.956,34.713C43.581,28.084 42.936,18.894 37.021,12.979C31.106,7.064 21.916,6.419 15.287,11.044L38.956,34.713ZM41.264,8.737C50.245,17.719 50.245,32.281 41.264,41.264C32.281,50.245 17.719,50.245 8.737,41.264C-0.246,32.281 -0.246,17.719 8.737,8.737C17.719,-0.246 32.281,-0.246 41.264,8.737Z" android:fillType="evenOdd" />
+</vector>

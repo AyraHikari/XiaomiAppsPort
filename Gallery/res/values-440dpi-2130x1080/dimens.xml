@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_menu_filter_compare_btn_margin_end_3V4">13.0dip</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_end_9V16">42.0dip</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_3V4">40.0dip</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_9V16">0.0dip</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_end_9V16">46.0dip</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_end_has_nav_bar_9V16">61.0dip</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_top_9V16">0.0dip</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_top_has_nav_bar_9V16">10.0dip</dimen>
+    <dimen name="photo_editor_nav_sky_guide_hint_offsetY">30.0dip</dimen>
+</resources>

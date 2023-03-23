@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list android:variablePadding="@bool/preference_item_bg_enable_variablePadding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/miuix_preference_item_radio_two_state_background_2" android:minLevel="2" android:maxLevel="2" />
+    <item android:drawable="@drawable/miuix_preference_item_radio_two_state_background_1" android:minLevel="1" android:maxLevel="1" />
+    <item android:drawable="@drawable/miuix_preference_item_radio_two_state_background_0" />
+</level-list>

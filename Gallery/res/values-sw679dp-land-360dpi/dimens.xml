@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_ratio_origin_margin_start">53.332977dip</dimen>
+    <dimen name="vlog_clip_edit_nav_item_width_max">106.66699dip</dimen>
+    <dimen name="clip_edit_nav_back_width">106.66699dip</dimen>
+</resources>

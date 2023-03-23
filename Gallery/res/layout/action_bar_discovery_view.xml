@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.WHRatioRoundedImageView android:id="@id/photo" android:layout_width="@dimen/action_bar_discovery_image_size" android:layout_height="@dimen/action_bar_discovery_image_size" android:layout_marginTop="@dimen/action_bar_discovery_thumb_margin_top" android:scaleType="centerCrop" app:outlineCornerRadius="@dimen/action_bar_discovery_image_corner_radius" app:strokeColor="@color/action_bar_home_discovery_stroke_color" app:strokeWidth="@dimen/action_bar_discovery_thumb_stroke_width" app:whRatio="1.0" />
+    <TextView android:textSize="@dimen/action_bar_home_discovery_dot_text_size" android:textStyle="bold" android:textColor="@color/action_bar_home_discovery_text_color" android:gravity="center" android:id="@id/photo_count" android:background="@drawable/action_bar_discovery_dot" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/action_bar_discovery_thumb_dot_magin_top" android:layout_marginStart="@dimen/action_bar_discovery_red_dot_margin_start" />
+</RelativeLayout>

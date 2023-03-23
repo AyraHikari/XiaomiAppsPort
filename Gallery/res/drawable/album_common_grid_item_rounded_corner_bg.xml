@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="@dimen/album_cover_stroke_size" android:color="@color/album_page_album_stroke" />
+    <corners android:radius="@dimen/album_grid_rounded_corner_value" />
+</shape>

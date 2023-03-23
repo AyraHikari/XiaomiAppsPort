@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 કલાક પહેલાં</item>
+        <item quantity="one">1 કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 કલાક પહેલાં</item>
+        <item quantity="one">1 કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">અડધા કલાક પહેલાં</item>
+        <item quantity="one">અડધા કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 કલાકમાં</item>
+        <item quantity="one">1 કલાકમાં</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">અડધા કલાકમાં</item>
+        <item quantity="one">અડધા કલાકમાં</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">તરત જ</item>
+        <item quantity="one">તરત જ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d મિનિટમાં</item>
+        <item quantity="one">1 મિનિટમાં</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">હમણાં જ</item>
+        <item quantity="one">હમણાં જ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d મિનિટ પહેલા</item>
+        <item quantity="one">1 મિનિટ પહેલાં</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ફાઇલો</item>
+        <item quantity="one">%1$d ફાઇલ</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">અડધા કલાક પહેલાં</item>
+        <item quantity="one">અડધા કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 કલાકમાં</item>
+        <item quantity="one">1 કલાકમાં</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">અડધા કલાકમાં</item>
+        <item quantity="one">અડધા કલાકમાં</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">તરત જ</item>
+        <item quantity="one">તરત જ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d મિનિટમાં</item>
+        <item quantity="one">1 મિનિટમાં</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">હમણાં જ</item>
+        <item quantity="one">હમણાં જ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d આઇટમો પસંદ કરેલ છે</item>
+        <item quantity="one">%d આઇટમ પસંદ કરેલ છે</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d મિનિટ પહેલા</item>
+        <item quantity="one">1 મિનિટ પહેલા</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d ડિગ્રીઝ ફેરવો</item>
+        <item quantity="one">%d ડિગ્રી ફેરવો</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s તરફથી %2$d ઇન્સ્ટોલેશન પેકેજ (%3$s)</item>
+        <item quantity="one">%1$s તરફથી %2$d ઇન્સ્ટોલેશન પેકેજ (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s તરફથી %2$d ઇન્સ્ટોલેશન પેકેજ પ્રાપ્ત થયું(%3$s)</item>
+        <item quantity="one">%1$s તરફથી %2$d ઇન્સ્ટોલેશન પેકેજ પ્રાપ્ત થયું(%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s તરફથી %2$d ઇન્સ્ટોલેશન પેકેજ આવી રહ્યાં છે(%3$s)…</item>
+        <item quantity="one">%1$s તરફથી %2$d ઇન્સ્ટોલેશન પેકેજ આવી રહ્યું છે(%3$s)…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s તરફથી %2$d ઓડિયો ફાઇલો (%3$s)</item>
+        <item quantity="one">%1$s તરફથી %2$d ઓડિયો ફાઇલ (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s તરફથી %2$d ઓડિયો ફાઇલ પ્રાપ્ત થઈ(%3$s)</item>
+        <item quantity="one">%1$s તરફથી %2$d ઓડિયો ફાઇલ પ્રાપ્ત થઈ(%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s તરફથી %2$d ઓડિયો ફાઇલ આવી રહી છે(%3$s)…</item>
+        <item quantity="one">%1$s તરફથી %2$d ઓડિયો ફાઇલ આવી રહી છે(%3$s)…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$s તરફથી %2$d %3$s ફાઇલો (%4$s)</item>
+        <item quantity="one">%1$s તરફથી %2$d %3$s ફાઇલ (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s તરફથી %2$d %3$s ફાઇલો પ્રાપ્ત થઈ(%4$s)</item>
+        <item quantity="one">%1$s તરફથી %2$d %3$s ફાઇલ પ્રાપ્ત થઈ(%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s તરફથી %2$d %3$s ફાઇલો આવી રહી છે(%4$s)…</item>
+        <item quantity="one">%1$s તરફથી %2$d %3$s ફાઇલ આવી રહી છે(%4$s)…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s તરફથી %2$d ફોટા</item>
+        <item quantity="one">%1$s તરફથી %2$d ફોટો</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s તરફથી %2$d ફોટા પ્રાપ્ત થયા</item>
+        <item quantity="one">%1$s તરફથી %2$d ફોટો પ્રાપ્ત થયો</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s તરફથી %2$d ફોટા આવી રહ્યા છે…</item>
+        <item quantity="one">%1$s તરફથી %2$d ફોટો આવી રહ્યો છે…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s તરફથી %2$d ફોટા કે વીડિયો</item>
+        <item quantity="one">%1$s તરફથી %2$d ફોટો કે વીડિયો</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s તરફથી %2$d ફોટા કે વીડિયો પ્રાપ્ત થયા</item>
+        <item quantity="one">%1$s તરફથી %2$d ફોટો કે વીડિયો પ્રાપ્ત થયો</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s તરફથી %2$d ફોટા કે વીડિયો આવી રહ્યા છે…</item>
+        <item quantity="one">%1$s તરફથી %2$d ફોટો કે વીડિયો આવી રહ્યો છે…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s તરફથી %2$d ફાઇલો</item>
+        <item quantity="one">%1$s તરફથી %2$d ફાઇલ</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s તરફથી %2$d ફાઇલો પ્રાપ્ત થઈ</item>
+        <item quantity="one">%1$s તરફથી %2$d ફાઇલ પ્રાપ્ત થઈ</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s તરફથી %2$d ફાઇલો આવી રહી છે…</item>
+        <item quantity="one">%1$s તરફથી %2$d ફાઇલ આવી રહી છે…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s તરફથી %2$d વીડિયો</item>
+        <item quantity="one">%1$s તરફથી %2$d વીડિયો</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s તરફથી %2$d વીડિયો પ્રાપ્ત થયા</item>
+        <item quantity="one">%1$s તરફથી %2$d વીડિયો પ્રાપ્ત થયો</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s તરફથી %2$d વીડિયો આવી રહ્યા છે…</item>
+        <item quantity="one">%1$s તરફથી %2$d વીડિયો આવી રહ્યો છે…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s તરફથી %2$d આર્કાઇવ (%3$s)</item>
+        <item quantity="one">%1$s તરફથી %2$d આર્કાઇવ (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s તરફથી %2$d આર્કાઇવ પ્રાપ્ત થયાં(%3$s)</item>
+        <item quantity="one">%1$s તરફથી %2$d આર્કાઇવ પ્રાપ્ત થયું(%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s તરફથી %2$d આર્કાઇવ આવી રહ્યાં છે(%3$s)…</item>
+        <item quantity="one">%1$s તરફથી %2$d આર્કાઇવ આવી રહ્યું છે(%3$s)…</item>
+    </plurals>
+</resources>

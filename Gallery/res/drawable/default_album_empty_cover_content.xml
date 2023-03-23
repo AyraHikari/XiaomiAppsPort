@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="280.0" android:viewportHeight="280.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/album_empty_cover_icon" android:pathData="M136.479,123.077C134.946,120.377 131.054,120.377 129.522,123.077L111.956,154.026C110.443,156.692 112.369,160 115.435,160H150.565C153.632,160 155.558,156.692 154.044,154.026L136.479,123.077ZM147.261,137.721L159.3,159.005H167.29C169.577,159.005 171.023,156.547 169.912,154.548L156.535,130.469C155.392,128.411 152.433,128.411 151.29,130.469L147.261,137.721Z" android:fillType="evenOdd" />
+</vector>

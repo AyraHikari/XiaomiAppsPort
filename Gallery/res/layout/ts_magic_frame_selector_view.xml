@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/handler_group" android:layout_width="wrap_content" android:layout_height="@dimen/magic_px_150"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/handler_left" android:background="@drawable/magic_clip_frame_left" android:layout_width="@dimen/magic_px_56" android:layout_height="@dimen/magic_px_150" />
+    <com.miui.gallery.magic.widget.frame.FrameBodyView android:id="@id/handler_body" android:background="@drawable/magic_frame_selector_body" android:layout_width="0.0dip" android:layout_height="@dimen/magic_px_150" android:layout_marginLeft="@dimen/magic_px_010" android:layout_marginRight="@dimen/magic_px_010" android:layout_weight="1.0">
+        <SeekBar android:id="@id/magic_cut_seek_bar" android:layout_width="fill_parent" android:layout_height="@dimen/magic_cut_height" android:progress="0" style="@style/MagicPlaySeekBarStyle" />
+    </com.miui.gallery.magic.widget.frame.FrameBodyView>
+    <ImageView android:id="@id/handler_right" android:background="@drawable/magic_clip_frame_right" android:layout_width="@dimen/magic_px_56" android:layout_height="@dimen/magic_px_150" />
+</LinearLayout>

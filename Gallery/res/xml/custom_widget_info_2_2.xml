@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider android:minWidth="@dimen/gallery_widget_2_2_min_width" android:minHeight="@dimen/gallery_widget_2_2_min_height" android:updatePeriodMillis="200000" android:initialLayout="@layout/widget_custom_loading_2_2" android:previewImage="@drawable/widget_custom_replace_2_2" android:resizeMode="none" android:widgetCategory="home_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

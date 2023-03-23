@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:variablePadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/ic_ocr_revise_selected" />
+    <item android:state_enabled="false" android:drawable="@drawable/ic_ocr_revise" />
+    <item android:drawable="@drawable/ic_ocr_revise" />
+</selector>

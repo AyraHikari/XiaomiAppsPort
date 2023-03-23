@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/vlog_menu_common_item_icon_size" android:width="@dimen/vlog_menu_common_item_icon_size" android:viewportWidth="60.0" android:viewportHeight="60.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$ic_vlog_trans_jian_bian_ca_chu_nor__0" android:pathData="M54,7L54,53A1,1 0,0 1,53 54L7,54A1,1 0,0 1,6 53L6,7A1,1 0,0 1,7 6L53,6A1,1 0,0 1,54 7z" />
+</vector>

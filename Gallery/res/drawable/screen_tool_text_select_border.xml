@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="@dimen/screen_text_popwin_item_size" android:width="@dimen/screen_text_popwin_item_size" android:drawable="@drawable/screen_tool_text_select_border_2" />
+    <item android:height="@dimen/screen_text_popwin_item_size" android:width="@dimen/screen_text_popwin_item_size" android:drawable="@drawable/screen_tool_text_select_border_1" />
+</layer-list>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.editor.ui.view.BubbleSeekBar android:id="@id/seek_bar" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/photo_editor_talkback_seekbar" android:layoutDirection="ltr" style="@style/bubble_seek_bar_default"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

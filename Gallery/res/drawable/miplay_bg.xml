@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:startColor="@color/miplay_bg_start_color" android:endColor="@color/miplay_bg_end_color" android:angle="270.0" android:centerY="0.8" android:centerColor="@color/miplay_bg_center_color" />
+</shape>

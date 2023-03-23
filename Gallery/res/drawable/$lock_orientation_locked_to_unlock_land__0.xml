@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/photo_page_top_menu_bar_icon_height" android:width="@dimen/photo_page_top_menu_bar_icon_width" android:viewportWidth="74.0" android:viewportHeight="74.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="_R_G">
+        <group android:name="_R_G_L_1_G" android:translateX="35.75" android:translateY="37.0">
+            <path android:name="_R_G_L_1_G_D_0_P_0" android:fillColor="@color/action_button_v20_normal" android:pathData=" M22.75 -2.5 C22.75,-2.5 22.75,15.5 22.75,15.5 C22.75,18.81 20.06,21.5 16.75,21.5 C16.75,21.5 -14.25,21.5 -14.25,21.5 C-17.56,21.5 -20.25,18.81 -20.25,15.5 C-20.25,15.5 -20.25,-2.5 -20.25,-2.5 C-20.25,-5.81 -17.56,-8.5 -14.25,-8.5 C-14.25,-8.5 16.75,-8.5 16.75,-8.5 C20.06,-8.5 22.75,-5.81 22.75,-2.5c " android:strokeColor="@color/action_button_v20_normal" android:strokeWidth="5.0" android:strokeLineCap="round" android:strokeLineJoin="round" android:strokeAlpha="1.0" android:fillAlpha="0.0" android:fillType="nonZero" />
+        </group>
+        <group android:name="_R_G_L_0_G" android:translateX="37.0" android:translateY="19.75">
+            <path android:name="_R_G_L_0_G_D_0_P_0" android:fillColor="@color/action_button_v20_normal" android:pathData=" M0 -9.75 C-7.73,-9.75 -14,-3.48 -14,4.25 C-14,4.25 -14,6.25 -14,6.25 C-14,6.25 -9,6.25 -9,6.25 C-9,6.25 -9,4.25 -9,4.25 C-9,-0.72 -4.97,-4.75 0,-4.75 C4.97,-4.75 9,-0.72 9,4.25 C9,4.25 9,6.25 9,6.25 C9,6.25 14,6.25 14,6.25 C14,6.25 14,4.25 14,4.25 C14,-3.48 7.73,-9.75 0,-9.75c " android:fillAlpha="1.0" android:fillType="nonZero" />
+        </group>
+    </group>
+    <group android:name="time_group" />
+</vector>

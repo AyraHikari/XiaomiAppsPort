@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="display_top_line">28.0dip</dimen>
+    <dimen name="render_view_margin_top">32.0dip</dimen>
+</resources>

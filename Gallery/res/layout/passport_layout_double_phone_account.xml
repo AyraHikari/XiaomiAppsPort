@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingTop="@dimen/passport_login_page_padding_top" android:paddingBottom="@dimen/passport_account_login_padding_double_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:passport="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/double_phone_account_top_iv" android:layout_width="fill_parent" android:layout_height="@dimen/passport_content_title_icon_size" android:src="@drawable/passport_ic_account_xiaomi" android:scaleType="fitCenter" />
+            <TextView android:id="@id/tv_page_title" android:layout_marginTop="@dimen/passport_account_login_double_margin_small" android:text="@string/login_by_local_phone_long_text" style="@style/Passport.ContentTitleText" />
+            <com.xiaomi.passport.ui.view.PhoneAccountCard android:id="@id/phone_account_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/passport_account_login_small_margin_top" passport:card_mode="small" />
+            <com.xiaomi.passport.ui.view.PhoneAccountCard android:id="@id/phone_account_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/passport_account_login_second_to_one" passport:card_mode="small" />
+            <FrameLayout android:id="@id/protocal_container" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.xiaomi.passport.ui.view.AgreementView android:id="@id/agreement_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" />
+            <Button android:id="@id/btn_login_other" android:layout_marginTop="32.0dip" android:text="@string/login_other" style="@style/Passport.CommonRoundButton" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

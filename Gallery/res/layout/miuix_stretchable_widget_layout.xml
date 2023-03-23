@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/top_view" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/miuix_picker_start_text_start_margin" />
+        <TextView android:textSize="@dimen/miuix_picker_start_text_size" android:id="@id/start_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/miuix_picker_start_text_top_margin" android:layout_marginBottom="@dimen/miuix_picker_start_text_top_margin" android:text="TextView" android:layout_toEndOf="@id/icon" />
+        <ImageView android:id="@id/state_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/miuix_picker_state_icon_top_margin" android:layout_marginEnd="@dimen/miuix_picker_start_text_start_margin" android:layout_alignParentEnd="true" />
+        <TextView android:textSize="@dimen/miuix_picker_datetime_text_size" android:textColor="@color/miuix_picker_datetime_text_color" android:id="@id/detail_msg_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/miuix_picker_datetime_top_margin" android:text="TextView" android:maxLines="1" android:layout_marginEnd="@dimen/miuix_picker_datetime_end_margin" android:layout_toStartOf="@id/state_image" />
+    </RelativeLayout>
+    <View android:id="@id/top_line" android:background="@color/miuix_picker_view_color" android:layout_width="fill_parent" android:layout_height="@dimen/miuix_stretchable_view_heigth" android:alpha="0.1" android:layout_marginStart="@dimen/miuix_picker_view_start_margin" android:layout_marginEnd="@dimen/miuix_picker_view_start_margin" />
+    <miuix.stretchablewidget.WidgetContainer android:orientation="vertical" android:id="@id/customize_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <View android:id="@id/button_line" android:background="@color/miuix_picker_view_color" android:layout_width="fill_parent" android:layout_height="@dimen/miuix_stretchable_view_heigth" android:alpha="0.1" android:layout_marginStart="@dimen/miuix_picker_view_start_margin" android:layout_marginEnd="@dimen/miuix_picker_view_start_margin" />
+</LinearLayout>

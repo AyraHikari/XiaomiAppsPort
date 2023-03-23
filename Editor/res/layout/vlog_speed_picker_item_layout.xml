@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/vlog_speed_picker_item_text_size" android:textColor="@color/white" android:gravity="center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:fontFamily="mipro-medium"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/photo_page_video_duration_bar_bg" android:layout_width="wrap_content" android:layout_height="@dimen/video_duration_bar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/video_duration_bar_text_size" android:textColor="@color/photo_page_video_duration_text_color" android:id="@id/video_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/video_duration_bar_progress_margin_start" />
+    <View android:background="@color/photo_page_video_duration_divider_color" android:layout_width="@dimen/video_duration_bar_divider_width" android:layout_height="@dimen/video_duration_bar_divider_height" android:layout_marginStart="@dimen/video_duration_bar_divider_margin_start" android:layout_marginEnd="@dimen/video_duration_bar_divider_margin_end" />
+    <TextView android:textSize="@dimen/video_duration_bar_text_size" android:textColor="@color/photo_page_video_duration_text_color" android:id="@id/video_duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/video_duration_bar_duration_margin_end" />
+</LinearLayout>

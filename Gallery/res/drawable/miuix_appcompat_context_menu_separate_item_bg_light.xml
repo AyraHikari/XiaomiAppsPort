@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/miuix_appcompat_context_menu_separate_item_bg_color_light" />
+    <padding android:left="@dimen/miuix_appcompat_context_menu_separate_item_horizontal_padding" android:top="@dimen/miuix_appcompat_context_menu_separate_item_padding_top" android:right="@dimen/miuix_appcompat_context_menu_separate_item_horizontal_padding" android:bottom="@dimen/miuix_appcompat_context_menu_separate_item_padding_bottom" />
+    <corners android:radius="@dimen/miuix_appcompat_immersion_menu_background_radius" />
+</shape>

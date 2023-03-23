@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:icon="@drawable/action_shortcut_slim" android:enabled="false" android:shortcutId="shortcut_slim" android:shortcutShortLabel="@string/cleaner_title">
+        <intent android:action="android.intent.action.VIEW" android:data="https://gallery.i.mi.com/cleaner" />
+    </shortcut>
+    <shortcut android:icon="@drawable/action_shortcut_favorite" android:enabled="true" android:shortcutId="shortcut_favorite" android:shortcutShortLabel="@string/album_favorites_name">
+        <intent android:targetPackage="com.miui.gallery" android:action="android.intent.action.VIEW" android:data="https://gallery.i.mi.com/favorites" android:targetClass="com.miui.gallery.activity.AlbumDetailActivity" />
+    </shortcut>
+</shortcuts>

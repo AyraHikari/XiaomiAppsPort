@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chooser_item_cell_horizontal_padding">24.25998dip</dimen>
+    <dimen name="chooser_item_cell_icon_height">51.399994dip</dimen>
+    <dimen name="chooser_item_cell_icon_width">51.399994dip</dimen>
+    <dimen name="chooser_item_cell_margin">53.849976dip</dimen>
+    <dimen name="chooser_item_cell_text_width">54.94998dip</dimen>
+    <dimen name="chooser_item_cell_textsize">11.559998sp</dimen>
+    <dimen name="chooser_item_text_margin_top">7.669983dip</dimen>
+    <dimen name="editor_menu_filter_top_guide_line_end">147.63998dip</dimen>
+    <dimen name="editor_menu_sticker_top_guide_end">228.44dip</dimen>
+    <dimen name="fast_share_chooser_margin_bottom">42.409973dip</dimen>
+    <dimen name="fast_share_height">339.10938dip</dimen>
+    <dimen name="fast_share_height_with_nearby_share">410.79688dip</dimen>
+    <dimen name="fast_share_mishare_padding_bottom">145.78dip</dimen>
+    <dimen name="fast_share_mishare_padding_bottom_with_nearby_share">119.109985dip</dimen>
+    <dimen name="photo_screen_share_and_delete_checkbox_margin_start">53.329987dip</dimen>
+    <dimen name="photo_screen_share_and_delete_checkbox_padding_start">14.459991dip</dimen>
+</resources>

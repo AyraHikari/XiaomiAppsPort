@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:id="@id/tracking_progress_up_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/miuix_sbl_tracking_up_progress_bg_margintop" android:layout_marginBottom="@dimen/miuix_sbl_tracking_up_progress_bg_marginbottom" android:layout_centerHorizontal="true">
+        <ProgressBar android:id="@id/loading_progress_up" android:background="@drawable/miuix_sbl_loading_progress_bg_light" android:layout_width="@dimen/miuix_sbl_tracking_progress_bg_width" android:layout_height="@dimen/miuix_sbl_tracking_progress_bg_height" android:indeterminateDrawable="@drawable/miuix_sbl_loading_progress_circle_light" android:indeterminateDuration="800" />
+        <ImageView android:id="@id/tracking_progress_up" android:background="@drawable/miuix_sbl_tracking_progress_ellipse_bg" android:layout_width="@dimen/miuix_sbl_tracking_progress_bg_width" android:layout_height="@dimen/miuix_sbl_tracking_progress_bg_height" />
+        <TextView android:textAppearance="@style/Miuix.Spring.TextAppearance.indicator" android:id="@id/tracking_progress_up_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/miuix_sbl_tracking_uo_progress_labe_margintleft" android:text="@string/miuix_sbl_tracking_progress_labe_up_refresh" android:layout_toRightOf="@id/tracking_progress_up" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</RelativeLayout>

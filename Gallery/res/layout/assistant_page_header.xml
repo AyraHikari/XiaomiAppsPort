@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/assistant_page_header" android:background="@color/assistant_page_grid_bg_white" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/assistant_page_header_margin_bottom" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

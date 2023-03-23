@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="28.0dip" android:paddingEnd="28.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="14.389984sp" android:textColor="@color/transfer_text_color" android:gravity="left" android:layout_gravity="center" android:id="@id/transfer_msg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:text="@string/migrate_gp_msg" android:paddingStart="8.0dip" android:paddingEnd="8.0dip" android:lineHeight="25.169983sp" />
+        <RelativeLayout android:background="@drawable/transfer_start_data_bg" android:layout_width="fill_parent" android:layout_height="80.0dip" android:layout_marginBottom="8.0dip">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="28.0dip">
+                <TextView android:textSize="17.0sp" android:textColor="@color/transfer_text_color" android:id="@id/sync_num_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="2047 photos and videos" android:fontFamily="misans-medium" />
+                <TextView android:textSize="13.0sp" android:textColor="@color/transfer_text_color" android:id="@id/cloud_data_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1.8 GB" />
+            </LinearLayout>
+        </RelativeLayout>
+        <TextView android:textSize="14.389984sp" android:textColor="@color/transfer_text_color" android:gravity="left" android:layout_gravity="center" android:id="@id/transfer_bottom_msg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:layout_marginBottom="20.0dip" android:text="@string/migrate_gp_bottom_msg_0" android:paddingStart="8.0dip" android:paddingEnd="8.0dip" android:lineHeight="25.169983sp" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="13.0dip" android:paddingEnd="13.0dip">
+            <TextView android:textSize="14.389984sp" android:textColor="@color/transfer_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/permission_prompt_point" android:layout_marginStart="5.0dip" android:layout_marginEnd="5.0dip" android:lineHeight="25.169983sp" />
+            <TextView android:textSize="14.389984sp" android:textColor="@color/transfer_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/migrate_gp_bottom_msg_li_0" android:lineHeight="25.169983sp" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:paddingStart="13.0dip" android:paddingEnd="13.0dip">
+            <TextView android:textSize="14.389984sp" android:textColor="@color/transfer_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/permission_prompt_point" android:layout_marginStart="5.0dip" android:layout_marginEnd="5.0dip" android:lineHeight="25.169983sp" />
+            <TextView android:textSize="14.389984sp" android:textColor="@color/transfer_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/migrate_gp_bottom_msg_li_1" android:lineHeight="25.169983sp" />
+        </LinearLayout>
+        <TextView android:textSize="14.389984sp" android:textColor="@color/transfer_text_color" android:gravity="left" android:layout_gravity="center" android:id="@id/transfer_bottom_msg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:layout_marginBottom="20.0dip" android:text="@string/migrate_gp_bottom_msg_1" android:paddingStart="8.0dip" android:paddingEnd="8.0dip" android:lineHeight="25.169983sp" />
+    </LinearLayout>
+</ScrollView>

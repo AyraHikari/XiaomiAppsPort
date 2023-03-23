@@ -1,0 +1,51 @@
+{
+  "background": "#ffffff",
+  "collagePositions": [
+    {
+      "size": 2,
+      "margin": 0,
+      "position": [
+        0.228,
+        0.157,
+        0.772,
+        0.843
+      ]
+    },
+    {
+      "size": 3,
+      "margin": 0,
+      "position": [
+        0.256,
+        0.176,
+        0.744,
+        0.824
+      ]
+    },
+    {
+      "size": 4,
+      "margin": 0,
+      "position": [
+        0.270,
+        0.172,
+        0.730,
+        0.828
+      ]
+    },
+    {
+      "size": 5,
+      "margin": 0,
+      "position": [
+        0.318,
+        0.177,
+        0.682,
+        0.823
+      ]
+    }
+  ],
+  "collageModels": [
+    20,
+    31,
+    41,
+    50
+  ]
+}

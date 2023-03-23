@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>ئاق تەگلىك</item>
+        <item>قېنىق كۆك رەڭلىك تەگ</item>
+        <item>سۇس كۆك رەڭلىك تەگ</item>
+        <item>قىزىل تەگلىك</item>
+        <item>يېشىل تەگلىك</item>
+        <item>توخۇڭ تەگلىك</item>
+        <item>قوڭۇر رەڭ تەگلىك</item>
+        <item>كۈلرەڭ تەگلىك</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>ئارقا كۆرۈنۈش رەسىمى ئەكىرىش</item>
+        <item>سۈزۈك ئارقا كۆرۈنۈش</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>سەيلە قىلىش</item>
+        <item>يېنىك شامال</item>
+        <item>چۈش</item>
+        <item>بۇلۇت</item>
+        <item>ئەسلىمە</item>
+        <item>ئوماق</item>
+        <item>ئەگرى-بۈگرى</item>
+        <item>چوڭقۇر ئاۋاز</item>
+        <item>سايە</item>
+        <item>ئاددىي</item>
+        <item>مىلى</item>
+        <item>لەيلىمە</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>گېئومېتىرىيەلىك شەكىلنىڭ ئارقا كۆرۈنۈشى سۈرەتنى تېخىمۇ كەلگۈسى تۇيغۇغا ئىگە قىلىدۇ</item>
+        <item>ئارقا كۆرۈنۈش باسما رەسىم ئۈنۈمى سۈرەتنى تېخىمۇ گۈزەل سەنئەت كەيپىياتىغا ئىگە قىلىدۇ</item>
+        <item>ئارقا كۆرۈنۈشنى تېز سىزىش، رەسىمنى تېخىمۇ گۈزەل قىلىدۇ</item>
+        <item>ئارقا كۆرۈنۈش سۇ بوياق شامىلى، سۈرەتنى تېخىمۇ بەدىئىي تۇيغۇغا ئىگە قىلدى</item>
+        <item>ئورۇن ئالماشتۇرۇپ كاشىلا پەيدا قىلىش، رەڭدار كونىلىقنى ئەسلىگە كەلتۈرۈش تۇيغۇسى يارىتىش</item>
+        <item>خاتا سىزىقلارنى پارچىلاپ، سۈرەتنى تېخىمۇ مودا تۇيغۇسىغا ئىگە قىلىش كېرەك</item>
+        <item>ئەينەك دېرىزە تۇمان ئۈنۈمى، سۈرەتنى تېخىمۇ غۇۋا ھېس قىلدۇرىدۇ</item>
+        <item>پەن-تېخنىكىدىكى كاشىلا تۇيغۇسى، سېكۇنتنىڭ كۆتۈرۈلۈش-پەسىيىشىنى كەلتۈرۈپ چىقىرىدۇ</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>تۆۋەن مودېل</item>
+        <item>رەسىم</item>
+        <item>تەسۋىر</item>
+        <item>سۇ بوياق</item>
+        <item>RGB</item>
+        <item>پەنجىرە</item>
+        <item>تۇمان</item>
+        <item>شامال</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>رەڭلىك ياندىن سىزىش</item>
+        <item>مەۋھۇم سىزىقلىق ياندىن سىزىش</item>
+        <item>نۇرلۇق سىزىش</item>
+        <item>رەڭ سايىسى</item>
+        <item>ئېلىكتىر دولقۇنى</item>
+        <item>سىممېترىيىلىك</item>
+        <item>كۆچمە ئېلىكتىر دولقۇنى</item>
+        <item>زەررىچە ئايلانمىسى</item>
+        <item>خەت نۇسخىسى</item>
+        <item>مەخلۇق قانىتى</item>
+        <item>پەرىشتە قانىتى</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>دائىملىق</item>
+        <item>ۋىزا</item>
+        <item>كەسپى</item>
+        <item>گۇۋاھنامە</item>
+        <item>ئۆرلەپ ئوقۇش</item>
+        <item>ئىمتاھان</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>ئىجتىمائىي سۇغۇرتا كارتىسى</item>
+        <item>ساغلاملىق كىنىشكىسى</item>
+        <item>داۋالىنىش سۇغۇرتا كارتىسى</item>
+        <item>كىملىك</item>
+        <item>ئولتۇراقلىشىش كىنىشكىسى</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>بىر سۇڭ</item>
+        <item>ئىككى سۇڭ</item>
+        <item>كىچىك بىر سۇڭ</item>
+        <item>كىچىك ئىككى سۇڭ</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>مەكتەپكە كىرىشكە تىزىملىتىش</item>
+        <item>ئوقۇش تەۋەلىكى تورى</item>
+        <item>باشلانغۇچ مەكتەپ ئوقۇغۇچىلىرىنىڭ ئوقۇش تەۋەلىكى</item>
+        <item>ئوقۇش تەۋەلىكى سۈرىتى</item>
+        <item>ئالىي مەكتەپكە كىرىش</item>
+        <item>ئالىي مەكتەپ ئىمتىھانىغا تىزىملىتىش</item>
+        <item>قىسقىچە تەرجىمىھال سۈرىتى</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>ئىنگلىز تىلى 4-، 6-دەرىجە ئىمتىھانى 1</item>
+        <item>ئىنگلىز تىلى 4-، 6-دەرىجە ئىمتىھانى 2</item>
+        <item>ئىنگلىز تىلى 4-، 6-دەرىجە ئىمتىھانى 3</item>
+        <item>پۇتۇڭخۇا سەۋىيىسىنى سىناش 1</item>
+        <item>پۇتۇڭخۇا سەۋىيىسىنى سىناش 2</item>
+        <item>ئىلمىي ئۇنۋان ئىنگلىز تىلى</item>
+        <item>ئېنگلىزچە AB دەرىجىسى</item>
+        <item>ئېنگلىزچە ئۈچىنچى دەرىجە ئىمتىھانى</item>
+        <item>كومپىيۇتېر دەرىجە ئىمتىھانى 1</item>
+        <item>كومپىيۇتېر دەرىجە ئىمتىھانى 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>ئوتتۇرا باشلانغۇچ مەكتەپ ئوقۇتقۇچىسى گۇۋاھنامىسى</item>
+        <item>ئوقۇتقۇچىلىق گۇۋاھنامىسى</item>
+        <item>پىراۋا</item>
+        <item>ساياھەت يېتەكچىسى گۇۋاھنامىسى</item>
+        <item>ئېلىكترولۇق ساياھەت گۇۋاھنامىسى</item>
+        <item>دۆلەت مورفولوگىيە گۇۋاھنامىسى</item>
+        <item>بىرىنچى دەرىجىلىك قۇرۇلۇش كىنىشكىسى (ئېلېكتىرونلۇق نۇسخىسى)</item>
+        <item>ئىككىنچى دەرىجىلىك قۇرۇلۇش ئۇستىسى كىنىشكىسى</item>
+        <item>باشلانغۇچ بوغالتىرلىق ئۇنۋان ئىمتىھانى</item>
+        <item>تىزىملانغان مەسئۇل بوغالتىر</item>
+        <item>بېيجىڭ ساياھەت يېتەكچىسى كىنىشكىسى</item>
+        <item>ئوتتۇرا دەرىجىلىك بوغالتىرلىق ئۇنۋانى ئىمتىھانى</item>
+        <item>ئالىي بوغالتىرلىق ئۇنۋان ئىمتىھانى</item>
+        <item>ﺑﻮﻏﺎﻟﺘﯩﺮﻟﯩﻖ كىنىشكىسى</item>
+        <item>رويخەتتىكى بوغالتىرلار ئىمتىھانى</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>ئامېرىكا ۋىزىسى</item>
+        <item>ۋېيتنام ۋىزىسى</item>
+        <item>ياپونىيە ۋىزىسى</item>
+        <item>شياڭگاڭ-ئاۋمېن يول خېتى</item>
+        <item>كورىيە ۋىزىسى</item>
+        <item>تايلاند ۋىزىسى(ساياھەت)</item>
+        <item>تايلاند ۋىزىسى(يەرگە قونۇش)</item>
+        <item>ھىندىستان ۋىزىسى</item>
+        <item>ئىسرائىلىيە ۋىزىسى</item>
+        <item>تەيۋەنگە كىرىش گۇۋاھنامىسى</item>
+        <item>مالايسىيە ۋىزىسى</item>
+        <item>يېڭى زىللاندىيە ۋىزىسى</item>
+        <item>ئىتالىيە ۋىزىسى</item>
+        <item>ئارگېنتىنا ۋىزىسى</item>
+        <item>بىرازىلىيە ۋىزىسى</item>
+        <item>مۇز ئارال ۋىزىسى</item>
+        <item>كېنىيە ۋىزىسى</item>
+    </string-array>
+</resources>

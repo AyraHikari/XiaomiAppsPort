@@ -1,0 +1,25 @@
+{
+  "music name": "Standard",
+  "version": 1,
+  "points": [
+    {
+      "cutPoint": 2000,
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 4120,
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 6040,
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 7960,
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 10000
+    }
+  ]
+}

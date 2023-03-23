@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.springback.view.SpringBackLayout android:layout_width="wrap_content" android:layout_height="wrap_content" app:scrollableView="@id/list"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListView android:id="@id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/Gallery.Widget.ListView" />
+</miuix.springback.view.SpringBackLayout>

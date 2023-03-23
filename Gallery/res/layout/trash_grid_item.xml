@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.ui.TrashGridItem android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="start|center|top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/trash_mask" android:scaleType="fitXY" />
+    <TextView android:textSize="@dimen/trash_grid_remain_text_size" android:textColor="@color/trash_grid_remain_text_color" android:layout_gravity="start|center|top" android:id="@id/remain_duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/trash_grid_remain_text_margin_top" android:layout_marginStart="@dimen/trash_grid_remain_text_margin_start" />
+</com.miui.gallery.ui.TrashGridItem>

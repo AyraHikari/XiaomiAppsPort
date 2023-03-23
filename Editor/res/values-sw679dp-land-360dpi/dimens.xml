@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_ratio_origin_margin_start">53.332977dip</dimen>
+    <dimen name="vlog_main_landscape_title_margin_start">28.888977dip</dimen>
+    <dimen name="vlog_main_landscape_title_panel_width">75.556dip</dimen>
+    <dimen name="vlog_menu_nav_pro_icon_margin_bottom">26.666992dip</dimen>
+    <dimen name="vlog_menu_nav_pro_icon_margin_top">26.666992dip</dimen>
+</resources>

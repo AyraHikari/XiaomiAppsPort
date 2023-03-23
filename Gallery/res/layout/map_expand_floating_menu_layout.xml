@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/map_expand_floating_menu" android:layout_width="@dimen/map_floating_menu_width" android:layout_height="@dimen/map_expand_floating_menu_height">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/expand_location_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/map_menu_icon_margin" android:src="@drawable/ic_map_location" android:contentDescription="@string/map_location" />
+        <View android:layout_gravity="center_horizontal" android:background="@color/action_bar_bg_stroke_color" android:layout_width="fill_parent" android:layout_height="@dimen/map_menu_divider_height" android:layout_marginStart="@dimen/map_menu_divider_margin_start_end" android:layout_marginEnd="@dimen/map_menu_divider_margin_start_end" />
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/hide_nearby_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/map_menu_icon_margin" android:src="@drawable/ic_map_hide_nearby" android:contentDescription="@string/hide_nearby_photos" />
+    </LinearLayout>
+</merge>

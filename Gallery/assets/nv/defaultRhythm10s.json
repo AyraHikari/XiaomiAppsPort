@@ -1,0 +1,31 @@
+{
+    "music name": "Standard",
+    "version": 1,
+    "music duration": 10000,
+    "clip max duration": 2120,
+	"fullSizeTrans": [{"transName":"Fade"},{"transName":""}],
+	"halfSizeTrans": [{"transName":"Fade"},{"transName":""}],
+	"h-fSizeTrans": [{"transName":"Fade"},{"transName":""}],
+    "points": [
+		{
+            "cutPoint": 2000,
+            "transLen": 1000
+        },
+        {
+            "cutPoint": 4120,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 6040,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 7960,
+            "transName":
+            [
+                {"id": ""}   
+            ],
+            "transLen": 1000
+        }
+    ]
+}

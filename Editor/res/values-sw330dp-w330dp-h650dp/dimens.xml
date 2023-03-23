@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="signature_dialog_top_color_view_item_gap">9.089996dip</dimen>
+    <dimen name="signature_dialog_top_color_view_item_inner_radius">14.909973dip</dimen>
+    <dimen name="signature_dialog_top_color_view_width_height">41.44998dip</dimen>
+    <dimen name="signature_dialog_top_frame_height">41.44998dip</dimen>
+</resources>

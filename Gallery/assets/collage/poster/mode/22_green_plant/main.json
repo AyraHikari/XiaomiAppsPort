@@ -1,0 +1,30 @@
+{
+  "background": "#ffffff",
+  "collagePositions": [
+    {
+      "margin": 1,
+      "position": [
+        0.072,
+        0.055,
+        0.928,
+        0.693
+      ]
+    }
+  ],
+  "collageModels": [
+    10,
+    20
+  ],
+  "textElementModels": [
+    {
+      "x": 0.072,
+      "y": 0.729,
+      "locationType": 0,
+      "textSize": 9.333,
+      "textColor": "#8c000000",
+      "letterSpace": 0.35,
+      "text": "Green plant",
+      "maxLength": 14
+    }
+  ]
+}

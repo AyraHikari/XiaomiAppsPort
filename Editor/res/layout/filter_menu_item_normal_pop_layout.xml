@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/button_filter_pop_like" android:background="@drawable/filter_menu_item_pop_bg" android:layout_width="@dimen/editor_menu_filter_optional_popup_window_item_width" android:layout_height="@dimen/editor_menu_filter_optional_popup_window_item_height" android:foreground="@drawable/filter_menu_item_pop_like_selector" android:foregroundGravity="center" android:contentDescription="@string/photo_editor_talkback_filter_option_pop_like" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

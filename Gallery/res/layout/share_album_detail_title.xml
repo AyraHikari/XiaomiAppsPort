@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/baby_page_title" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/home_arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:contentDescription="@string/back" />
+    <TextView android:ellipsize="end" android:gravity="center_vertical" android:id="@id/home_text" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:singleLine="true" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:layout_toStartOf="@id/share_info_group_view" android:layout_toEndOf="@id/home_arrow" style="@style/Gallery.TextAppearance.ActionMode.Title" />
+    <FrameLayout android:id="@id/share_info_group_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_toStartOf="@id/home_menu" />
+    <Button android:id="@id/home_menu" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:contentDescription="@string/more" android:layout_alignParentEnd="true" />
+</RelativeLayout>

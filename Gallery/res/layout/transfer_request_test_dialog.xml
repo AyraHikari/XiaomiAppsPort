@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/miuix_appcompat_dialog_panel_horizontal_padding" android:paddingEnd="@dimen/miuix_appcompat_dialog_panel_horizontal_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="20.0sp" android:textColor="#ffff0000" android:gravity="center" android:layout_width="fill_parent" android:layout_height="60.0dip" android:text="TRANSFER REQUEST TEST" />
+    <Button android:textSize="20.0sp" android:textColor="@color/black" android:gravity="center" android:id="@id/transfer_v1_enable" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="transfer_v1_enable" />
+    <Button android:textSize="20.0sp" android:textColor="@color/black" android:gravity="center" android:id="@id/transfer_v1_check" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="transfer_v1_check" />
+    <Button android:textSize="20.0sp" android:textColor="@color/black" android:gravity="center" android:id="@id/transfer_v1_query_quota" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="transfer_v1_query_quota" />
+    <Button android:textSize="20.0sp" android:textColor="@color/black" android:gravity="center" android:id="@id/transfer_v1_query_status" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="transfer_v1_query_status" />
+    <Button android:textSize="20.0sp" android:textColor="@color/black" android:gravity="center" android:id="@id/transfer_v1_query_action_10" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="transfer_v1_query_action_10" />
+    <Button android:textSize="20.0sp" android:textColor="@color/black" android:gravity="center" android:id="@id/transfer_v1_query_action_20" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="transfer_v1_query_action_10" />
+    <Button android:textSize="20.0sp" android:textColor="@color/black" android:gravity="center" android:id="@id/transfer_v1_query_action_30" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="transfer_v1_query_action_10" />
+    <Button android:textSize="20.0sp" android:textColor="@color/black" android:gravity="center" android:id="@id/transfer_v1_request_base" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="transfer_v1_request_base" />
+</LinearLayout>

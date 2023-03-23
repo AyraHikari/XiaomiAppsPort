@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vlog_clip_edit_nav_item_width_max">106.66699dip</dimen>
+    <dimen name="clip_edit_nav_back_width">106.66699dip</dimen>
+</resources>

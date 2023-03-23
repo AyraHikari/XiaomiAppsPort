@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton android:layout_gravity="end|center" android:id="@id/ibDeleteAllRubbishAlbums" android:background="@null" android:padding="@dimen/action_bar_rubbish_album_page_top_right_button_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/trash_delete_all_btn" android:contentDescription="@string/delete" style="@style/Gallery.Widget.ActionMode.Button"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

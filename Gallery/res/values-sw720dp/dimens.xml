@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="video_editor_audio_recylerview_gap">30.0dip</dimen>
+    <dimen name="video_editor_auto_trim_button_margin_right">13.0dip</dimen>
+    <dimen name="video_editor_auto_trim_cancel_button_bottom_margin">44.0dip</dimen>
+    <dimen name="video_editor_auto_trim_cancel_button_top_margin">72.0dip</dimen>
+    <dimen name="video_editor_bar_height">69.0dip</dimen>
+    <dimen name="video_editor_bottom_action_button_width">80.0dip</dimen>
+    <dimen name="video_editor_filter_divider_height">60.0dip</dimen>
+    <dimen name="video_editor_filter_divider_margin">13.0dip</dimen>
+    <dimen name="video_editor_filter_icon_min_size">64.0dip</dimen>
+    <dimen name="video_editor_list_item_minwidth">98.0dip</dimen>
+    <dimen name="video_editor_menu_bar_height">111.0dip</dimen>
+    <dimen name="video_editor_middle_action_bar_height">65.0dip</dimen>
+    <dimen name="video_editor_middle_action_bar_margin_top">24.0dip</dimen>
+    <dimen name="video_editor_middle_action_button_margin">25.0dip</dimen>
+    <dimen name="video_editor_progress_dialog_top_margin">16.0dip</dimen>
+    <dimen name="video_editor_smart_effect_recylerview_gap">30.0dip</dimen>
+    <dimen name="video_editor_tab_min_width">97.0dip</dimen>
+    <dimen name="video_editor_text_item_text_size">20.0dip</dimen>
+    <dimen name="video_editor_text_item_width">134.0dip</dimen>
+    <dimen name="video_editor_watermark_item_width">104.0dip</dimen>
+    <dimen name="video_editor_nav__start">30.0dip</dimen>
+</resources>

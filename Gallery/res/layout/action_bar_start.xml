@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:layout_gravity="center_vertical" android:id="@id/search" android:layout="@layout/action_bar_search_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ViewStub android:layout_gravity="center_vertical" android:id="@id/discovery_view" android:layout="@layout/action_bar_discovery_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/action_bar_home_margin_bottom" android:layout_marginStart="@dimen/action_bar_home_discovery_margin_start" />
+</LinearLayout>

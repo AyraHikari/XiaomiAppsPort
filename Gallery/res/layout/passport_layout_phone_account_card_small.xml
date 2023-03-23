@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/passport_phone_number_card_bg" android:layout_width="fill_parent" android:layout_height="@dimen/passport_phone_number_card_small_height" android:paddingStart="@dimen/passport_phone_number_card_small_padding_horizontal" android:paddingEnd="@dimen/passport_phone_number_card_small_padding_horizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv_user_avatar" android:layout_width="@dimen/passport_phone_number_card_small_user_avatar_size" android:layout_height="@dimen/passport_phone_number_card_small_user_avatar_size" android:src="@drawable/passport_ic_user_avatar_sim1" android:scaleType="fitCenter" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+    <Button android:id="@id/btn_login_register" android:text="@string/login_by_local_phone_short_text" android:layout_centerVertical="true" android:layout_alignParentEnd="true" style="@style/Passport.TinyHighlightRoundButton" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/passport_phone_number_card_small_item_margin" android:layout_marginEnd="@dimen/passport_phone_number_card_small_item_margin" android:layout_toStartOf="@id/btn_login_register" android:layout_toEndOf="@id/iv_user_avatar">
+        <TextView android:id="@id/tv_user_name" android:text="87****99" android:textDirection="anyRtl" style="@style/Passport.PhoneNumberCardSmallMainText" />
+        <TextView android:id="@id/tv_phone_number" android:text="150****6135" android:textDirection="ltr" style="@style/Passport.PhoneNumberCardSmallSubText" />
+    </LinearLayout>
+</RelativeLayout>

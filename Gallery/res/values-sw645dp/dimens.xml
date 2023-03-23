@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="miuix_appcompat_two_state_extra_padding_horizontal_huge">68.0dip</dimen>
+    <dimen name="miuix_appcompat_two_state_extra_padding_horizontal_large">44.0dip</dimen>
+    <dimen name="miuix_appcompat_two_state_extra_padding_horizontal_small">28.0dip</dimen>
+    <dimen name="miuix_appcompat_window_extra_padding_horizontal_huge">68.0dip</dimen>
+    <dimen name="miuix_appcompat_window_extra_padding_horizontal_large">44.0dip</dimen>
+    <dimen name="miuix_appcompat_window_extra_padding_horizontal_small">28.0dip</dimen>
+</resources>

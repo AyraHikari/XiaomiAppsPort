@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.RoundedFrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" app:outlineCornerRadius="@dimen/card_cover_layout_imageview_radius"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:CardCoverView="http://schemas.android.com/apk/res-auto" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.CardCoverView android:id="@id/card_cover" android:layout_width="fill_parent" android:layout_height="fill_parent" app:view_from_banner="true" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/card_title_layout" />
+    <include android:layout_gravity="bottom" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/assistant_empty_card_guide_height" layout="@layout/empty_card_guide_layout" />
+    <ImageView android:id="@id/cover_image_mask" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:contentDescription="@null" />
+</com.miui.gallery.widget.RoundedFrameLayout>

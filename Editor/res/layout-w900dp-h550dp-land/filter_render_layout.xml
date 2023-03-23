@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.editor.photo.core.imports.filter.FilterEditorView android:id="@id/gl_surface_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/editor_confirm_menu_height" android:paddingEnd="@dimen/editor_render_bottom_guide_line_end" />
+    <com.miui.gallery.editor.photo.widgets.ProtectiveImageView android:id="@id/image_placeholder" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/editor_confirm_menu_height" android:layout_marginEnd="@dimen/editor_render_bottom_guide_line_end" />
+</androidx.constraintlayout.widget.ConstraintLayout>

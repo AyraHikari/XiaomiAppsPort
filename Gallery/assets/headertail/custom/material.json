@@ -1,0 +1,25 @@
+{
+  "width": 1080,
+  "height": 100,
+  "animList": [
+    {
+      "text": "成都",
+      "posX": 0.0,
+      "posY": 0.0,
+      "bold": false,
+      "thrutext": false,
+      "underline": false,
+      "skewX": 0,
+      "color": "#FFFFFF",
+      "textSize": 80,
+      "letterSpacing": 0.18,
+      "transX": 0.0,
+      "transY": 0.0,
+      "rotate": 0,
+      "alpha": "0~=0;1000~=255;2000~=255;3000~=0;",
+      "scale": 1.0,
+      "type": 0
+    }
+  ]
+}
+

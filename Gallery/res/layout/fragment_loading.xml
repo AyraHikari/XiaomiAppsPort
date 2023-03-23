@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/progressing" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="@style/Gallery.Widget.ProgressBar" />
+    <TextView android:textAppearance="@style/VideoEditor.TextAppearance.VideoEffectButton" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/video_editor_button_width" android:text="@string/video_editor_loading_plugin" android:layout_marginStart="@dimen/video_editor_progress_dialog_top_margin" />
+</LinearLayout>

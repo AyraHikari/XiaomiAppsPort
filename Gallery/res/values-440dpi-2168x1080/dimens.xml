@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_3V4">28.0dip</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_9V16">2.9099731dip</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_has_nav_bar_3V4">6.1799927dip</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_has_nav_bar_9V16">2.9099731dip</dimen>
+</resources>

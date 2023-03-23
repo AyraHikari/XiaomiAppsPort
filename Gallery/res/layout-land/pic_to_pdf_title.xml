@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/pic_to_pdf_top_bar_land_menu_min_height" android:paddingStart="@dimen/pic_to_pdf_top_bar_menu_home_left_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/home_arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?android:homeAsUpIndicator" android:contentDescription="@string/back" android:paddingStart="0.0dip" android:paddingEnd="@dimen/pic_to_pdf_top_bar_menu_home_icon_padding" />
+    <TextView android:ellipsize="end" android:id="@id/home_text" android:layout_width="@dimen/pic_to_pdf_top_bar_menu_max_title_width" android:layout_height="wrap_content" android:singleLine="true" style="@style/Gallery.TextAppearance.ActionMode.Title" />
+    <LinearLayout android:gravity="end|center" android:id="@id/menu_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/pic_to_pdf_top_bar_menu_icon_right_padding">
+        <ImageView android:id="@id/menu_rename" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/action_button_rename_light" android:contentDescription="@string/operation_rename" android:paddingStart="@dimen/pic_to_pdf_top_bar_menu_icon_start_padding" android:paddingEnd="@dimen/pic_to_pdf_top_bar_menu_icon_end_padding" />
+        <ImageView android:id="@id/menu_save" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?actionBarSaveIcon" android:contentDescription="@string/operation_save" android:paddingStart="@dimen/pic_to_pdf_top_bar_menu_icon_start_padding" android:paddingEnd="@dimen/pic_to_pdf_top_bar_menu_icon_end_padding" />
+        <ImageView android:id="@id/menu_send" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?actionBarSendIcon" android:contentDescription="@string/operation_send" android:paddingStart="@dimen/pic_to_pdf_top_bar_menu_icon_start_padding" android:paddingEnd="@dimen/pic_to_pdf_top_bar_menu_icon_end_padding" />
+    </LinearLayout>
+</LinearLayout>

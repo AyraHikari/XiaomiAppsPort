@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/search_history_item_textSize" android:textColor="@color/homepage_allphotos_content_stroke" android:id="@id/title" android:paddingTop="@dimen/search_history_item_padding_top_bottom" android:paddingBottom="@dimen/search_history_item_padding_top_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="@dimen/size_progress" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/rl_device" android:focusable="true" android:clickable="true" android:layout_width="@dimen/size_progress" android:layout_height="@dimen/size_progress">
+        <RelativeLayout android:layout_gravity="center_horizontal" android:id="@id/rl_device_icon" android:background="@drawable/bg_scanned_device_xiaomi" android:layout_width="@dimen/size_scanned_device" android:layout_height="@dimen/size_scanned_device" android:layout_centerInParent="true" android:importantForAccessibility="no">
+            <LinearLayout android:orientation="horizontal" android:id="@id/ll_device_area" android:layout_width="wrap_content" android:layout_height="@dimen/scanned_device_phone_height" android:layout_marginTop="13.179993dip" android:layout_centerHorizontal="true">
+                <View android:id="@id/view_phone" android:background="@drawable/bg_scanned_device_xiaomi_phone" android:visibility="gone" android:layout_width="@dimen/scanned_device_phone_width" android:layout_height="@dimen/scanned_device_phone_height" />
+                <ImageView android:id="@id/iv_pc" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_device_pc" android:contentDescription="@string/device_type_pc" />
+            </LinearLayout>
+            <ImageView android:id="@id/iv_device_status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" android:contentDescription="@string/file_sending" />
+            <RelativeLayout android:id="@id/rl_logo" android:background="@drawable/device_logo_bg" android:layout_width="fill_parent" android:layout_height="@dimen/height_logo" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+                <ImageView android:id="@id/iv_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_log_mi" android:layout_centerInParent="true" />
+            </RelativeLayout>
+        </RelativeLayout>
+        <com.miui.mishare.app.view.CircleProgressBar android:id="@id/progress" android:layout_width="@dimen/size_progress" android:layout_height="@dimen/size_progress" android:layout_centerInParent="true" app:ringColor="@color/progress_ring" app:strokeWidth="2.5dip" />
+    </RelativeLayout>
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/device_name_margin_top" android:layout_marginStart="@dimen/device_name_margin_horizon" android:layout_marginEnd="@dimen/device_name_margin_horizon">
+        <TextView android:textSize="@dimen/textsize_gallery_device_name" android:textColor="@color/textcolor_status_default" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="@id/tv_device_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" />
+        <TextView android:textSize="@dimen/textsize_gallery_device_name" android:textColor="@color/textcolor_status_default" android:ellipsize="end" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/tv_device_model_name" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" />
+    </LinearLayout>
+</LinearLayout>

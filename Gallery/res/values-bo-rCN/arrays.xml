@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>རྒྱབ་ལྗོངས་དཀར་པོ།</item>
+        <item>རྒྱབ་ལྗོངས་སྔོ་ནག</item>
+        <item>རྒྱབ་ལྗོངས་སྔོ་དཀར།</item>
+        <item>རྒྱབ་ལྗོངས་དམར་པོ།</item>
+        <item>རྒྱབ་ལྗོངས་ལྗང་ཁུ།</item>
+        <item>རྒྱབ་ལྗོངས་ཟིང་སྐྱ།</item>
+        <item>རྒྱབ་ལྗོངས་སྨུག་པོ།</item>
+        <item>རྒྱབ་ལྗོངས་ཐལ་མདོག</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>པར་རིས་འདེམ་པ།</item>
+        <item>རྒྱབ་ལྗོངས་དྭངས་གཙང་།</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>ཕོ།</item>
+        <item>མོ།</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>དམིགས་བསལ་གྱི་ཉི་མོ།</item>
+        <item>ཕུན་ཚོགས་ཀྱི་འཚོ་བ།</item>
+        <item>དུས་ཚོད་ཁྱད་འཕགས།</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>རོ་ལྡན་ཞིམ་ཟས་ལ་རོལ་བའི་ལོ་འདི།</item>
+        <item>དུས་བཞི་ལྟོ་དུས་གསུམ།</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>མཇིག་རྟེན་མིག་གི་ལོངས་སྤྱོད།</item>
+        <item>ལམ་ལ་ཡོད།</item>
+        <item>འཇིག་རྟེན་དེ་ལྟར་ཆེ།</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>སྟོན་གྱི་བ་མོ།</item>
+        <item>སྟོན་གྱི་རྨི་ལམ།</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>བུ།</item>
+        <item>བུ་མོ།</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>པར་དེབ་གྲབས་ཉར།</item>
+        <item>པར་དེབ་སྤྲིན་གྲབས་ཉར།</item>
+    </string-array>
+    <string-array name="card_last_week_day">
+        <item>གཟའ་ཟླ་བ་གོང་མའི་དྲན་འཆར།</item>
+        <item>གཟའ་མིག་དམར་གོང་མའི་དུས་ཚོད།</item>
+        <item>གཟའ་ལྷག་པ་གོང་མའི་སྒྲུང་།</item>
+        <item>གཟའ་ཕུར་བུ་གོང་མའི་དྲན་འཆར།</item>
+        <item>གཟའ་པ་སངས་གོང་མའི་དུས་ཚོད།</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>ན་ནིང་གི་ལོ་གསར་གནམ་གང་།</item>
+        <item>ན་ནིང་གི་དཔྱིད་གསར་དུས་ཆེན།</item>
+        <item>ན་ནིང་གི་ལྒང་ཞུའི་དུས་ཆེན།</item>
+        <item>ན་ནིང་གི་ལྔ་ལྔ་དུས་ཆེན།</item>
+        <item>ན་ནིང་གི་བདུན་པའི་ཚེས་བདུན་དུས་ཆེན།</item>
+        <item>ན་ནིང་གི་དུས་མཆོད་དུས་ཆེན།</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>སྔོན་མའི་གོ་སར་གནམ་གང་།</item>
+        <item>སྔོན་མའི་དཔྱིད་གསར་དུས་ཆེན།</item>
+        <item>སྔོ་མའི་ལྒང་ཞུའི་དུས་ཆེན།</item>
+        <item>སྔོན་པའི་ལྔ་ལྔ་དུས་ཆེན།</item>
+        <item>སྔོན་པའི་བདུན་ཚེས་བདུན།</item>
+        <item>སྔོན་མའི་ཟླ་མཆོད་དུས་ཆེན།</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>བརྗེད་དཀའ་བའི་མཚན་མོ།</item>
+        <item>རྙིང་པ་བསྐྱལ་ཏེ་གསར་པ་བསུ།</item>
+        <item>ཤོག་སྦག་ཁྲོད་ནས་ལོ་ཞིག་འདས།</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>ལོངས་སྤྱོད་ལྟ་དང་མཉམ་པར་ཤོག</item>
+        <item>ལོ་གསར་གཏོང་བ།</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>སྤྲེལ་ལོ།</item>
+        <item>བྱ་ལོ།</item>
+        <item>ཁྱིམ་ལོ།</item>
+        <item>ཕག་ལོ།</item>
+        <item>བྱི་བའི་ལོ།</item>
+        <item>གླང་ལོ།</item>
+        <item>སྟག་ལོ།</item>
+        <item>ཡོས་ལོ།</item>
+        <item>འབྲུག་ལོ།</item>
+        <item>སྤྲུལ་ལོ།</item>
+        <item>རྟ་ལོ།</item>
+        <item>ལུག་ལོ།</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>གྲོང་ཁྱེར་གྱི་མཛེས་སྡུག</item>
+        <item>གྲོང་ཁྱེར་དུ་མྱུལ་བ།</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>མེ་ཏོག་འདི་དག</item>
+        <item>མེ་ཏོག་བཞད་པའི་འཛུམ་སྒྲ།</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>རང་བྱུང་ཁམས་ལ་འཚོལ་ཞིབ།</item>
+        <item>མི་མེད་ས་འཛིན་ཞབས་ཀྱིས་བཅགས།</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>བསྐྱར་དུ་འཕྲད་སོང་།</item>
+        <item>མཇལ་མཛོམས་ཉིན་མོ།</item>
+        <item>མཉམ་འཛོམས་དུས་ཚོད།</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>ན་ནིང་ལོ་སར།</item>
+        <item>ནང་ནང་དགའ་རོགས་དུས་ཆེན།</item>
+        <item>ན་ནིང་གི་ལྔ་གཅིག</item>
+        <item>ན་ནིང་གི་བྱིས་པའི་དུས་ཆེན།</item>
+        <item>ན་ནིང་གི་རྒྱལ་སྟོན་དུས་ཆེན།</item>
+        <item>ན་ནིང་གི་ཡུ་ཤུའི་འཁྲུངས་སྐར།</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>སྔོན་མའི་ལོ་སར།</item>
+        <item>སྔོན་མའི་དགའ་རོགས་དུས་ཆེན།</item>
+        <item>སྔོན་མའི་ལྔ་གཅིག</item>
+        <item>སྔོན་མའི་བྱིས་པའི་དུས་ཆེན།</item>
+        <item>སྔོན་མའི་རྒྱལ་སྟོན་དུས་ཆེན།</item>
+        <item>སྔོན་མའི་ཡི་ཤུའི་འཁྲུངས་སྐར།</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>ཕྱིར་བསྐྱོད་མང་ཤོས།</item>
+        <item>འཚོ་བའི་བཟོ་ལྟ།</item>
+        <item>འཚོ་བའི་མཛས་བརྩེ།</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>ཟླ་བ་1</item>
+        <item>ཟླ་བ་2</item>
+        <item>ཟླ་བ་3</item>
+        <item>ཟླ་བ་ 4</item>
+        <item>ཟླ་བ་5</item>
+        <item>ཟླ་བ་ 6</item>
+        <item>ཟླ་བ་ 7</item>
+        <item>ཟླ་བ་ 8</item>
+        <item>ཟླ་བ་ 9</item>
+        <item>ཟླ་བ་ 10</item>
+        <item>ཟླ་བ་ 11</item>
+        <item>ཟླ་བ་ 12</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>ཉིན་ཐོ།</item>
+        <item>སྙིང་ཇེ་རྗེ་ནས་ཇེ་རྗེ།</item>
+        <item>ཁྱིམ་ན་བུ་ཕྲུག</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>རྒྱུན་དུས་བདེ་ཐང་</item>
+        <item>ཇེ་སྟོབས་ནས་ཇེ་སྟོབས།</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>ཟ་མ་ཡག་པོ་ཟོ་ཨང་།</item>
+        <item>གཞན་ཞིག</item>
+        <item>ཨེ་ཟས།</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>དགའ་སྤྲོ།</item>
+        <item>རོལ་རྩེད་ཀྱི་དུས།</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>གངས་འཁྱག་གི་མཛའ་གླུ།</item>
+        <item>གངས་འཁྱག་གི་མཇལ་དུས།</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>གསོན་ཤུགས་རྒྱས།</item>
+        <item>དེ་བས་ལེགས་པའི་རང་ཉིད་ལ་འཕྲད་པ།</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>གལ་ཆེན་ཉིན་མོ།</item>
+        <item>མཛའ་བརྩེ་རབ་ཏུ་རྒྱས།</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>ནོར་བུའི་གཟའ་འཁོར་ནམ་ཟླ།</item>
+        <item>གཅེས་ལོའི་གཟའ་མཇུག་ཉིན་ཐོ།</item>
+        <item>ནོར་བུའི་ནམ་ཟླ་ཕྲ་མོ།</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>གཟའ་མཇུག་གི་དུས་ཚོད།</item>
+        <item>འཚོ་བའི་རེག་ཟིན།</item>
+        <item>ངལ་གསོའི་ཉིན་ཐོ།</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>ནམ་ཟླ་རྙིང་པ།</item>
+        <item>ན་ནིང་གི་མཉམ་པར།</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>ལྷོད་པོ།</item>
+        <item>བསིལ་རླུང་།</item>
+        <item>རྨི་ལམ་ལྟར།</item>
+        <item>སྤྲིན་ལྡོག</item>
+        <item>དྲན་གསོ།</item>
+        <item>མྱུ་གུ།</item>
+        <item>གཉེན་པོ།</item>
+        <item>སྒྲ་སྟུག</item>
+        <item>གྲིབ་རིས།</item>
+        <item>རགས་བསྡུས།</item>
+        <item>ཁྱད་མཚར།</item>
+        <item>འཕྱོ་རི།</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>རྒྱབ་ལྗོངས་རི་མོའི་དབྱིབས། འདྲ་པར་ཀྱི་རྩེད་སྟངས་གསར་པ།</item>
+        <item>རྒྱབ་ལྗོངས་ཆུ་ཚོན་རི་མོའི་དབྱིབས། འདྲ་པར་དེ་བས་སྒྱུ་རྩལ་གྱི་ཚོར་སྣང་དང་ལྡན་པ།</item>
+        <item>ནོར་འཁྲུལ་བྱུང་འདུག དེ་བས་བསྐྱར་གསོའི་ཚོར་བ་ཅན་བཟོ་བ།</item>
+        <item>གནས་ནོར་ཐིག་ཕྲལ་ནས། འདྲ་པར་ལ་དེ་བས་དར་བཟོའི་དབྱིངས་ལྡན་པར་བྱེད་དགོས།</item>
+        <item>ཤེལ་སྒོའི་སྨུག་པའི་ནུས་པ། འདྲ་པར་དེ་བས་རབ་རིབ་ཡིན་པ་བྱེད་དགོས།</item>
+        <item>ཚན་རྩལ་ཆག་སྐྱོན་གྱི་ཚོར་བ། འཕྲལ་མར་གློག་བརྙན་རྫིག་པོར་བཟོ་བ།</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>སྐྱ་རིས།</item>
+        <item>ཆུ་ཚོན།</item>
+        <item>RGB</item>
+        <item>འདབ་བརྒྱའི་ཁུང་།</item>
+        <item>སྒེའུ་སྨུག</item>
+        <item>འགོག་རླུང་།</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>ཚོན་ལྡན་དྲས་གྲུབ།</item>
+        <item>རིབ་ཐིག་མཐའ་རིས།</item>
+        <item>འོད་ཐིག་མཐའ་རིས།</item>
+        <item>ཚོན་ལྡན་སྒྲིབ་བཟོ།</item>
+        <item>གློག་རྡུལ་བཤེར་འབེབས།</item>
+        <item>རྒྱུན་གཏད་བཞུར་རྒྱུན།</item>
+        <item>རླབས་རྒྱུན་གློག་རྒྱུན།</item>
+        <item>རྡུལ་ཕྲལ་བསྐོར་རྒྱག</item>
+        <item>ཡིག་ཚད་སྒྲིག་བཀོད།</item>
+        <item>འདོན་འདྲེའི་གཤོག་པ།</item>
+        <item>ཕོ་ཉའི་གཤོག་པ།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>རྒྱུན་སྤྱོད།</item>
+        <item>ལམ་ཡིག</item>
+        <item>ལས་རིགས།</item>
+        <item>ལག་ཁྱེར།</item>
+        <item>སློབ་རིམ་འཕར་བ།</item>
+        <item>ཡིག་རྒྱུགས།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>སྡེ་སྲུང་བྱང་བུ།</item>
+        <item>བདེ་ཐང་བྱང་བུ།</item>
+        <item>སྨན་སྲུང་བྱང་བུ།</item>
+        <item>ཐོབ་ཐང་ལག་ཁྱེར།</item>
+        <item>སྡོད་པའི་ལག་ཁྱེར།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>ཚུན་གཅིག</item>
+        <item>ཚུན་གཉིས།</item>
+        <item>ཚུན་ཆུང་གཅིག</item>
+        <item>ཚུན་ཆུང་གཉིས།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>སློབ་ཞུགས་ཐོ་འགོད།</item>
+        <item>སློབ་མའི་ཡིག་ཚགས་དྲ་བ།</item>
+        <item>སློབ་ཆུང་ཡིག་ཚགས།</item>
+        <item>སློབ་ཚགས་འདྲ་པར།</item>
+        <item>སློབ་ཆེན་སློབ་ཞུགས།</item>
+        <item>མཐོ་རྒྱུགས་ཐོ་འོད།</item>
+        <item>སྙན་ཞུའི་འདྲ་པར།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>དབྱིན་ཡིག་ཚད་རིམ་བཞི་པ་དང་དྲུག་པའི་ཡིག་རྒྱུགས་1</item>
+        <item>དབྱིན་ཡིག་ཚད་རིམ་བཞི་པ་དང་དྲུག་པའི་ཡིག་རྒྱུགས་2</item>
+        <item>དབྱིན་ཡིག་ཚད་རིམ་བཞི་པ་དང་དྲུག་པའི་ཡིག་རྒྱུགས་3</item>
+        <item>སྤྱི་སྐད་ཆུ་ཚད་ཡིག་རྒྱུགས།1</item>
+        <item>སྤྱི་སྐད་ཆུ་ཚད་ཡིག་རྒྱུགས།2</item>
+        <item>སློབ་གནས་དབྱིན་ཡིག</item>
+        <item>དབྱིན་ཡིག་ABརིམ་པ།</item>
+        <item>དབྱིན་ཡིག་རིམ་པ་གསུམ་པའི་ཡིག་ཚད།</item>
+        <item>རྩིས་འཕྲུལ་ཚད་རིམ་ཡིག་རྒྱུགས་1</item>
+        <item>རྩིས་འཕྲུལ་ཚད་རིམ་ཡིག་རྒྱུགས་2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>ཆུང་འབྲིང་སློབ་མའི་དགེ་རྒན་ཚད་གཞིའི་ལག་ཁྱེར།</item>
+        <item>དགེ་རྒན་གྱི་ཚད་གཞིའི་ལག་ཁྱེར།</item>
+        <item>ཁ་ལོ་བའི་ལག་ཁྱེར།</item>
+        <item>སྣེ་ཤན་པའི་ལག་ཁྱེར།</item>
+        <item>གློག་རྡུལ་སྣེ་ཤན་པའི་ལག་ཁྱེར།</item>
+        <item>རྒྱལ་ཁབ་ཀྱི་ཁྲིམས་འཛིན་ཡིག་རྒྱུགས།</item>
+        <item>འཛུགས་སྐྲུན་མཁས་པ་རིམ་པ་དང་པོའི་ལག་ཁྱེར།(གློག་རྡུལ་པར་མ།)</item>
+        <item>འཛུགས་སྐྲུན་མཁས་པ་རིམ་པ་གཉིས་པའི་ལག་ཁྱེར།</item>
+        <item>དམའ་རིམ་རྩིས་པའི་ལས་གནས་ཡིག་རྒྱུགས།</item>
+        <item>རྩིས་པ་ཐོ་འགོད།</item>
+        <item>པེ་ཅིང་སྣེ་ཤན་པའི་ལག་ཁྱེར།</item>
+        <item>འབྲིང་རིམ་རྩིས་པའི་ལས་གནས་ཡིག་རྒྱུགས།</item>
+        <item>མཐོ་རིམ་རྩིས་པའི་ལས་གནས་ཡིག་རྒྱུགས།</item>
+        <item>རྩིས་པའི་ལས་གནས་ལག་ཁྱེར།</item>
+        <item>རྩིས་པའི་ཐོབ་ཐང་ཡིག་རྒྱུགས་ཐོ་འགོད།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>ཨ་རིའི་ལམ་ཡིག</item>
+        <item>ཝེ་ཐེ་ནམ་གྱི་ལམ་ཡིག</item>
+        <item>ཉི་ཧོང་གི་ལམ་ཡིག</item>
+        <item>ཀང་ཨའོ་བརྒྱུད་པའི་ལམ་ཐིག</item>
+        <item>ལྷོ་ཁོ་རེ་ཡའི་ལམ་ཡིག</item>
+        <item>ཐེ་ལན་ཊིའི་ལམ་ཡིག(ཡུལ་སྐོར་ལམ་ཡིག)</item>
+        <item>ཐེ་ལན་ཊིའི་ལམ་ཡིག(བཅའ་སྡོད་ལམ་ཡིག)</item>
+        <item>རྒྱ་གར་ལམ་ཡིག</item>
+        <item>དབྱི་ཟི་རལ་གྱི་ལམ་ཡིག</item>
+        <item>ཐེ་འཛུལ་ལམ་ཡིག</item>
+        <item>མ་ཡ་ཞི་ཡའི་ལམ་ཡིག</item>
+        <item>ཉུའུ་ཛི་ལན་གྱི་ལམ་ཐིག</item>
+        <item>དབྱི་ཐ་ལའི་ལམ་ཡིག</item>
+        <item>ཨར་གིན་ཐིན་གྱི་ལམ་ཡིག</item>
+        <item>སྦར་འཛིལ་གྱི་ལམ་ཡིག</item>
+        <item>འཁྱགས་གླིང་གི་ལམ་ཡིག</item>
+        <item>ཁན་ནི་ཡའི་ལམ་ཡིག</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>སྤོ་སྒུལ།</item>
+        <item>བསྐྱར་སྐྲུན།</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>ཟླ་བ་1</item>
+        <item>ཟླ་བ་2</item>
+        <item>ཟླ་བ་3</item>
+        <item>ཟླ་བ་ 4</item>
+        <item>ཟླ་བ་5</item>
+        <item>ཟླ་བ་ 6</item>
+        <item>ཟླ་བ་ 7</item>
+        <item>ཟླ་བ་ 8</item>
+        <item>ཟླ་བ་ 9</item>
+        <item>ཟླ་བ་ 10</item>
+        <item>ཟླ་བ་ 11</item>
+        <item>ཟླ་བ་ 12</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>ན་ནིང་གི་ཟླ་༡</item>
+        <item>ན་ནིང་གི་ཟླ་༢</item>
+        <item>ན་ནིང་གི་ཟླ་༣</item>
+        <item>ན་ནིང་གི་ཟླ་༤</item>
+        <item>ན་ནིང་གི་ཟླ་༥</item>
+        <item>ན་ནིང་གི་ཟླ་༦</item>
+        <item>ན་ནིང་གི་ཟླ་༧</item>
+        <item>ན་ནིང་གི་ཟླ་༨</item>
+        <item>ན་ནིང་གི་ཟླ་༩</item>
+        <item>ན་ནིང་གི་ཟླ་༡༠</item>
+        <item>ན་ནིང་གི་ཟླ་༡༡</item>
+        <item>ན་ནིང་གི་ཟླ་༡༢</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>ཁྱེད་འཚར་འདུག</item>
+        <item>ཁྱེད་འཚར་འདུག</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>ཟ་མ།</item>
+        <item>ཟ་མའི་དུས་དྲན།</item>
+        <item>ཞིམ་ཟས།</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>ནམ་མཁའི་དབྱིངས་སུ་སྙེགས།</item>
+        <item>མཐོ་འཛེགས་རྒྱང་ལྟ།</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>ཨ་ཕ།</item>
+        <item>ཨ་མ།</item>
+        <item>ཨ་མེས།</item>
+        <item>ཨ་ཕྱི།</item>
+        <item>སྤོ་བོ།</item>
+        <item>རྨོ་བོ།</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>མཉམ་འཛོམས་དུས་ཚོད།</item>
+        <item>དྲན་འཆར་ལེགས་པོ།</item>
+        <item>མཉམ་འཛོམས་དུས་ཚོད།</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>ཁྱེད་དང་ལྷན་གཅིག་ཡུལ་སྐོར།</item>
+        <item>ཁྱེད་དང་ལྷན་གཅིག་འཇིག་རྟེན་འགྲིམས།</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>སྤྲོ་ལྡན་དཔྱིད་དུས།</item>
+        <item>སྤྲོ་ལྡན་དབྱར་དུས།</item>
+        <item>སྤྲོ་ལྡན་སྟོན་དུས།</item>
+        <item>སྤྲོད་ལྡན་དགུན་དུས།</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>དཔྱིད་ཟས།</item>
+        <item>དབྱར་ཟས།</item>
+        <item>སྟོན་ཟས།</item>
+        <item>དགུན་ཟས།</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>འཚར་སྡུག་གི་འདུ་འཛོམས།</item>
+        <item>འདུ་འཛོམས་ཀྱི་ནམ་ཟླ།</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>རང་ཉིད།</item>
+        <item>བྱིས་པ།</item>
+        <item>ཁྱིམ་མི།</item>
+        <item>ལས་གྲོགས།</item>
+        <item>སློབ་གྲོགས།</item>
+        <item>གྲོགས་པོ།</item>
+        <item>ཚན་དབྱེ་བྱས་མེད།</item>
+    </string-array>
+    <string-array name="season">
+        <item>དཔྱིད་ཀ</item>
+        <item>དབྱར་ཁ།</item>
+        <item>སྟོན་ཀ</item>
+        <item>དགུན་ཁ།</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>ན་ནིང་དཔྱིད་ཀ</item>
+        <item>ན་ནིང་དབྱར་ཁ།</item>
+        <item>ན་ནིང་སྟོན་ཀ</item>
+        <item>ན་ནིང་དགུན་ཁ།</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>ཨ་ཕ།</item>
+        <item>ཨ་མ།</item>
+        <item>སྤོ་བོ་ལགས།</item>
+        <item>རྨོ་བོ་ལགས།</item>
+        <item>སྤོ་བོ་ལགས།</item>
+        <item>རྨོ་བོ་ལགས།</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>བདེ་ཐང་འཚོ་བ།</item>
+        <item>གསོན་ཤུགས་ལྡན་པའི་ཉིན་གཅིག</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>དཔྱིད་དཔལ་རབ་ཏུ་བཞད།</item>
+        <item>དཔྱིད་ཀྱི་དགའ་དཔལ་འཛོམས།</item>
+        <item>དཔྱིད་ཀ།</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>དབྱར་ཁ་དལ་གྱིས་འདས།</item>
+        <item>དབྱར་ཁའི་ཉིན་མོ།</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>ཚེ་སྲོག་དང་འདྲ་བའི་ལོ་ཟླ།</item>
+        <item>དུས་ཚོད་འགྲོ་བ་སྐད་ཅིག་ཉིད།</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>འཚར་ལོངས་ཉིན་ཐོ།</item>
+        <item>ནོར་བུའི་ཟིན་ཐོ།</item>
+    </string-array>
+    <string-array name="weekend_title">
+        <item>སྔོན་མའི་གཟའ་མཇུག་དུས་ཚོད།</item>
+        <item>སྔོན་མའི་ལོ་ཟླ།</item>
+        <item>འཚོ་བ་དལ་པོ།</item>
+        <item>དཀྱུས་མའི་འཚོ་བ།</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>ལོ་འདིའི་དགུན་དུས།</item>
+        <item>དགུན་འདས་དཔྱིད་འབྱོར།</item>
+    </string-array>
+</resources>

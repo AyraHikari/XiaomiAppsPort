@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tab_or_assistant_place_holder_height">81.78dip</dimen>
+    <dimen name="update_dialog_checkbox_top_margin">9.089996dip</dimen>
+    <dimen name="update_dialog_log_max_height">44.549988dip</dimen>
+    <dimen name="update_dialog_log_top_margin">11.269989dip</dimen>
+</resources>

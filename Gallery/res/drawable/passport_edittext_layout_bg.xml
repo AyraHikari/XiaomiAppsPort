@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/passport_edit_text_layout_bg_focused" />
+    <item android:state_selected="false" android:drawable="@drawable/passport_edit_text_layout_bg_normal" />
+</selector>

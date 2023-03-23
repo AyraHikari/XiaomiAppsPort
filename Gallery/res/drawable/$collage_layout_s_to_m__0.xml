@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="60.0dip" android:width="60.0dip" android:viewportWidth="60.0" android:viewportHeight="60.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="_R_G">
+        <group android:name="_R_G_L_2_G" android:translateX="30.0" android:translateY="30.0">
+            <path android:name="_R_G_L_2_G_D_0_P_0" android:fillColor="@color/collage_layout_margin_color" android:pathData=" M-29 -28 C-29,-28 -29,28 -29,28 C-29,28.55 -28.55,29 -28,29 C-28,29 28,29 28,29 C28.55,29 29,28.55 29,28 C29,28 29,-28 29,-28 C29,-28.55 28.55,-29 28,-29 C28,-29 -28,-29 -28,-29 C-28.55,-29 -29,-28.55 -29,-28c  M-23 23 C-23,23 -23,-23 -23,-23 C-23,-23 23,-23 23,-23 C23,-23 23,23 23,23 C23,23 -23,23 -23,23c " android:fillAlpha="1.0" android:fillType="nonZero" />
+        </group>
+        <group android:name="_R_G_L_1_G" android:scaleX="1.0" android:scaleY="1.0" android:translateX="30.0" android:translateY="30.0">
+            <path android:name="_R_G_L_1_G_D_0_P_0" android:fillColor="@color/collage_layout_margin_color" android:pathData=" M-5.58 4.64 C-5.58,4.64 -8,8.21 -8,8.21 C-5.88,10.07 -3.12,11 0.28,11 C2.56,11 4.42,10.39 5.85,9.18 C7.28,7.95 8,6.27 8,4.14 C8,2.53 7.51,1.21 6.53,0.18 C5.53,-0.86 4,-1.67 1.96,-2.26 C0.25,-2.73 -0.91,-3.14 -1.52,-3.49 C-2.13,-3.86 -2.43,-4.34 -2.43,-4.93 C-2.43,-5.4 -2.18,-5.78 -1.66,-6.07 C-1.17,-6.38 -0.46,-6.54 0.49,-6.54 C1.15,-6.54 1.95,-6.41 2.87,-6.16 C3.8,-5.91 4.65,-5.52 5.44,-5.02 C5.44,-5.02 7.65,-8.8 7.65,-8.8 C5.68,-10.27 3.27,-11 0.4,-11 C-1.86,-11 -3.74,-10.44 -5.23,-9.33 C-6.74,-8.21 -7.5,-6.74 -7.5,-4.9 C-7.48,-3.16 -6.94,-1.8 -5.88,-0.82 C-4.82,0.16 -3.39,0.93 -1.61,1.5 C0.22,2.08 1.46,2.59 2.11,3.02 C2.74,3.45 3.05,3.98 3.05,4.61 C3.05,5.23 2.78,5.7 2.25,6.01 C1.7,6.31 0.98,6.45 0.07,6.45 C-0.81,6.45 -1.76,6.31 -2.78,6.01 C-3.81,5.7 -4.74,5.24 -5.58,4.64c " android:fillAlpha="1.0" android:fillType="nonZero" />
+        </group>
+        <group android:name="_R_G_L_0_G" android:scaleX="0.5" android:scaleY="0.0" android:translateX="30.5" android:translateY="29.5">
+            <path android:name="_R_G_L_0_G_D_0_P_0" android:fillColor="@color/collage_layout_margin_color" android:pathData=" M-6.54 9.5 C-6.54,9.5 -11.5,9.5 -11.5,9.5 C-11.5,9.5 -11.5,-9.5 -11.5,-9.5 C-11.5,-9.5 -6.05,-9.5 -6.05,-9.5 C-6.05,-9.5 0,-1.04 0,-1.04 C0,-1.04 6.05,-9.5 6.05,-9.5 C6.05,-9.5 11.5,-9.5 11.5,-9.5 C11.5,-9.5 11.5,9.5 11.5,9.5 C11.5,9.5 6.47,9.5 6.47,9.5 C6.47,9.5 6.47,-2.56 6.47,-2.56 C6.47,-2.56 0,5.99 0,5.99 C0,5.99 -0.13,5.99 -0.13,5.99 C-0.13,5.99 -6.54,-2.47 -6.54,-2.47 C-6.54,-2.47 -6.54,9.5 -6.54,9.5c " android:fillAlpha="1.0" android:fillType="nonZero" />
+        </group>
+    </group>
+    <group android:name="time_group" />
+</vector>

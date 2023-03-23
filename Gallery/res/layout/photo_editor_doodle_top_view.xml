@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/editor_menu_doodle_top_view_height" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center_vertical" android:id="@id/doodle_paint_select_layout" android:layout_width="@dimen/px_120" android:layout_height="@dimen/px_120" android:contentDescription="@string/doodle_paint_select_talkback" android:layout_marginStart="@dimen/editor_menu_doodle_paint_view_margin_start">
+        <com.miui.gallery.editor.photo.app.doodle.DoodlePaintView android:layout_gravity="center" android:id="@id/doodle_paint_select" android:layout_width="@dimen/editor_menu_doodle_content_item_width" android:layout_height="@dimen/editor_menu_doodle_content_item_width" />
+    </FrameLayout>
+    <View android:layout_gravity="center_vertical" android:id="@id/divider" android:background="@color/photo_editor_menu_doodle_divider_color" android:layout_width="@dimen/editor_menu_doodle_line_width" android:layout_height="@dimen/editor_menu_doodle_line_height" android:layout_marginStart="@dimen/px_20" android:layout_marginEnd="@dimen/editor_menu_doodle_line_margin_start_end" />
+    <com.miui.gallery.editor.photo.widgets.ColorSelector.ColorSelectorView android:layout_gravity="center_vertical" android:id="@id/color_selector_view" android:paddingTop="@dimen/editor_menu_doodle_top_view_color_selector_padding_top_bottom" android:paddingBottom="@dimen/editor_menu_doodle_top_view_color_selector_padding_top_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" app:orientation_provider="com.miui.gallery.editor.ui.view.EditorOrientationProvider" />
+</LinearLayout>

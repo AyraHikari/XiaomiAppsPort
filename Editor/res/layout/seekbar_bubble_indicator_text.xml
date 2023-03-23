@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textAppearance="@style/PhotoEditor.TextAppearance.Indicator" android:gravity="center" android:background="@drawable/photo_editor_seekbar_bubble_indicator_bg"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

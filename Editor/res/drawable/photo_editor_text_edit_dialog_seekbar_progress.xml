@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background" android:height="@dimen/photo_text_dialog_style_seek_bar_height" android:left="0.0dip" android:top="@dimen/editor_seek_bar_progress_top" android:right="0.0dip">
+        <shape>
+            <solid android:color="#ffe0e0e0" />
+            <corners android:radius="@dimen/editor_seek_bar_progress_corners" />
+        </shape>
+    </item>
+    <item android:id="@android:id/progress" android:height="@dimen/photo_text_dialog_style_seek_bar_height" android:left="0.0dip" android:top="@dimen/editor_seek_bar_progress_top" android:right="0.0dip">
+        <clip>
+            <shape>
+                <corners android:radius="@dimen/editor_seek_bar_progress_corners" />
+                <solid android:color="#ff1aa1ff" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

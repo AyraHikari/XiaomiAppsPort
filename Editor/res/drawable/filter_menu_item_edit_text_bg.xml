@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/editor_menu_filter_rename_dialog_edit_text_bg_color" />
+            <corners android:radius="@dimen/editor_menu_filter_rename_dialog_edit_text_bg_corner" />
+        </shape>
+    </item>
+</selector>

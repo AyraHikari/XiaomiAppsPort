@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AlertDialog.Theme.DayNight" parent="@style/AlertDialog.Theme.Dark" />
+    <style name="CardView.DayNight" parent="@style/CardView.Dark">
+        <item name="android:outlineSpotShadowColor">#ff000000</item>
+        <item name="outlineStyle">@style/BackgroundOutline.Dark</item>
+    </style>
+    <style name="Miuix.AppCompat.CheckBoxStyle" parent="@style/Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:checkboxStyle">@style/Widget.CompoundButton.CheckBox</item>
+        <item name="checkBoxButtonCompat">@drawable/miuix_appcompat_btn_checkbox_dark</item>
+        <item name="checkBoxDrawableTouchAnimEnable">@bool/check_widget_anim_enable</item>
+        <item name="checkBoxOnDrawableBackgroundColor">@color/miuix_appcompat_dialog_default_checkbox_btn_on_background_color_dark</item>
+        <item name="checkBoxOnDrawableForegroundColor">@color/miuix_appcompat_dialog_default_checkbox_btn_on_foreground_color_dark</item>
+        <item name="checkWidgetBackgroundDisableAlpha">@integer/checkwidget_background_disable_alpha_dark</item>
+        <item name="checkWidgetBackgroundNormalAlpha">@integer/checkwidget_background_normal_alpha_dark</item>
+        <item name="checkWidgetDisableDrawableBackgroundColor">@color/miuix_appcompat_checkbox_btn_disable_background_color_dark</item>
+        <item name="checkWidgetOnAlphaDrawableBackgroundColor">@color/miuix_appcompat_checkbox_btn_disable_background_color_dark</item>
+        <item name="checkWidgetStrokeColor">@color/miuix_appcompat_checkbox_btn_stroke_color_dark</item>
+        <item name="checkWidgetStrokeDisableAlpha">@integer/checkwidget_stroke_disable_alpha_dark</item>
+        <item name="checkWidgetStrokeNormalAlpha">@integer/checkwidget_stroke_normal_alpha_dark</item>
+        <item name="checkableButtonTextColorSingle">@color/miuix_appcompat_checkable_btn_text_color_stable_dark</item>
+    </style>
+    <style name="Miuix.AppCompat.RadioButtonStyle" parent="@style/Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:radioButtonStyle">@style/Widget.CompoundButton.RadioButton.Circle</item>
+        <item name="checkWidgetBackgroundDisableAlpha">@integer/checkwidget_background_disable_alpha_dark</item>
+        <item name="checkWidgetBackgroundNormalAlpha">@integer/checkwidget_background_normal_alpha_dark</item>
+        <item name="checkWidgetDisableDrawableBackgroundColor">@color/miuix_appcompat_checkbox_btn_disable_background_color_dark</item>
+        <item name="checkWidgetOnAlphaDrawableBackgroundColor">@color/miuix_appcompat_checkbox_btn_disable_background_color_dark</item>
+        <item name="checkWidgetStrokeColor">@color/miuix_appcompat_checkbox_btn_stroke_color_dark</item>
+        <item name="checkWidgetStrokeDisableAlpha">@integer/checkwidget_stroke_disable_alpha_dark</item>
+        <item name="checkWidgetStrokeNormalAlpha">@integer/checkwidget_stroke_normal_alpha_dark</item>
+        <item name="checkableButtonTextColorSingle">@color/miuix_appcompat_checkable_btn_text_color_stable_dark</item>
+        <item name="radioButtonDrawableTouchAnimEnable">@bool/check_widget_anim_enable</item>
+        <item name="radioButtonOnDrawableBackgroundColor">@color/miuix_appcompat_dialog_default_checkbox_btn_on_background_color_dark</item>
+        <item name="radioButtonOnDrawableForegroundColor">@color/miuix_appcompat_dialog_default_checkbox_btn_on_foreground_color_dark</item>
+    </style>
+    <style name="Miuix.DropDownPopupList.DayNight" parent="@style/Miuix.DropDownPopupList.Dark" />
+    <style name="Miuix.DropdownItem.DayNight" parent="@style/Miuix.DropdownItem.Dark" />
+    <style name="Miuix.GuidePopupText.DayNight" parent="@style/Miuix.GuidePopupText.Dark" />
+    <style name="PopupMenu.Style.DayNight" parent="@style/PopupMenu.Style.Dark" />
+    <style name="Theme.AppCompat.DayNight" parent="@style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="@style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="@style/Theme.AppCompat.Dialog" />
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="@style/Theme.AppCompat.Dialog.Alert" />
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="@style/Theme.AppCompat.Dialog.MinWidth" />
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="@style/Theme.AppCompat.DialogWhenLarge" />
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@style/Theme.AppCompat.NoActionBar" />
+    <style name="Theme.DayNight" parent="@style/Theme.Dark" />
+    <style name="Theme.DayNight.ActionBar.NoTitle" parent="@style/Theme.Dark.ActionBar.NoTitle" />
+    <style name="Theme.DayNight.Dialog" parent="@style/Theme.Dark.Dialog" />
+    <style name="Theme.DayNight.Dialog.Alert" parent="@style/Theme.Dark.Dialog.Alert" />
+    <style name="Theme.DayNight.Dialog.Edit" parent="@style/Theme.Dark.Dialog.Edit" />
+    <style name="Theme.DayNight.Dialog.Edit.Default" parent="@style/Theme.Dark.Dialog.Edit.Default" />
+    <style name="Theme.DayNight.Dialog.FixedSize" parent="@style/Theme.Dark.Dialog.FixedSize" />
+    <style name="Theme.DayNight.Dialog.FixedSize.Small" parent="@style/Theme.Dark.Dialog.FixedSize.Small" />
+    <style name="Theme.DayNight.Dialog.NoTitle" parent="@style/Theme.Dark.Dialog.NoTitle" />
+    <style name="Theme.DayNight.FloatingWindow" parent="@style/Theme.Dark.FloatingWindow" />
+    <style name="Theme.DayNight.Navigation" parent="@style/Theme.Dark.Navigation" />
+    <style name="Theme.DayNight.NoTitle" parent="@style/Theme.Dark.NoTitle" />
+    <style name="Theme.DayNight.Settings" parent="@style/Theme.Dark.Settings" />
+    <style name="Theme.DayNight.Settings.NoTitle" parent="@style/Theme.Dark.Settings.NoTitle" />
+    <style name="Theme.MaterialComponents.DayNight" parent="@style/Theme.MaterialComponents" />
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="@style/Theme.MaterialComponents.BottomSheetDialog" />
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="@style/Theme.MaterialComponents.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="@style/Theme.MaterialComponents" />
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="@style/Theme.MaterialComponents.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="@style/Theme.MaterialComponents.Dialog" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="@style/Theme.MaterialComponents.Dialog.Alert" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="@style/Theme.MaterialComponents.Dialog.Alert.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="@style/Theme.MaterialComponents.Dialog.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="@style/Theme.MaterialComponents.Dialog.FixedSize" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="@style/Theme.MaterialComponents.Dialog.FixedSize.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="@style/Theme.MaterialComponents.Dialog.MinWidth" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="@style/Theme.MaterialComponents.Dialog.MinWidth.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="@style/Theme.MaterialComponents.DialogWhenLarge" />
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="@style/Theme.MaterialComponents.NoActionBar" />
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="@style/Theme.MaterialComponents.NoActionBar.Bridge" />
+    <style name="Theme.PreferenceOverlay.DayNight" parent="@style/Theme.PreferenceOverlay.Dark" />
+    <style name="Theme.PreferenceOverlay.Floating.DayNight" parent="@style/Theme.PreferenceOverlay.Floating.Dark" />
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="@style/ThemeOverlay.AppCompat.Dark" />
+    <style name="ThemeOverlay.MaterialComponents.DayNight.BottomSheetDialog" parent="@style/ThemeOverlay.MaterialComponents.BottomSheetDialog" />
+    <style name="Widget.AlphabetIndexer.DayNight" parent="@style/Widget.AlphabetIndexer.Dark" />
+    <style name="Widget.AlphabetIndexer.Starred.DayNight" parent="@style/Widget.AlphabetIndexer.Dark.Starred" />
+    <style name="Widget.ArrowPopupView.DayNight" parent="@style/Widget.ArrowPopupView.Dark" />
+    <style name="Widget.DateTimePicker.Big.DayNight" parent="@style/Widget.DateTimePicker.Big.Dark" />
+    <style name="Widget.EditText.DayNight" parent="@style/Widget.EditText.Dark" />
+    <style name="Widget.FilterSortTabView.DayNight" parent="@style/Widget.FilterSortTabView.Dark" />
+    <style name="Widget.FilterSortView.DayNight" parent="@style/Widget.FilterSortView.Dark" />
+    <style name="Widget.GuidePopupView.DayNight" parent="@style/Widget.GuidePopupView.Dark" />
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="@style/Widget.MaterialComponents.ActionBar.Surface" />
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="@style/Widget.MaterialComponents.AppBarLayout.Surface" />
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="@style/Widget.MaterialComponents.BottomAppBar" />
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="@style/Widget.MaterialComponents.BottomNavigationView" />
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="@style/Widget.MaterialComponents.TabLayout" />
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="@style/Widget.MaterialComponents.Toolbar.Surface" />
+    <style name="Widget.MessageView.Error.DayNight" parent="@style/Widget.MessageView.Error.Dark" />
+    <style name="Widget.MessageView.Guide.DayNight" parent="@style/Widget.MessageView.Guide.Dark" />
+    <style name="Widget.MessageView.Warning.DayNight" parent="@style/Widget.MessageView.Warning.Dark" />
+    <style name="Widget.NumberPicker.DayNight" parent="@style/Widget.NumberPicker.Dark" />
+    <style name="Widget.ProgressBar.Horizontal.DayNight" parent="@style/Widget.ProgressBar.Horizontal.Dark" />
+    <style name="Widget.SeekBar.DayNight" parent="@style/Widget.SeekBar.Dark" />
+    <style name="Widget.SlidingButton.DayNight" parent="@style/Widget.SlidingButton.Dark" />
+    <style name="Widget.StateEditText.DayNight" parent="@style/Widget.StateEditText.Dark" />
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miuix_appcompat_action_tab_badge_height" android:width="@dimen/miuix_appcompat_action_tab_badge_width" android:viewportWidth="28.0" android:viewportHeight="60.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#fff22424" android:pathData="M18,30m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+</vector>

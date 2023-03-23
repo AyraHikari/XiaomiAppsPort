@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/action_bar_immerse_tab_background" />
+    <corners android:radius="@dimen/action_bar_tab_container_bg_radius" />
+</shape>

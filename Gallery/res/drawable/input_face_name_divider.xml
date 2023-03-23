@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen/input_face_name_divider_inset_right_left" android:insetRight="@dimen/input_face_name_divider_inset_right_left" android:insetTop="@dimen/input_face_name_divider_inset_top_bottom" android:insetBottom="@dimen/input_face_name_divider_inset_top_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape android:shape="rectangle">
+        <size android:height="@dimen/input_face_name_divider_height" />
+        <solid android:color="@color/face_rename_divider_color" />
+    </shape>
+</inset>

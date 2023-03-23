@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="@dimen/miui_list_view_item_safe_padding_top_bottom" android:paddingBottom="@dimen/miui_list_view_item_safe_padding_top_bottom" style="@style/Widget.Agreement.Item.SingleLine"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="start|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textAppearance="@style/TextAppearance.Agreement" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <CheckBox android:textAppearance="@style/Widget.CompoundButton.CheckBox" android:layout_gravity="end|center" android:id="@id/checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/photo_page_action_bar_background" />
+    <item android:gravity="bottom" android:drawable="@drawable/photo_page_split_bar_divider" />
+</layer-list>

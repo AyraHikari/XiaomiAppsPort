@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.appcompat.internal.app.widget.SearchActionModeView android:id="@id/search_panel" android:layout_width="fill_parent" android:layout_height="@dimen/miuix_appcompat_search_view_default_height" style="@style/Widget.SearchActionMode.Input"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/miuix_appcompat_search_mode_bg_size">
+        <TextView android:textSize="@dimen/miuix_appcompat_search_action_mode_cancel_text_size" android:textColor="?textColorSearchBarCancel" android:gravity="center" android:id="@id/search_text_cancel" android:background="@null" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/miuix_appcompat_search_action_mode_cancel" android:fontFamily="sans-serif-medium" android:textDirection="locale" android:paddingStart="@dimen/miuix_appcompat_search_action_mode_cancel_text_padding_start" android:paddingEnd="@dimen/miuix_appcompat_search_action_mode_cancel_text_padding_end" android:layout_alignParentEnd="true" />
+        <LinearLayout android:gravity="center_vertical" android:id="@id/search_container" android:background="?miuixAppcompatSearchModeEditTextBackground" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?miuixAppcompatEditTextSearchIcon" android:scaleType="centerInside" android:paddingStart="@dimen/miuix_appcompat_edit_text_search_bg_icon_padding_start" android:paddingEnd="@dimen/miuix_appcompat_edit_text_search_bg_icon_padding_end" />
+            <miuix.androidbasewidget.widget.ClearableEditText android:textSize="@dimen/miuix_appcompat_search_edit_text_size" android:gravity="center_vertical" android:id="@android:id/input" android:background="@null" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:contentDescription="@string/miuix_appcompat_search_input_description" android:textDirection="locale" app:drawableEndCompat="?clearableEditTextIcon" />
+        </LinearLayout>
+    </RelativeLayout>
+</miuix.appcompat.internal.app.widget.SearchActionModeView>

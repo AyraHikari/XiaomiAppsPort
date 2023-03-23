@@ -1,0 +1,19 @@
+.class public interface abstract Lcom/miui/gallery/widget/SwitchView$OnSwitchChangeListener;
+.super Ljava/lang/Object;
+.source "SwitchView.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/miui/gallery/widget/SwitchView;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x609
+    name = "OnSwitchChangeListener"
+.end annotation
+
+
+# virtual methods
+.method public abstract onSwitchChange(I)V
+.end method

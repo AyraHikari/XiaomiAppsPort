@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/slide_handle_button_color" />
+    <corners android:radius="@dimen/slide_handle_radius" />
+    <size android:height="@dimen/slide_handle_height" android:width="@dimen/slide_handle_width" />
+</shape>

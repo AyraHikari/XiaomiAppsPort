@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/warning_page_button_bg_color" />
+            <corners android:radius="@dimen/warning_page_button_height" />
+            <size android:height="@dimen/warning_page_button_height" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/warning_page_button_bg_color" />
+            <corners android:radius="@dimen/warning_page_button_height" />
+            <size android:height="@dimen/warning_page_button_height" />
+        </shape>
+    </item>
+</selector>

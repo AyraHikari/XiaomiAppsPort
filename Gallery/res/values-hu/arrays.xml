@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Fehér</item>
+        <item>Sötétkék</item>
+        <item>Világoskék</item>
+        <item>Piros</item>
+        <item>Zöld</item>
+        <item>Rózsaszín</item>
+        <item>Barna</item>
+        <item>Szürke</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Kép választása</item>
+        <item>Átlátszó háttér</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Férfi</item>
+        <item>Nő</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Különleges nap</item>
+        <item>Emlékezetes nap</item>
+        <item>Élénk pillanatok</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Finom év</item>
+        <item>Három fogás. Négy évszak.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Helló világ!</item>
+        <item>Az úton</item>
+        <item>Helyek kaleidoszkópja</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Őszi ragyogás</item>
+        <item>Sugárzó ősz</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Fiú</item>
+        <item>Lány</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Biztonsági mentés a Képekbe</item>
+        <item>Képek szinkronizálása a felhővel</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Egy emlékezetes este</item>
+        <item>Új oldal</item>
+        <item>Tűzijáték</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Boldog Új Évet Kívánunk!</item>
+        <item>Az új év hajnalán</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>A Majom éve</item>
+        <item>A Kakas éve</item>
+        <item>A Kutya éve</item>
+        <item>A Disznó éve</item>
+        <item>A Patkány éve</item>
+        <item>A Bivaly éve</item>
+        <item>A Tigris éve</item>
+        <item>A Nyúl éve</item>
+        <item>A Sárkány éve</item>
+        <item>A Kígyó éve</item>
+        <item>A Ló éve</item>
+        <item>A Kecske éve</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Városi látképek</item>
+        <item>Utcák és sarkok</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Gyengéd virágszirmok</item>
+        <item>Teljes pompában</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Irány a természet</item>
+        <item>Vad és szabad</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Találkozásaink</item>
+        <item>Barátok közt</item>
+        <item>Régen találkoztunk</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Kedvenc témáid</item>
+        <item>Gyermeki lélek</item>
+        <item>Az élet legjobb pillanatai</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>A növés minden percét elfoglalja</item>
+        <item>Egyre helyesebb</item>
+        <item>Kis felfedező</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Fitnesz napló</item>
+        <item>Napról napra erősebb</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Jó étvágyat!</item>
+        <item>Még egy harapást?</item>
+        <item>Jó étvágyat kívánunk!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Nevess és integess!</item>
+        <item>Itt a játék ideje</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Remek kikapcsolódás a szabad ég alatt</item>
+        <item>Nyomok a hóban</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Megállíthatatlan</item>
+        <item>Maradj fit</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Nagy nap</item>
+        <item>Az oltár felé!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Time to play</item>
+        <item>"Kiddo's weekend"</item>
+        <item>The little one</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Hétvégéim</item>
+        <item>Emlékezetes pillanatok</item>
+        <item>Hétvégi emlékek</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>New friends and old pals</item>
+        <item>"Last year's get-togethers"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Pihenés</item>
+        <item>Szellő</item>
+        <item>Álmok</item>
+        <item>Felhők</item>
+        <item>Gondolatok</item>
+        <item>Rügyek</item>
+        <item>Metamorfózis</item>
+        <item>Mélység</item>
+        <item>Visszatükröződések</item>
+        <item>Minimalista</item>
+        <item>Rejtélyes</item>
+        <item>Köd</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Hátterek vázlattá alakítása</item>
+        <item>Akvarell stílusú hátterek</item>
+        <item>Cyberpunk retro</item>
+        <item>Helytelenül elhelyezett függőleges szegmensek</item>
+        <item>Ködös elmosódás</item>
+        <item>Futurisztikus érzet</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Vázlat</item>
+        <item>Akvarell</item>
+        <item>RGB</item>
+        <item>Függöny</item>
+        <item>Párás ablak</item>
+        <item>Teki</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Színes körvonal</item>
+        <item>Szaggatott körvonal</item>
+        <item>Fluoreszkáló körvonal</item>
+        <item>Színes árnyék</item>
+        <item>Elektromos hullám</item>
+        <item>Áramlás</item>
+        <item>Hullámok</item>
+        <item>Récsecskék</item>
+        <item>Szöveg</item>
+        <item>Szárnyak</item>
+        <item>Angyal</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Áthelyez</item>
+        <item>Másolás</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Március</item>
+        <item>Április</item>
+        <item>Május</item>
+        <item>Június</item>
+        <item>Július</item>
+        <item>Augusztus</item>
+        <item>Szeptember</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>Felnőttél!</item>
+        <item>Már megint nőttél!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Személyes menüm</item>
+        <item>Ízletes emlékek</item>
+        <item>Kérek még!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>A világ legszebb tájai</item>
+        <item>Mássz tovább</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Apa</item>
+        <item>Anya</item>
+        <item>Apai nagypapa</item>
+        <item>Apai nagymama</item>
+        <item>Anyai nagypapa</item>
+        <item>Anyai nagymama</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Együtt</item>
+        <item>Szép idők</item>
+        <item>Kórusban</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Ahová az utunk visz</item>
+        <item>Együtt utazni jó</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Vidám tavasz</item>
+        <item>Élményekben gazdag nyár</item>
+        <item>Vidám ősz</item>
+        <item>Téli móka</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Tavaszi ételek</item>
+        <item>Nyári ínyencségek</item>
+        <item>Őszi falatok</item>
+        <item>Téli finomságok</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Together</item>
+        <item>Bonds and ties</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Én</item>
+        <item>Gyerek</item>
+        <item>Család</item>
+        <item>Munkatársak</item>
+        <item>Osztálytársak</item>
+        <item>Barátok</item>
+        <item>Besorolatlan</item>
+    </string-array>
+    <string-array name="season">
+        <item>Tavasz</item>
+        <item>Nyár</item>
+        <item>Ősz</item>
+        <item>Tél</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Apa</item>
+        <item>Anya</item>
+        <item>Apai nagypapa</item>
+        <item>Apai nagymama</item>
+        <item>Anyai nagypapa</item>
+        <item>Anyai nagymama</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Továbbhalad</item>
+        <item>Tele van energiával</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>A tavasz rügyei</item>
+        <item>Itt a tavasz illata a levegőben</item>
+        <item>Helló, tavasz!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Egy csepp nyár</item>
+        <item>Ahol a nyárnak soha nincs vége</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Aranyórák</item>
+        <item>Arany sugarak</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>They grow so fast</item>
+        <item>"Kiddo's photos"</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Téli napok</item>
+        <item>Téli csodavilág</item>
+    </string-array>
+</resources>

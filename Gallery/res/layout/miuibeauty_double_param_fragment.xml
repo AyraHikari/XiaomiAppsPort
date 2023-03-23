@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/bottom_param_panel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <TextView android:textSize="@dimen/editor_menu_double_parameter_text_size" android:textColor="@color/beautyedit_child_menu_param_title_color" android:id="@id/bottom_param_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/editor_menu_bottom_param_panel_title_margin_top" android:layout_marginStart="@dimen/editor_menu_bottom_param_panel_title_margin_start" />
+        <com.miui.gallery.widget.seekbar.BasicSeekBar android:id="@id/seekbar_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/editor_menu_bottom_param_panel_seekbar_padding_start" android:paddingEnd="@dimen/editor_menu_bottom_param_panel_seekbar_padding_start" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:id="@id/top_param_panel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/editor_menu_bottom_param_panel_margin_bottom" android:layout_above="@id/bottom_param_panel">
+        <TextView android:textSize="@dimen/editor_menu_double_parameter_text_size" android:textColor="@color/beautyedit_child_menu_param_title_color" android:id="@id/top_param_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/editor_menu_bottom_param_panel_title_margin_start" />
+        <com.miui.gallery.widget.seekbar.BasicSeekBar android:id="@id/seekbar_top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/editor_menu_bottom_param_panel_seekbar_padding_start" android:paddingEnd="@dimen/editor_menu_bottom_param_panel_seekbar_padding_start" />
+    </LinearLayout>
+</RelativeLayout>

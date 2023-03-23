@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$lock_orientation_locked_to_unlock_land__5" android:duration="200" android:startOffset="0" android:propertyName="translateXY" android:pathData="M 37,19.75C 37,19.75 37,24.75 37,24.75" android:propertyXName="translateX" android:propertyYName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$lock_orientation_locked_to_unlock_land__6" android:duration="200" android:startOffset="200" android:propertyName="translateXY" android:pathData="M 37,24.75C 37,24.75 37,12.75 37,12.75" android:propertyXName="translateX" android:propertyYName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$lock_orientation_locked_to_unlock_land__7" android:duration="200" android:startOffset="400" android:propertyName="translateXY" android:pathData="M 37,12.75C 37,12.75 37,15.75 37,15.75" android:propertyXName="translateX" android:propertyYName="translateY" />
+</set>

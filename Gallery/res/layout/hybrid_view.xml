@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.hybrid.pulltorefresh.PullToRefreshWebView android:id="@id/hybrid_view" android:layout_width="fill_parent" android:layout_height="fill_parent" ptr:ptrMaximumPullScroll="333.0dip" xmlns:ptr="http://schemas.android.com/apk/res-auto" />
+    <com.miui.gallery.hybrid.HybridLoadingProgressView android:gravity="center" android:id="@id/loading_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

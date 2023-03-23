@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/face_page_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:animateLayoutChanges="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_marginStart="@dimen/home_page_margin_horizontal" android:layout_marginEnd="@dimen/home_page_margin_horizontal" app:scrollableView="@id/grid">
+        <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/grid" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" style="@style/Gallery.Widget.GridView.ThumbNail" />
+    </miuix.springback.view.SpringBackLayout>
+    <RelativeLayout android:id="@id/share_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:background="@drawable/divider_line_panel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@null" />
+        <com.miui.gallery.widget.ActionMenuItemView android:id="@id/share_button" android:layout_centerInParent="true" ActionMenuItemView:icon="@drawable/action_button_album_share_light" ActionMenuItemView:title="@string/share_with_family" style="@style/Gallery.Widget.ActionButton"
+          xmlns:ActionMenuItemView="http://schemas.android.com/apk/res/com.miui.gallery" />
+    </RelativeLayout>
+</LinearLayout>

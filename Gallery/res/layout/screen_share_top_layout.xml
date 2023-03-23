@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/top_send_layout" android:visibility="gone" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="@dimen/screen_editor_share_mode_title_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/action_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?android:homeAsUpIndicator" android:contentDescription="@string/back" android:paddingStart="@dimen/screen_editor_share_mode_title_back_padding_start" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.ActionMode.Title" android:id="@id/choice_mode_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/operation_send" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

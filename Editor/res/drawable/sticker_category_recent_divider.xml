@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/sticker_category_header_divider_height" android:width="@dimen/sticker_category_header_divider_width" />
+    <solid android:color="@color/photo_editor_divider_color" />
+</shape>

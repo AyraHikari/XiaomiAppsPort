@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Biela</item>
+        <item>Tmavo modrá</item>
+        <item>Svetlo modrá</item>
+        <item>Červená</item>
+        <item>Zelená</item>
+        <item>Ružová</item>
+        <item>Hnedá</item>
+        <item>Sivá</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Vyberte obrázok</item>
+        <item>Priehľadné pozadie</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Voľný čas</item>
+        <item>Vánok</item>
+        <item>Sny</item>
+        <item>Oblaky</item>
+        <item>Myšlienky</item>
+        <item>Puky</item>
+        <item>Metamorfóza</item>
+        <item>Hĺbka</item>
+        <item>Odrazy</item>
+        <item>Minimalizmus</item>
+        <item>Záhada</item>
+        <item>Hmla</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Futuristické geometrické pozadie</item>
+        <item>Atmosféra starých predlôh</item>
+        <item>Zmeniť pozadia za skice</item>
+        <item>Akvarelové pozadia</item>
+        <item>Cyberpunk retro</item>
+        <item>Nesprávne umiestnené vertikálne segmenty</item>
+        <item>Hmlisté rozostrenie</item>
+        <item>Vidina budúcnosti</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Low-poly</item>
+        <item>Zoškriabavanie</item>
+        <item>Skica</item>
+        <item>Akvarel</item>
+        <item>RGB</item>
+        <item>Rolety</item>
+        <item>Zahmlené okno</item>
+        <item>Tech</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Farebný obrys</item>
+        <item>Bodkovaný obrys</item>
+        <item>Fluorescenčný obrys</item>
+        <item>Farebný tieň</item>
+        <item>Elektrická vlna</item>
+        <item>Prúd</item>
+        <item>Vlny</item>
+        <item>Častice</item>
+        <item>Text</item>
+        <item>Krídla</item>
+        <item>Anjel</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Two cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+</resources>

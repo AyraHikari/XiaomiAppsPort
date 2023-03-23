@@ -1,0 +1,14 @@
+.class public synthetic Lcom/miui/gallery/collage/widget/PosterLayout$a;
+.super Ljava/lang/Object;
+.source ""
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/miui/gallery/collage/widget/PosterLayout;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1009
+    name = null
+.end annotation

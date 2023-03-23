@@ -1,0 +1,104 @@
+{
+  "music name": "Normal",
+  "version": 1,
+  "points": [
+    {
+      "cutPoint": 2280,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 4240,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 6320,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 8520,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 10360,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 12480,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 14520,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 16040,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 18440,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 20280,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 22520,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 24280,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 28280,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 30560,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 32600,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 35480,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 37560,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 40320,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 42240,
+      "transName": "alpha",
+      "transLen": 1000
+    },
+    {
+      "cutPoint": 44720
+    }
+  ]
+}

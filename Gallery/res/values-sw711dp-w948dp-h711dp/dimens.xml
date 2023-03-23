@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_home_discovery_dot_radius">40.0dip</dimen>
+    <dimen name="action_bar_home_discovery_margin_start">22.669983dip</dimen>
+    <dimen name="album_ai_album_margin_start_end">35.559998dip</dimen>
+    <dimen name="album_ai_item_title_text_size">12.439972sp</dimen>
+    <dimen name="album_ai_location_and_tags_margin_top">43.559998dip</dimen>
+    <dimen name="album_ai_other_item_horizontal_spacing">40.0dip</dimen>
+    <dimen name="album_ai_people_group_margin_bottom">16.889984dip</dimen>
+    <dimen name="album_ai_people_group_margin_top">16.889984dip</dimen>
+    <dimen name="album_ai_people_item_horizontal_spacing">40.0dip</dimen>
+    <dimen name="album_ai_people_item_vertical_spacing">0.0dip</dimen>
+    <dimen name="fast_share_mishare_padding_horizontal">0.0dip</dimen>
+    <dimen name="home_tab_place_holder_height">81.78dip</dimen>
+    <dimen name="people_face_horizontal_spacing">40.0dip</dimen>
+    <dimen name="people_face_vertical_spacing">26.669983dip</dimen>
+    <dimen name="people_name_margin_top">8.889984dip</dimen>
+    <dimen name="people_page_header_height">32.889984dip</dimen>
+    <dimen name="people_page_list_padding_left_right">35.559998dip</dimen>
+    <dimen name="people_page_name_size">14.219971sp</dimen>
+    <dimen name="photo_choice_title_height">110.66998dip</dimen>
+    <dimen name="switch_view_margin_bottom">32.0dip</dimen>
+</resources>

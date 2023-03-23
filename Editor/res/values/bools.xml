@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abc_split_action_bar_is_narrow">true</bool>
+    <bool name="action_bar_embed_tabs">true</bool>
+    <bool name="action_bar_tight_title">false</bool>
+    <bool name="check_widget_anim_enable">true</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+    <bool name="enable_system_alarm_service_default">false</bool>
+    <bool name="enable_system_foreground_service_default">true</bool>
+    <bool name="enable_system_job_service_default">true</bool>
+    <bool name="leak_canary_allow_in_non_debuggable_build">true</bool>
+    <bool name="miuix_appcompat_floating_window_is_translucent">false</bool>
+    <bool name="miuix_appcompat_window_floating">false</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <bool name="preference_item_bg_enable_variablePadding">false</bool>
+    <bool name="priority_storage">false</bool>
+    <bool name="spinner_popup_item_bg_enable_variablePadding">false</bool>
+    <bool name="treat_as_land">false</bool>
+    <bool name="workmanager_test_configuration">false</bool>
+</resources>

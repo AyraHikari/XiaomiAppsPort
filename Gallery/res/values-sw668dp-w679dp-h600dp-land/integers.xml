@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="album_ai_face_load_number">6</integer>
+    <integer name="album_ai_grid_view_columns_land">6</integer>
+    <integer name="album_ai_location_load_number">5</integer>
+    <integer name="album_ai_tag_load_number">6</integer>
+    <integer name="album_landscape_show_number">5</integer>
+    <integer name="album_portrait_show_number">4</integer>
+    <integer name="assistant_header_count">5</integer>
+    <integer name="assistant_header_grid_span_count">4</integer>
+    <integer name="assistant_page_model">2</integer>
+    <integer name="cleaner_image_column">8</integer>
+    <integer name="people_face_grid_view_columns_land">6</integer>
+    <integer name="preference_dialog">1</integer>
+    <integer name="search_result_page_column_count_land">6</integer>
+    <integer name="share_family_sharer_grid_column_count">6</integer>
+    <integer name="share_grid_column_count">3</integer>
+    <integer name="share_home_device_grid_column_count">3</integer>
+    <integer name="story_accelerated_factor">3</integer>
+    <integer name="story_action_bar_anim">100</integer>
+    <integer name="thumbnail_recent_columns_land">6</integer>
+    <integer name="thumbnail_screenshot_columns">4</integer>
+    <integer name="thumbnail_screenshot_columns_land">6</integer>
+    <integer name="thumbnail_video_columns">4</integer>
+    <integer name="thumbnail_video_columns_land">6</integer>
+</resources>

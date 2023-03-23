@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/single_clip_speed_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:gravity="center" android:id="@id/speed_layout" android:layout_width="@dimen/vlog_menu_common_operation_btn_hot_area_width" android:layout_height="@dimen/vlog_menu_common_operation_btn_hot_area_height" android:layout_marginEnd="@dimen/vlog_single_clip_speed_layout_margin_end" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <ImageView android:layout_gravity="center" android:id="@id/speed_iv" android:background="@drawable/vlog_common_operation_btn_bg" android:layout_width="@dimen/vlog_menu_common_operation_btn_bg_size" android:layout_height="@dimen/vlog_menu_common_operation_btn_bg_size" android:src="@drawable/vlog_single_clip_speed_icon" android:scaleType="center" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/vlog_speed_tv_text_size" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/speed_txv" android:background="@drawable/single_clip_speed_bg" android:paddingTop="@dimen/vlog_speed_tv_padding_top" android:paddingBottom="@dimen/vlog_speed_tv_padding_top" android:visibility="gone" android:layout_width="@dimen/vlog_speed_tv_width" android:layout_height="@dimen/vlog_speed_tv_height" android:fontFamily="mipro-medium" android:paddingStart="@dimen/vlog_speed_tv_padding_start" android:paddingEnd="@dimen/vlog_speed_tv_padding_end" android:layout_marginEnd="@dimen/vlog_speed_tv_margin_end" />
+</FrameLayout>

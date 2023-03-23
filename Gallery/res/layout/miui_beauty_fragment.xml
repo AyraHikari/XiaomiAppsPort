@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textSize="@dimen/beautyedit_beauty_compare_btn_text_size" android:textColor="@color/common_compare_btn_text" android:id="@id/compare_btn" android:background="@drawable/btn_beauty_compare" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/beautyedit_beauty_compare_margin_top" android:minWidth="@dimen/beautyedit_beauty_compare_btn_width" android:minHeight="@dimen/beautyedit_beauty_compare_btn_height" android:text="@string/photo_editor_beauty_compare" android:layout_alignParentTop="true" android:layout_marginEnd="@dimen/beautyedit_beauty_compare_margin_right" android:layout_alignParentEnd="true" />
+    <FrameLayout android:id="@id/preview_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/render_view_margin_top" android:layout_marginBottom="@dimen/render_view_margin_top">
+        <com.miui.gallery.editor.photo.widgets.BeautyImageView android:id="@id/glsurfaceview_image" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ProgressBar android:layout_gravity="center" android:id="@id/beauty_progress_bar" android:background="@drawable/progressbar_bg" android:visibility="gone" android:layout_width="@dimen/beautyedit_render_progress_bar_size" android:layout_height="@dimen/beautyedit_render_progress_bar_size" android:indeterminateDrawable="@drawable/editor_progressbar_indeterminate_dark" style="@style/Gallery.Widget.ProgressBar" />
+        <com.miui.gallery.editor.photo.widgets.StrokeBoardView android:id="@id/stroke_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</RelativeLayout>

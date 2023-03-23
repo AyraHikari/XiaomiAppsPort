@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:id="@id/play_layout" android:layout_width="@dimen/vlog_menu_single_operation_btn_hot_area_width" android:layout_height="@dimen/vlog_menu_common_operation_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="center" android:background="@drawable/vlog_common_operation_btn_bg" android:layout_width="@dimen/vlog_menu_common_operation_btn_bg_size" android:layout_height="@dimen/vlog_menu_common_operation_btn_bg_size" />
+    <ImageView android:layout_gravity="center" android:id="@id/play_view" android:layout_width="@dimen/vlog_menu_common_operation_btn_size" android:layout_height="@dimen/vlog_menu_common_operation_btn_size" android:src="@drawable/vlog_common_play_pause_selector" android:contentDescription="@string/vlog_talkback_view_play" />
+</FrameLayout>

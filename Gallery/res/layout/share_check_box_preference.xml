@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/share_album_custom_chx_pref_margin_start_and_end" android:layout_marginEnd="@dimen/share_album_custom_chx_pref_margin_start_and_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="18.0sp" android:textColor="@color/black_100_transparent_with_dark_mode" android:ellipsize="marquee" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" android:fontFamily="misans-regular" android:textFontWeight="500" />
+    <LinearLayout android:orientation="horizontal" android:id="@android:id/widget_frame" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

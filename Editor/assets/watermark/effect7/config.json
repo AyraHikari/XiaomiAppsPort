@@ -1,0 +1,59 @@
+{
+  "name": "effect7",
+  "talkbackName": "@string/text_item_type_talkback_bubble_watermark_7",
+  "version": 0,
+  "width": 178.55,
+  "height": 93.45,
+  "offsetX": 0,
+  "offsetY": -99,
+  "icon": "icon.png",
+  "textPieceList": [
+    {
+      "frameRect": [
+        8.36,
+        8.73,
+        170.91,
+        26.9
+      ],
+      "text": "PERFECT",
+      "size": 14.83,
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": 0.12,
+      "lines":1,
+      "isBold":true
+    },
+    {
+      "frameRect": [
+        8.36,
+        28.73,
+        170.91,
+        62.66
+      ],
+      "text": "2023",
+      "size": 37.45,
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": -0.05,
+      "lines": 1,
+      "isBold":true
+    },
+    {
+      "frameRect": [
+        8.36,
+        64,
+        170.91,
+        82.18
+      ],
+      "text": "HOLIDAYS",
+      "size": 14,
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": 0.08,
+      "lines":1
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>အဖြူ</item>
+        <item>နက်ပြာ</item>
+        <item>မိုးပြာရောင်</item>
+        <item>အနီ</item>
+        <item>အစိမ်း</item>
+        <item>ပန်းရောင်</item>
+        <item>အညို</item>
+        <item>မီးခိုး</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>ပုံရွေးရန်</item>
+        <item>ဖောက်ထွင်းမြင်နိုင်သော နောက်ခံ</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>ကျား</item>
+        <item>မ</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>နေ့ထူး</item>
+        <item>ရောင်စုံ နေ့ရက်များ</item>
+        <item>မြူးမြူးကြွကြွ အခိုက်</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>အရသာရှိတဲ့နှစ်တစ်နှစ်</item>
+        <item>သုံးပွဲ။ လေးရာသီ။</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>ဟယ်လို ကမ္ဘာကြီး။</item>
+        <item>လမ်းပေါ်မှာ</item>
+        <item>နေရာများ၏ ရောင်စုံမှန်ပြောင်း</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>ဆောင်းဦးဂုဏ်ရောင်</item>
+        <item>ဆောင်းဦးရောင်ခြည်</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>ယောက်ျားလေး</item>
+        <item>မိန်းကလေး</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>ဓါတ်ပုံများအား အရန်သိမ်းမည်</item>
+        <item>ဤ Cloud ဖြင့် ဓာတ်ပုံများကို ဆင့်ခ်လုပ်ပါ</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>သတိရစရာညတစ်ည</item>
+        <item>စာမျက်နှာအသစ်</item>
+        <item>မီးရှူးမီးပန်း</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>ပျော်ရွှင်ဖွယ်နှစ်သစ်ဖြစ်ပါစေ။</item>
+        <item>နှစ်သစ်အရုဏ်ဦး</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>မျောက်နှစ်</item>
+        <item>ကြက်နှစ်</item>
+        <item>ခွေးနှစ်</item>
+        <item>ဝက်နှစ်</item>
+        <item>ကြွက်နှစ်</item>
+        <item>နွားနှစ်</item>
+        <item>ကျားနှစ်</item>
+        <item>ယုန်နှစ်</item>
+        <item>နဂါးနှစ်</item>
+        <item>မြွေနှစ်</item>
+        <item>မြင်းနှစ်</item>
+        <item>ဆိတ်နှစ်</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>မြို့ရှုခင်းများ</item>
+        <item>လမ်းများနှင့် လမ်းထောင့်များ</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>နူးညံ့သောပွင့်လွှာများ</item>
+        <item>အစွမ်းကုန်ပွင့်လန်း</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>တောထဲသို့</item>
+        <item>သဘာဝနဲ့ လွတ်လပ်</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>ကျွန်ုပ်တို့ တွေ့ဆုံပွဲများ</item>
+        <item>မိတ်ဆွေများနှင့် အဖော်ပြု</item>
+        <item>မတွေ့တာကြာပြီ</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>သင့်အကြိုက်ဆုံး အကြောင်းအရာများ</item>
+        <item>စိတ်တူကိုယ်တူများ</item>
+        <item>ဘဝ၏ တောက်ပသောအခိုက်အတန့်များ</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>အရွယ်ရောက်ကိစ္စများနှင့် အလုပ်ရှုပ်</item>
+        <item>ချစ်စရာလေးများ</item>
+        <item>စူးစမ်းသူလေး</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>ကျန်းမာရေးလေ့ကျင့်ခန်းဒိုင်ယာရီ</item>
+        <item>သန်စွမ်းပြီးရင်း သန်စွမ်း</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>စားကောင်းပါစေ။</item>
+        <item>နည်းနည်းထပ်စားမလား။</item>
+        <item>စားကောင်းပါစေ။</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>အပြုံးနှင့် လက်ပြ။</item>
+        <item>ကစားချိန်</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>အရမ်းလှတဲ့အိမ်အပြင်ဘက်နေရာများ</item>
+        <item>နှင်းထဲမှ ခြေရာများ</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>ရပ်တန့်မရဘူး</item>
+        <item>ကျန်းမာအောင်နေတယ်</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>ခမ်းနားသောနေ့တစ်နေ့</item>
+        <item>မင်္ဂလာခန်းမလျှောက်လမ်းမှာ။</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Time to play</item>
+        <item>"Kiddo's weekend"</item>
+        <item>The little one</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>ကျွန်ုပ်၏ အားလပ်ရက်များ</item>
+        <item>ဘဝ အပိုင်းအစများ</item>
+        <item>အားလပ်ရက် အမှတ်တရများ</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>New friends and old pals</item>
+        <item>"Last year's get-togethers"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>အားလပ်ချိန်</item>
+        <item>လေပြေညင်း</item>
+        <item>အိပ်မက်များ</item>
+        <item>ကလောက်များ</item>
+        <item>စိတ်ကူးများ</item>
+        <item>အဖူးများ</item>
+        <item>အသွင်ပြောင်းစနစ်</item>
+        <item>Depth</item>
+        <item>ရောင်ပြန်များ</item>
+        <item>ခြိုးခြံစနစ်</item>
+        <item>လျှို့ဝှက်ဆန်းကြယ်</item>
+        <item>မြူ</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>နောက်ခံများကို ပုံကြမ်းအဖြစ် ပြောင်းပါ</item>
+        <item>ရေဆေးစတိုင်နောက်ခံများ</item>
+        <item>ဆိုက်ဘာပန့်ရှေးဟောင်း</item>
+        <item>နေရာမကျသောထောင်လိုက်အပိုင်းအစများ</item>
+        <item>မြူဆိုင်းမှိုင်းဝေ</item>
+        <item>အနာဂတ်စိတ်ကူး</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>ပုံကြမ်း</item>
+        <item>ရေဆေး</item>
+        <item>RGB</item>
+        <item>လိုက်ကာ</item>
+        <item>မြူဆိုင်းပြတင်း</item>
+        <item>နည်းပညာ</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>အရောင်ခြယ်ထားသောကောက်ကြောင်း</item>
+        <item>အသော့ကောက်ကြောင်း</item>
+        <item>ရောင်စုံမီးကောက်ကြောင်း</item>
+        <item>အရောင်ခြယ်ထားသောအရိပ်</item>
+        <item>လျှပ်စစ်လှိုင်း</item>
+        <item>လက်ရှိ</item>
+        <item>လှိုင်းများ</item>
+        <item>အမှုန်များ</item>
+        <item>စာသား</item>
+        <item>အတောင်ပံ</item>
+        <item>အိန်ဂျယ်</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>ရွှေ့ရန်</item>
+        <item>ကော်ပီကူးမည်</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>ဇန်နဝါရီ</item>
+        <item>ဖေဖော်ဝါရီ</item>
+        <item>မတ်</item>
+        <item>ဧပြီ</item>
+        <item>မေ</item>
+        <item>ဇွန်</item>
+        <item>ဇူလိုင်</item>
+        <item>သြဂုတ်</item>
+        <item>စက်တင်ဘာ</item>
+        <item>အောက်တိုဘာ</item>
+        <item>နိုဝင်ဘာ</item>
+        <item>ဒီဇင်ဘာ</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>ကလေးလေး ကြီးလာပြီ။</item>
+        <item>ကလေးလေး ထပ်ကြီးလာပြန်ပြီ။</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>ကျွန်ုပ်၏ တစ်ကိုယ်ရေမီနူး</item>
+        <item>အရသာရှိသောအမှတ်တရများ</item>
+        <item>နောက်တစ်ပွဲထပ်ပေးပါ။</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>ကမ္ဘာ့အကောင်းဆုံးမြင်ကွင်းများ</item>
+        <item>ဆက်တက်မယ်</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>အဖေ</item>
+        <item>အမေ</item>
+        <item>အဖေဘက်မှ အဖိုး</item>
+        <item>အဖေဘက်မှ အဖွား</item>
+        <item>အမေဘက်မှ အဖိုး</item>
+        <item>အမေဘက်မှ အဖွား</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>အတူတကွ</item>
+        <item>အမှတ်တရများ</item>
+        <item>တွေ့ဆုံချိန်</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>လမ်း၏ခေါ်ဆောင်ရာ</item>
+        <item>အတူသွားခဲ့တဲ့ ခရီးတွေ</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>ပျော်ရွှင်ဖွယ်နွေဦး</item>
+        <item>ပျော်စရာနွေရာသီ</item>
+        <item>ပျော်စရာဆောင်းဦး</item>
+        <item>ပျော်ရွှင်ဖွယ်ဆောင်းရာသီ</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>နွေဦးအစားအစာများ</item>
+        <item>နွေရာသီစားစရာများ</item>
+        <item>ဆောင်းဦးစားသောက်ပွဲများ</item>
+        <item>ဆောင်းရာသီဇိမ်ကျ</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Together</item>
+        <item>Bonds and ties</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>ကျွန်ုပ်</item>
+        <item>ကလေး</item>
+        <item>မိသားစု</item>
+        <item>လုပ်ဖော်ကိုင်ဖက်များ</item>
+        <item>အတန်းဖော်များ</item>
+        <item>သူငယ်ချင်းများ</item>
+        <item>အုပ်စုဖြုတ်ခဲ့သည်</item>
+    </string-array>
+    <string-array name="season">
+        <item>နွေဦး</item>
+        <item>နွေ</item>
+        <item>ဆောင်းဦး</item>
+        <item>ဆောင်း</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>အဖေ</item>
+        <item>အမေ</item>
+        <item>အဖေဘက်မှ အဖိုး</item>
+        <item>အဖေဘက်မှ အဖွား</item>
+        <item>အမေဘက်မှ အဖိုး</item>
+        <item>အမေဘက်မှ အဖွား</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>ကျန်းကျန်းမာမာ နေထိုင်မှု</item>
+        <item>တက်တက်ကြွကြွ</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>နွေဦးပန်းများ</item>
+        <item>နွေဦးရနံ့လေမှာပျံ့</item>
+        <item>ဟယ်လို နွေဦး။</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>နွေအကြောင်းလေးနည်းနည်း</item>
+        <item>နွေရာသီမကုန်ဆုံးနိုင်တဲ့နေရာ</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>ရွှေရောင်အချိန်များ</item>
+        <item>ရွှေရောင်စဉ်များ</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>They grow so fast</item>
+        <item>"Kiddo's photos"</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>ဆောင်းရက်များ</item>
+        <item>ဆောင်းအိပ်မက်ကမ္ဘာ</item>
+    </string-array>
+</resources>

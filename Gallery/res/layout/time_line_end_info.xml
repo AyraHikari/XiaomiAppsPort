@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textAppearance="@style/Gallery.TextAppearance.List.GroupHeader.AlbumFrom" android:ellipsize="end" android:gravity="end|center" android:id="@id/textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/album_name_max_length" android:lines="1" android:includeFontPadding="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

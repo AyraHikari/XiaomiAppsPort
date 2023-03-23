@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:focusable="true" android:layout_width="@dimen/vlog_caption_common_recycler_item_size" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.editor.ui.view.RoundImageView android:id="@id/preview" android:layout_width="@dimen/vlog_caption_common_recycler_item_size" android:layout_height="@dimen/vlog_caption_common_recycler_item_size" android:scaleType="centerCrop" android:layout_alignParentBottom="true" />
+    <com.miui.gallery.editor.ui.view.RoundImageView android:id="@id/selector" android:layout_width="@dimen/vlog_caption_common_recycler_item_size" android:layout_height="@dimen/vlog_caption_common_recycler_item_size" android:scaleType="centerCrop" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/configable_editor" android:visibility="gone" android:layout_width="@dimen/vlog_caption_head_tail_item_configable_editor_width" android:layout_height="@dimen/vlog_caption_head_tail_item_configable_editor_width" android:src="@drawable/ic_audio_menu_edit" android:scaleType="centerCrop" android:layout_centerInParent="true" android:layout_centerHorizontal="true" android:contentDescription="@null" />
+    <com.miui.gallery.editor.ui.view.RoundImageView android:id="@id/frame" android:layout_width="@dimen/vlog_caption_common_recycler_item_size" android:layout_height="@dimen/vlog_caption_common_recycler_item_size" android:scaleType="centerCrop" android:layout_alignParentBottom="true" />
+    <com.miui.gallery.editor.ui.view.DownloadView android:gravity="end" android:id="@id/item_download" android:background="@drawable/filter_menu_item_download_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@id/preview" android:layout_alignEnd="@id/preview" />
+</RelativeLayout>

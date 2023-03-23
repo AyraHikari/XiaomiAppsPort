@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.tsd.NestedTwoStageDrawer android:layout_width="fill_parent" android:layout_height="fill_parent" app:tsd_contentView="@id/grid" app:tsd_headerView="@id/filter_bar_container"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:id="@id/likely_results_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+                <ViewStub android:id="@id/likely_results" android:layout="@layout/search_likely_result_entrance" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </FrameLayout>
+            <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/grid" android:paddingBottom="0.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/likely_results_container" style="@style/Gallery.Widget.GridView.ThumbNail" />
+        </RelativeLayout>
+        <include layout="@layout/full_screen_status_views" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/filter_bar_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/filter_bar_margin_top" android:layout_marginBottom="@dimen/filter_bar_margin_start" android:layout_marginStart="@dimen/filter_bar_margin_start">
+        <ViewStub android:id="@id/filter_bar_stub" android:layout="@layout/filter_bar_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </FrameLayout>
+</com.miui.gallery.widget.tsd.NestedTwoStageDrawer>

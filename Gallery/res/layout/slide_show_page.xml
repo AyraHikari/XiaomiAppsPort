@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background="@color/black_100_transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.widget.SlideShowView android:id="@id/slide" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

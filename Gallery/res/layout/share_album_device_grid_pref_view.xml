@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background="@color/share_album_home_device_grid_background" android:paddingBottom="@dimen/share_album_home_device_grid_padding_around" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/share_album_home_device_grid_margin_start" android:layout_marginEnd="@dimen/share_album_home_device_grid_margin_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.view.ExpandAllGridView android:id="@id/device_list" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:horizontalSpacing="@dimen/share_album_home_device_grid_horizontal_spacing" android:verticalSpacing="@dimen/share_album_home_device_grid_vertical_spacing" android:stretchMode="columnWidth" android:columnWidth="@dimen/share_album_home_device_grid_column_width" android:numColumns="@integer/share_home_device_grid_column_count" android:paddingStart="@dimen/share_album_home_device_grid_padding_around" android:paddingEnd="@dimen/share_album_home_device_grid_padding_around" />
+</LinearLayout>

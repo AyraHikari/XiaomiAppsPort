@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:theme="@style/GalleryTheme.Dialog.Alert" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pagerIndicator="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:layout_width="fill_parent" android:layout_height="@dimen/people_face_merge_dialog_viewpager_portrait_height" android:layout_marginTop="@dimen/people_face_merge_dialog_viewpager_margin_top" pagerIndicator:scrollOrientation="horizontal" pagerIndicator:scrollableView="@id/pager">
+        <com.miui.gallery.widget.ViewPager android:id="@id/pager" android:layout_width="fill_parent" android:layout_height="@dimen/people_face_merge_dialog_viewpager_portrait_height" android:importantForAccessibility="no" />
+    </miuix.springback.view.SpringBackLayout>
+    <com.miui.gallery.widget.PagerIndicator android:layout_gravity="center" android:id="@id/pager_index" android:paddingTop="@dimen/people_face_merge_dialog_indicator_portrait_padding_top" android:paddingBottom="@dimen/people_face_merge_dialog_indicator_portrait_padding_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" pagerIndicator:circle_radius="@dimen/people_face_merge_dialog_indicator_circle_radius" pagerIndicator:circle_spacing="@dimen/people_face_merge_dialog_indicator_circle_spacing" pagerIndicator:selected_color="@color/pager_indicator_selected" pagerIndicator:unselected_color="@color/pager_indicator_unselected" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/buttonGroup" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:measureWithLargestChild="true" android:paddingStart="@dimen/miuix_appcompat_dialog_button_panel_horizontal_margin" android:paddingEnd="@dimen/miuix_appcompat_dialog_button_panel_horizontal_margin" style="?android:buttonBarStyle">
+        <Button android:gravity="center" android:id="@id/button1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@android:string/cancel" android:maxLines="2" android:layout_weight="1.0" android:fontFamily="mipro-medium" style="?android:buttonBarButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

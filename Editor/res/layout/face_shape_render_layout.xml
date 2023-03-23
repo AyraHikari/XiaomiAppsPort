@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.mediaeditor.beauty.core.widgets.BeautyGlView android:id="@id/gl_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:paddingTop="@dimen/editor_confirm_menu_height" android:paddingBottom="@dimen/editor_render_bottom_guide_line_end" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.miui.gallery.editor.photo.widgets.ProtectiveImageView android:id="@id/image_placeholder" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <include android:layout_gravity="bottom|center|left" android:id="@id/btn_change" android:layout_width="@dimen/px_168" android:layout_height="@dimen/px_70" android:layout_marginBottom="@dimen/px_40" android:layout_marginStart="@dimen/px_65" layout="@layout/include_face_shape_change_button" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

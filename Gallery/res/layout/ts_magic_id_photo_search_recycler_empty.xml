@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/magic_recycler_empty" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="@dimen/magic_px_450" android:layout_height="@dimen/magic_px_450" android:layout_marginTop="@dimen/magic_px_480" android:src="@drawable/magic_recycler_empty" />
+    <TextView android:textSize="@dimen/magic_px_size_42" android:textColor="#66ffffff" android:id="@id/magic_idp_make_recycler_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/magic_px_50" android:text="@string/magic_recycler_empty_msg" android:layout_centerVertical="true" />
+</LinearLayout>

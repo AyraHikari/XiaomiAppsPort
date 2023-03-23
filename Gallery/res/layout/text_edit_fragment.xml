@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.springback.view.SpringBackLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollOrientation="angle|vertical" app:scrollableView="@id/scroll_view"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.core.widget.NestedScrollView android:id="@id/scroll_view" android:paddingTop="@dimen/ocr_text_padding_top" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <EditText android:gravity="top" android:id="@id/edit_text" android:background="@color/transparent" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textMultiLine" />
+    </androidx.core.widget.NestedScrollView>
+</miuix.springback.view.SpringBackLayout>

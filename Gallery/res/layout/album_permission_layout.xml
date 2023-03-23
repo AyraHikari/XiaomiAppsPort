@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.WHRatioRoundedImageView android:id="@id/album_common_cover" android:layout_width="@dimen/album_permission_album_cover_width_height" android:layout_height="@dimen/album_permission_album_cover_width_height" android:layout_marginTop="@dimen/album_permission_album_cover_margin_top_start_bottom" android:layout_marginBottom="@dimen/album_permission_album_cover_margin_top_start_bottom" android:layout_marginEnd="@dimen/album_permission_album_cover_margin_end" app:outlineCornerRadius="@dimen/album_permission_album_cover_ratio" style="@style/Gallery.Widget.AlbumCover.Linear" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="@dimen/album_permission_album_content_margin_top_bottom" android:layout_marginBottom="@dimen/album_permission_album_content_margin_top_bottom" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/album_permission_album_title_text_size" android:textColor="@color/album_permission_title_color" android:ellipsize="end" android:id="@id/album_common_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" />
+        <TextView android:textSize="@dimen/album_permission_album_sub_title_text_size" android:textColor="@color/album_permission_sub_title_color" android:ellipsize="end" android:id="@id/album_common_sub_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/grant" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginStart="@dimen/album_permission_album_grant_margin_start">
+        <TextView android:textSize="@dimen/album_permission_album_grant_text_size" android:textColor="@color/album_permission_grant_color" android:id="@id/grant_text" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/arrow_right" android:background="@drawable/ic_list_arrow_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/album_permission_album_grant_arrow_margin_start" />
+    </LinearLayout>
+</LinearLayout>

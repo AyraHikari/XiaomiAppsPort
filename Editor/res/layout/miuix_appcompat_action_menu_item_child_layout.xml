@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/action_menu_item_child_icon" style="?actionBarButtonIconViewStyle" />
+    <TextView android:id="@id/action_menu_item_child_text" style="?actionBarButtonTextViewStyle" />
+</merge>

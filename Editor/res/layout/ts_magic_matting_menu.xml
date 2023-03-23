@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/id_bottom_control" android:paddingTop="@dimen/magic_px_60" android:layout_width="fill_parent" android:layout_height="@dimen/magic_menu_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/magic_matting_pr" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/magic_px_50" android:layout_weight="1.0">
+        <com.miui.gallery.magic.widget.PaintSelectorPanel android:id="@id/magic_matting_paint" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="@dimen/magic_image_width_120" />
+        <com.miui.gallery.widget.recyclerview.SimpleRecyclerView android:id="@id/magic_matting_recyclerview" android:background="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <RadioGroup android:gravity="center" android:orientation="horizontal" android:id="@id/magic_tab_radio_group" android:layout_width="fill_parent" android:layout_height="@dimen/magic_tab_radio_height">
+        <RadioButton android:textSize="@dimen/magic_special_bottom_text_size" android:textColor="@color/white" android:gravity="center" android:id="@id/magic_matting_bg" android:layout_width="wrap_content" android:layout_height="@dimen/magic_tab_radio_btn_height" android:button="@null" android:text="@string/magic_background" style="@style/magic_style_medium" />
+        <RadioButton android:id="@id/magic_matting_stroke" android:visibility="gone" android:text="@string/magic_stroke" style="@style/magic_tab_radio_btn" />
+    </RadioGroup>
+</LinearLayout>

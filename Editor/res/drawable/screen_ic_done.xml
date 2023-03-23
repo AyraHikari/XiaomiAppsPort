@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/screen_operation_icon_width" android:width="@dimen/screen_operation_icon_width" android:viewportWidth="100.0" android:viewportHeight="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/operation_icon_color" android:pathData="M43.62,73.46C42.48,74.13 40.98,73.97 40,72.99L19.88,52.86C18.71,51.69 18.71,49.79 19.88,48.62C21.05,47.45 22.95,47.45 24.12,48.62L41.93,66.44L69.27,32.68C70.31,31.39 72.2,31.19 73.49,32.24C74.78,33.28 74.97,35.17 73.93,36.46L44.61,72.67C44.33,73.01 43.99,73.28 43.62,73.46Z" android:fillType="evenOdd" />
+</vector>

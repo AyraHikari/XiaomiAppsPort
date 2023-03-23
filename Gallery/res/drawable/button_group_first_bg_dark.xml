@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/button_group_bg_first_p" />
+    <item android:drawable="@drawable/button_group_bg_first_n" />
+</selector>

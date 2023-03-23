@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chooser_item_cell_margin">53.849976dip</dimen>
+    <item type="dimen" name="editor_menu_crop_top_guide_line_end">@dimen/px_564</item>
+    <item type="dimen" name="editor_menu_filter_top_guide_line_end">@dimen/px_564</item>
+    <dimen name="fast_share_chooser_margin_bottom">42.409973dip</dimen>
+    <dimen name="fast_share_height">339.10938dip</dimen>
+    <dimen name="fast_share_height_with_nearby_share">410.79688dip</dimen>
+    <dimen name="fast_share_mishare_padding_bottom">119.109985dip</dimen>
+    <dimen name="fast_share_mishare_padding_bottom_with_nearby_share">119.109985dip</dimen>
+    <dimen name="photo_screen_share_and_delete_checkbox_margin_start">53.329987dip</dimen>
+    <dimen name="photo_screen_share_and_delete_checkbox_padding_start">14.459991dip</dimen>
+</resources>

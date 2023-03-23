@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>לבן</item>
+        <item>כחול כהה</item>
+        <item>כחול בהיר</item>
+        <item>אדום</item>
+        <item>ירוק</item>
+        <item>ורוד</item>
+        <item>חום</item>
+        <item>אפור</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>בחר תמונה</item>
+        <item>רקע שקוף</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>זכר</item>
+        <item>נקבה</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>יום מיוחד</item>
+        <item>לזכור את היום הזה</item>
+        <item>רגעים מרהיבים</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>שנה מתוקה</item>
+        <item>שלוש מנות. ארבע עונות.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>שלום עולם!</item>
+        <item>בדרכים</item>
+        <item>גלילור של מקומות</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>הדר הסתיו</item>
+        <item>מפל קורן</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>ילד</item>
+        <item>ילדה</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>גבה תמונות</item>
+        <item>סנכרן תמונות עם הענן</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>לילה שייזכר</item>
+        <item>דף חדש</item>
+        <item>זיקוקים</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>שנה אזרחית טובה!</item>
+        <item>תחילתה של שנה חדשה</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>שנת הקוף</item>
+        <item>שנת התרנגול</item>
+        <item>שנת הכלב</item>
+        <item>שנת החזיר</item>
+        <item>שנת העכברוש</item>
+        <item>שנת השור</item>
+        <item>שנת הטיגריס</item>
+        <item>שנת הארנב</item>
+        <item>שנת הדרקון</item>
+        <item>שנת הנחש</item>
+        <item>שנת הסוס</item>
+        <item>שנת התיש</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>נופים עירוניים</item>
+        <item>רחובות ופינות</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>עלי כותרת עדינים</item>
+        <item>בשיא הפריחה</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>טבע פראי</item>
+        <item>פראי וחופשי</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>המפגשים שלנו</item>
+        <item>עם חברים</item>
+        <item>לא התראינו זמן רב</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>הדברים האהובים עליך</item>
+        <item>נשמות קרובות</item>
+        <item>הרגעים השמחים של החיים</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>עסוקים בגדילה</item>
+        <item>יותר ויותר חמוד</item>
+        <item>חוקר קטן</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>יומן כושר</item>
+        <item>מתחזקים יותר ויותר</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>בתיאבון!</item>
+        <item>עוד נגיסה?</item>
+        <item>תיהנו מהארוחה!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>מחייכים ומנופפים!</item>
+        <item>זמן לשחק</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>בחיק הטבע</item>
+        <item>מסלולים בשלג</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>אי-אפשר לעצור אותם</item>
+        <item>שומרים על כושר</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>יום גדול</item>
+        <item>אל החופה!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Time to play</item>
+        <item>"Kiddo's weekend"</item>
+        <item>The little one</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>סופי השבוע שלי</item>
+        <item>פיסות חיים</item>
+        <item>זיכרונות סוף השבוע</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>New friends and old pals</item>
+        <item>"Last year's get-togethers"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>פנאי</item>
+        <item>בריזה</item>
+        <item>חלומות</item>
+        <item>עננים</item>
+        <item>מחשבות</item>
+        <item>ניצנים</item>
+        <item>מטמורפוזה</item>
+        <item>עומק</item>
+        <item>השתקפויות</item>
+        <item>מינימליסטי</item>
+        <item>מסתורין</item>
+        <item>ערפל כבד</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>הפוך את הרקע לסקיצות</item>
+        <item>רקעים בסגנון צבעי מים</item>
+        <item>סייברפאנק רטרו</item>
+        <item>קווים אנכיים לא במקום</item>
+        <item>טשטוש</item>
+        <item>הרגשה עתידנית</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>סקיצה</item>
+        <item>צבע מים</item>
+        <item>RGB</item>
+        <item>תריסים</item>
+        <item>חלון עם אדים</item>
+        <item>טק</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>קו מתאר בצבע</item>
+        <item>קו מתאר מקווקו</item>
+        <item>קו מתאר פלוריסנטי</item>
+        <item>צל בצבע</item>
+        <item>גל חשמלי</item>
+        <item>זרם</item>
+        <item>גלים</item>
+        <item>חלקיקים</item>
+        <item>טקסט</item>
+        <item>כנפיים</item>
+        <item>מלאך</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>העבר</item>
+        <item>העתק</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>ינואר</item>
+        <item>פברואר</item>
+        <item>מרץ</item>
+        <item>אפריל</item>
+        <item>מאי</item>
+        <item>יוני</item>
+        <item>יולי</item>
+        <item>אוגוסט</item>
+        <item>ספטמבר</item>
+        <item>אוקטובר</item>
+        <item>נובמבר</item>
+        <item>דצמבר</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>גדלת!</item>
+        <item>שוב גדלת!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>התפריט האישי שלי</item>
+        <item>זיכרונות טעימים</item>
+        <item>עוד מנה בבקשה!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>הנופים הטובים בעולם</item>
+        <item>ממשיכים לטפס</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>אבא</item>
+        <item>אמא</item>
+        <item>סבא מצד האבא</item>
+        <item>סבתא מצד האבא</item>
+        <item>סבא מצד האמא</item>
+        <item>סבתא מצד האמא</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>יחד</item>
+        <item>זמנים טובים</item>
+        <item>שם האלבום</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>זורמים עם הדרך</item>
+        <item>טוב לשתף מסעות</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>אביב עליז</item>
+        <item>קיץ שמח</item>
+        <item>סתיו מאושר</item>
+        <item>חורף כיפי</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>ארוחות באביב</item>
+        <item>פינוקי קיץ</item>
+        <item>חגיגות סתיו</item>
+        <item>מתכרבלים בחורף</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Together</item>
+        <item>Bonds and ties</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>אני</item>
+        <item>ילד</item>
+        <item>משפחה</item>
+        <item>עמיתים</item>
+        <item>חברים לכיתה</item>
+        <item>חברים</item>
+        <item>לא בקבוצה</item>
+    </string-array>
+    <string-array name="season">
+        <item>אביב</item>
+        <item>קיץ</item>
+        <item>סתיו</item>
+        <item>חורף</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>אבא</item>
+        <item>אמא</item>
+        <item>סבא מצד האבא</item>
+        <item>סבתא מצד האבא</item>
+        <item>סבא מצד האמא</item>
+        <item>סבתא מצד האמא</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>נע קדימה</item>
+        <item>מלא באנרגיה</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>פריחת האביב</item>
+        <item>אביב באוויר</item>
+        <item>שלום לך אביב!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>קצת קיץ</item>
+        <item>מקום שבו קיץ אף פעם לא נגמר</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>שעות הזהב</item>
+        <item>קרני זהב</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>They grow so fast</item>
+        <item>"Kiddo's photos"</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>ימים חורפיים</item>
+        <item>ארץ פלאי החורף</item>
+    </string-array>
+</resources>

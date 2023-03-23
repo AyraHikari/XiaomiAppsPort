@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/caption_container" android:layout_width="fill_parent" android:layout_height="@dimen/vlog_caption_list_height" android:layout_marginBottom="@dimen/px_2" />
+    <com.miui.gallery.vlog.caption.widget.MiVideoFrameView android:id="@id/frame_view" android:layout_width="wrap_content" android:layout_height="@dimen/vlog_caption_frame_list_height" android:contentDescription="@string/vlog_talkback_frame_view" />
+</LinearLayout>

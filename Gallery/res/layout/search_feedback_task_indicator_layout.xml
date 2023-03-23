@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textColor="@color/white_100_transparent" android:gravity="center" android:id="@id/feedback_task_progress" android:background="@drawable/search_feedback_icon_bg" android:layout_width="wrap_content" android:layout_height="@dimen/feedback_task_indicator_height" android:paddingStart="@dimen/feedback_task_indicator_margin" android:paddingEnd="@dimen/feedback_task_indicator_margin" style="@style/Gallery.TextAppearance.Search.List.Primary.Middle"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

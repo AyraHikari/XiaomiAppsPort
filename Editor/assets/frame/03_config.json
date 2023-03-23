@@ -1,0 +1,9 @@
+{
+  "width": 4,
+  "height": 3,
+  "talkbackName": "@string/photo_editor_talkback_crop_4_3",
+  "iconRatio": 1.189,
+  "iconVPadding": 6,
+  "iconHPadding": 6,
+  "icon": "@drawable/photo_editor_frame_menu_4_3_icon_selector"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="113.29999dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.widget.CircleAppCompatImageView android:layout_gravity="bottom" android:id="@id/face" style="@style/Gallery.Widget.ThumbNail.People" />
+    <View android:layout_gravity="end|bottom|center" android:background="@drawable/ignore_people_checkbox" android:layout_width="@dimen/ignore_item_checkbox_size" android:layout_height="@dimen/ignore_item_checkbox_size" />
+</FrameLayout>

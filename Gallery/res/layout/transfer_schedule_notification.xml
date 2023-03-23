@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/notifi_content" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="20.0dip" android:paddingEnd="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/notifi_icon" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/ocr_ic_email" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toRightOf="@id/notifi_icon" android:layout_centerVertical="true">
+        <TextView android:textSize="14.0sp" android:id="@id/notifi_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="migrating photos and videos..." android:layout_marginStart="20.0dip" />
+        <TextView android:textSize="12.0sp" android:id="@id/notifi_msg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="668 of 40317 | 33%" android:layout_marginStart="20.0dip" />
+        <ProgressBar android:id="@id/notifi_progress" android:layout_width="fill_parent" android:layout_height="5.0dip" android:layout_marginTop="5.0dip" android:max="100" android:progress="50" android:progressDrawable="@drawable/transfer_notifi_progress_bg" android:layout_marginStart="20.0dip" android:layout_marginEnd="40.0dip" style="@android:style/Widget.ProgressBar.Horizontal" />
+    </LinearLayout>
+</RelativeLayout>

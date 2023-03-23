@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background="@drawable/custom_page_bar_background" android:padding="@dimen/backup_title_item_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ColorRingProgress="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/icon" android:layout_width="@dimen/backup_icon_size" android:layout_height="@dimen/backup_icon_size" android:scaleType="centerInside" android:contentDescription="@null" />
+        <com.miui.gallery.widget.ColorRingProgress android:layout_gravity="center" android:id="@id/progress" android:layout_width="@dimen/backup_cloud_storage_progress_size" android:layout_height="@dimen/backup_cloud_storage_progress_size" ColorRingProgress:backgroundColor="@color/backup_cloud_storage_progress_back" ColorRingProgress:colorInterval="@dimen/backup_cloud_storage_progress_interval" ColorRingProgress:foregroundColor="@color/backup_cloud_storage_progress_fore" ColorRingProgress:ringThickness="@dimen/backup_cloud_storage_progress_thickness" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/text_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginStart="@dimen/backup_title_item_drawable_padding" android:layout_marginEnd="@dimen/backup_title_item_margin_right">
+        <TextView android:textSize="@dimen/backup_title_size" android:textColor="@color/backup_title_color" android:ellipsize="end" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:drawablePadding="@dimen/backup_title_drawable_padding" />
+        <TextView android:textSize="@dimen/backup_summary_size" android:textColor="@color/backup_summary_color" android:ellipsize="end" android:id="@id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" />
+    </LinearLayout>
+    <TextView android:textSize="@dimen/panel_item_text_size" android:textColor="@color/backup_edit_text_color" android:gravity="center" android:layout_gravity="end|center" android:id="@id/btn" android:layout_width="@dimen/backup_title_edit_width" android:layout_height="wrap_content" android:maxWidth="@dimen/backup_title_edit_max_width" android:maxHeight="@dimen/backup_title_edit_max_height" android:minHeight="@dimen/backup_btn_height" />
+</LinearLayout>

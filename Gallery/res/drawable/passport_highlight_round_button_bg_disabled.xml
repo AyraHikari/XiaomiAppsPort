@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/passport_highlight_round_button_bg_disabled" />
+    <corners android:radius="@dimen/passport_round_button_radius" />
+</shape>

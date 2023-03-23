@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.tsd.NestedTwoStageDrawer android:id="@id/drawer" android:layout_width="fill_parent" android:layout_height="fill_parent" app:tsd_contentView="@id/fragment_container" app:tsd_headerView="@id/switch_container"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.miuixbasewidget.widget.FilterSortView android:id="@id/switch_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/album_detail_sortby_header_margin_top" android:layout_marginBottom="@dimen/album_detail_sortby_header_margin_bottom" android:layout_marginStart="@dimen/filter_sort_view_margin_start_end" android:layout_marginEnd="@dimen/filter_sort_view_margin_start_end">
+        <view android:id="@id/all_photos_switch" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/album_name_all_photos_shortcut" app:layout_constraintEnd_toStartOf="@id/recent_photos_switch" app:layout_constraintStart_toStartOf="parent" class="miuix.miuixbasewidget.widget.FilterSortView$TabView" />
+        <view android:id="@id/recent_photos_switch" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/album_name_recent_discovery" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/all_photos_switch" class="miuix.miuixbasewidget.widget.FilterSortView$TabView" />
+    </miuix.miuixbasewidget.widget.FilterSortView>
+    <FrameLayout android:id="@id/fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.miui.gallery.widget.tsd.NestedTwoStageDrawer>

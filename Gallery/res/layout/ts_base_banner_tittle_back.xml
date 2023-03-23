@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/banner" android:background="#00000000" android:layout_width="fill_parent" android:layout_height="@dimen/magic_top_bar" android:layout_alignParentTop="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/idp_se_cancel" android:layout_width="wrap_content" android:layout_height="fill_parent" android:onClick="onClick" android:layout_alignParentStart="true">
+        <ImageView android:id="@id/iv_tittle_back" android:layout_width="@dimen/magic_idp_back_width" android:layout_height="fill_parent" android:src="@drawable/magic_back" android:layout_centerVertical="true" android:contentDescription="@string/cd_btn_back" android:layout_marginStart="@dimen/magic_back_icon_idp_left" android:layout_marginEnd="@dimen/magic_back_icon_idp_left" />
+    </RelativeLayout>
+    <TextView android:textSize="@dimen/magic_title_size" android:textColor="#ccffffff" android:gravity="center" android:id="@id/tv_base_tittle" android:layout_width="@dimen/magic_title_width" android:layout_height="@dimen/magic_title_height" android:layout_centerInParent="true" style="@style/magic_style_medium" />
+</RelativeLayout>

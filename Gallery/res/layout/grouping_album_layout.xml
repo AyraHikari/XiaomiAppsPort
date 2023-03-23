@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.tsd.NestedTwoStageDrawer android:id="@id/drawer" android:layout_width="fill_parent" android:layout_height="fill_parent" app:tsd_contentView="@id/fragment_container" app:tsd_headerView="@id/switch_container"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.SwitchView android:id="@id/switch_container" android:layout_width="fill_parent" android:layout_height="@dimen/switch_view_height" android:layout_marginTop="@dimen/album_detail_sortby_header_margin_top" android:layout_marginBottom="@dimen/album_detail_sortby_header_margin_bottom" android:layout_marginStart="@dimen/filter_sort_view_margin_start_end" android:layout_marginEnd="@dimen/filter_sort_view_margin_start_end" />
+    <androidx.viewpager2.widget.ViewPager2 android:id="@id/fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include layout="@layout/floating_button" />
+</com.miui.gallery.widget.tsd.NestedTwoStageDrawer>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/vlog_selector_ratio_item" android:layout_width="73.5dip" android:layout_height="67.599976dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@color/vlog_ratio_menu_text_color" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="16:9" />
+</LinearLayout>

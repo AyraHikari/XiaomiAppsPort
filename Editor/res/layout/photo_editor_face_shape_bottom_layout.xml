@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/common_editor_menu_apply_layout_rotatable" />
+    <com.miui.gallery.widget.recyclerview.SimpleLinearRecyclerView android:id="@id/category_recycler_view" android:layout_width="@dimen/editor_menu_face_shape_title_area_width_size" android:layout_height="@dimen/editor_apply_button_size" android:layout_marginBottom="@dimen/editor_menu_margin_bottom" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

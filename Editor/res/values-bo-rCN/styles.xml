@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Button" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">@style/Miuix.AppCompat.TextAppearance.Widget.Button</item>
+        <item name="android:textSize">@dimen/miuix_appcompat_button_text_size</item>
+        <item name="android:textColor">?textColorButton</item>
+        <item name="android:background">?buttonBackground</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:elegantTextHeight">true</item>
+        <item name="android:fallbackLineSpacing">false</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="miuixSelectGroupButtonBackground">?selectorButtonBackground</item>
+    </style>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:variablePadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_first="true" android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_list_popup_first_item_bg_pressed_light" />
+    <item android:state_first="true" android:drawable="@drawable/miuix_appcompat_list_popup_first_item_bg_normal_light" />
+    <item android:state_middle="true" android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_list_popup_middle_item_bg_pressed_light" />
+    <item android:state_middle="true" android:drawable="@drawable/miuix_appcompat_list_popup_middle_item_bg_normal_light" />
+    <item android:state_last="true" android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_list_popup_last_item_bg_pressed_light" />
+    <item android:state_last="true" android:drawable="@drawable/miuix_appcompat_list_popup_last_item_bg_normal_light" />
+    <item android:state_single="true" android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_list_popup_single_item_bg_pressed_light" />
+    <item android:state_single="true" android:drawable="@drawable/miuix_appcompat_list_popup_single_item_bg_normal_light" />
+    <item android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_list_popup_middle_item_bg_pressed_light" />
+    <item android:drawable="@drawable/miuix_appcompat_list_popup_middle_item_bg_normal_light" />
+</selector>

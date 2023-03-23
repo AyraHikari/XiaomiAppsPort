@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" package="com.miui.mediaeditor" platformBuildVersionCode="33" platformBuildVersionName="13">
+    <uses-feature android:glEsVersion="0x00020000"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <protected-broadcast android:name="com.miui.gallery.intent.action.SEND_STAT"/>
+    <uses-permission android:name="com.miui.securitycenter.permission.SYSTEM_PERMISSION_DECLARE"/>
+    <uses-permission android:name="com.miui.zman.permission.SECURITY_SHARE"/>
+    <uses-permission android:name="com.miui.gallery.permission.SCAN"/>
+    <uses-permission android:name="com.miui.gallery.permission.SECRET_ALBUM"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="com.xiaomi.gallery.permission.CLOUD"/>
+    <uses-permission android:name="com.xiaomi.permission.CLOUD_MANAGER"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_SYNC_STATS"/>
+    <uses-permission android:name="com.xiaomi.permission.SYNC_TAG_DATA"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_ALL_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+    <uses-permission android:name="com.miui.home.launcher.permission.UNINSTALL_SHORTCUT"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="miui.permission.USE_INTERNAL_GENERAL_API"/>
+    <uses-permission android:name="com.xiaomi.permission.MICLOUD"/>
+    <uses-permission android:name="com.miui.extraphoto.permission.VIEW"/>
+    <uses-permission android:name="com.miui.extraphoto.permission.EXTRA_PHOTO"/>
+    <uses-permission android:name="miui.permission.EXTRA_NETWORK"/>
+    <uses-permission android:name="com.miui.gallery.permission.MIPUSH_RECEIVE"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.CONTROL_DISPLAY_BRIGHTNESS"/>
+    <uses-permission android:name="com.miui.video.permission.READ_SRT_PERMISSION"/>
+    <uses-permission android:name="miui.cloud.cloudserive.permission.SECURITY_DEVICE_CREDENTIAL"/>
+    <uses-permission android:name="com.miui.notes.permission.ACCESS_NOTE"/>
+    <uses-permission android:name="com.miui.mishare.PERMISSION.ALL"/>
+    <permission android:name="com.miui.mediaeditor.api.PROVIDER" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="com.miui.huanji.receivebroadcast"/>
+    <uses-permission android:name="miui.permission.BUGREPORT"/>
+    <uses-permission android:name="miui.permission.DUMP_CACHED_LOG"/>
+    <uses-permission android:name="com.miui.bugreport.permission.DUMP_CACHED_LOG"/>
+    <queries>
+        <package android:name="com.miui.gallery"/>
+    </queries>
+    <permission android:name="com.miui.mishare.PERMISSION.ALL"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <application android:allowBackup="false" android:allowClearUserData="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:icon="@mipmap/ic_launcher_gallery" android:label="@string/app_photoshop_name" android:largeHeap="true" android:name="com.miui.mediaeditor.PhotoShopApp" android:networkSecurityConfig="@xml/network_security_config" android:requestLegacyExternalStorage="true" android:supportsRtl="true" android:theme="@style/Magic.Gallery.Theme.NoTitle">
+        <uses-native-library android:name="libOpenCL.so" android:required="false"/>
+        <uses-native-library android:name="libSNPE.so" android:required="false"/>
+        <uses-native-library android:name="libcdsprpc.so" android:required="false"/>
+        <uses-native-library android:name="libneuronusdk_adapter.mtk.so" android:required="false"/>
+        <uses-library android:name="com.miui.rom" android:required="false"/>
+        <uses-library android:name="com.miui.system" android:required="false"/>
+        <uses-library android:name="security-device-credential-sdk.jar" android:required="false"/>
+        <uses-library android:name="micloud-sdk" android:required="false"/>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <meta-data android:name="required_permissions" android:value="@string/required_permissions"/>
+        <meta-data android:name="com.miui.gallery.EDIT_CAPABILITIES" android:value="immersive|short_landscape|hide_navigation_bar|rotate_screen|lock_orientation|ban_hdr_frame|cutout_mode_short_edges|edit_480|edit_1920|edit_page_animation|open_video_format"/>
+        <activity android:configChanges="keyboardHidden|layoutDirection|orientation|screenSize" android:exported="true" android:name="com.miui.mediaeditor.activity.DownloadLibraryActivity" android:theme="@style/Theme.NoTitle.Transparent"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.miui.gallery.permission.core.PermissionDeniedActivity" android:screenOrientation="portrait" android:theme="@style/PhotoShop.NoTitle.Transparent.Fullscreen"/>
+        <activity android:exported="true" android:name="com.miui.mediaeditor.MainActivity" android:theme="@style/GalleryTheme.NoTitle">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <data android:host="MainActivity" android:scheme="com.miui.mediaeditor.main"/>
+            </intent-filter>
+        </activity>
+        <provider android:authorities="com.miui.mediaeditor.provider.fileProvider" android:exported="false" android:grantUriPermissions="true" android:name="com.miui.mediaeditor.provider.PhotoShopFileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/magic_file_path"/>
+        </provider>
+        <provider android:authorities="com.miui.mediaeditor.api" android:exported="true" android:name="com.miui.mediaeditor.provider.MediaEditorProviderForGallery" android:permission="com.miui.mediaeditor.api.PROVIDER"/>
+        <meta-data android:name="mediaeditor_api_for_gallery_version_code" android:value="7"/>
+        <provider android:authorities="com.miui.mediaeditor.androidx-startup" android:exported="false" android:name="androidx.startup.InitializationProvider">
+            <meta-data android:name="com.miui.mediaeditor.MediaEditorAppInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.work.WorkManagerInitializer" android:value="androidx.startup"/>
+        </provider>
+        <provider android:authorities="com.miui.mediaeditor.editor-startup" android:exported="false" android:name="com.miui.mediaeditor.startup.EditorInitializationProvider" android:process=":photo_editor"/>
+        <provider android:authorities="com.miui.mediaeditor.provider.bugreport" android:exported="true" android:name="com.miui.bugreport.logprovider.DumpLogProvider" android:permission="com.miui.bugreport.permission.DUMP_CACHED_LOG">
+            <intent-filter>
+                <action android:name="com.miui.bugreport.intent.ACTION_DUMP_CACHED_LOG"/>
+            </intent-filter>
+        </provider>
+        <meta-data android:name="com.miui.bugreport.LOG_DIR" android:resource="@xml/log_paths"/>
+        <meta-data android:name="miui.supportRequiredModifiable" android:value="true"/>
+        <meta-data android:name="firebase_analytics_collection_enabled" android:value="false"/>
+        <meta-data android:name="firebase_crashlytics_collection_enabled" android:value="false"/>
+        <meta-data android:name="revision" android:value="ccf727e"/>
+        <meta-data android:name="firebaseMappingFileId" android:value=""/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:enabled="true" android:exported="true" android:hardwareAccelerated="true" android:label="@string/photo_editor_label" android:launchMode="singleTop" android:name="com.miui.gallery.editor.photo.app.PhotoEditor" android:screenOrientation="user" android:showWhenLocked="true" android:theme="@style/Gallery.Theme.PhotoEditor" android:windowSoftInputMode="adjustNothing"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:excludeFromRecents="true" android:exported="true" android:hardwareAccelerated="true" android:icon="@drawable/screen_editor" android:label="@string/photo_editor_label" android:name="com.miui.gallery.editor.photo.screen.home.ScreenEditorActivity" android:process=":photo_editor" android:resizeableActivity="false" android:theme="@style/Gallery.Theme.ScreenEditorActivity" android:windowSoftInputMode="adjustNothing">
+            <intent-filter>
+                <action android:name="com.miui.gallery.intent.action.SCREEN_EDIT"/>
+                <data android:mimeType="image/*"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:excludeFromRecents="true" android:hardwareAccelerated="true" android:icon="@drawable/screen_editor" android:label="@string/photo_editor_label" android:name="com.miui.gallery.editor.photo.screen.home.ScreenEditorNoTranslucentActivity" android:process=":photo_editor" android:screenOrientation="portrait" android:theme="@style/Gallery.Theme.ScreenEditorNoTranslucentActivity" android:windowSoftInputMode="adjustNothing"/>
+        <service android:exported="true" android:name="com.miui.gallery.editor.photo.screen.home.ScreenShotService">
+            <intent-filter>
+                <action android:name="com.miui.gallery.action.SCREENSHOT"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:hardwareAccelerated="true" android:label="@string/photo_editor_label" android:launchMode="singleTop" android:name="com.miui.gallery.editor.photo.app.ExternalPhotoEditor" android:process=":photo_editor" android:screenOrientation="portrait" android:theme="@style/Gallery.Theme.PhotoEditor" android:windowSoftInputMode="adjustNothing">
+            <intent-filter>
+                <action android:name="android.intent.action.EDIT"/>
+                <data android:mimeType="image/*"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.miui.gallery.intent.action.EDIT"/>
+                <data android:mimeType="image/*"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="false" android:hardwareAccelerated="true" android:label="@string/photo_editor_label" android:name="com.miui.gallery.editor.photo.app.PhotoEditorTipsActivity" android:screenOrientation="user" android:theme="@style/Gallery.Theme.PhotoEditor">
+            <intent-filter android:label="@string/app_photoshop_name">
+                <action android:name="com.miui.mediaeditor.action.VIEW_TIPS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:name="com.miui.gallery.editor.photo.origin.EditorOriginHandlerService" android:process=":photo_editor"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name="com.miui.gallery.editor.photo.signature.SignatureActivity" android:screenOrientation="behind" android:theme="@style/SignatureTheme" android:windowSoftInputMode="adjustNothing"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name="com.miui.gallery.editor.photo.signature.SignatureManageActivity" android:screenOrientation="behind" android:theme="@style/SignatureTheme" android:windowSoftInputMode="adjustNothing"/>
+        <activity android:configChanges="keyboardHidden|layoutDirection|orientation|screenSize" android:exported="true" android:name="com.miui.mediaeditor.activity.SecretAlbumPermissionActivity" android:theme="@style/Theme.NoTitle.Transparent"/>
+        <provider android:authorities="com.miui.mediaeditor.fileProvider" android:exported="false" android:grantUriPermissions="true" android:name="com.miui.gallery.magic.MagicProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/magic_file_path"/>
+        </provider>
+        <activity android:name="com.miui.gallery.magic.ui.MainActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:name="com.miui.gallery.magic.idphoto.CertificatesGuideActivity"/>
+        <activity android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize" android:exported="true" android:name="com.miui.gallery.magic.idphoto.CertificatesMakeActivity" android:windowSoftInputMode="adjustPan"/>
+        <activity android:exported="true" android:name="com.miui.gallery.magic.idphoto.search.CertificatesSearchActivity" android:screenOrientation="portrait" android:theme="@style/Magic.Gallery.Theme.NoTitleSearch" android:windowSoftInputMode="stateAlwaysVisible"/>
+        <activity android:exported="true" android:name="com.miui.gallery.magic.idphoto.search.CertificatesSearchLookActivity" android:theme="@style/Magic.Gallery.Theme.NoTitleSearchLook" android:windowSoftInputMode="adjustPan"/>
+        <activity android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize" android:exported="true" android:name="com.miui.gallery.magic.matting.MattingActivity" android:resizeableActivity="false"/>
+        <activity android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize" android:exported="true" android:name="com.miui.gallery.magic.special.effects.image.SpecialEffectsActivity"/>
+        <activity android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize" android:exported="true" android:name="com.miui.gallery.magic.special.effects.image.SpecialEffectsGuideActivity"/>
+        <activity android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:name="com.miui.gallery.magic.special.effects.video.VideoEffectsActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize" android:exported="true" android:name="com.miui.gallery.magic.special.effects.video.VideoEffectsGuideActivity" android:resizeableActivity="false" android:screenOrientation="user"/>
+        <activity android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize" android:exported="true" android:name="com.miui.gallery.magic.special.effects.video.VideoCutActivity" android:resizeableActivity="false" android:screenOrientation="user"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:name="com.miui.gallery.movie.ui.activity.MovieActivity" android:resizeableActivity="true" android:screenOrientation="user" android:theme="@style/MovieThemeStarter">
+            <intent-filter>
+                <action android:name="com.miui.gallery.editor.intent.action.MOVIE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="com.miui.gallery.vlog.VlogActivity" android:screenOrientation="user" android:theme="@style/Gallery.Theme.Vlog" android:windowSoftInputMode="adjustNothing|stateAlwaysHidden"/>
+        <activity android:configChanges="keyboardHidden|layoutDirection|orientation|screenSize" android:exported="true" android:name="com.miui.gallery.vlog.match.vlog.rule.VlogTemplateMatchActivity" android:theme="@style/Theme.NoTitle.Transparent">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="com.miui.mediaeditor.VLOG_SELECT_TEMPLATE"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|layoutDirection|orientation|screenSize" android:exported="true" android:name="com.miui.gallery.video.editor.activity.VideoEditorActivity" android:theme="@style/Theme.NoTitle.Transparent" android:windowSoftInputMode="adjustNothing|stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.EDIT"/>
+                <data android:mimeType="video/*" android:scheme="file"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.miui.gallery.intent.action.EDIT"/>
+                <data android:mimeType="video/*" android:scheme="file"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:exported="true" android:hardwareAccelerated="true" android:name="com.miui.gallery.collage.CollageActivity" android:resizeableActivity="false" android:screenOrientation="user" android:theme="@style/CollageTheme" android:windowSoftInputMode="adjustNothing"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name="com.miui.mediaeditor.base.PermissionGuideActivity" android:screenOrientation="behind" android:theme="@style/StoragePermissionCheckTheme" android:windowSoftInputMode="adjustNothing"/>
+        <meta-data android:name="hybrid" android:value="1.0"/>
+        <meta-data android:name="miuixpreference" android:value="1.0"/>
+        <meta-data android:name="appcompat" android:value="1.0"/>
+        <meta-data android:name="springback" android:value="2.0"/>
+        <meta-data android:name="recyclerview" android:value="2.0"/>
+        <meta-data android:name="miuixbasewidget" android:value="1.0"/>
+        <meta-data android:name="popupwidget" android:value="1.0"/>
+        <meta-data android:name="androidbasewidget" android:value="1.0"/>
+        <meta-data android:name="miuixstretchablewidget" android:value="1.0"/>
+        <meta-data android:name="pickerwidget" android:value="1.0"/>
+        <meta-data android:name="slidingwidget" android:value="1.0"/>
+        <meta-data android:name="nest" android:value="2.0"/>
+        <meta-data android:name="dynamicoverscroller" android:value="2.0"/>
+        <meta-data android:name="recyclerview_animator" android:value="2.0"/>
+        <meta-data android:name="folme" android:value="2.0"/>
+        <meta-data android:name="animation" android:value="1.0"/>
+        <meta-data android:name="com.miui.bugreport.DEFAULT_LOG_DIR" android:resource="@xml/default_log_paths"/>
+        <receiver android:exported="true" android:name="miui.settings.commonlib.ApplicationReceiverStub">
+            <intent-filter>
+                <action android:name="miui.intent.action.RESTART_APP_STUB"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="viewpager" android:value="2.0"/>
+        <service android:directBootAware="false" android:enabled="@bool/enable_system_alarm_service_default" android:exported="false" android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"/>
+        <service android:directBootAware="false" android:enabled="@bool/enable_system_job_service_default" android:exported="true" android:name="androidx.work.impl.background.systemjob.SystemJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:directBootAware="false" android:enabled="@bool/enable_system_foreground_service_default" android:exported="false" android:name="androidx.work.impl.foreground.SystemForegroundService"/>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="false" android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"/>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy">
+            <intent-filter>
+                <action android:name="android.intent.action.BATTERY_OKAY"/>
+                <action android:name="android.intent.action.BATTERY_LOW"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy">
+            <intent-filter>
+                <action android:name="android.intent.action.DEVICE_STORAGE_LOW"/>
+                <action android:name="android.intent.action.DEVICE_STORAGE_OK"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="@bool/enable_system_alarm_service_default" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver">
+            <intent-filter>
+                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="true" android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver" android:permission="android.permission.DUMP">
+            <intent-filter>
+                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS"/>
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="haptic" android:value="1.0"/>
+        <meta-data android:name="graphics" android:value="2.0"/>
+        <meta-data android:name="pinyin" android:value="1.0"/>
+        <meta-data android:name="textutilities" android:value="2.0"/>
+        <meta-data android:name="core" android:value="2.0"/>
+        <service android:directBootAware="true" android:exported="false" android:name="androidx.room.MultiInstanceInvalidationService"/>
+        <meta-data android:name="cardview" android:value="1.0"/>
+        <meta-data android:name="spring" android:value="1.0"/>
+        <provider android:authorities="com.miui.mediaeditor.lifecycle-process" android:exported="false" android:multiprocess="true" android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"/>
+        <meta-data android:name="smooth" android:value="1.0"/>
+        <provider android:authorities="com.miui.mediaeditor.appctxinitprovider" android:directBootAware="true" android:exported="false" android:initOrder="900" android:name="splitties.init.AppCtxInitProvider"/>
+        <meta-data android:name="devicebaseinfo" android:value="1.0"/>
+        <meta-data android:name="blurdrawable" android:value="1.0"/>
+    </application>
+</manifest>

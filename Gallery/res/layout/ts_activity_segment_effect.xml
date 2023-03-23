@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/segmentProgressBar" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <SeekBar android:id="@id/playerProgressBar" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/statusInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="statusInfo" />
+        <Button android:id="@id/btnColorEdge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="btnColorEdge" />
+        <Button android:id="@id/btnWaveSwept" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="btnWaveSwept" />
+        <Button android:id="@id/btnSFlow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="btnSFlow" />
+        <Button android:id="@id/btnDFlow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="btnDFlow" />
+        <Button android:id="@id/btnBlingEdge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="btnBlingEdge" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/btnDotEdge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="statusInfo" />
+        <Button android:id="@id/btnEffectWipe" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="btnColorEdge" />
+        <Button android:id="@id/btnEffectPlay" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="btnWaveSwept" />
+        <Button android:id="@id/btnColorTail" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="btnSFlow" />
+        <Button android:id="@id/btnLineTail" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="btnDFlow" />
+        <Button android:id="@id/btnSingleTail" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="btnBlingEdge" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/funcLine" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ImageView android:id="@id/cover" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <SurfaceView android:id="@id/player" android:layout_width="fill_parent" android:layout_height="200.0dip" />
+</LinearLayout>

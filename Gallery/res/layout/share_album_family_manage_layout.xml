@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/frame_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/share_album_home_text_tip_margin_bottom" android:layout_marginStart="@dimen/share_album_home_text_tip_margin_startend" android:layout_marginEnd="@dimen/share_album_home_text_tip_margin_startend" layout="@layout/text_tip_preference_layout" />
+    <miuix.springback.view.SpringBackLayout android:id="@android:id/list_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/share_album_home_manage_pref_margin_start_and_end" android:layout_marginEnd="@dimen/share_album_home_manage_pref_margin_start_and_end" app:scrollOrientation="angle|vertical" />
+</LinearLayout>

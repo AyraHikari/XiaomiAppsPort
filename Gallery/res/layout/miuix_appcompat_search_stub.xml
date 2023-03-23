@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.blurdrawable.widget.MiBlurBackgroundView android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:clickable="false" android:layout_width="fill_parent" android:layout_height="@dimen/miuix_appcompat_search_view_default_height" style="@style/Widget.SearchActionMode">
+        <LinearLayout android:id="@android:id/inputArea" android:background="?miuixAppcompatSearchModeEditTextBackground" android:layout_width="fill_parent" android:layout_height="@dimen/miuix_appcompat_searchbar_bg_height" android:forceDarkAllowed="false">
+            <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?miuixAppcompatEditTextSearchIcon" android:scaleType="centerInside" android:paddingStart="@dimen/miuix_appcompat_edit_text_search_bg_icon_padding_start" android:paddingEnd="@dimen/miuix_appcompat_edit_text_search_bg_icon_padding_end" />
+            <TextView android:gravity="start|center" android:layout_gravity="center_vertical" android:id="@android:id/input" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:contentDescription="@string/miuix_appcompat_search_input_description" android:textDirection="locale" style="@style/Miuix.AppCompat.TextAppearance.Widget.EditText.Search" />
+        </LinearLayout>
+    </FrameLayout>
+</miuix.blurdrawable.widget.MiBlurBackgroundView>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="bottom" android:id="@id/item_root" android:clipChildren="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="@dimen/movie_audio_margin_top" android:layout_marginBottom="@dimen/movie_audio_margin_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="@dimen/movie_template_item_width" android:layout_height="@dimen/movie_template_item_width">
+        <com.miui.gallery.movie.ui.view.MovieRoundImageView android:id="@id/item_iv" android:background="@drawable/movie_video_audio_item_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+        <ImageView android:id="@id/item_iv_add" android:background="@drawable/movie_video_audio_item_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/movie_video_edit_add" android:scaleType="center" android:contentDescription="@string/movie_content_describe_add" />
+    </RelativeLayout>
+    <View android:id="@id/iv_selected" android:background="@drawable/movie_audio_select" android:layout_width="@dimen/movie_template_item_width" android:layout_height="@dimen/movie_template_item_width" />
+</RelativeLayout>

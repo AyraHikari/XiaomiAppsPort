@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/id_bottom_control" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/rl_magic_body_image" android:layout_width="fill_parent" android:layout_height="@dimen/magic_px_100" android:layout_marginLeft="@dimen/magic_margin_80" android:layout_marginRight="@dimen/magic_margin_80" android:layout_marginBottom="@dimen/rl_magic_body_image_margin_bottom">
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/magic_body_image" android:layout_width="fill_parent" android:layout_height="@dimen/magic_body_image_height" android:layout_centerInParent="true" />
+                <com.miui.gallery.magic.widget.VideoSpecialProgress android:id="@id/magic_video_progress" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            </RelativeLayout>
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/magic_10px" android:layout_marginBottom="@dimen/magic_px_50" android:layout_weight="1.0" android:layout_below="@id/rl_magic_body_image">
+                <com.miui.gallery.magic.widget.scroll.SimpleRecyclerViewMiuix android:id="@id/magic_video_recyclerview" android:background="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <com.miui.gallery.magic.widget.scroll.SimpleRecyclerViewMiuix android:id="@id/srl_video_music" android:background="@color/black" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </RelativeLayout>
+        </LinearLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/magic_video_hint_top_padding">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/ll_video_long_hint" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/magic_text_size_36" android:textColor="@color/black" android:ellipsize="end" android:gravity="center" android:id="@id/tv_video_long_hint" android:background="@drawable/shape_bg_video_hint" android:layout_width="wrap_content" android:layout_height="@dimen/magic_px_100" android:layout_marginTop="@dimen/magic_video_hint_start_padding" android:maxWidth="@dimen/magic_px_450" android:minWidth="@dimen/magic_px_240" android:text="@string/magic_video_long_press" android:maxLines="1" android:paddingStart="@dimen/magic_px_48" android:paddingEnd="@dimen/magic_px_48" style="@style/magic_style_medium" />
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/shape_bg_video_hint_tag" />
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+    <RadioGroup android:gravity="center" android:orientation="horizontal" android:id="@id/magic_tab_radio_group" android:layout_width="fill_parent" android:layout_height="@dimen/magic_tab_radio_height">
+        <RadioButton android:id="@id/magic_video_effect" android:checked="true" android:text="@string/magic_effect" style="@style/magic_tab_radio_btn" />
+        <RadioButton android:id="@id/magic_video_soundtrack" android:text="@string/magic_video_soundtrack" style="@style/magic_tab_radio_btn" />
+    </RadioGroup>
+</LinearLayout>

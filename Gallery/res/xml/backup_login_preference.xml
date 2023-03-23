@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="root"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/auto_download_title" android:key="recommend_category">
+        <CheckBoxPreference android:persistent="false" android:title="@string/auto_download_media_title" android:key="auto_download_media" android:defaultValue="true" />
+        <miuix.preference.RadioButtonPreference android:layout="@layout/miuix_preference_radiobutton_two_state_background" android:checked="true" android:title="@string/download_type_thumbnail_title" android:key="download_thumbnail" android:summary="@string/download_type_thumbnail_subtitle" android:dependency="auto_download_media" />
+        <miuix.preference.RadioButtonPreference android:layout="@layout/miuix_preference_radiobutton_two_state_background" android:title="@string/download_type_origin_title" android:key="download_origin" android:summary="@string/download_type_origin_subtitle_china" android:dependency="auto_download_media" />
+    </PreferenceCategory>
+    <CheckBoxPreference android:persistent="false" android:title="@string/ai_album_setting_title" android:key="cloud_ai_album_status" android:summary="@string/ai_album_setting_sub_title" android:defaultValue="true" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/enable_face_album_title" android:key="cloud_face_local_status" android:summary="@string/enable_face_album_summary" android:defaultValue="false" />
+</PreferenceScreen>

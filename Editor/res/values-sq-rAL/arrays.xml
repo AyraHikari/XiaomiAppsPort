@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>E bardhë</item>
+        <item>BLU e erret</item>
+        <item>Blu e lehtë</item>
+        <item>E kuqe</item>
+        <item>Jeshile</item>
+        <item>Rozë</item>
+        <item>Bojë kafe</item>
+        <item>Gri</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Zgjidh imazhë</item>
+        <item>Sfond transparent</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Argëtim</item>
+        <item>Fllad</item>
+        <item>Endërra</item>
+        <item>Retë</item>
+        <item>Mendime</item>
+        <item>Buds</item>
+        <item>Metamorfozë</item>
+        <item>Thellesi</item>
+        <item>Pasqyrime</item>
+        <item>Minimalist</item>
+        <item>Mister</item>
+        <item>Mjegull</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Sfondi gjeometrik futuristik</item>
+        <item>Atmosfera e printimeve të vjetra master</item>
+        <item>Ktheni sfondet në skica</item>
+        <item>Sfondet e stilit të akuarelit</item>
+        <item>Retro Cyberpunk</item>
+        <item>Segmente vertikale të gabuara</item>
+        <item>Turbullira e mjegullt</item>
+        <item>Ndjenjë futuristike</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Poli i ulët</item>
+        <item>Gdhendje</item>
+        <item>Skicë</item>
+        <item>Akuarel</item>
+        <item>RGB</item>
+        <item>Grila</item>
+        <item>Dritare e mjegullt</item>
+        <item>Teknologji</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Skicë me ngjyra</item>
+        <item>Skicë e ndërprerë</item>
+        <item>Skicë fluoreshente</item>
+        <item>Hije me ngjyra</item>
+        <item>Valë elektrike</item>
+        <item>Aktual</item>
+        <item>Valë</item>
+        <item>Grimcat</item>
+        <item>Tekst</item>
+        <item>Krahët</item>
+        <item>Engjëll</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Two cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+</resources>

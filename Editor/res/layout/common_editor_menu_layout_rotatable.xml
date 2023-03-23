@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/menu_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@id/top_guide_line" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_end="@dimen/editor_top_guide_line_end" />
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@id/content_guide_line" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_end="@dimen/editor_content_guide_line_end" />
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@id/bottom_guide_line" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_end="@dimen/editor_confirm_guide_line_end" />
+    <FrameLayout android:id="@id/layout_top_area" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="@id/top_guide_line" app:layout_constraintTop_toTopOf="parent" />
+    <FrameLayout android:id="@id/layout_content_area" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="@id/content_guide_line" app:layout_constraintTop_toTopOf="@id/top_guide_line" />
+    <FrameLayout android:id="@id/layout_bottom_area" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="@id/bottom_guide_line" app:layout_constraintTop_toTopOf="@id/content_guide_line" />
+</androidx.constraintlayout.widget.ConstraintLayout>

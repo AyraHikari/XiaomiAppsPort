@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/search_list_item_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/search_suggestion_no_result_algorithm" android:textColor="@color/navigation_section_header_text_color" android:ellipsize="middle" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/search_section_item_top_margin" android:layout_marginBottom="@dimen/search_section_item_bottom_margin" android:layout_marginStart="@dimen/default_suggestion_start_margin" android:layout_marginEnd="@dimen/search_navigation_horizontal_margin" style="@style/Gallery.TextAppearance.Search.List.Secondary" />
+</LinearLayout>

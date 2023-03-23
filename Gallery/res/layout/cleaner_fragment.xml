@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:id="@id/content" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollableView="@id/scrolling_layout" app:springBackMode="bottom">
+        <com.miui.gallery.widget.GalleryPullZoomLayout android:id="@id/scrolling_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:gpzl_contentView="@id/recycler_view" app:gpzl_headerView="@id/face_header_item" app:gpzl_zoomableView="@id/cleaner_progress_view">
+            <include android:id="@id/face_header_item" layout="@layout/cleaner_header_layout" />
+            <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/recycler_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never" android:layout_marginStart="@dimen/cleaner_item_content_margin" android:layout_marginEnd="@dimen/cleaner_item_content_margin" />
+        </com.miui.gallery.widget.GalleryPullZoomLayout>
+    </miuix.springback.view.SpringBackLayout>
+    <View android:id="@id/intercept_cover" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/cleaner_scan_title" />
+    <include layout="@layout/cleaner_action_layout" />
+</FrameLayout>

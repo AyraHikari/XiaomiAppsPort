@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/passport_login_page_padding_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="locale">
+        <TextView android:textSize="12.0sp" android:textColor="@color/passport_sns_other_way_title" android:id="@id/tv_other_login_way" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/login_with_sns" android:layout_centerHorizontal="true" />
+        <View android:background="@color/passport_sns_login_title_divider" android:layout_width="fill_parent" android:layout_height="@dimen/passport_sns_login_divider_height" android:layout_centerVertical="true" android:layout_marginStart="27.0dip" android:layout_marginEnd="16.0dip" android:layout_toStartOf="@id/tv_other_login_way" android:layout_alignParentStart="true" />
+        <View android:background="@color/passport_sns_login_title_divider" android:layout_width="fill_parent" android:layout_height="@dimen/passport_sns_login_divider_height" android:layout_centerVertical="true" android:layout_marginStart="16.0dip" android:layout_marginEnd="27.0dip" android:layout_toEndOf="@id/tv_other_login_way" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/sns_list_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="30.0dip">
+        <ImageView android:id="@id/sdk_facebook_auth" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/passport_ic_sns_facebook" android:scaleType="fitCenter" android:layout_weight="1.0" android:contentDescription="@string/facebook_login_btn_content_description" />
+        <ImageView android:id="@id/sdk_google_auth" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/passport_ic_sns_google" android:scaleType="fitCenter" android:layout_weight="1.0" android:contentDescription="@string/google_login_btn_content_description" />
+        <ImageView android:id="@id/sdk_weibo_auth" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/passport_ic_sns_weibo" android:scaleType="fitCenter" android:layout_weight="1.0" android:contentDescription="@string/weibo_login_btn_content_description" />
+        <ImageView android:id="@id/sdk_qq_auth" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/passport_ic_sns_qq" android:scaleType="fitCenter" android:layout_weight="1.0" android:contentDescription="@string/qq_login_btn_content_description" />
+        <ImageView android:id="@id/sdk_wechat_auth" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/passport_ic_sns_wechat" android:scaleType="fitCenter" android:layout_weight="1.0" android:contentDescription="@string/weixin_login_btn_content_description" />
+    </LinearLayout>
+</LinearLayout>

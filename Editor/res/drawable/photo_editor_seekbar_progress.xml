@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background" android:height="@dimen/editor_seek_bar_progress_height" android:left="0.0dip" android:top="@dimen/editor_seek_bar_progress_top" android:right="0.0dip">
+        <shape>
+            <solid android:color="#ffe6e6e6" />
+            <corners android:radius="@dimen/editor_seek_bar_progress_corners" />
+        </shape>
+    </item>
+    <item android:id="@android:id/progress" android:height="@dimen/editor_seek_bar_progress_height" android:left="0.0dip" android:top="@dimen/editor_seek_bar_progress_top" android:right="0.0dip">
+        <clip>
+            <shape>
+                <corners android:radius="@dimen/editor_seek_bar_progress_corners" />
+                <solid android:color="#ff00a1fb" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

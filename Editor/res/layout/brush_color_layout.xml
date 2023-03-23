@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="@dimen/screen_color_popwin_width" android:layout_height="@dimen/screen_color_popwin_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.editor.photo.penengine.ColorPickView android:layout_gravity="center" android:id="@id/color_pick" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="@dimen/screen_color_pick_view_width" android:layout_height="@dimen/screen_color_pick_view_height" />
+</FrameLayout>

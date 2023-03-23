@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="horizontal" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_gravity="center|top"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="start|center" android:id="@id/back" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/gallery_hybrid_margin_layout_left_right" android:onClick="onClickBackButton" android:contentDescription="@string/back">
+        <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.819977dip" android:src="@drawable/ic_action_bar_back" android:layout_marginStart="0.36dip" />
+    </FrameLayout>
+    <TextView android:layout_gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_marginEnd="12.72998dip" style="@style/Miuix.AppCompat.TextAppearance.WindowTitle" />
+    <FrameLayout android:layout_gravity="end|center" android:id="@id/more" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="@dimen/gallery_hybrid_margin_layout_left_right" android:onClick="onClickMoreButton" android:contentDescription="@string/more">
+        <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.1799927dip" android:src="@drawable/ic_action_bar_more" android:layout_marginStart="10.0dip" android:layout_marginEnd="17.819977dip" />
+    </FrameLayout>
+</FrameLayout>

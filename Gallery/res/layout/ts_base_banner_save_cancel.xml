@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/banner" android:background="#00000000" android:layout_width="fill_parent" android:layout_height="@dimen/magic_top_bar" android:layout_alignParentTop="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_gravity="start|center" android:id="@id/idp_se_cancel" android:text="@string/magic_cancel" android:onClick="onClick" android:layout_marginStart="@dimen/magic_effects_text_layout_margin_11" style="@style/magic_action_bar_text" />
+    <TextView android:layout_gravity="end|center" android:id="@id/idp_se_save" android:text="@string/magic_save" android:onClick="onClick" android:layout_marginEnd="@dimen/magic_effects_text_layout_margin_11" style="@style/magic_action_bar_text" />
+</FrameLayout>

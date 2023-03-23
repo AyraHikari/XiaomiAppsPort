@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/bg_white" />
+    <corners android:topLeftRadius="@dimen/vlog_clip_white_line_bg_radius" android:topRightRadius="@dimen/vlog_clip_white_line_bg_radius" android:bottomLeftRadius="@dimen/vlog_clip_white_line_bg_radius" android:bottomRightRadius="@dimen/vlog_clip_white_line_bg_radius" />
+    <stroke android:width="@dimen/vlog_clip_white_line_bg_width" android:color="@color/bg_white" />
+</shape>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:layout_width="60.0dip" android:layout_height="81.5dip">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/vlog_template_corner_radius" />
+            <solid android:color="@color/vlog_tempalte_default_bg_color" />
+        </shape>
+    </item>
+</layer-list>

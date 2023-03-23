@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miplay_ic_play_pause_size" android:width="@dimen/miplay_ic_play_pause_size" android:viewportWidth="74.0" android:viewportHeight="74.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M51.678,30.1541C55.4162,32.4145 57.2853,33.5446 57.9207,35.0034C58.4753,36.2767 58.4753,37.7233 57.9207,38.9966C57.2853,40.4554 55.4162,41.5855 51.678,43.8459L32.1394,55.6599C28.1681,58.0611 26.1825,59.2617 24.5478,59.1133C23.1226,58.9839 21.821,58.2499 20.9728,57.0972C20,55.7752 20,53.4548 20,48.8141L20,25.1859C20,20.5452 20,18.2248 20.9728,16.9028C21.821,15.7501 23.1226,15.0161 24.5478,14.8867C26.1825,14.7383 28.1681,15.9389 32.1394,18.3401L51.678,30.1541Z" android:strokeAlpha="0.9" android:fillAlpha="0.9" android:fillType="evenOdd" />
+</vector>

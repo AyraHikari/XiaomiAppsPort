@@ -1,0 +1,34 @@
+.class public final synthetic Lcom/miui/gallery/search/resultpage/SearchResultFragment$$ExternalSyntheticLambda0;
+.super Ljava/lang/Object;
+.source "R8$$SyntheticClass"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# instance fields
+.field public final synthetic f$0:Lcom/miui/gallery/search/resultpage/SearchResultFragment;
+
+
+# direct methods
+.method public synthetic constructor <init>(Lcom/miui/gallery/search/resultpage/SearchResultFragment;)V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lcom/miui/gallery/search/resultpage/SearchResultFragment$$ExternalSyntheticLambda0;->f$0:Lcom/miui/gallery/search/resultpage/SearchResultFragment;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final run()V
+    .locals 1
+
+    iget-object v0, p0, Lcom/miui/gallery/search/resultpage/SearchResultFragment$$ExternalSyntheticLambda0;->f$0:Lcom/miui/gallery/search/resultpage/SearchResultFragment;
+
+    invoke-static {v0}, Lcom/miui/gallery/search/resultpage/SearchResultFragment;->$r8$lambda$VJ7ntQ0zMi3ZGIeufmBvE8eG0l4(Lcom/miui/gallery/search/resultpage/SearchResultFragment;)V
+
+    return-void
+.end method

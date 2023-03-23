@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="@dimen/ai_beauty_menu_item_size" android:layout_height="@dimen/ai_beauty_menu_item_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.editor.ui.view.RoundImageView android:id="@id/preview" android:layout_width="@dimen/ai_beauty_menu_item_size" android:layout_height="@dimen/ai_beauty_menu_item_size" android:scaleType="centerCrop" android:layout_alignParentBottom="true" />
+    <com.miui.gallery.editor.ui.view.RoundImageView android:id="@id/selector" android:layout_width="@dimen/ai_beauty_menu_item_size" android:layout_height="@dimen/ai_beauty_menu_item_size" android:foreground="@drawable/sel_filter_menu_item_selected" android:src="@color/filter_item_selected_forebackground_color" android:scaleType="centerCrop" android:layout_alignParentBottom="true" />
+    <TextView android:textSize="@dimen/ai_beauty_menu_item_title_text_size" android:textColor="@color/filter_item_title_color" android:ellipsize="marquee" android:gravity="center" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="@dimen/ai_beauty_menu_item_title_height" android:layout_marginBottom="@dimen/ai_beauty_menu_item_title_margin_bottom" android:singleLine="true" android:shadowColor="@color/text_shadow" android:shadowDy="2.0" android:layout_alignBottom="@id/preview" android:fontFamily="MiSans" android:fallbackLineSpacing="false" />
+    <com.airbnb.lottie.LottieAnimationView android:id="@id/configable_indicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:contentDescription="@null" />
+</RelativeLayout>

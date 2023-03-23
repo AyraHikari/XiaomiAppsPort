@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/indicator" android:background="@drawable/screen_tool_indicator_bg" android:layout_width="@dimen/screen_tool_indicator_size" android:layout_height="@dimen/screen_tool_indicator_size" android:layout_marginTop="@dimen/screen_tool_indicator_margin_top" />
+    <ImageView android:id="@id/tool" android:layout_width="@dimen/screen_tool_item_width" android:layout_height="@dimen/screen_tool_item_height" android:layout_marginTop="@dimen/screen_editor_tool_empty_height" android:translationY="@dimen/screen_tool_select_tran_y" />
+</merge>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:focusable="true" android:focusableInTouchMode="true" android:descendantFocusability="blocksDescendants" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/chooser_icon" android:layout_width="@dimen/chooser_item_cell_icon_width" android:layout_height="@dimen/chooser_item_cell_icon_height" android:scaleType="centerCrop" android:importantForAccessibility="no"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.IconDesc.Light" android:gravity="center_horizontal" android:id="@id/chooser_text" android:layout_width="@dimen/chooser_item_cell_text_width" android:layout_height="wrap_content" android:layout_marginTop="@dimen/chooser_item_text_margin_top" />
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="end" android:id="@id/hint_text" android:background="@drawable/search_banner_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lines="1" android:drawableEnd="@null" android:importantForAccessibility="no" android:layout_marginEnd="@dimen/horizontal_spacing_primary" style="@style/Gallery.Widget.EditText.Search" />
+</LinearLayout>

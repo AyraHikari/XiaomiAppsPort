@@ -1,0 +1,33 @@
+{
+    "themes": [
+        {
+            "package": "com.nexstreaming.kinemaster.basic.20150618012503.kmt", 
+            "optional_dependencies": [
+                "basic_preview.ce2fe2ce32cdacf37f351821ac8a4e4010db92f7.mp4"
+            ], 
+            "package_type": "kedl", 
+            "id": "com.nexstreaming.kinemaster.basic", 
+            "thumbnail": "theme_thumb_basic.2363dfa9edfa0aa63622c58d1ca0ef52ece7e8f5.png", 
+            "version": "20150618012503", 
+            "dependencies": [
+                "theme_thumb_basic.2363dfa9edfa0aa63622c58d1ca0ef52ece7e8f5.png", 
+                "theme_ending.1507d5580d59e8e39c6354e88c15528008a43cb2.png", 
+                "theme_middle.2f622c84453e17250a5f9987399746e16f4728b2.png", 
+                "theme_transition.73581fa2613f9fc41e429054a5823cf8acc2aa24.png", 
+                "theme_accent.fdbd63c72de84e818b4cd92c1995c6ab01ca68d9.png", 
+                "theme_open.f490db68350053279d4a86130ecf519b4a95c66e.png"
+            ], 
+            "package_date": 735767, 
+            "preview": "basic_preview.ce2fe2ce32cdacf37f351821ac8a4e4010db92f7.mp4", 
+            "strings": {
+                "name": {
+                    "en-us": "Basic"
+                }, 
+                "desc": {
+                    "en-us": "A very simple theme using cross-fades between clips and plain title text."
+                }
+            }
+        }
+    ], 
+    "effects": []
+}

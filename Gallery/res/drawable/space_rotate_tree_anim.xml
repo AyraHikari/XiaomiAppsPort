@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="30" android:drawable="@drawable/tree_frame_01" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_02" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_03" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_04" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_05" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_06" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_07" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_08" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_09" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_10" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_11" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_12" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_13" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_14" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_15" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_16" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_17" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_18" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_19" />
+    <item android:duration="30" android:drawable="@drawable/tree_frame_20" />
+</animation-list>

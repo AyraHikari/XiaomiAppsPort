@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.GalleryPreferenceCategory android:title="@string/share_album_home_pref_cate_name">
+        <com.miui.gallery.share.ShareAlbumSwitchHomePreference android:key="share_album_select_home" />
+    </com.miui.gallery.widget.GalleryPreferenceCategory>
+</PreferenceScreen>

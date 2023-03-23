@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="400.0dip" android:width="600.0dip" android:viewportWidth="600.0" android:viewportHeight="400.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group>
+        <clip-path android:pathData="M48 0H552C578.51 0 600 21.4903 600 48V352C600 378.51 578.51 400 552 400H48C21.4903 400 0 378.51 0 352V48C0 21.4903 21.4903 0 48 0Z" />
+        <group android:pivotX="300.0" android:pivotY="200.0" android:scaleX="2.0" android:scaleY="2.0" android:rotation="90.0" android:translateX="1.0" android:translateY="0.0">
+            <path android:fillColor="@drawable/$magic_mani_btn2__0" android:pathData="M0 0V400H600V0" />
+        </group>
+    </group>
+</vector>

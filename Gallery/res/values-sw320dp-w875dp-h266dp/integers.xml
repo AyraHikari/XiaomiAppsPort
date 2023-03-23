@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="search_navigation_category_item_count">7</integer>
+    <integer name="search_navigation_location_item_count">7</integer>
+    <integer name="search_navigation_people_column_count">8</integer>
+    <integer name="search_navigation_people_item_count">7</integer>
+</resources>

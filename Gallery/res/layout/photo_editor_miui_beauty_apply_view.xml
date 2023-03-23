@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.editor.photo.widgets.CommonBottomMenuWithUndo android:id="@id/bottom_bar" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/common_editor_menu_apply_layout" />
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginTop="@dimen/common_menu_bottom_bar_undo_margin_top" android:layout_weight="1.0">
+        <ImageView android:id="@id/undo" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/editor_menu_undo" android:contentDescription="@string/photo_editor_talkback_undo" android:paddingStart="@dimen/menu_redo_btn_margin_left" android:paddingEnd="@dimen/menu_undo_btn_margin_right" />
+        <ImageView android:id="@id/redo" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/editor_menu_redo" android:contentDescription="@string/photo_editor_talkback_redo" android:paddingStart="@dimen/menu_redo_btn_margin_left" android:paddingEnd="@dimen/menu_undo_btn_margin_right" />
+    </LinearLayout>
+</com.miui.gallery.editor.photo.widgets.CommonBottomMenuWithUndo>

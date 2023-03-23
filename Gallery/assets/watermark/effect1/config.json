@@ -1,0 +1,42 @@
+{
+  "name": "effect1",
+  "talkbackName": "@string/text_item_type_talkback_bubble_watermark_1",
+  "version": 0,
+  "width": 207.27,
+  "height": 137.45,
+  "offsetX": 120,
+  "offsetY": 97,
+  "icon": "icon.png",
+  "textPieceList": [
+    {
+      "frameRect": [
+        15.27,
+        15.27,
+        118.91,
+        89.36
+      ],
+      "text": "永远相信\n美好的事情\n即将发生",
+      "size": 20.36,
+      "minSize": 20.36,
+      "isVerticalText": 0,
+      "font": "",
+      "align": 0,
+      "letterSpacing": 0.01,
+      "lines": 3
+    },
+    {
+      "frameRect": [
+        15.27,
+        93.73,
+        192,
+        119.58
+      ],
+      "text": "Always believe that something wonderful\nis about to happen",
+      "size": 9.09,
+      "isVerticalText": 0,
+      "font": "",
+      "align": 0,
+      "letterSpacing": 0.05
+    }
+  ]
+}

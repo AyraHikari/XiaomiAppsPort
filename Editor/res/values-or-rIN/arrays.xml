@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>ଧଳା</item>
+        <item>ଗାଢ଼ ନୀଳ</item>
+        <item>ହାଲୁକା ନୀଳ</item>
+        <item>ନାଲି</item>
+        <item>ସବୁଜ</item>
+        <item>ଗୋଲାପି</item>
+        <item>ବାଦାମି</item>
+        <item>ଧୂସର</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>ଇମେଜ ଚୟନ କରନ୍ତୁ</item>
+        <item>ଟ୍ରାନ୍ସପେରେଣ୍ଟ ପୃଷ୍ଠଭୂମି</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>ଲିଜର୍</item>
+        <item>ବ୍ରିଜ୍</item>
+        <item>ଡ୍ରିମ୍</item>
+        <item>କ୍ଲାଉଡ୍</item>
+        <item>ଭାବନା</item>
+        <item>କଢ଼ି</item>
+        <item>ମେଟାମୋରଫୋସିସ୍</item>
+        <item>ଡେପ୍ଥ</item>
+        <item>ରିଫ୍ଲେକ୍ସନ</item>
+        <item>ମିନିମାଲିଷ୍ଟ</item>
+        <item>ରହସ୍ୟ</item>
+        <item>କୁହୁଡ଼ି</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>ଫ୍ୟୁଚରିଷ୍ଟିକ ଜ୍ୟାମିତିକ ପୃଷ୍ଠଭୂମି</item>
+        <item>ପୁରୁଣା ମାଷ୍ଟର ପ୍ରିଣ୍ଟର ଆଟମୋସସ୍ଫିଅର</item>
+        <item>ପୃଷ୍ଠଭୂମିକୁ ସ୍କେଚରେ ପରିବର୍ତ୍ତନ କରନ୍ତୁ</item>
+        <item>ୱାଟରକଲର୍ ଷ୍ଟାଇଲ୍ ପୃଷ୍ଠଭୂମି</item>
+        <item>ସାଇବରପଙ୍କ୍ ରିଟ୍ରୋ</item>
+        <item>ମିସପ୍ଲେସ୍ ହୋଇଥିବା ଭାର୍ଟିକାଲ ସେଗମେଣ୍ଟ</item>
+        <item>ହେଜି ବ୍ଲର୍</item>
+        <item>ଫ୍ୟୁଚରିଷ୍ଟିକ୍ ଅନୁଭବ</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>କମ ପଲି</item>
+        <item>ଏଚିଂ</item>
+        <item>ସ୍କେଚ୍</item>
+        <item>ୱାଟରକଲର୍</item>
+        <item>RGB</item>
+        <item>ବ୍ଲାଇଣ୍ଡ</item>
+        <item>କୁହୁଡ଼ିଆ ଝରକା</item>
+        <item>ଟେକ୍</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>କଲର୍ ହୋଇଥିବା ଆଉଟଲାଇନ୍</item>
+        <item>ଡାସ୍ଡ ଆଉଟଲାଇନ୍</item>
+        <item>ଫ୍ଲୁରୋସେଣ୍ଟ ଆଉଟଲାଇନ୍</item>
+        <item>କଲର୍ ହୋଇଥିବା ସେଡୋ</item>
+        <item>ଇଲେକଟ୍ରିକ୍ ତରଙ୍ଗ</item>
+        <item>କରେଣ୍ଟ</item>
+        <item>ୱେଭ୍ସ</item>
+        <item>ପାର୍ଟିକିଲ</item>
+        <item>ଟେକ୍ସଟ୍</item>
+        <item>ୱିଙ୍ଗ୍ସ</item>
+        <item>ଏଞ୍ଜେଲ୍</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>ସାଧାରଣ</item>
+        <item>ଯାତ୍ରା</item>
+        <item>ୱାର୍କ</item>
+        <item>ଡକ୍ୟୁମେଣ୍ଟ୍</item>
+        <item>ଶିକ୍ଷା</item>
+        <item>ପରୀକ୍ଷା</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>ଗୋଟିଏ କନ୍</item>
+        <item>ଦୁଇ କନ୍</item>
+        <item>Smaller one cun</item>
+        <item>ଛୋଟ ଦୁଇ କନ୍</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>ପ୍ରାଥମିକ ଏବଂ ମାଧ୍ୟମିକ ବିଦ୍ୟାଳୟ ଶିକ୍ଷକ ସାର୍ଟିଫିକେସନ</item>
+        <item>ଶିକ୍ଷକ ସାର୍ଟିଫିକେସନ</item>
+        <item>ଡ୍ରାଇଭର ଲାଇସେନ୍ସ</item>
+        <item>ଗାଇଡ ଅନୁମତି</item>
+        <item>ଇଲେକଟ୍ରୋନିକ ଗାଇଡ ଅନୁମତି</item>
+        <item>ଜାତୀୟ ଜୁଡିସିଆଲ ପରୀକ୍ଷା</item>
+        <item>ଇଲେକଟ୍ରୋନିକ ପ୍ରଥମ-ଶ୍ରେଣୀ କନଷ୍ଟ୍ରକଟର ସାର୍ଟିଫିକେଟ</item>
+        <item>ଦ୍ୱିତୀୟ-ଶ୍ରେଣୀ କନଷ୍ଟ୍ରକଟର ସାର୍ଟିଫିକେଟ</item>
+        <item>ଜୁନିଅର ଆକାଉଣ୍ଟିଂ ଟାଇଟେଲ ପରୀକ୍ଷା</item>
+        <item>ସାର୍ଟିଫିକେଟ୍ ପ୍ରାପ୍ତ ପବ୍ଲିକ ଆକାଉଣ୍ଟେଣ୍ଟ</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା</item>
+        <item>ଭିଏତନାମ</item>
+        <item>ଜାପାନ</item>
+        <item>ହଙ୍ଗକଙ୍ଗ ଏବଂ ମାକାଉ</item>
+        <item>ଦକ୍ଷିଣ କୋରିଆ</item>
+        <item>ଥାଇଲାଣ୍ଡ (ପର୍ଯ୍ୟଟକ)</item>
+        <item>Thailand (on arrival)</item>
+        <item>ଭାରତ</item>
+        <item>ଇସ୍ରାଏଲ</item>
+        <item>ତାଇୱାନ୍‍</item>
+        <item>ମାଲେସିଆ</item>
+        <item>ନ୍ୟୁଜିଲାଣ୍ଡ</item>
+        <item>ଇଟାଲି</item>
+        <item>ଆର୍ଜେଣ୍ଟିନା</item>
+        <item>ବ୍ରାଜିଲ୍‍</item>
+        <item>ଆଇସଲ୍ୟାଣ୍ଡ</item>
+        <item>କେନିଆ</item>
+    </string-array>
+</resources>

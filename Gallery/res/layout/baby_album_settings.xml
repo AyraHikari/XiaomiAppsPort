@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.springback.view.SpringBackLayout android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollOrientation="angle|vertical" app:scrollableView="@id/gallery_setting_root"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.core.widget.NestedScrollView android:scrollbarStyle="outsideOverlay" android:id="@id/gallery_setting_root" android:layout_width="fill_parent" android:layout_height="fill_parent" android:windowActionBar="true">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingTop="@dimen/baby_setting_page_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/baby_setting_page_header_face_margin_bottom">
+                <com.miui.gallery.widget.CircleAppCompatImageView android:id="@id/go_to_setting" android:layout_width="@dimen/baby_setting_page_header_face_width" android:layout_height="@dimen/baby_setting_page_header_face_height" android:foreground="@drawable/circle_pressable_foreground" android:src="@drawable/people_face_default" android:scaleType="centerCrop" android:contentDescription="@string/baby_album_settings" />
+                <TextView android:textSize="@dimen/baby_setting_page_header_face_name_size" android:textColor="@color/highlighted_text" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/change_baby_avatar" android:background="@drawable/baby_album_change_avatar_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/baby_setting_page_header_face_name_margin" android:text="@string/change_baby_album_name" />
+            </LinearLayout>
+            <FrameLayout android:id="@android:id/list_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:layout_marginStart="@dimen/baby_setting_item_margin" android:layout_marginEnd="@dimen/baby_setting_item_margin" />
+            <Button android:gravity="center" android:layout_gravity="bottom|center" android:id="@id/finish_fill_baby" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/finish_fill_baby" android:layout_marginStart="@dimen/page_content_margin_lr" android:layout_marginEnd="@dimen/page_content_margin_lr" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</miuix.springback.view.SpringBackLayout>

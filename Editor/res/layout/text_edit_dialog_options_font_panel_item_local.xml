@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/text_edit_dialog_options_font_panel_item" android:background="@drawable/text_edit_font_background" android:layout_width="@dimen/text_edit_dialog_tab_font_item_img_width" android:layout_height="@dimen/text_edit_dialog_tab_font_item_img_width"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/iv_item_background" android:layout_width="@dimen/text_edit_dialog_tab_font_item_img_width" android:layout_height="@dimen/text_edit_dialog_tab_font_item_img_width" />
+    <TextView android:textSize="@dimen/text_edit_dialog_tab_sub_menu_font_default_size" android:gravity="center" android:layout_gravity="center" android:id="@id/tv_font_name" android:layout_width="@dimen/text_edit_dialog_tab_font_item_img_width" android:layout_height="@dimen/text_edit_dialog_tab_font_item_img_width" android:text="@string/text_edit_dialog_font_default_text" />
+</FrameLayout>

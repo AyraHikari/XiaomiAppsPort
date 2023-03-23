@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="@dimen/pic_to_pdf_top_bar_min_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/home_arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?android:homeAsUpIndicator" android:layout_centerVertical="true" android:contentDescription="@string/back" android:layout_marginStart="@dimen/pic_to_pdf_title_icon_margin_start_end" />
+    <ImageView android:id="@id/home_end" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?android:homeAsUpIndicator" android:layout_centerVertical="true" android:contentDescription="@string/back" android:layout_marginEnd="@dimen/pic_to_pdf_title_icon_margin_start_end" android:layout_alignParentEnd="true" />
+    <TextView android:ellipsize="end" android:gravity="center" android:id="@id/home_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_centerInParent="true" android:layout_marginStart="@dimen/pic_to_pdf_title_margin_start_end" android:layout_marginEnd="@dimen/pic_to_pdf_title_margin_start_end" android:layout_toStartOf="@id/home_end" android:layout_toEndOf="@id/home_arrow" style="@style/Gallery.TextAppearance.ActionMode.Title" />
+</RelativeLayout>

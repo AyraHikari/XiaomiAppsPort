@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/share_album"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <miuix.preference.TextPreference android:persistent="false" android:key="share_hint_pref" />
+    <com.miui.gallery.widget.GalleryPreferenceCategory>
+        <com.miui.gallery.share.QRPreference android:persistent="false" android:key="qr_code" />
+    </com.miui.gallery.widget.GalleryPreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,37 @@
+{
+  "background": "#ffffff",
+  "collagePositions": [
+    {
+      "position": [
+        0,
+        0.393,
+        1,
+        1
+      ]
+    }
+  ],
+  "collageModels": [
+    10
+  ],
+  "imageElementModels": [
+    {
+      "name": "img_01.png",
+      "x": 0.5,
+      "y": 0.152,
+      "width": 0.039,
+      "locationType": 3
+    }
+  ],
+  "textElementModels": [
+    {
+      "x": 0.5,
+      "y": 0.226,
+      "locationType": 3,
+      "textSize": 5,
+      "textColor": "#a6000000",
+      "letterSpace": 0.8,
+      "text": "AFTERNOON TEA",
+      "maxLength": 7
+    }
+  ]
+}

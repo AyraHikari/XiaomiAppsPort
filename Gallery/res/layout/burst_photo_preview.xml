@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pagerIndicator="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.miui.gallery.widget.PagerIndicator android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/indicator" android:layout_width="@dimen/burst_preview_pager_indicator_size" android:layout_height="@dimen/burst_preview_pager_indicator_size" android:layout_marginBottom="@dimen/burst_preview_pager_indicator_margin_bottom" pagerIndicator:circle_radius="@dimen/burst_preview_pager_indicator_radius" pagerIndicator:circle_spacing="0.0dip" pagerIndicator:selected_color="@color/burst_preview_pager_indicator_color" pagerIndicator:shown_only_one_page="true" />
+        <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/preview_view" android:layout_width="fill_parent" android:layout_height="@dimen/burst_preview_item_frame_height" />
+    </LinearLayout>
+    <FrameLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/burst_preview_action_button_size" android:layout_marginTop="@dimen/burst_preview_action_padding_top">
+        <ImageView android:layout_gravity="start" android:id="@id/discard" android:layout_width="@dimen/burst_preview_action_button_size" android:layout_height="fill_parent" android:src="@drawable/photo_editor_discard_button_selector" android:scaleType="center" android:contentDescription="@string/cancel" android:layout_marginStart="@dimen/burst_preview_action_button_left_margin" />
+        <TextView android:textSize="@dimen/burst_choice_title_size" android:textColor="@color/burst_photo_choice_title_color" android:gravity="center" android:layout_gravity="center" android:id="@id/choice_title" android:layout_width="@dimen/burst_choice_title_width" android:layout_height="fill_parent" android:fontFamily="mipro-medium" />
+        <ImageView android:enabled="false" android:layout_gravity="end" android:id="@id/save" android:layout_width="@dimen/burst_preview_action_button_size" android:layout_height="fill_parent" android:src="@drawable/photo_editor_confirm_button_selector" android:scaleType="center" android:contentDescription="@string/operation_save" android:layout_marginEnd="@dimen/burst_preview_action_button_left_margin" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_page_menu_button_width">72.0dip</dimen>
+    <dimen name="timeline_time_margin_end">20.0dip</dimen>
+</resources>

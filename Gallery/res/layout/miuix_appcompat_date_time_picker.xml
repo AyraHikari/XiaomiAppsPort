@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <miuix.pickerwidget.widget.NumberPickerGroup android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <miuix.pickerwidget.widget.NumberPicker android:id="@id/day" style="@style/Widget.DateTimePicker.Big.DayNight" />
+        <miuix.pickerwidget.widget.NumberPicker android:id="@id/hour" android:text="@string/time_picker_label_hour" style="@style/Widget.DateTimePicker" />
+        <miuix.pickerwidget.widget.NumberPicker android:id="@id/minute" android:text="@string/time_picker_label_minute" style="@style/Widget.DateTimePicker" />
+    </miuix.pickerwidget.widget.NumberPickerGroup>
+</LinearLayout>

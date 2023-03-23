@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:passport="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/double_phone_account_top_iv" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/passport_ic_account_xiaomi" android:scaleType="fitCenter" />
+        <TextView android:textColor="@color/passport_double_title" android:id="@id/tv_page_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="60.0dip" android:text="@string/phone_auto_login_register_with_local_number" />
+        <com.xiaomi.passport.ui.view.PhoneCard android:id="@id/phone_account_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" passport:card_mode="small" />
+        <com.xiaomi.passport.ui.view.PhoneCard android:id="@id/phone_account_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" passport:card_mode="small" />
+        <com.xiaomi.passport.ui.view.AgreementView android:id="@id/agreement_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" />
+        <Button android:id="@id/btn_login_other" android:layout_marginTop="32.0dip" android:text="@string/login_other" style="@style/Passport.CommonRoundButton" />
+    </LinearLayout>
+</ScrollView>

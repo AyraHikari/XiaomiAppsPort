@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Bijelo</item>
+        <item>Tamno plavo</item>
+        <item>Svijetlo plavo</item>
+        <item>Crveno</item>
+        <item>Zeleno</item>
+        <item>Ružičasto</item>
+        <item>Smeđe</item>
+        <item>Sivo</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Odaberite slike</item>
+        <item>Prozirna pozadina</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Muško</item>
+        <item>Žensko</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Poseban dan</item>
+        <item>Dan za pamćenje</item>
+        <item>Treperavi trenuci</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Godina za prste polizat</item>
+        <item>Tri obroka, četiri godišnja doba.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Pogled u svijet</item>
+        <item>Na putu</item>
+        <item>Kaleidoskop mjesta</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Raskoš jeseni</item>
+        <item>Čarobna jesen</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Dječak</item>
+        <item>Djevojčica</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Izradite sig.kopiju slika</item>
+        <item>Sinkronizirajte fotografije s cloud</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Noć za pamćenje</item>
+        <item>Nova stranica</item>
+        <item>Vatromet</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Sretna Nova godina!</item>
+        <item>Početak nove godine</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Godina majmuna</item>
+        <item>Godina pijetla</item>
+        <item>Godina psa</item>
+        <item>Godina svinje</item>
+        <item>Godina štakora</item>
+        <item>Godina bika</item>
+        <item>Godina tigra</item>
+        <item>Godina zeca</item>
+        <item>Godina zmaja</item>
+        <item>Godina zmije</item>
+        <item>Godina konja</item>
+        <item>Godina koze</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Gradski pejzaži</item>
+        <item>Ceste i raskrižja</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Nježne latice</item>
+        <item>U cvatu</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Zov divljine</item>
+        <item>Divlje i nesputano</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Naša okupljanja</item>
+        <item>U društvu prijatelja</item>
+        <item>Nije moguće da je već toliko prošlo</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Vaši omiljeni objekti</item>
+        <item>Srodne duše</item>
+        <item>Najljepši trenuci</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Zauzeti odrastanjem</item>
+        <item>Sve slađe i slađe</item>
+        <item>Mali istraživači</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Dnevnik tjelovježbe</item>
+        <item>Jačanje mišića</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Dobar tek!</item>
+        <item>Još jedan zalogaj?</item>
+        <item>Uživajte u obroku!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Nasmij se i maši!</item>
+        <item>Igra</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Na svježem zraku</item>
+        <item>Tragovi u snijegu</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Nezaustavljivi</item>
+        <item>Ostati u formi</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Veliki dan</item>
+        <item>Stiže mlada!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Igra</item>
+        <item>Vikendi</item>
+        <item>Naši najmanji</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Moji vikendi</item>
+        <item>Komadići života</item>
+        <item>Vikend uspomene</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Novi i stari prijatelji</item>
+        <item>Prošlogodišnja druženja</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Razonoda</item>
+        <item>Povjetarac</item>
+        <item>Snovi</item>
+        <item>Oblaci</item>
+        <item>Misli</item>
+        <item>Pupoljci</item>
+        <item>Preobražaj</item>
+        <item>Dubina</item>
+        <item>Razmišljanja</item>
+        <item>Minimalist</item>
+        <item>Misterija</item>
+        <item>Magla</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Pretvorite pozadinu u skečeve</item>
+        <item>Pozadina u stilu vodenih boja</item>
+        <item>Retro kiberpunk</item>
+        <item>Nepravilni okomiti dijelovi</item>
+        <item>Zamagljivanje</item>
+        <item>Futuristička vibra</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Skica</item>
+        <item>Vodene boje</item>
+        <item>RGB</item>
+        <item>Zavjese</item>
+        <item>Zamagljeni prozor</item>
+        <item>Tehnika</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Šareni obrisi</item>
+        <item>Isprekidani obrisi</item>
+        <item>Jarki obrisi</item>
+        <item>Sjene u boji</item>
+        <item>Strujni val</item>
+        <item>Tok</item>
+        <item>Valovi</item>
+        <item>Čestice</item>
+        <item>Tekst</item>
+        <item>Krila</item>
+        <item>Anđeo</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Premjesti</item>
+        <item>Kopiraj</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Siječanj</item>
+        <item>Veljača</item>
+        <item>Ožujak</item>
+        <item>Travanj</item>
+        <item>Svibanj</item>
+        <item>Lipanj</item>
+        <item>Srpanj</item>
+        <item>Kolovoz</item>
+        <item>Rujan</item>
+        <item>Listopad</item>
+        <item>Studeni</item>
+        <item>Prosinac</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>Tako ste odrasli!</item>
+        <item>Ponovno ste tako odrasli!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Moj jelovnik</item>
+        <item>Slasne uspomene</item>
+        <item>Mogu repete!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>Najljepši prizori na svijetu</item>
+        <item>Samo se dalje penjite</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Otac</item>
+        <item>Majka</item>
+        <item>Djed s očeve strane</item>
+        <item>Baka s očeve strane</item>
+        <item>Djed s majčine strane</item>
+        <item>Baka s majčine strane</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Zajedno</item>
+        <item>Dobra vremena</item>
+        <item>Obitelj i prijatelji</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Gdje nas put odvede</item>
+        <item>Putovanje u dobrom društvu</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Cvrkutavo proljeće</item>
+        <item>Radosno ljeto</item>
+        <item>Sretna jesen</item>
+        <item>Vesela zima</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Proljetne poslastice</item>
+        <item>Ljetni zalogaji</item>
+        <item>Jesenska gozba</item>
+        <item>Zimsko ušuškavanje</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Zajedno</item>
+        <item>Veze</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Ja</item>
+        <item>Dijete</item>
+        <item>Obitelj</item>
+        <item>Kolege</item>
+        <item>Prijatelj iz razreda</item>
+        <item>Prijatelji</item>
+        <item>Negrupirano</item>
+    </string-array>
+    <string-array name="season">
+        <item>Proljeće</item>
+        <item>Ljeto</item>
+        <item>Jesen</item>
+        <item>Zima</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Otac</item>
+        <item>Mama</item>
+        <item>Djed s očeve strane</item>
+        <item>Baka s očeve strane</item>
+        <item>Djed s majčine strane</item>
+        <item>Baka s majčine strane</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Kretanje naprijed</item>
+        <item>Pun energije</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Proljetni cvjetovi</item>
+        <item>Proljeće je u zraku</item>
+        <item>Stiglo nam je proljeće!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Komadić ljeta</item>
+        <item>Tamo gdje ljeto nikada ne prestaje</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Zlatni trenuci</item>
+        <item>Zlatna svjetlost</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Tako brzo rastu</item>
+        <item>Fotografije djece</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Zimski dani</item>
+        <item>Zimske radosti</item>
+    </string-array>
+</resources>

@@ -1,0 +1,45 @@
+{
+  "background": "#ffffff",
+  "collagePositions": [
+    {
+      "margin": 1,
+      "position": [
+        0.115,
+        0.083,
+        0.885,
+        0.769
+      ]
+    }
+  ],
+  "collageModels": [
+    10,
+    20,
+    30,
+    40,
+    51,
+    60
+  ],
+  "imageElementModels": [
+    {
+      "name": "img_01.png",
+      "x": 0.5,
+      "y": 0.843,
+      "width": 0.328,
+      "locationType": 3
+    }
+  ],
+  "specifyDrawableModels": [
+    {
+      "x": 0.5,
+      "y": 0.897,
+      "locationType": 5,
+      "specifyDrawableType": "TIME_FORMAT",
+      "extras": {
+        "timeFormat": "yyyy.MM.dd",
+        "textColor": "#66000000",
+        "textSize": 6.667,
+        "letterSpace": 0.62
+      }
+    }
+  ]
+}

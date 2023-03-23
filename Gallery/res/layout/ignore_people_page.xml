@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ViewStub android:id="@id/empty_view" android:layout="@layout/people_page_empty_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <miuix.springback.view.SpringBackLayout android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollableView="@id/scroll_view">
+        <androidx.core.widget.NestedScrollView android:id="@id/scroll_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+            <com.miui.gallery.view.ExpandAllGridView android:id="@id/grid" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:verticalSpacing="0.0dip" android:layout_marginStart="@dimen/people_page_list_padding_left_right" android:layout_marginEnd="@dimen/people_page_list_padding_left_right" style="@style/Gallery.Widget.GridView.People" />
+        </androidx.core.widget.NestedScrollView>
+    </miuix.springback.view.SpringBackLayout>
+</FrameLayout>

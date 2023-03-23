@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/homepage_allphotos_tip_content_container_padding" android:top="@dimen/homepage_allphotos_tip_content_container_padding" android:right="@dimen/homepage_allphotos_tip_content_container_padding" android:bottom="@dimen/homepage_allphotos_tip_content_container_padding">
+        <shape android:shape="rectangle"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/homepage_allphotos_content_bg" />
+            <corners android:topLeftRadius="@dimen/homepage_allphotos_tip_content_container_inner_radius" android:topRightRadius="@dimen/homepage_allphotos_tip_content_container_inner_radius" android:bottomLeftRadius="@dimen/homepage_allphotos_tip_content_container_inner_radius" android:bottomRightRadius="@dimen/homepage_allphotos_tip_content_container_inner_radius" />
+        </shape>
+    </item>
+    <item>
+        <shape
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <stroke android:width="@dimen/homepage_allphotos_tip_content_container_stroke" android:color="@color/homepage_allphotos_content_stroke" />
+            <solid android:color="@color/transparent" />
+            <corners android:topLeftRadius="@dimen/homepage_allphotos_tip_content_container_outer_radius" android:topRightRadius="@dimen/homepage_allphotos_tip_content_container_outer_radius" android:bottomLeftRadius="@dimen/homepage_allphotos_tip_content_container_outer_radius" android:bottomRightRadius="@dimen/homepage_allphotos_tip_content_container_outer_radius" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,10 @@
+{
+  "width": 16,
+  "height": 9,
+  "talkbackName": "@string/photo_editor_talkback_crop_movie",
+  "iconRatio": 1.4,
+  "cinemaStyle": true,
+  "iconVPadding": 13,
+  "iconHPadding": 10,
+  "icon": "@drawable/photo_editor_frame_menu_movie_icon_selector"
+}

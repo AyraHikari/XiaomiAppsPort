@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/face_page_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/vip_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/trash_header_margin_top" android:layout_marginBottom="@dimen/trash_header_margin_bottom">
+        <com.miui.gallery.ui.TrashMessageView android:id="@id/vip_info" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Widget.MessageView.Guide.DayNight" />
+    </LinearLayout>
+    <FrameLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <miuix.springback.view.SpringBackLayout android:id="@id/spring_back_layout" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/home_page_margin_horizontal" android:layout_marginEnd="@dimen/home_page_margin_horizontal" app:scrollableView="@id/recycler_view">
+            <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/recycler_view" android:paddingBottom="@dimen/trash_safe_distance_bottom" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </miuix.springback.view.SpringBackLayout>
+        <com.miui.gallery.widget.EmptyPage android:id="@android:id/empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:emptyIcon="@drawable/ic_pic_empty_albums" app:emptyTitle="@string/trash_empty" app:showActionButton="false"
+          xmlns:app="http://schemas.android.com/apk/res/com.miui.gallery" />
+        <Button android:layout_gravity="bottom" android:id="@id/purge_all" android:text="@string/cleaner_empty" android:elevation="@dimen/trash_delete_all_button_elevation" android:outlineSpotShadowColor="@color/cleaner_delete_button_shadow_color" style="@style/Gallery.Widget.Button.PurgeButton" />
+    </FrameLayout>
+</LinearLayout>

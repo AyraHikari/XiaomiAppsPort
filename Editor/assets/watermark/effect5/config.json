@@ -1,0 +1,41 @@
+{
+  "name": "effect5",
+  "talkbackName": "@string/text_item_type_talkback_bubble_watermark_5",
+  "version": 0,
+  "width": 128.73,
+  "height": 72,
+  "offsetX": 0,
+  "offsetY": 76,
+  "icon": "icon.png",
+  "textPieceList": [
+    {
+      "frameRect": [
+        4.73,
+        17.82,
+        124.37,
+        40
+      ],
+      "size": 18.55,
+      "text": "发现 · 幸福",
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": 0.1,
+      "lines": 1
+    },
+    {
+      "frameRect": [
+        4.73,
+        41.82,
+        124.37,
+        53.09
+      ],
+      "size": 9.09,
+      "text": "HAPPINESS",
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": 0.675
+    }
+  ]
+}

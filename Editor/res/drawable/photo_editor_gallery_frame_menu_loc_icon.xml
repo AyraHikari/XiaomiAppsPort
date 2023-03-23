@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/px_40" android:width="@dimen/px_40" android:viewportWidth="40.0" android:viewportHeight="40.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/photo_editor_gallery_frame_color" android:pathData="M7,16.154C7,20.232 9.086,24.253 12.095,27.866C14.792,31.103 17.936,33.654 20,35.161C22.064,33.654 25.208,31.103 27.905,27.866C30.914,24.253 33,20.232 33,16.154C33,9.631 27.375,4 20,4C12.625,4 7,9.631 7,16.154ZM21.718,38.852C20.677,39.587 19.323,39.587 18.282,38.852C13.965,35.804 3,26.997 3,16.154C3,7.232 10.611,0 20,0C29.389,0 37,7.232 37,16.154C37,26.997 26.035,35.804 21.718,38.852ZM20,21C22.209,21 24,19.209 24,17C24,14.791 22.209,13 20,13C17.791,13 16,14.791 16,17C16,19.209 17.791,21 20,21Z" android:fillType="evenOdd" />
+</vector>

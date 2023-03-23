@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/text_menu_editor_watermark_selected_bg" />
+    <item android:drawable="@color/photo_editor_transparent" />
+</selector>

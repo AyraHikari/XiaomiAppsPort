@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/text_edit_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/text_edit_top_area_layout" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginStart="@dimen/ocr_margin_start_end" android:layout_marginEnd="@dimen/ocr_margin_start_end" app:layout_constraintBottom_toTopOf="@id/text_edit_bottom_guide_line" app:layout_constraintTop_toTopOf="parent" />
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@id/text_edit_bottom_guide_line" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintGuide_percent="1.0" />
+    <FrameLayout android:id="@id/text_edit_bottom_area_layout" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginStart="@dimen/ocr_margin_start_end" android:layout_marginEnd="@dimen/ocr_margin_start_end" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toBottomOf="@id/text_edit_bottom_guide_line" />
+</androidx.constraintlayout.widget.ConstraintLayout>

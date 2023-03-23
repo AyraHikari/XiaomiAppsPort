@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/menu_share" android:title="@string/share_album_family_invite_sharer" android:showAsAction="never" />
+    <item android:id="@id/menu_replace_album_cover" android:title="@string/operation_replace_album_cover" android:showAsAction="never" />
+    <item android:id="@id/menu_time_group" android:title="@string/operation_show_time" android:showAsAction="never" />
+    <item android:id="@id/menu_sort" android:title="@string/operation_sort" android:showAsAction="never" />
+    <item android:id="@id/menu_remove_from_other_albums" android:title="@string/operation_remove_from_other_albums" android:showAsAction="never" />
+    <item android:id="@id/menu_move_to_rubbish_albums" android:visible="false" android:title="@string/operation_move_to_rubbish_albums" android:showAsAction="never" />
+    <item android:id="@id/menu_move_to_other_albums" android:visible="false" android:title="@string/operation_move_to_other_albums" android:showAsAction="never" />
+    <item android:id="@id/menu_remove_from_rubbish_albums" android:visible="false" android:title="@string/operation_remove_from_rubbish_albums" android:showAsAction="never" />
+    <item android:id="@id/menu_show_in_photos_tab" android:title="@string/operation_show_in_photos_tab" android:showAsAction="never" />
+    <item android:id="@id/menu_not_show_in_photos_tab" android:visible="false" android:title="@string/operation_not_show_in_photos_tab" android:showAsAction="never" />
+    <item android:id="@id/menu_enable_auto_upload" android:title="@string/operation_enable_auto_upload" android:showAsAction="never" />
+    <item android:id="@id/menu_disable_auto_upload" android:visible="false" android:title="@string/operation_disable_auto_upload" android:showAsAction="never" />
+    <item android:id="@id/menu_rename" android:title="@string/operation_rename" android:showAsAction="never" />
+</menu>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/info_view" android:layout="@layout/search_full_screen_error_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/empty_view" android:layout="@layout/search_full_screen_empty_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/loading_view" layout="@layout/search_full_screen_loading_layout" />
+</FrameLayout>

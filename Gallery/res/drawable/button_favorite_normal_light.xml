@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/photo_page_top_menu_bar_icon_height" android:width="@dimen/photo_page_top_menu_bar_icon_width" android:viewportWidth="26.0" android:viewportHeight="26.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/action_button_v20_normal" android:pathData="M5.0499,6.1463C7.1883,3.9984 10.6591,3.9982 12.7967,6.1453L13.4244,6.7758L14.052,6.1453C16.1896,3.9982 19.6605,3.9984 21.7989,6.1463C23.9358,8.2928 23.9364,11.7702 21.7998,13.9163L14.3243,21.4252C13.8279,21.9238 13.0208,21.9238 12.5244,21.4252L5.0489,13.9163C2.9123,11.7702 2.9129,8.2928 5.0499,6.1463ZM11.5111,7.4252C10.0828,5.9906 7.765,5.9903 6.3355,7.4262C4.9028,8.8652 4.9029,11.1984 6.3345,12.6364L13.4244,19.7579L20.5142,12.6364C21.9458,11.1984 21.9459,8.8652 20.5132,7.4262C19.0837,5.9903 16.7659,5.9906 15.3376,7.4252L13.4244,9.347L11.5111,7.4252Z" android:strokeAlpha="0.9" android:fillAlpha="0.9" android:fillType="evenOdd" />
+</vector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$miuix_appcompat_action_button_unfavorite_normal_dark__0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="path_2" android:animation="@drawable/$miuix_appcompat_action_button_unfavorite_normal_dark__1" />
+    <target android:name="path_1" android:animation="@drawable/$miuix_appcompat_action_button_unfavorite_normal_dark__2" />
+</animated-vector>

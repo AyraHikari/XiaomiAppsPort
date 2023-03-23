@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="screen_brush_markpen_margin_start">@dimen/px_20</item>
+    <dimen name="screen_brush_pen_margin_start">0.0dip</dimen>
+    <item type="dimen" name="screen_editor_view_bottom_margin">@dimen/px_97</item>
+    <dimen name="screen_editor_view_horizontal_margin">152.72699dip</dimen>
+    <item type="dimen" name="screen_editor_view_top_margin">@dimen/px_44</item>
+    <item type="dimen" name="screen_eraser_margin_start">@dimen/px_50</item>
+    <item type="dimen" name="screen_mosaic_margin_markpen_start">@dimen/px_21</item>
+    <item type="dimen" name="screen_shape_right_margin_start">@dimen/px_90</item>
+    <item type="dimen" name="screen_text_margin_start">@dimen/px_40</item>
+    <dimen name="vlog_main_horizontal_translation">93.349976dip</dimen>
+    <dimen name="vlog_main_landscape_panel_bottom_line">167.26999dip</dimen>
+    <dimen name="vlog_main_landscape_panel_left_line">220.72998dip</dimen>
+    <dimen name="vlog_main_landscape_panel_right_line">221.09dip</dimen>
+    <dimen name="vlog_main_landscape_panel_top_line">29.089996dip</dimen>
+    <item type="dimen" name="vlog_main_landscape_title_margin_start">@dimen/px_80</item>
+    <item type="dimen" name="vlog_main_landscape_title_panel_width">@dimen/px_250</item>
+    <dimen name="vlog_menu_common_operation_margin">10.909973dip</dimen>
+    <dimen name="vlog_menu_nav_mask_view_height">26.666992dip</dimen>
+    <dimen name="vlog_menu_nav_mask_view_width">53.332977dip</dimen>
+    <dimen name="vlog_menu_single_operation_btn_hot_area_width">32.72998dip</dimen>
+    <dimen name="vlog_single_clip_bar_margin_start">0.0dip</dimen>
+    <dimen name="vlog_single_clip_bar_margin_top">0.0dip</dimen>
+</resources>

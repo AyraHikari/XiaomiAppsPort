@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/vlog_menu_common_operation_padding_start_end" android:paddingEnd="@dimen/vlog_menu_common_operation_padding_start_end"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:gravity="center" android:id="@id/left_layout" android:visibility="gone" android:layout_width="@dimen/vlog_menu_common_operation_btn_hot_area_width" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center" android:id="@id/left_lottie_view" android:background="@drawable/vlog_common_operation_btn_bg" android:layout_width="@dimen/vlog_menu_common_operation_btn_bg_size" android:layout_height="@dimen/vlog_menu_common_operation_btn_bg_size" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/center_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <FrameLayout android:gravity="center" android:id="@id/right_layout" android:visibility="gone" android:layout_width="@dimen/vlog_menu_common_operation_btn_hot_area_width" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center" android:id="@id/right_lottie_view" android:background="@drawable/vlog_common_operation_btn_bg" android:layout_width="@dimen/vlog_menu_common_operation_btn_bg_size" android:layout_height="@dimen/vlog_menu_common_operation_btn_bg_size" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,58 @@
+.class public Lcom/miui/gallery/util/ProcessUtils;
+.super Ljava/lang/Object;
+.source "ProcessUtils.java"
+
+
+# direct methods
+.method public static currentProcessName()Ljava/lang/String;
+    .locals 2
+
+    .line 10
+    invoke-static {}, Lcom/android/internal/ProcessUtils;->currentProcessName()Ljava/lang/String;
+
+    move-result-object v0
+
+    .line 11
+    invoke-static {v0}, Landroid/text/TextUtils;->isEmpty(Ljava/lang/CharSequence;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_0
+
+    .line 12
+    invoke-static {}, Landroid/os/Process;->myPid()I
+
+    move-result v0
+
+    invoke-static {v0}, Lmiuix/os/ProcessUtils;->getProcessNameByPid(I)Ljava/lang/String;
+
+    move-result-object v0
+
+    :cond_0
+    return-object v0
+.end method
+
+.method public static isAppInForeground()Z
+    .locals 2
+
+    .line 18
+    invoke-static {}, Landroidx/lifecycle/ProcessLifecycleOwner;->get()Landroidx/lifecycle/LifecycleOwner;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Landroidx/lifecycle/LifecycleOwner;->getLifecycle()Landroidx/lifecycle/Lifecycle;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Landroidx/lifecycle/Lifecycle;->getCurrentState()Landroidx/lifecycle/Lifecycle$State;
+
+    move-result-object v0
+
+    sget-object v1, Landroidx/lifecycle/Lifecycle$State;->STARTED:Landroidx/lifecycle/Lifecycle$State;
+
+    invoke-virtual {v0, v1}, Landroidx/lifecycle/Lifecycle$State;->isAtLeast(Landroidx/lifecycle/Lifecycle$State;)Z
+
+    move-result v0
+
+    return v0
+.end method

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.editor.photo.widgets.CommonBottomMenuWithUndo android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/cancel" android:paddingTop="@dimen/common_menu_bottom_bar_cancel_padding_top" android:layout_width="@dimen/editor_apply_cancel_width" android:layout_height="@dimen/editor_apply_cancel_width" android:src="@drawable/common_editor_cancel_action_button_selector" android:scaleType="center" android:layout_alignParentBottom="true" android:contentDescription="@string/editor_cancel" android:layout_alignParentStart="true" />
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginTop="@dimen/common_menu_bottom_bar_undo_margin_top" android:layout_weight="1.0">
+        <ImageView android:id="@id/undo" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/editor_menu_undo" android:contentDescription="@string/photo_editor_talkback_undo" android:paddingStart="@dimen/menu_redo_btn_margin_left" android:paddingEnd="@dimen/menu_undo_btn_margin_right" />
+        <TextView android:textSize="@dimen/editor_apply_title_size" android:textColor="@color/photo_editor_menu_bottom_bar_title_color" android:gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/redo" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/editor_menu_redo" android:contentDescription="@string/photo_editor_talkback_redo" android:paddingStart="@dimen/menu_redo_btn_margin_left" android:paddingEnd="@dimen/menu_undo_btn_margin_right" />
+    </LinearLayout>
+    <ImageView android:id="@id/ok" android:layout_width="@dimen/editor_apply_cancel_width" android:layout_height="@dimen/editor_apply_cancel_width" android:src="@drawable/common_editor_done_action_button_selector" android:scaleType="center" android:layout_alignParentBottom="true" android:contentDescription="@string/editor_cancel" android:layout_alignParentEnd="true" />
+</com.miui.gallery.editor.photo.widgets.CommonBottomMenuWithUndo>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/action_change_mode_to_face" android:visible="false" android:title="@string/change_to_face_mode" />
+    <item android:id="@id/action_change_mode_to_photo" android:visible="false" android:title="@string/change_to_photo_mode" />
+    <item android:id="@id/action_merge_to" android:visible="true" android:title="@string/merge_album_title" />
+    <item android:id="@id/action_ignore" android:visible="true" android:title="@string/ignore_face" />
+</menu>

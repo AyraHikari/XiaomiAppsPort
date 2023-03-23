@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/photo_editor_frame_*, @drawable/sticker_*, @drawable/magic_*, @raw/*, @drawable/photo_editor_gallery_frame_*"
+    tools:shrinkMode="strict" />

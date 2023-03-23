@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="editor_preview_height_ratio">1421</integer>
+    <integer name="editor_preview_width_ratio">996</integer>
+    <integer name="photo_page_anim_support_height">2030</integer>
+    <integer name="video_editor_preview_height_ratio">1421</integer>
+    <integer name="video_editor_preview_width_ratio">996</integer>
+</resources>

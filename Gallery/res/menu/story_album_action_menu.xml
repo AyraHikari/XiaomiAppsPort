@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="?actionBarSendIcon" android:id="@id/action_share" android:title="@string/story_action_share" android:showAsAction="always" />
+    <item android:icon="@drawable/action_button_remove_photo" android:id="@id/action_remove" android:title="@string/story_action_remove" android:showAsAction="always" />
+</menu>

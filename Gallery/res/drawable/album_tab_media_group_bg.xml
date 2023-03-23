@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/album_tab_tool_item_bg" />
+    <corners android:radius="@dimen/album_tab_media_group_item_image_view_linear_mode_corners_radius" />
+</shape>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.ui.ShareAlbumDetailHeaderItem android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/header_background" android:layout_width="fill_parent" android:layout_height="@dimen/baby_album_page_header_height">
+        <ImageView android:id="@id/background" android:background="@drawable/share_album_empty_cover" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="@drawable/share_album_detail_header_mask" android:src="@color/white_100_transparent_with_dark_mode" android:scaleType="centerCrop" android:importantForAccessibility="no" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/album_info_container" android:focusable="true" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/share_info_container" android:importantForAccessibility="no" android:layout_marginStart="@dimen/share_album_detail_title_margin_start">
+            <TextView android:textSize="@dimen/baby_album_detail_name_size" android:textColor="@color/white_100_transparent" android:ellipsize="end" android:id="@id/album_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:importantForAccessibility="yes" android:fontFamily="misans-regular" android:textFontWeight="500" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/age_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:importantForAccessibility="no">
+                <ImageView android:id="@id/age_current_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/share_album_detail_header_baby_icon" android:scaleType="centerCrop" android:maxHeight="19.0dip" android:importantForAccessibility="no" />
+                <TextView android:textSize="@dimen/baby_album_detail_age_size" android:textColor="@color/white_80_transparent" android:id="@id/age_current" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:importantForAccessibility="yes" android:fontFamily="misans-regular" android:layout_marginStart="5.0dip" android:textFontWeight="400" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/share_info_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="34.0dip" android:layout_alignParentBottom="true" android:importantForAccessibility="no" android:layout_alignStart="@id/album_info_container">
+            <FrameLayout android:id="@id/share_info_group_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:importantForAccessibility="no" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/invite_container" android:paddingTop="12.0dip" android:paddingBottom="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:contentDescription="@string/share_album_family_invite_sharer" android:layout_toEndOf="@id/share_info_group_view">
+                <ImageView android:layout_width="@dimen/share_album_detail_family_icon_size" android:layout_height="@dimen/share_album_detail_family_icon_size" android:src="@drawable/share_album_detail_invite_icon" android:importantForAccessibility="no" />
+                <TextView android:textAppearance="@style/Gallery.TextAppearance.ShareAlbum.DetailInviteText" android:id="@id/invite_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/share_album_family_invite_sharer" android:importantForAccessibility="no" android:layout_marginStart="@dimen/share_album_detail_invite_text_margin_start" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</com.miui.gallery.ui.ShareAlbumDetailHeaderItem>

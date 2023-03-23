@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv_user_avatar" android:layout_width="@dimen/passport_phone_number_card_big_user_avatar_size" android:layout_height="@dimen/passport_phone_number_card_big_user_avatar_size" android:src="@drawable/passport_ic_user_avatar_sim" android:scaleType="fitCenter" android:layout_centerHorizontal="true" />
+    <TextView android:id="@id/tv_user_name" android:layout_marginTop="10.0dip" android:text="87****99" android:layout_below="@id/iv_user_avatar" android:textDirection="anyRtl" style="@style/Passport.PhoneNumberCardBigSubText" />
+    <TextView android:id="@id/tv_phone_number" android:layout_marginTop="@dimen/single_phone_number_avatar" android:text="150****6135" android:layout_below="@id/iv_user_avatar" android:textDirection="ltr" style="@style/Passport.PhoneNumberCardBigMainText" />
+    <Button android:id="@id/btn_login_register" android:layout_marginTop="@dimen/single_phone_login_number" android:text="@string/login_by_local_phone_long_text" android:layout_below="@id/tv_phone_number" style="@style/Passport.HighlightRoundButton" />
+</RelativeLayout>

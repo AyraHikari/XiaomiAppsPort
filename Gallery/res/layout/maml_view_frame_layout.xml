@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:id="@id/icon_fl_anim" android:layout_width="@dimen/empty_page_icon_size" android:layout_height="@dimen/empty_page_icon_size" android:layout_marginTop="@dimen/vertical_spacing_twostagedraw"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

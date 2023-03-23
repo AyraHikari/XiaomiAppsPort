@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:background="@color/document_provider_guide_background" android:paddingTop="@dimen/guide_container_padding_top" android:paddingBottom="@dimen/guide_container_padding_bottom" android:layout_width="@dimen/guide_container_max_width" android:layout_height="wrap_content" android:paddingStart="@dimen/guide_container_padding_left_right" android:paddingEnd="@dimen/guide_container_padding_left_right"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/guide_text_size" android:id="@id/document_provider_guide_step_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/guide_text_margin_container_top" android:paddingStart="@dimen/guide_text_padding_left" />
+    <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/documentsui_guide_3" />
+    <TextView android:textSize="@dimen/guide_text_size" android:id="@id/document_provider_guide_step_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/guide_text_margin_text_top" android:paddingStart="@dimen/guide_text_padding_left" />
+    <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/documentsui_guide_4" />
+    <TextView android:textSize="@dimen/guide_text_size" android:id="@id/document_provider_guide_step_5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/guide_text_margin_text_top" android:paddingStart="@dimen/guide_text_padding_left" />
+    <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/guide_image_margin_container_bottom" android:src="@drawable/documentsui_guide_5" />
+</LinearLayout>

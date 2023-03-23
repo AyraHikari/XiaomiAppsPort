@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="search_section_divider_color">@color/black_10_transparent</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miuix_appcompat_ic_clear_height" android:width="@dimen/miuix_appcompat_ic_clear_width" android:viewportWidth="20.0" android:viewportHeight="20.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M9.9994,19.0872C15.0182,19.0872 19.0867,15.0187 19.0867,9.9999C19.0867,4.9811 15.0182,0.9126 9.9994,0.9126C4.9806,0.9126 0.9121,4.9811 0.9121,9.9999C0.9121,15.0187 4.9806,19.0872 9.9994,19.0872Z" android:fillAlpha="0.08" />
+    <path android:fillColor="#ffffffff" android:pathData="M13.0119,8.1933C13.3446,7.8606 13.3446,7.3212 13.0119,6.9885C12.6792,6.6558 12.1398,6.6558 11.8071,6.9885L9.9999,8.7957L8.1927,6.9886C7.8601,6.6559 7.3206,6.6559 6.9879,6.9886C6.6552,7.3213 6.6552,7.8607 6.9879,8.1934L8.795,10.0006L6.9879,11.8078C6.6551,12.1405 6.6551,12.6799 6.9879,13.0126C7.3205,13.3453 7.86,13.3453 8.1927,13.0126L9.9999,11.2054L11.8072,13.0127C12.1399,13.3454 12.6793,13.3454 13.012,13.0127C13.3447,12.68 13.3447,12.1406 13.012,11.8079L11.2047,10.0006L13.0119,8.1933Z" android:fillAlpha="0.3" android:fillType="evenOdd" />
+</vector>

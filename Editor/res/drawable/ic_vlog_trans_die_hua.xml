@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/vlog_menu_common_item_icon_size" android:width="@dimen/vlog_menu_common_item_icon_size" android:viewportWidth="60.0" android:viewportHeight="60.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/vlog_trans_icon_common_color" android:pathData="M30,30L19.6402,38.6332C18.9889,39.176 18,38.7128 18,37.865L18,22.135C18,21.2872 18.9889,20.824 19.6402,21.3668L30,30Z" android:fillType="evenOdd" />
+    <path android:fillColor="@color/vlog_trans_icon_common_color" android:pathData="M30,30L40.3598,38.6332C41.0111,39.176 42,38.7128 42,37.865V22.135C42,21.2872 41.0111,20.824 40.3598,21.3668L30,30Z" android:fillType="evenOdd" />
+    <group>
+        <clip-path android:pathData="M7,6L53,6A1,1 0,0 1,54 7L54,53A1,1 0,0 1,53 54L7,54A1,1 0,0 1,6 53L6,7A1,1 0,0 1,7 6z" />
+        <path android:fillColor="#00000000" android:pathData="M7,6L53,6A1,1 0,0 1,54 7L54,53A1,1 0,0 1,53 54L7,54A1,1 0,0 1,6 53L6,7A1,1 0,0 1,7 6z" android:strokeColor="@color/vlog_trans_icon_common_color" android:strokeWidth="12.0" />
+    </group>
+</vector>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/app_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/agreement_app_icon_margin_top" />
+    <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.List.Secondary" android:textSize="@dimen/agreement_summary_text_size" android:layout_gravity="center_horizontal" android:id="@id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/agreement_summary_margin_top" />
+    <miuix.recyclerview.widget.RecyclerView android:id="@id/list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/agreement_list_margin_top" android:layout_weight="1.0" android:paddingStart="@dimen/agreement_item_padding_start" android:paddingEnd="@dimen/agreement_item_padding_end" />
+</LinearLayout>

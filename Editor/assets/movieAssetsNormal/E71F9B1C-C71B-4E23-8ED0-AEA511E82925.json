@@ -1,0 +1,88 @@
+{
+    "music name": "Normal",
+    "version": 1,
+    "music duration": 44720,
+    "clip max duration": 3500,
+	"fullSizeTrans": [{"transName":"Fade"}],
+	"halfSizeTrans": [{"transName":"Fade"}],
+	"h-fSizeTrans": [{"transName":"Fade"}],
+	"f-hSizeTrans": [{"transName":"Fade"}],
+    "points": [
+		{
+            "cutPoint": 2280,
+            "transLen": 1000
+        },
+        {
+            "cutPoint": 4240,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 6320,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 8520,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 10360,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 12480,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 14520,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 16040,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 18440,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 20280,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 22520,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 24280,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 28280,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 30560,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 32600,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 35480,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 37560,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 40320,
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 42240,
+            "transLen": 1000
+        }	
+    ]
+}

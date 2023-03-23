@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/DesktopWidgetRootBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/layout_root" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/image_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/widget_recommend_replace_2_2" android:scaleType="centerCrop" android:contentDescription="@string/widget_talkback_recommend" />
+        <ImageView android:id="@id/mask_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/widget_recommend_mark_2_2" android:scaleType="fitXY" android:layout_alignParentBottom="true" />
+        <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/gallery_widget_margin_bottom" android:layout_marginStart="@dimen/gallery_widget_margin_start" android:layout_marginEnd="@dimen/gallery_widget_margin_start">
+            <TextView android:textSize="@dimen/gallery_widget_title_font_size_small" android:textColor="@color/gallery_widget_recommend_title_color" android:ellipsize="end" android:id="@id/text_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:fontFamily="mipro-medium" />
+            <TextView android:textSize="@dimen/gallery_widget_description_font_size" android:textColor="@color/gallery_widget_recommend_desc_color" android:ellipsize="end" android:id="@id/text_desc" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:fontFamily="mipro-regular" />
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>

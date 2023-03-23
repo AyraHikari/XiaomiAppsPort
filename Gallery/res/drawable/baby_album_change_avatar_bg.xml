@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/baby_album_change_avatar_bg" />
+    <corners android:radius="@dimen/baby_setting_page_header_change_avatar_bg_corner" />
+    <size android:height="@dimen/baby_setting_page_header_change_avatar_bg_height" android:width="@dimen/baby_setting_page_header_change_avatar_bg_width" />
+</shape>

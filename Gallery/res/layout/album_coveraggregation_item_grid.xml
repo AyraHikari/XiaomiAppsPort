@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/album_common_main" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/album_covers" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@null" layout="@layout/album_page_list_four_pic_cover_item_new" />
+    <TextView android:ellipsize="end" android:gravity="start" android:id="@id/album_common_title" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintStart_toStartOf="@id/album_covers" app:layout_constraintTop_toBottomOf="@id/album_covers" style="@style/Gallery.Widget.AlbumText.GridTitle" />
+    <TextView android:id="@id/album_common_sub_title" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintStart_toStartOf="@id/album_common_title" app:layout_constraintTop_toBottomOf="@id/album_common_title" style="@style/Gallery.Widget.AlbumText.GridSubTitle" />
+</androidx.constraintlayout.widget.ConstraintLayout>

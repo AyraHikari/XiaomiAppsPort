@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/miuix_appcompat_secondary_text_size" android:textColor="@color/hybrid_provider_light" android:layout_gravity="center|top" android:id="@id/hybrid_provider" android:paddingTop="@dimen/hybrid_provider_padding_top" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <miuix.internal.hybrid.WebContainerView android:id="@id/webContainer" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ViewStub android:id="@id/webview_reload_stub" android:layout="@layout/webview_reload" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <miuix.androidbasewidget.widget.ProgressBar android:layout_gravity="center" android:id="@id/progress_circular" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </miuix.internal.hybrid.WebContainerView>
+    <miuix.internal.hybrid.HybridProgressView android:layout_gravity="top" android:id="@id/progress_horizontal" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/hybrid_horizontal_progress" />
+</merge>

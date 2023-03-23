@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/magic_idp_make_table" android:layout_width="fill_parent" android:layout_height="@dimen/magic_idp_make_tab_height">
+        <RelativeLayout android:id="@id/magic_idp_search" android:layout_width="@dimen/magic_idp_make_tab_width" android:layout_height="fill_parent" android:onClick="onClick">
+            <ImageView android:id="@id/magic_idp_search_image" android:layout_width="@dimen/magic_idp_make_search_width" android:layout_height="@dimen/magic_idp_make_search_height" android:layout_marginTop="@dimen/magic_idp_make_search_height_top" android:src="@drawable/magic_idp_search_gui_ge" android:contentDescription="@string/acc_search_guide" android:layout_marginStart="@dimen/magic_idp_make_search_height_left" />
+        </RelativeLayout>
+        <com.miui.gallery.widget.tablayout.SegmentTabLayout android:id="@id/magic_idp_tab" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/magic_idp_make_tab_height" android:layout_centerVertical="true" android:layout_marginStart="@dimen/magic_idp_make_tab_height" app:tl_bar_stroke_width="100.0dip" app:tl_indicator_height="@dimen/magic_idp_make_tab_height" app:tl_indicator_margin_left="@dimen/magic_px_50" app:tl_indicator_margin_right="@dimen/magic_px_50" app:tl_textSelectColor="#ffffce16" app:tl_textUnselectColor="#ffffffff" app:tl_textsize="@dimen/magic_idp_make_tab_tl_size" />
+        <include layout="@layout/ts_photo_editor_text_top_layout" />
+    </RelativeLayout>
+    <RelativeLayout android:paddingTop="@dimen/magic_list_padding" android:paddingBottom="@dimen/magic_list_padding" android:layout_width="fill_parent" android:layout_height="@dimen/magic_idp_list_height" android:layout_marginTop="@dimen/magic_idp_make_tab_height">
+        <com.miui.gallery.magic.widget.scroll.SimpleRecyclerViewMiuix android:id="@id/magic_idp_recyclerview" android:layout_width="wrap_content" android:layout_height="@dimen/magic_idp_make_recycler_height" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</RelativeLayout>

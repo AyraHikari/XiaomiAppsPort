@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="@dimen/miuix_preference_checkable_item_mask_padding_top" android:bottom="@dimen/miuix_preference_checkable_item_mask_padding_bottom" android:start="?preferenceCheckableItemMaskPaddingStart" android:end="?preferenceCheckableItemMaskPaddingEnd">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/miuix_preference_list_item_two_state_bg_color_pressed" />
+            <size android:height="@dimen/miuix_preference_radio_item_min_height" />
+            <padding android:left="?preferenceRadioTwoStateContentPaddingStart" android:top="@dimen/miuix_preference_checkable_item_mask_padding_top" android:right="?preferenceRadioTwoStateContentPaddingEnd" android:bottom="@dimen/miuix_preference_checkable_item_mask_padding_bottom" />
+            <corners android:radius="@dimen/miuix_preference_checkable_item_mask_radius" />
+        </shape>
+    </item>
+</layer-list>

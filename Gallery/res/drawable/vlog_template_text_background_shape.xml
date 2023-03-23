@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#ffb0bff1" />
+    <stroke android:width="0.0dip" android:color="@color/transparent" />
+    <corners android:topLeftRadius="0.0dip" android:topRightRadius="0.0dip" android:bottomLeftRadius="@dimen/vlog_menu_template_item_corner" android:bottomRightRadius="@dimen/vlog_menu_template_item_corner" />
+</shape>

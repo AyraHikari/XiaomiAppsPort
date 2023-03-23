@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="start" android:top="13.0px" android:bottom="13.0px">
+        <shape android:shape="rectangle">
+            <solid android:color="?actionBarTitleColor" />
+            <size android:height="@dimen/miuix_appcompat_action_bar_subtitle_bg_divider_height" android:width="@dimen/miuix_appcompat_action_bar_subtitle_bg_divider_width" />
+            <padding android:left="@dimen/miuix_appcompat_action_bar_subtitle_bg_start_margin" android:right="@dimen/miuix_appcompat_action_bar_subtitle_bg_end_margin" />
+        </shape>
+    </item>
+</layer-list>

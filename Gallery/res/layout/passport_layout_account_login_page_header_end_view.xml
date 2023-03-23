@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="end" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/passport_page_header_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@color/passport_page_header_title" android:gravity="center" android:id="@id/help" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/header_help" android:layout_toStartOf="@id/country_name" />
+    <TextView android:gravity="center" android:id="@id/country_name" android:layout_height="fill_parent" android:text="中国大陆" android:layout_marginStart="10.0dip" style="@style/Passport.HighlightText" />
+</LinearLayout>

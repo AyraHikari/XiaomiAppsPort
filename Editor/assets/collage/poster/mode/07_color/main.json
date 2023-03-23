@@ -1,0 +1,42 @@
+{
+  "background": "#ffffff",
+  "ratio": 1,
+  "collagePositions": [
+    {
+      "margin": 0,
+      "position": [
+        0.252,
+        0.259,
+        0.748,
+        0.741
+      ]
+    }
+  ],
+  "collageModels": [
+    21
+  ],
+  "specifyDrawableModels": [
+    {
+      "x": 0.748,
+      "y": 0.259,
+      "width": 0.248,
+      "height": 0.241,
+      "locationType": 6,
+      "specifyDrawableType": "COLOR",
+      "extras": {
+        "color": "#E3D7FF"
+      }
+    },
+    {
+      "x": 0.252,
+      "y": 0.741,
+      "width": 0.248,
+      "height": 0.241,
+      "locationType": 2,
+      "specifyDrawableType": "COLOR",
+      "extras": {
+        "color": "#DBF1FF"
+      }
+    }
+  ]
+}

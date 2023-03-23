@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>સફેદ</item>
+        <item>ઘેરો વાદળી</item>
+        <item>આછો વાદળી</item>
+        <item>લાલ</item>
+        <item>લીલી</item>
+        <item>ગુલાબી</item>
+        <item>કથ્થાઈ</item>
+        <item>ગ્રે</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>છબી પસંદ કરો</item>
+        <item>પારદર્શક બેકગ્રાઉન્ડ</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>પુરૂષ</item>
+        <item>સ્ત્રી</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>ખાસ દિવસ</item>
+        <item>યાદગાર દિવસ</item>
+        <item>જીવંત અવસરો</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>A delicious year</item>
+        <item>Three courses. Four seasons.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Hello world!</item>
+        <item>On the road</item>
+        <item>A kaleidoscope of places</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Autumn splendor</item>
+        <item>Radiant fall</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>છોકરો</item>
+        <item>છોકરી</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>ફોટાનું બેકઅપ લો</item>
+        <item>ક્લાઉડ સાથે ફોટા સિંક કરો</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>યાદ રાખવા જેવી રાત</item>
+        <item>નવું પેજ</item>
+        <item>આતશબાજી</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>નવા વર્ષની શુભેચ્છા!</item>
+        <item>નવા વર્ષની પરોઢ</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>વાંદરાનું વર્ષ</item>
+        <item>કૂકડાનું વર્ષ</item>
+        <item>કૂતરાનું વર્ષ</item>
+        <item>ડુક્કરનું વર્ષ</item>
+        <item>ઉંદરનું વર્ષ</item>
+        <item>બળદનું વર્ષ</item>
+        <item>વાઘનું વર્ષ</item>
+        <item>સસલાનું વર્ષ</item>
+        <item>ડ્રેગનનું વર્ષ</item>
+        <item>સાપનું વર્ષ</item>
+        <item>Year of the Horse</item>
+        <item>Year of the Goat</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Cityscapes</item>
+        <item>Streets and corners</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Gentle petals</item>
+        <item>In full bloom</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Into the wild</item>
+        <item>Wild and free</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Our get-togethers</item>
+        <item>In the company of friends</item>
+        <item>Long time no see</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Your favorite subjects</item>
+        <item>Kindred spirits</item>
+        <item>"Life's bright moments"</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Busy growing up</item>
+        <item>Cuter and cuter</item>
+        <item>Little explorer</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Fitness diary</item>
+        <item>Stronger and stronger</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Bon appétit!</item>
+        <item>Another bite?</item>
+        <item>Enjoy your meal!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Smile and wave!</item>
+        <item>Playtime</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>The great outdoors</item>
+        <item>Tracks in the snow</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Unstoppable</item>
+        <item>Staying fit</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>A big day</item>
+        <item>Down the aisle!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>રમતનો સમય</item>
+        <item>બાળકોનો સપ્તાહાંત</item>
+        <item>નાનકડું</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>મારા વિકેન્ડ</item>
+        <item>જીવનની કેટલીક ક્ષણો</item>
+        <item>વિકેન્ડની યાદગીરીઓ</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>નવાંં મિત્રો અને પૂરાણા દોસ્તો</item>
+        <item>ગયાં વર્ષનાંં મેળાવડા</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>આરામ</item>
+        <item>બ્રીઝ</item>
+        <item>સપના</item>
+        <item>વાદળા</item>
+        <item>વિચારો</item>
+        <item>કળીઓ</item>
+        <item>મેટામોર્ફોસિસ</item>
+        <item>ઊંડાઈ</item>
+        <item>પ્રતિબિંબ</item>
+        <item>મિનીમાલિસ્ટ</item>
+        <item>રહસ્યમયી</item>
+        <item>ધુમ્મસ</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>બેકગ્રાઉન્ડને સ્કેચમાં ફેરવો</item>
+        <item>બેકગ્રાઉન્ડમાં વોટરકલર સ્ટાઇલ</item>
+        <item>સાયબરપંક રેટ્રો</item>
+        <item>ખોટી રીતે રાખેલ વર્ટિકલ સેગમેન્ટ</item>
+        <item>ધૂંધળું અસ્પષ્ટ</item>
+        <item>ભાવિ લાગવું</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>સ્કેચ</item>
+        <item>વોટરકલર</item>
+        <item>RGB</item>
+        <item>બ્લાઇન્ડ</item>
+        <item>ધુમ્મસવાળી બારી</item>
+        <item>ટેક</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>રંગીન રૂપરેખા</item>
+        <item>છૂટીછવાય રૂપરેખા</item>
+        <item>ફ્લોરોસન્ટ રૂપરેખા</item>
+        <item>રંગીન છાયા</item>
+        <item>ઇલેક્ટ્રિક તરંગ</item>
+        <item>વર્તમાન</item>
+        <item>વેવ્ઝ</item>
+        <item>પાર્ટીકલ્સ</item>
+        <item>ટેકસ્ટ</item>
+        <item>વિંગ્સ</item>
+        <item>એન્જલ</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>ખસેડો</item>
+        <item>કૉપી કરો</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>જાન્યુઆરી</item>
+        <item>ફેબ્રુઆરી</item>
+        <item>માર્ચ</item>
+        <item>એપ્રિલ</item>
+        <item>મે</item>
+        <item>જૂન</item>
+        <item>જુલાઈ</item>
+        <item>ઑગસ્ટ</item>
+        <item>સપ્ટેમ્બર</item>
+        <item>ઑક્ટોબર</item>
+        <item>નવેમ્બર</item>
+        <item>ડિસેમ્બર</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>"You've grown up!"</item>
+        <item>"You've grown up again!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>My personal menu</item>
+        <item>Tasty memories</item>
+        <item>Second helping, please!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>"World's best views"</item>
+        <item>Keep climbing</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>પિતા</item>
+        <item>માતા</item>
+        <item>દાદા</item>
+        <item>દાદી</item>
+        <item>નાના</item>
+        <item>નાની</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>એકસાથે</item>
+        <item>સારો સમય</item>
+        <item>એક સુરમાં</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Where the road takes us</item>
+        <item>Journeys well shared</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>A cheerful spring</item>
+        <item>A joyful summer</item>
+        <item>A happy autumn</item>
+        <item>A jolly winter</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Spring meals</item>
+        <item>Summer treats</item>
+        <item>Autumn feasts</item>
+        <item>Winter tuck-ins</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>એકસાથે</item>
+        <item>Bonds and ties</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>હું</item>
+        <item>બાળક</item>
+        <item>પરિવાર</item>
+        <item>સહકર્મીઓ</item>
+        <item>સહપાઠીઓ</item>
+        <item>મિત્રો</item>
+        <item>અસમૂહિત</item>
+    </string-array>
+    <string-array name="season">
+        <item>વસંત</item>
+        <item>ઉનાળો</item>
+        <item>શરદઋતુ</item>
+        <item>શિયાળો</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>પિતા</item>
+        <item>માતા</item>
+        <item>દાદા</item>
+        <item>દાદી</item>
+        <item>નાના</item>
+        <item>નાની</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>આગળ ચાલીને</item>
+        <item>ઉર્જા સભર</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Blooms of spring</item>
+        <item>Spring is in the air</item>
+        <item>Hello spring!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>A bit of summer</item>
+        <item>Where summer never ends</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Golden hours</item>
+        <item>Rays of gold</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>તેઓ કેટલા જલ્દી મોટા થતાં જાય છે</item>
+        <item>બાળકોનાં ફોટા</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Winter days</item>
+        <item>Winter wonderland</item>
+    </string-array>
+</resources>

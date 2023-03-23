@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:background="@color/recent_album_bg_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:id="@id/spring_back_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/home_page_margin_horizontal" android:layout_marginEnd="@dimen/home_page_margin_horizontal" app:scrollableView="@id/grid">
+        <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/grid" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/Gallery.Widget.GridView.ThumbNail" />
+    </miuix.springback.view.SpringBackLayout>
+    <com.miui.gallery.widget.EmptyPage android:id="@android:id/empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:emptyIcon="@drawable/ic_pic_empty_albums" app:emptyTitle="@string/recent_album_empty_title" app:showActionButton="false" />
+</FrameLayout>

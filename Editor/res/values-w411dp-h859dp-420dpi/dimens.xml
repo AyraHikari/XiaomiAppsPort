@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vlog_main_menu_navi_item_interval">34.28598dip</dimen>
+    <dimen name="vlog_main_menu_navi_item_start_end">17.142975dip</dimen>
+    <dimen name="vlog_menu_common_item_icon_size">22.855682dip</dimen>
+    <dimen name="vlog_menu_nav_item_text_size">17.142975dip</dimen>
+    <dimen name="vlog_menu_nav_mask_view_height">45.71399dip</dimen>
+    <dimen name="vlog_menu_nav_mask_view_margin_end">22.856995dip</dimen>
+    <dimen name="vlog_menu_nav_mask_view_width">22.856995dip</dimen>
+    <dimen name="vlog_menu_nav_pro_icon_height">26.666992dip</dimen>
+    <dimen name="vlog_menu_nav_pro_icon_margin_end">30.475983dip</dimen>
+    <dimen name="vlog_menu_nav_pro_icon_margin_start">22.856995dip</dimen>
+    <dimen name="vlog_menu_nav_pro_icon_width">45.71399dip</dimen>
+</resources>

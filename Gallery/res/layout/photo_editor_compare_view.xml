@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:fitsSystemWindows="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textSize="@dimen/editor_capsule_text_size" android:textColor="@color/white" android:layout_gravity="end|center|top" android:id="@id/compare_btn" android:background="@drawable/editor_compare_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/photo_editor_beauty_compare" android:singleLine="true" />
+</FrameLayout>

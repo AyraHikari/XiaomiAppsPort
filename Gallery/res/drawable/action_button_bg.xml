@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <padding android:top="@dimen/action_button_bg_top_padding" android:bottom="@dimen/action_button_bg_bottom_padding" />
+    <size android:width="@dimen/photo_page_menu_button_width" />
+</shape>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="album_tab_media_group_style">1</integer>
+</resources>

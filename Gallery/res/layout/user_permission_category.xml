@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.PreferenceCategory" android:id="@id/category" android:layout_width="fill_parent" android:layout_height="@dimen/permission_category_item_height" android:textDirection="locale" style="@style/Widget.Agreement.Item.SingleLine"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

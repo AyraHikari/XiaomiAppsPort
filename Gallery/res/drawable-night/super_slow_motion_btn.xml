@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/special_type_enter_icon_size" android:width="@dimen/special_type_enter_icon_size" android:viewportWidth="100.0" android:viewportHeight="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffd1d0d0" android:pathData="M50.187,35C57.816,35 64,41.492 64,49.5C64,57.508 57.816,64 50.187,64C49.09,64 48.023,63.866 47,63.612C52.222,62.1 56.107,56.356 56.107,49.5C56.107,42.644 52.222,36.9 47.001,35.389C48.023,35.134 49.09,35 50.187,35Z" android:strokeAlpha="0.8" android:fillAlpha="0.8" />
+    <path android:fillColor="#ffcccccc" android:pathData="M60.374,35C68.452,35 75,41.492 75,49.5C75,57.508 68.452,64 60.374,64C59.213,64 58.083,63.866 57,63.612C62.529,62.1 66.642,56.356 66.642,49.5C66.642,42.644 62.529,36.9 57.001,35.389C58.083,35.134 59.213,35 60.374,35Z" android:strokeAlpha="0.5" android:fillAlpha="0.5" />
+    <path android:fillColor="#ffcccccc" android:pathData="M39.5,64C47.508,64 54,57.508 54,49.5C54,41.492 47.508,35 39.5,35C31.492,35 25,41.492 25,49.5C25,57.508 31.492,64 39.5,64Z" />
+</vector>

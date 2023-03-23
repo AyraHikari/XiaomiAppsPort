@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingTop="@dimen/miuix_appcompat_guide_popup_vertical_padding" android:paddingBottom="@dimen/miuix_appcompat_guide_popup_vertical_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/miuix_appcompat_guide_popup_horizontal_padding" android:paddingEnd="@dimen/miuix_appcompat_guide_popup_horizontal_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:color="@color/miuix_preference_connect_title_disconnected_color" app:state_connected="false" />
+    <item android:color="@color/miuix_preference_connect_title_connected_color" app:state_connected="true" />
+</selector>

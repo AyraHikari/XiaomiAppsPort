@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.editor.photo.core.imports.mosaic.MosaicGLView android:id="@id/mosaic_view" android:paddingTop="@dimen/editor_confirm_menu_height" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.miui.gallery.editor.photo.widgets.ProtectiveImageView android:id="@id/image_placeholder" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/editor_confirm_menu_height" />
+</androidx.constraintlayout.widget.ConstraintLayout>

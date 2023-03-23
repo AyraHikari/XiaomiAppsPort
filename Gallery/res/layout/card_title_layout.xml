@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.CardTitleLayoutView android:orientation="vertical" android:id="@id/card_title_layout" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="2.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/card_title_top" android:background="@drawable/card_title_top_gradlient_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:gravity="left" android:orientation="vertical" android:id="@id/left_top_title_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/cards_page_title_margin_top" android:layout_alignParentTop="true" android:layout_marginStart="@dimen/cards_page_title_margin_start" android:layout_alignParentStart="true">
+            <TextView android:id="@id/left_top_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutSubtitle" />
+            <TextView android:id="@id/left_top_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutTitle" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/top_center_title_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/cards_page_title_margin_top" android:layout_alignParentTop="true" android:layout_centerHorizontal="true">
+            <TextView android:id="@id/top_center_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutTitle" />
+            <TextView android:id="@id/top_center_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutSubtitle" />
+        </LinearLayout>
+        <LinearLayout android:gravity="end" android:orientation="vertical" android:id="@id/right_top_title_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/cards_page_title_margin_top" android:layout_alignParentTop="true" android:layout_marginEnd="@dimen/cards_page_title_margin_end" android:layout_alignParentEnd="true">
+            <TextView android:id="@id/right_top_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutSubtitle" />
+            <TextView android:id="@id/right_top_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutTitle" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:gravity="bottom" android:orientation="horizontal" android:id="@id/card_title_bottom" android:background="@drawable/card_title_bottom_gradlient_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:gravity="start" android:orientation="vertical" android:id="@id/left_bottom_title_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/cards_page_title_margin_bottom" android:layout_alignParentBottom="true" android:layout_alignParentStart="true">
+            <TextView android:id="@id/left_bottom_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutTitle" />
+            <TextView android:id="@id/left_bottom_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutSubtitle" />
+        </LinearLayout>
+        <LinearLayout android:gravity="end" android:orientation="vertical" android:id="@id/right_bottom_title_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/cards_page_title_margin_bottom" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true">
+            <TextView android:id="@id/right_bottom_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutTitle" />
+            <TextView android:id="@id/right_bottom_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutSubtitle" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/bottom_center_title_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/cards_page_title_margin_bottom" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+            <TextView android:id="@id/bottom_center_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutTitle" />
+            <TextView android:id="@id/bottom_center_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/CardTitleLayoutSubtitle" />
+        </LinearLayout>
+    </RelativeLayout>
+</com.miui.gallery.widget.CardTitleLayoutView>

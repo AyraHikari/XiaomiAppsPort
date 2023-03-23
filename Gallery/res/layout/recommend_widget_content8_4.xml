@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/DesktopWidgetRootBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/layout_root" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/image_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/widget_recommend_replace_8_4" android:scaleType="centerCrop" android:contentDescription="@string/widget_talkback_recommend" />
+        <ImageView android:id="@id/mask_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/widget_recommend_small_mark_8_4" android:scaleType="fitXY" android:layout_alignParentBottom="true" />
+        <TextView android:textSize="@dimen/gallery_widget_title_font_size" android:textColor="@color/gallery_widget_recommend_title_color" android:ellipsize="end" android:id="@id/text_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:layout_above="@id/text_desc" android:fontFamily="mipro-medium" android:layout_alignStart="@id/text_desc" />
+        <TextView android:textSize="@dimen/gallery_widget_description_font_size" android:textColor="@color/gallery_widget_recommend_desc_color" android:ellipsize="end" android:id="@id/text_desc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/gallery_widget_margin_bottom" android:maxLines="1" android:layout_alignParentBottom="true" android:fontFamily="mipro-regular" android:layout_marginStart="@dimen/gallery_widget_margin_start" android:layout_marginEnd="@dimen/gallery_widget_margin_start" android:layout_alignParentStart="true" />
+    </RelativeLayout>
+</FrameLayout>

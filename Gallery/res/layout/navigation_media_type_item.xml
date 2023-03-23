@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/click_view" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:background="@drawable/album_tab_tool_bg" android:layout_width="50.0dip" android:layout_height="50.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.35" />
+    <ImageView android:id="@id/icon" android:layout_width="@dimen/album_tab_tool_item_grid_mode_image_width" android:layout_height="@dimen/album_tab_tool_item_grid_mode_image_height" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.35" />
+    <TextView android:textSize="@dimen/album_tab_tool_item_grid_mode_text_size" android:textColor="@color/album_tab_tool_item_grid_mode_text_color_grid" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/album_tab_tool_item_grid_mode_padding_bottom" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/icon" />
+</androidx.constraintlayout.widget.ConstraintLayout>

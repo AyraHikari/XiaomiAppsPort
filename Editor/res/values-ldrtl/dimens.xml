@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="miuix_appcompat_action_bar_subtitle_bg_end_margin">5.899994dip</dimen>
+    <dimen name="miuix_appcompat_action_bar_subtitle_bg_start_margin">0.0dip</dimen>
+    <item type="dimen" name="screen_brush_markpen_indicator_margin_start">@dimen/px_129</item>
+    <item type="dimen" name="screen_brush_pen_indicator_margin_start">@dimen/px_127</item>
+    <item type="dimen" name="screen_mosaic_indicator_margin_start">@dimen/px_119</item>
+    <item type="dimen" name="screen_text_indicator_margin_start">@dimen/px_115</item>
+</resources>

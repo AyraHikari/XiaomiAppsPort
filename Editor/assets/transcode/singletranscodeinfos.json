@@ -1,0 +1,219 @@
+{
+  "modelResourceInfoList": [
+    {
+      "860": "K82",
+      "865": "J1S, J1, J2, J11, J11, J11, J11,J3S",
+      "875": "K2,K8,K3S",
+      "870": "J2S,K11A,K11A-in,K81,K81A",
+      "MTK DX": "L11,L11A,L11R,L16,L12A",
+      "MTK D9000+": "L2M",
+      "8475": "L2S,L3S,L12",
+      "models": ["J1S", "J1", "J2", "J11", "J11", "J11", "J11","J3S","K2","J2S","K11A","K11A-in","K8","K3S","L11","L11A","L11R","L16","L2S","L12A","L3S","L12","K81","K81A","K82","L2M"],
+      "devices": ["cas", "cmi", "umi", "lmi","lmipro","lmiin","lmiinpro","apollo","venus","thyme","alioth","aliothin","odin","vili","matisse","rubens","munch","xaga","unicorn","plato","mayfly","diting","enuma","elish","nabu","daumier"],
+      "extraInfo": {
+        "VIDEO_4K_30FPS": "0",
+        "VIDEO_4K_60FPS": "0",
+        "VIDEO_4K_120FPS": "3",
+        "VIDEO_1080P_30FPS": "0",
+        "VIDEO_1080P_60FPS": "0",
+        "VIDEO_1080P_120FPS": "2",
+        "VIDEO_1080P_240FPS": "2",
+        "VIDEO_1080P_960FPS": "0",
+        "VIDEO_720P_120FPS": "1",
+        "VIDEO_720P_240FPS": "1",
+        "VIDEO_720P_960FPS": "0"
+      }
+    },
+    {
+      "855": "F11,F11-in,F1,F1X,E5G",
+      "SD 860": "J20S,J20S",
+      "天玑1200+": "K10,K10-in,K10A",
+      "models": ["F11","F11-in","F1","F1X","E5G","J20S","J20S","K10","K10-in","K10A"],
+      "devices": ["raphael", "raphaelin","cepheus","crux","andromeda","vayu","bhima","ares","aresin","chopin"],
+      "extraInfo": {
+        "VIDEO_4K_30FPS": "0",
+        "VIDEO_4K_60FPS": "0",
+        "VIDEO_4K_120FPS": "3",
+        "VIDEO_1080P_30FPS": "0",
+        "VIDEO_1080P_60FPS": "0",
+        "VIDEO_1080P_120FPS": "2",
+        "VIDEO_1080P_240FPS": "2",
+        "VIDEO_1080P_960FPS": "0",
+        "VIDEO_720P_120FPS": "1",
+        "VIDEO_720P_240FPS": "1",
+        "VIDEO_720P_960FPS": "0"
+      }
+    },
+    {
+      "845": "E10,E1,E5,D5X,E1S,E8",
+      "8350": "K1,K1A,K11,K11 in,J18",
+      "7125": "K9A,K9A-in",
+      "高通678": "K7A,K7A,K7A",
+      "8450": "L2,L3,L18",
+      "models": ["E10","E1","E5","D5X","E1S","E8","K1","K1A","K11","K11-in","J18","K9A","K9A-in","K7A","K7A","K7A","L2","L3","L18"],
+      "devices": ["beryllium","dipper","perseus","polaris","equuleus","ursa","star","mars","haydn","haydnin","cetus","courbet","courbetin","mojito","rainbow","sunny","zeus","cupid","zizhan"],
+      "extraInfo": {
+        "VIDEO_4K_30FPS": "0",
+        "VIDEO_4K_60FPS": "0",
+        "VIDEO_4K_120FPS": "3",
+        "VIDEO_1080P_30FPS": "0",
+        "VIDEO_1080P_60FPS": "0",
+        "VIDEO_1080P_120FPS": "2",
+        "VIDEO_1080P_240FPS": "2",
+        "VIDEO_1080P_960FPS": "0",
+        "VIDEO_720P_120FPS": "1",
+        "VIDEO_720P_240FPS": "1",
+        "VIDEO_720P_960FPS": "0"
+      }
+    },
+    {
+      "835": "C1,D5",
+      "models": ["C1","D5"],
+      "devices": ["sagit","chiron"],
+      "extraInfo": {
+        "VIDEO_4K_30FPS": "0",
+        "VIDEO_4K_60FPS": "0",
+        "VIDEO_4K_120FPS": "3",
+        "VIDEO_1080P_30FPS": "0",
+        "VIDEO_1080P_60FPS": "0",
+        "VIDEO_1080P_120FPS": "2",
+        "VIDEO_1080P_240FPS": "2",
+        "VIDEO_1080P_960FPS": "0",
+        "VIDEO_720P_120FPS": "1",
+        "VIDEO_720P_240FPS": "1",
+        "VIDEO_720P_960FPS": "0"
+      }
+    },
+    {
+      "765G(7250)": "J9A,J9,J9,G7A,G7A-in",
+      "7350": "K9",
+      "MTKG95": "K7B,K7BN,K7BL",
+      "models": ["J9A","J9","J9","G7A","G7A-in","K9","K7B","K7BN","K7BL"],
+      "devices": ["vangogh","monet","monetin","picasso","picassoin","renoir","secret","rosemary","maltose"],
+      "extraInfo": {
+        "VIDEO_4K_30FPS": "0",
+        "VIDEO_4K_60FPS": "3",
+        "VIDEO_4K_120FPS": "3",
+        "VIDEO_1080P_30FPS": "0",
+        "VIDEO_1080P_60FPS": "0",
+        "VIDEO_1080P_120FPS": "2",
+        "VIDEO_1080P_240FPS": "2",
+        "VIDEO_1080P_960FPS": "0",
+        "VIDEO_720P_120FPS": "1",
+        "VIDEO_720P_240FPS": "1",
+        "VIDEO_720P_960FPS": "0"
+      }
+    },
+    {
+      "730G(730)":"G7B,G7B,F10,F10,F4,F4L,F4L-in",
+      "SDM730 Pro（SM730G)": "J20C,J20C",
+      "models": ["G7B","G7B","F10","F10","F4","F4L","F4L-in","J20C","J20C"],
+      "devices": ["phoenix","phoenixin","davinci","davinciin","tucana","toco","tocoin","surya","karna"],
+      "extraInfo": {
+        "VIDEO_4K_30FPS": "0",
+        "VIDEO_4K_60FPS": "0",
+        "VIDEO_4K_120FPS": "3",
+        "VIDEO_1080P_30FPS": "0",
+        "VIDEO_1080P_60FPS": "0",
+        "VIDEO_1080P_120FPS": "2",
+        "VIDEO_1080P_240FPS": "2",
+        "VIDEO_1080P_960FPS": "0",
+        "VIDEO_720P_120FPS": "1",
+        "VIDEO_720P_240FPS": "1",
+        "VIDEO_720P_960FPS": "0"
+      }
+    },
+    {
+      "6250": "J6A1,J6A2,J6B1,J6B2,J6C",
+      "models": ["J6A1","J6A2","J6B1","J6B2","J6C"],
+      "devices": ["curtana","durandal","excalibur","joyeuse","gram"],
+      "extraInfo": {
+        "VIDEO_4K_30FPS": "0",
+        "VIDEO_4K_60FPS": "0",
+        "VIDEO_4K_120FPS": "3",
+        "VIDEO_1080P_30FPS": "0",
+        "VIDEO_1080P_60FPS": "0",
+        "VIDEO_1080P_120FPS": "2",
+        "VIDEO_1080P_240FPS": "2",
+        "VIDEO_1080P_960FPS": "0",
+        "VIDEO_720P_120FPS": "1",
+        "VIDEO_720P_240FPS": "1",
+        "VIDEO_720P_960FPS": "0"
+      }
+    },
+    {
+      "天玑820（MTK 5G-A(+)）": "J7A,J7A,J7B,J7B",
+      "天玑1000+": "J10",
+      "天玑800U": "J22",
+      "models": ["J7A","J7A","J7B","J7B","J10","J22","J22"],
+      "devices": ["atom","apricot","bomb","banana","cezanne","cannon","cannong"],
+      "extraInfo": {
+        "VIDEO_4K_30FPS": "0",
+        "VIDEO_4K_60FPS": "3",
+        "VIDEO_4K_120FPS": "3",
+        "VIDEO_1080P_30FPS": "0",
+        "VIDEO_1080P_60FPS": "0",
+        "VIDEO_1080P_120FPS": "2",
+        "VIDEO_1080P_240FPS": "2",
+        "VIDEO_1080P_960FPS": "0",
+        "VIDEO_720P_120FPS": "1",
+        "VIDEO_720P_240FPS": "1",
+        "VIDEO_720P_960FPS": "0"
+      }
+    },
+    {
+      "MTK G85":"J15S-NFC,J15S,J15-in",
+      "MTK G80": "J19,J19A,J19P",
+      "MTK MT6761": "C3S",
+      "MTK P22（MT6762）": "C3L",
+      "MTK P35（MT6765）": "C3M,C3MI,C3MN",
+      "MTK MT6877" : "K16",
+      "MTK G8X" : "K19AB",
+      "MTK 8781" : "L83",
+      "高通骁龙662（6115）": "J19S,J19C,J19N,J19L",
+      "高通骁龙750G（7225）": "J17",
+      "7325": "K9D,K9E,L9",
+      "高通778G": "K9B",
+      "6325": "K6S,K6P,K7T",
+      "MTK 9GX-B": "K6T",
+      "MTK 5G-C(+)": "K16A,K16P",
+      "MTK-5G C": "K19R,K19",
+      "Mk6789": "M6",
+      "7150": "K6A,K6A-in",
+      "models": ["J15S-NFC","J15S","J15-in","J19","J19A","J19P","C3L","C3M","C3M-in","C3MI","C3MN","J19S","J19C","J19N","J19L","J17","J17","J17","K9D","K9B","K16","K19AB","K6S","K6P","K6T","K7T","K7T-spesn","K9E","L9","C3S","L83","K16A","K16P","K19R","K19","M6","K6A","K6A-in"],
+      "devices": ["merlinnfc","merlin","merlinin","lancelot","galahad","shiva","dandelion","angelica","angelicain","cattail","angelican","lime","citrus","lemon","pomelo","gauguin","gauguinpro","gauguininpro","lisa","mona","pissarro","selene","veux","peux","viva","vida","spes","spesn","zijin","taoyao","ice","yunluo","evergo","evergreen","camellia","camellian","diamond","sweet","sweetin"],
+      "extraInfo": {
+        "VIDEO_4K_30FPS": "2",
+        "VIDEO_4K_60FPS": "2",
+        "VIDEO_4K_120FPS": "2",
+        "VIDEO_1080P_30FPS": "0",
+        "VIDEO_1080P_60FPS": "0",
+        "VIDEO_1080P_120FPS": "2",
+        "VIDEO_1080P_240FPS": "2",
+        "VIDEO_1080P_960FPS": "0",
+        "VIDEO_720P_120FPS": "1",
+        "VIDEO_720P_240FPS": "1",
+        "VIDEO_720P_960FPS": "0"
+      }
+    },
+    {
+      "4350": "K19K,K19J",
+      "models": ["K19K","K19J"],
+      "devices": ["lilac","iris"],
+      "extraInfo": {
+        "VIDEO_4K_30FPS": "1",
+        "VIDEO_4K_60FPS": "1",
+        "VIDEO_4K_120FPS": "1",
+        "VIDEO_1080P_30FPS": "1",
+        "VIDEO_1080P_60FPS": "1",
+        "VIDEO_1080P_120FPS": "1",
+        "VIDEO_1080P_240FPS": "1",
+        "VIDEO_1080P_960FPS": "1",
+        "VIDEO_720P_120FPS": "1",
+        "VIDEO_720P_240FPS": "1",
+        "VIDEO_720P_960FPS": "0"
+      }
+    }
+
+  ]
+}

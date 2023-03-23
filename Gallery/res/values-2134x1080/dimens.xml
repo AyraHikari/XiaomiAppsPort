@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="beautyedit_beauty_compare_margin_right">98.0px</dimen>
+    <dimen name="beautyedit_beauty_compare_margin_top">221.0px</dimen>
+    <dimen name="crop_tips_bottom_margin">170.0px</dimen>
+    <dimen name="photo_editor_navigator_text_button_height">158.0px</dimen>
+    <dimen name="photo_editor_preview_padding_top">12.0px</dimen>
+    <dimen name="photo_editor_preview_tip_margin_bottom">79.45499dip</dimen>
+    <dimen name="screen_editor_top_height">87.0dip</dimen>
+    <dimen name="video_editor_preview_padding_top">260.0px</dimen>
+</resources>

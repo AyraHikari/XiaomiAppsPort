@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/vlog_menu_audio_item_title_margin_bootom" android:paddingEnd="@dimen/vlog_menu_audio_item_title_margin_bootom"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:layout_width="@dimen/vlog_menu_common_operation_btn_hot_area_width" android:layout_height="@dimen/vlog_menu_common_operation_height" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" layout="@layout/vlog_play_layout" />
+    <FrameLayout android:gravity="center" android:id="@id/voice_layout" android:layout_width="@dimen/vlog_menu_common_operation_btn_hot_area_width" android:layout_height="@dimen/vlog_menu_common_operation_height" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <View android:layout_gravity="center" android:background="@drawable/vlog_common_operation_btn_bg" android:layout_width="@dimen/vlog_menu_common_operation_btn_bg_size" android:layout_height="@dimen/vlog_menu_common_operation_btn_bg_size" />
+        <ImageView android:layout_gravity="center" android:id="@id/voice_view" android:layout_width="@dimen/vlog_menu_common_operation_btn_size" android:layout_height="@dimen/vlog_menu_common_operation_btn_size" android:src="@drawable/vlog_common_voice_disable_enable_selector" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

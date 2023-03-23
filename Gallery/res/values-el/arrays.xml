@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Άσπρο</item>
+        <item>Σκούρο μπλε</item>
+        <item>Απαλό μπλε</item>
+        <item>Κόκκινο</item>
+        <item>Πράσινο</item>
+        <item>Ροζ</item>
+        <item>Καφέ</item>
+        <item>Γκρι</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Επιλογή εικόνας</item>
+        <item>Διάφανο φόντο</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Άνδρας</item>
+        <item>Γυναίκα</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Ξεχωριστή μέρα</item>
+        <item>Αξιομνημόνευτη μέρα</item>
+        <item>Ζωντανές στιγμές</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Μια νόστιμη χρονιά</item>
+        <item>Τρία πιάτα. Τέσσερις εποχές.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Γεια σου κόσμε!</item>
+        <item>Στο δρόμο</item>
+        <item>Ένα καλειδοσκόπιο τόπων</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Φθινοπωρινή μεγαλοπρέπεια</item>
+        <item>Λαμπερό φθινόπωρο</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Αγόρι</item>
+        <item>Κορίτσι</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Δημιουργία αντιγράφων ασφαλείας για φωτογραφίες</item>
+        <item>Συγχρονισμός φωτογραφιών με το cloud</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Μια αξιομνημόνευτη βραδιά</item>
+        <item>Νέα σελίδα</item>
+        <item>Πυροτεχνήματα</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Καλή Χρονιά!</item>
+        <item>Ξημέρωμα της νέας χρονιάς</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Έτος του Πιθήκου</item>
+        <item>Έτος του Πετεινού</item>
+        <item>Έτος του Σκύλου</item>
+        <item>Έτος του Χοίρου</item>
+        <item>Έτος του Αρουραίου</item>
+        <item>Έτος του Βοδιού</item>
+        <item>Έτος της Τίγρης</item>
+        <item>Έτος του Κουνελιού</item>
+        <item>Έτος του Δράκου</item>
+        <item>Έτος του Φιδιού</item>
+        <item>Έτος του Αλόγου</item>
+        <item>Έτος της Κατσίκας</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Αστικά τοπία</item>
+        <item>Δρόμοι και γωνιές</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Απαλά πέταλα</item>
+        <item>Σε πλήρη άνθιση</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Μέσα στη φύση</item>
+        <item>Άγριοι και ελεύθεροι</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Οι συναντήσεις μας</item>
+        <item>Παρέα με φίλους</item>
+        <item>Χρόνια και ζαμάνια</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Τα αγαπημένα σας θέματα</item>
+        <item>Συγγενικά πνεύματα</item>
+        <item>Οι φωτεινές στιγμές της ζωής</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Απασχολημένοι μεγαλώνοντας</item>
+        <item>Όλο και πιο χαριτωμένοι</item>
+        <item>Μικροί εξερευνητές</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Ημερολόγιο γυμναστικής</item>
+        <item>Όλο και πιο δυνατοί</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Καλή όρεξη!</item>
+        <item>Άλλη μια μπουκιά;</item>
+        <item>Καλή όρεξη!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Χαμογελάστε και χαιρετίστε!</item>
+        <item>Ώρα παιχνιδιού</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Η υπέροχη ύπαιθρος</item>
+        <item>Ίχνη στο χιόνι</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Ασταμάτητοι</item>
+        <item>Μένοντας σε φόρμα</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Μεγάλη μέρα</item>
+        <item>Στα σκαλιά της εκκλησίας!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Time to play</item>
+        <item>"Kiddo's weekend"</item>
+        <item>The little one</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Tα Σαββατοκύριακά μου</item>
+        <item>Στιγμιότυπα ζωής</item>
+        <item>Αναμνήσεις Σαββατοκύριακου</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>New friends and old pals</item>
+        <item>"Last year's get-togethers"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Ελεύθερος χρόνος</item>
+        <item>Αεράκι</item>
+        <item>Όνειρα</item>
+        <item>Σύννεφα</item>
+        <item>Σκέψεις</item>
+        <item>Μπουμπούκια</item>
+        <item>Μεταμόρφωση</item>
+        <item>Βάθος</item>
+        <item>Συλλογισμός</item>
+        <item>Μινιμαλιστικό</item>
+        <item>Μυστήριο</item>
+        <item>Ομίχλη</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Μετατρέψτε τα υπόβαθρα σε σκίτσα</item>
+        <item>Ακουαρέλα στυλ υπόβαθρα</item>
+        <item>Cyberpunk ρετρό</item>
+        <item>Λανθασμένα κατακόρυφα τμήματα</item>
+        <item>Ομιχλώδες θόλωμα</item>
+        <item>Φουτουριστική αίσθηση</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Σκιτσογραφία</item>
+        <item>Ακουαρέλα</item>
+        <item>RGB</item>
+        <item>Σκίαστρα</item>
+        <item>Ομιχλώδες παράθυρο</item>
+        <item>Τεχνολογία</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Έγχρωμο περίγραμμα</item>
+        <item>Διακεκομμένο περίγραμμα</item>
+        <item>Περίγραμμα φθορισμού</item>
+        <item>Χρωματιστή σκιά</item>
+        <item>Ηλεκτρικό κύμα</item>
+        <item>Ροή</item>
+        <item>Κύματα</item>
+        <item>Σωματίδια</item>
+        <item>Κείμενο</item>
+        <item>Φτερά</item>
+        <item>Άγγελος</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Μετακίνηση</item>
+        <item>Αντιγραφή</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Ιανουάριος</item>
+        <item>Φεβρουάριος</item>
+        <item>Μάρτιος</item>
+        <item>Απρίλιος</item>
+        <item>Μάιος</item>
+        <item>Ιούνιος</item>
+        <item>Ιούλιος</item>
+        <item>Αύγουστος</item>
+        <item>Σεπτέμβριος</item>
+        <item>Οκτώβριος</item>
+        <item>Νοέμβριος</item>
+        <item>Δεκέμβριος</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>Μεγαλώσατε!</item>
+        <item>Μεγαλώσατε ξανά!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Το προσωπικό μου μενού</item>
+        <item>Νόστιμες αναμνήσεις</item>
+        <item>Δεύτερη βοήθεια, παρακαλώ!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>Η καλύτερες θέες του κόσμου</item>
+        <item>Συνεχίστε την ανάβαση</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Πατέρας</item>
+        <item>Μητέρα</item>
+        <item>Παππούς από την μεριά του πατέρα</item>
+        <item>Γιαγιά από την μεριά του πατέρα</item>
+        <item>Παππούς από την μεριά της μητέρας</item>
+        <item>Γιαγιά από την μεριά της μητέρας</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Μαζί</item>
+        <item>Καλές εποχές</item>
+        <item>Σε αρμονία</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Εκεί που μας βγάλει ο δρόμος</item>
+        <item>Καλά κοινά ταξίδια</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Μια ξέγνοιαστη άνοιξη</item>
+        <item>Ένα χαρωπό καλοκαίρι</item>
+        <item>Ένα χαρούμενο φθινόπωρο</item>
+        <item>Ένας ευτυχής χειμώνας</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Ανοιξιάτικα γεύματα</item>
+        <item>Καλοκαιρινές λιχουδιές</item>
+        <item>Φθινοπωρινές γιορτές</item>
+        <item>Χειμερινά χουχουλιάσματα</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Together</item>
+        <item>Bonds and ties</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Εγώ</item>
+        <item>Παιδί</item>
+        <item>Οικογένεια</item>
+        <item>Συνάδελφοι</item>
+        <item>Συμμαθητές</item>
+        <item>Φίλοι</item>
+        <item>Χωρίς ομάδα</item>
+    </string-array>
+    <string-array name="season">
+        <item>Άνοιξη</item>
+        <item>Καλοκαίρι</item>
+        <item>Φθινόπωρο</item>
+        <item>Χειμώνας</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Πατέρας</item>
+        <item>Μητέρα</item>
+        <item>Παππούς από την μεριά του πατέρα</item>
+        <item>Γιαγιά από την μεριά του πατέρα</item>
+        <item>Παππούς από την μεριά της μητέρας</item>
+        <item>Γιαγιά από την μεριά της μητέρας</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Κινείται προς τα εμπρός</item>
+        <item>Γεμάτο ενέργεια</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Άνθη της άνοιξης</item>
+        <item>Η άνοιξη είναι στον αέρα</item>
+        <item>Γειά σου άνοιξη!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Λίγο καλοκαίρι</item>
+        <item>Εκεί που το καλοκαίρι δεν τελειώνει ποτέ</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Χρυσές ώρες</item>
+        <item>Ακτίνες χρυσού</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>They grow so fast</item>
+        <item>"Kiddo's photos"</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Μέρες του χειμώνα</item>
+        <item>Χειμερινή χώρα των θαυμάτων</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="@dimen/beautyedit_child_menu_panel_list_height" android:layout_alignParentBottom="true">
+        <TextView android:textSize="@dimen/beautyedit_child_menu_param_title_text_size" android:textColor="@color/beautyedit_child_menu_param_title_color" android:id="@id/switch_param_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/beautyedit_child_menu_switch_param_title_margin_right" />
+        <miuix.slidingwidget.widget.SlidingButton android:id="@id/check_box" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:id="@id/grid_container" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginStart="@dimen/home_page_margin_horizontal" android:layout_marginEnd="@dimen/home_page_margin_horizontal" app:layout_constraintBottom_toTopOf="@id/delete_container" app:layout_constraintTop_toTopOf="parent" app:scrollableView="@id/grid">
+        <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/grid" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/Gallery.Widget.GridView.ThumbNail" />
+    </miuix.springback.view.SpringBackLayout>
+    <TextView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@android:id/empty" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="0.0dip" android:text="@string/album_detail_page_empty" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/Gallery.TextAppearance.BlankPage" />
+    <FrameLayout android:id="@id/delete_container" android:background="@drawable/cleaner_button_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent">
+        <Button android:id="@id/delete" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/cleaner_pick_action_button_margin_top" android:layout_marginBottom="@dimen/cleaner_pick_action_button_margin_button" android:text="@string/cleaner_photo_pick_delete_selected" android:layout_marginStart="@dimen/cleaner_pick_action_button_margin_start" android:layout_marginEnd="@dimen/cleaner_pick_action_button_margin_end" style="@style/Gallery.Widget.Button.Warning" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

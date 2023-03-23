@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="?preferenceItemBackground" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/album_share_qr_title_margin_top" android:layout_marginBottom="@dimen/album_share_qr_title_margin_top" android:text="@string/scan_qr_code" style="@style/Gallery.TextAppearance.Info.Tip" />
+    <LinearLayout android:orientation="vertical" android:id="@id/qr_code_content" android:background="@drawable/share_album_qr_code_huge_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/vertical_spacing_big" android:minHeight="@dimen/share_album_qr_code_content_height" android:layout_marginStart="@dimen/album_share_qr_background_left_margin" android:layout_marginEnd="@dimen/album_share_qr_background_left_margin">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/qr_code_error" android:background="@drawable/qr_error_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/request_qr_code_failed" style="@style/Gallery.TextAppearance.Info.Tip" />
+            <TextView android:gravity="center" android:id="@id/retry_btn" android:layout_width="100.0dip" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/retry_to_request_qr_code" style="@style/Gallery.TextAppearance.Info.Tip" />
+        </LinearLayout>
+        <FrameLayout android:id="@id/qr_code_requesting" android:background="@drawable/qr_error_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ProgressBar android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/qr_code_image" android:background="@drawable/share_album_qr_code_background" android:layout_width="@dimen/album_share_qr_background_width" android:layout_height="@dimen/album_share_qr_background_height" android:layout_marginTop="@dimen/album_share_qr_background_margin" android:layout_marginBottom="@dimen/album_share_qr_background_margin" android:scaleType="fitCenter" android:contentDescription="@string/share_album_qr_code" />
+        <TextView android:textSize="@dimen/album_share_qr_text_size" android:textColor="@color/share_album_qr_text_color" android:gravity="center" android:layout_gravity="bottom" android:paddingBottom="@dimen/album_share_qr_text_bottom_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/scan_qr_code_buttom_text" android:fontFamily="MiSans" />
+    </LinearLayout>
+</LinearLayout>

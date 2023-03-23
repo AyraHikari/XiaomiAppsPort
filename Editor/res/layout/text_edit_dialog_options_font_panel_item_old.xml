@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#0000ffff" android:layout_width="fill_parent" android:layout_height="@dimen/text_edit_dialog_tab_font_item_height" android:paddingStart="@dimen/text_edit_dialog_tab_sub_menu_font_item_padding_left" android:paddingEnd="@dimen/text_edit_dialog_tab_sub_menu_font_item_padding_right"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/ll_font_item" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentStart="true">
+        <ImageView android:id="@id/font_item_check" android:layout_width="@dimen/text_edit_dialog_tab_font_item_img_width_old" android:layout_height="@dimen/text_edit_dialog_tab_font_item_img_width_old" android:src="@drawable/text_edit_dialog_font_icon" android:scaleType="centerCrop" android:contentDescription="@null" />
+        <TextView android:textSize="@dimen/text_edit_dialog_tab_sub_menu_font_item_size" android:textColor="@color/text_edit_dialog_tab_sub_menu_font_color_old" android:id="@id/tv_font_item_name" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/text_edit_dialog_tab_sub_menu_font_item_padding_with_image" />
+        <ImageView android:id="@id/iv_font_item_name" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginStart="@dimen/text_edit_dialog_tab_sub_menu_font_item_padding_with_image" />
+    </LinearLayout>
+    <com.miui.gallery.editor.photo.core.imports.text.typeface.DownloadView android:gravity="end|center" android:id="@id/download_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_toRightOf="@id/ll_font_item" android:layout_alignParentEnd="true" />
+</RelativeLayout>

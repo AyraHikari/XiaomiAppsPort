@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/photo_page_top_menu_bar_icon_height" android:width="@dimen/photo_page_top_menu_bar_icon_width" android:viewportWidth="74.0" android:viewportHeight="74.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/action_button_v20_disable" android:pathData="M11.5,16C11.5,12.9624 13.9624,10.5 17,10.5H58C61.0376,10.5 63.5,12.9624 63.5,16V57C63.5,60.0376 61.0376,62.5 58,62.5H17C13.9624,62.5 11.5,60.0376 11.5,57V16ZM17,15.5C16.7239,15.5 16.5,15.7239 16.5,16V57C16.5,57.2761 16.7239,57.5 17,57.5H58C58.2761,57.5 58.5,57.2761 58.5,57V16C58.5,15.7239 58.2761,15.5 58,15.5H17Z" android:fillType="evenOdd" />
+    <path android:fillColor="@color/action_button_v20_disable" android:pathData="M40,26.5C40,25.1193 38.8807,24 37.5,24C36.1193,24 35,25.1193 35,26.5V34H27.5C26.1193,34 25,35.1193 25,36.5C25,37.8807 26.1193,39 27.5,39H35V46.5C35,47.8807 36.1193,49 37.5,49C38.8807,49 40,47.8807 40,46.5V39H47.5C48.8807,39 50,37.8807 50,36.5C50,35.1193 48.8807,34 47.5,34H40V26.5Z" android:fillType="evenOdd" />
+</vector>

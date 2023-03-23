@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Balts</item>
+        <item>Tumši zils</item>
+        <item>Gaiši zils</item>
+        <item>Sarkans</item>
+        <item>Zaļš</item>
+        <item>Rozā</item>
+        <item>Brūns</item>
+        <item>Pelēks</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Izvēlēt attēlu</item>
+        <item>Caurspīdīgs fons</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Vīrietis</item>
+        <item>Sieviete</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Īpašā diena</item>
+        <item>Iegaumējama diena</item>
+        <item>Dinamiski momenti</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Garšīgs gads</item>
+        <item>Trīs ēdieni. Četras sezonas.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Sveika pasaule!</item>
+        <item>Uz ceļa</item>
+        <item>Vietu kaleidoskops</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Rudens krāšņums</item>
+        <item>Starojošs rudens</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Puika</item>
+        <item>Meitene</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Dublētie foto</item>
+        <item>Sinhronizēt attēlus ar mākoni</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Neaizmirstama nakts</item>
+        <item>Jauna lapa</item>
+        <item>Salūts</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Laimīgu Jauno gadu!</item>
+        <item>Jaungada rīts</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Pērtiķa gads</item>
+        <item>Gaiļa gads</item>
+        <item>Suņa gads</item>
+        <item>Cūkas gads</item>
+        <item>Žurkas gads</item>
+        <item>Buļļa gads</item>
+        <item>Tīģera gads</item>
+        <item>Truša gads</item>
+        <item>Pūķa gads</item>
+        <item>Čūskas gads</item>
+        <item>Zirga gads</item>
+        <item>Kazas gads</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Pilsētas skati</item>
+        <item>Ielas un stūri</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Maigas ziedlapas</item>
+        <item>Pilnā ziedā</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Savvaļā</item>
+        <item>Mežonīgs un brīvs</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Mūsu kopā sanākšanas</item>
+        <item>Draugu lokā</item>
+        <item>Sen neredzēts</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Jūsu mīļākā tēma</item>
+        <item>Dvēseles radinieki</item>
+        <item>Dzīves spilgtākie mirkļi</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Galvenā uzmanība tiek pievērsta izaugsmei</item>
+        <item>Mīļš un mīļāks</item>
+        <item>Mazais pētnieks</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Fitnesa dienasgrāmata</item>
+        <item>Stiprāks un stiprāks</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Labu apetīti!</item>
+        <item>Vēl vienu kumosu?</item>
+        <item>Labu apetīti!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Smaidi un māj!</item>
+        <item>Rotaļu laiks</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Āra aktivitātes</item>
+        <item>Pēdas sniegā</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Neapturams</item>
+        <item>Sevis uzturēšana formā</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Lielā diena</item>
+        <item>Pie altāra!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Laiks spēlēties</item>
+        <item>Bērnu brīvdienas</item>
+        <item>Mazākais</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Manas brīvdienas</item>
+        <item>Dzīves daļas</item>
+        <item>Brīvdienu atmiņas</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Jaunie un vecie draugi</item>
+        <item>Pagājuša gada sanākšanas</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Atpūta</item>
+        <item>Brīze</item>
+        <item>Sapņi</item>
+        <item>Mākoņi</item>
+        <item>Domas</item>
+        <item>Pumpuri</item>
+        <item>Metamorfoze</item>
+        <item>Dziļums</item>
+        <item>Atspīdumi</item>
+        <item>Minimālisms</item>
+        <item>Mistērija</item>
+        <item>Migla</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Pārvērtiet fonus par skicēm</item>
+        <item>Akvareļu stila foni</item>
+        <item>Retro kiberpunkts</item>
+        <item>Pārvietoti vertikāli segmenti</item>
+        <item>Miglains izplūdums</item>
+        <item>Futūristiska izjūta</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Skice</item>
+        <item>Akvarelis</item>
+        <item>RGB</item>
+        <item>Žalūzijas</item>
+        <item>Miglains logs</item>
+        <item>Tehnoloģija</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Krāsaina struktūra</item>
+        <item>Svītrota struktūra</item>
+        <item>Fluorescējoša struktūra</item>
+        <item>Krāsaina ēna</item>
+        <item>Elektriskais vilnis</item>
+        <item>Strāva</item>
+        <item>Viļņi</item>
+        <item>Daļiņas</item>
+        <item>Teksts</item>
+        <item>Spārni</item>
+        <item>Eņģelis</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Pārvietot</item>
+        <item>Kopēt</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Janvāris</item>
+        <item>Februāris</item>
+        <item>Marts</item>
+        <item>Aprīlis</item>
+        <item>Maijs</item>
+        <item>Jūnijs</item>
+        <item>Jūlijs</item>
+        <item>Augusts</item>
+        <item>Septembris</item>
+        <item>Oktobris</item>
+        <item>Novembris</item>
+        <item>Decembris</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>Tu esi paaudzies!</item>
+        <item>Tu esi atkal paaudzies!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Mana personīgā ēdienkarte</item>
+        <item>Garšīgās atmiņas</item>
+        <item>Otru porciju, lūdzu!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>Pasaules labākie skati</item>
+        <item>Turpini kāpt</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Tēvs</item>
+        <item>Māte</item>
+        <item>Tēva puses vectēvs</item>
+        <item>Tēva puses vecmāte</item>
+        <item>Mātes puses vectēvs</item>
+        <item>Mātes puses vecmāte</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Kopā</item>
+        <item>Labie laiki</item>
+        <item>Unisonā</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Kur ceļš vedīs mūs</item>
+        <item>Ceļojumu atmiņas</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Līksms pavasaris</item>
+        <item>Priecīga vasara</item>
+        <item>Laimīgs rudens</item>
+        <item>Jauka ziema</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Pavasara maltītes</item>
+        <item>Vasaras našķis</item>
+        <item>Rudens svētki</item>
+        <item>Ziemas ierušināšanās</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Kopā</item>
+        <item>Obligācijas un saites</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Es</item>
+        <item>Bērns</item>
+        <item>Ģimene</item>
+        <item>Kolēģi</item>
+        <item>Klases biedri</item>
+        <item>Draugi</item>
+        <item>Negrupēts</item>
+    </string-array>
+    <string-array name="season">
+        <item>Pavasaris</item>
+        <item>Vasara</item>
+        <item>Rudens</item>
+        <item>Ziema</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Tēvs</item>
+        <item>Māte</item>
+        <item>Tēva puses vectēvs</item>
+        <item>Tēva puses vecmāte</item>
+        <item>Mātes puses vectēvs</item>
+        <item>Mātes puses vecmāte</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Kustība uz priekšu</item>
+        <item>Enerģijas pilns</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Pavasara ziedi</item>
+        <item>Pavasaris ir gaisā</item>
+        <item>Sveiks, pavasari!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Mazliet no vasaras</item>
+        <item>Kur vasara nekad nebeidzas</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Zelta stundas</item>
+        <item>Zelta stari</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Viņi aug tik ātri</item>
+        <item>Bērnu fotogrāfijas</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Ziemas dienas</item>
+        <item>Ziemas brīnumzeme</item>
+    </string-array>
+</resources>

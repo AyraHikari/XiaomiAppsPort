@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Fari</item>
+        <item>Shuɗi mai duhu</item>
+        <item>Shuɗi mai haske</item>
+        <item>Ja</item>
+        <item>Kore</item>
+        <item>Ruwan hoda</item>
+        <item>Launin ruwan kasa</item>
+        <item>Toka</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Zabi hoto</item>
+        <item>Bango bayananne</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Sukuni</item>
+        <item>Iska mai karfi</item>
+        <item>Mafarkai</item>
+        <item>Cloud</item>
+        <item>Tunani</item>
+        <item>Toho</item>
+        <item>Metamorphosis</item>
+        <item>Zurfi</item>
+        <item>Tunani</item>
+        <item>Karami</item>
+        <item>Asiri</item>
+        <item>Hazo</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Kama na bango nan gaba</item>
+        <item>Yanayin tsohon babban kwafi</item>
+        <item>Juya bango zuwa zanawa</item>
+        <item>Bangon tsarin ruwa mai launi</item>
+        <item>Bege na Cyberpunk</item>
+        <item>Yankin karkatattun bangarori</item>
+        <item>Duhu mai hazo</item>
+        <item>Ji na rayuban gaba</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Goge fata</item>
+        <item>Kace hoto</item>
+        <item>Zanawa</item>
+        <item>Launin ruwa</item>
+        <item>RGB</item>
+        <item>Makafi</item>
+        <item>Taga mai hazo</item>
+        <item>Fasaha</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Tsarin rubutu mai launi</item>
+        <item>Ruce tsarin rubutu</item>
+        <item>Haske mai kyalli</item>
+        <item>Inuwa mai launi</item>
+        <item>Wutar lantarki</item>
+        <item>Na yanzu</item>
+        <item>Kaɗi</item>
+        <item>Barbashi</item>
+        <item>Rubutu</item>
+        <item>Fuka-fukai</item>
+        <item>"Mala'ika"</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Sihirai biyu</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+</resources>

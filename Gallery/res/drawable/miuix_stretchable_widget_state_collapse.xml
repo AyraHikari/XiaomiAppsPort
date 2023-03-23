@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miuix_stretchable_state_icon_heigth" android:width="@dimen/miuix_stretchable_state_icon_width" android:viewportWidth="16.0" android:viewportHeight="10.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?stateImageColor" android:pathData="M8.5717,7.1771L13.0941,2.6548L13.8377,1.9111C14.0748,1.6741 14.4592,1.6741 14.6962,1.9111C14.9333,2.1482 14.9333,2.5326 14.6962,2.7697L13.9526,3.5133L9.4303,8.0356L8.6866,8.7793C8.5606,8.9053 8.3929,8.9644 8.2279,8.9564C8.0622,8.9649 7.8937,8.9059 7.7672,8.7794L7.0235,8.0357L2.5012,3.5134L1.7576,2.7698C1.5205,2.5327 1.5205,2.1483 1.7576,1.9112C1.9946,1.6742 2.379,1.6742 2.6161,1.9112L3.3598,2.6549L7.8821,7.1772L8.2269,7.522L8.5717,7.1771Z" android:strokeAlpha="0.3" android:fillAlpha="0.3" android:fillType="evenOdd" />
+</vector>

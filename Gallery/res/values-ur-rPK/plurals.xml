@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 گھنٹہ قبل</item>
+        <item quantity="one">1 گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 گھنٹہ قبل</item>
+        <item quantity="one">1 گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 گھنٹہ میں</item>
+        <item quantity="one">1 گھنٹہ میں</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">1 منٹ میں</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d منٹ قبل</item>
+        <item quantity="one">1 منٹ قبل</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">ان آئٹمز کو نجی البم میں شامل کریں؟</item>
+        <item quantity="one">اس آئٹم کو نجی البم میں شامل کریں؟</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">%d کلاؤڈ تصاویر جوڑی گئیں، دیکھنے کے لیے \"صرف لوکل البمز دیکھیں\" کو آف کریں.</item>
+        <item quantity="one">%d کلاؤڈ تصویر جوڑی گئی، دیکھنے کے لیے \"صرف لوکل البمز دیکھیں\" کو آف کریں.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">" %2$d آئٹم البم %1$s میں شامل نہیں کیا جا سکتے۔"</item>
+        <item quantity="one">" %2$d آئٹم البم %1$s میں شامل نہیں کیا جا سکتا۔"</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d آئٹمز کو نجی البم %1$s میں شامل نہیں کیا جا سکتا۔</item>
+        <item quantity="one">%2$d آئٹم کو نجی البم %1$s میں شامل نہیں کیا جا سکتا۔</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d دن</item>
+        <item quantity="one">%d دن</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d مہینے</item>
+        <item quantity="one">%d مہینہ</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d سال</item>
+        <item quantity="one">%d سال</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">%d لوگوں کے ساتھ اشتراک کیا گيا</item>
+        <item quantity="one">%d لوگوں کے ساتھ اشتراک کیا گيا</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d تصاویر</item>
+        <item quantity="one">%d تصویر</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d آئٹمز | %2$s</item>
+        <item quantity="one">%1$d آئٹم | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d آئٹمز)</item>
+        <item quantity="one">(%d آئٹم)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d البمز</item>
+        <item quantity="one">%d البم</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s لوگ اس البم کو دیکھ سکتے ہیں</item>
+        <item quantity="one">%s شخص اس البم کو دیکھ سکتا ہے</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d البمز بشمول %1$s</item>
+        <item quantity="one">%2$d البم بشمول %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d آئٹم</item>
+        <item quantity="one">%1$d آئٹم</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d یادیں</item>
+        <item quantity="one">%d یاد</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d کے %2$s فوٹو جوڑے جائیں گے</item>
+        <item quantity="one">%1$d کا %2$s فوٹو جوڑا جائے گا</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d کے %2$s فوٹو جوڑے جائیں گے</item>
+        <item quantity="one">%1$d کا %2$s فوٹو جوڑا جائے گا</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">%d گھنٹوں میں بیک اپ دوبارہ شروع کریں</item>
+        <item quantity="one">%d گھنٹے میں بیک اپ دوبارہ شروع کریں</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d آئٹم بیک اپ کے لیے بہت بڑے ہیں</item>
+        <item quantity="one">%d آئٹم بیک اپ کے لیے بہت بڑا ہے</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d منٹ میں پھر شروع ہوگا</item>
+        <item quantity="one">%d منٹ میں پھر شروع ہوگا</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">%d منٹ کے لیے کلاؤڈ کے ساتھ فوٹوز, ویڈیوز, رابطے, نوٹس, اور دیگر آئٹم مطابقت پذیر کرنا موقوف کریں۔</item>
+        <item quantity="one">%d منٹ کے لیے کلاؤڈ کے ساتھ فوٹوز, ویڈیوز, رابطے, نوٹس, اور دیگر آئٹم مطابقت پذیر کرنا موقوف کریں۔</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d تصاویر اور ویڈیوز | %2$s</item>
+        <item quantity="one">%1$d تصویر یا ویڈیو | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d تصاویر یا ویڈیوز</item>
+        <item quantity="one">%1$d تصویر یا ویڈیو</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d فوٹو</item>
+        <item quantity="one">%d فوٹو</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">%d فوٹوز حذف کریں جو آپ نے منتخب نہیں کیے تھے؟</item>
+        <item quantity="one">%d فوٹو حذف کریں جو آپ نے منتخب نہیں کیا تھا؟</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">%d تصاویر حذف کریں؟</item>
+        <item quantity="one">%d تصویر حذف کریں؟</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">%d منتخب فوٹوز رکھیں</item>
+        <item quantity="one">%d منتخب فوٹو رکھیں</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d تصاویر</item>
+        <item quantity="one">%d تصویر</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d ویڈیوز</item>
+        <item quantity="one">%d ویڈیو</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">ناکافی کلاؤڈ اسٹوریج کی وجہ سے %d آئٹمز مطابقت پذیر نہیں کر سکا</item>
+        <item quantity="one">ناکافی کلاؤڈ اسٹوریج کی وجہ سے %d آئٹم مطابقت پذیر نہیں کر سکا</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">کولاج میں %1$d-%2$d فوٹوز ہو سکتے ہیں</item>
+        <item quantity="one">کولاج میں %1$d-%2$d فوٹو ہو سکتا ہے</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">%d تصویروں تک منتخب کریں</item>
+        <item quantity="one">%d تصویر تک منتخب کریں</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d آئٹمز منتخب کیے گئے</item>
+        <item quantity="one">%d آئٹم منتخب ہوا</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Xiaomi Cloud اور سبھی مطابقت پزیر ڈیوائس سے %d برسٹ شاٹ حذف کریں؟</item>
+        <item quantity="one">Xiaomi Cloud اور سبھی مطابقت پزیر ڈیوائس سے %d برسٹ شاٹ حذف کریں؟</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">%d برسٹ شاٹ حذف کریں؟</item>
+        <item quantity="one">%d برسٹ شاٹ حذف کریں؟</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d آئٹم حذف کیے گئے</item>
+        <item quantity="one">%d آئٹم حذف کیا گیا</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">تمام ڈیوائس اور Xiaomi Cloud سے %d آئٹم حذف کریں؟</item>
+        <item quantity="one">تمام ڈیوائس اور Xiaomi Cloud سے %d آئٹم حذف کریں؟</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">%d آئٹم حذف کریں؟</item>
+        <item quantity="one">%d آئٹم حذف کریں؟</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">تمام ڈیوائس اور Xiaomi Cloud سے %d فوٹوز حذف کریں؟</item>
+        <item quantity="one">تمام ڈیوائس اور Xiaomi Cloud سے %d فوٹو حذف کریں؟</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">اپنے ڈیوائس سے %d برسٹ شاٹ حذف کریں؟</item>
+        <item quantity="one">اپنے ڈیوائس سے %d برسٹ شاٹ حذف کریں؟</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">تمام ڈیوائس اور Xiaomi Cloud سے %d ویڈیوز حذف کریں؟</item>
+        <item quantity="one">تمام ڈیوائس اور Xiaomi Cloud سے %d ویڈیو حذف کریں؟</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">%1$d فائلز ڈاؤن لوڈ نہیں کی جا سکی</item>
+        <item quantity="one">%1$d فائل ڈاؤن لوڈ نہیں کی جا سکی</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">%1$d فائلیں ڈاؤن لوڈ نہیں کی جا سکیں، نیٹ روک کنکشن جانچ لیں اور دوبارہ کوشش کریں</item>
+        <item quantity="one">%1$d فائل ڈاؤن لوڈ نہیں کی جا سکی، نیٹ روک کنکشن جانچ لیں اور دوبارہ کوشش کریں</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">کلاؤڈ سے آئٹمز ڈاؤن لوڈ کر رہا ہے (%2$d/%1$d)</item>
+        <item quantity="one">کلاؤڈ سے آئٹم ڈاؤن لوڈ کر رہا ہے (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">کل %d تصاویر</item>
+        <item quantity="one">کل %d تصویر</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">فوٹوز پراسیس کر رہا ہے…</item>
+        <item quantity="one">فوٹو پراسیس کر رہا ہے…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">%1$d فوٹو چھوڑ دیے گیے جنھیں پیش نہیں کیا جا سکا تھا۔</item>
+        <item quantity="one">%1$d فوٹو چھوڑ دیا گیا جنھیں پیش نہیں کیا جا سکا تھا۔</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d فائلیں</item>
+        <item quantity="one">%1$d فائل</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 گھنٹہ میں</item>
+        <item quantity="one">1 گھنٹہ میں</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">فوری طور پر</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">1 منٹ میں</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d منٹ</item>
+        <item quantity="one">%d منٹ</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d سیکنڈ</item>
+        <item quantity="one">%d سیکنڈ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d آئٹمز منتخب کیے گئے</item>
+        <item quantity="one">%d آئٹم منتخب ہوا</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d منٹ قبل</item>
+        <item quantity="one">1 منٹ پہلے</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d آئٹم مطابقت پذیری کے انتظار میں ہیں</item>
+        <item quantity="one">%1$d آئٹم مطابقت پذیری کے انتظار میں ہے</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d فوٹوز</item>
+        <item quantity="one">%1$d فوٹو</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d فوٹوز مطابقت پذیری کے انتظار میں ہیں</item>
+        <item quantity="one">%1$d فوٹو مطابقت پذیری کے انتظار میں ہے</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">%1$d فوٹوز مطابقت پذیر کر رہا ہے…</item>
+        <item quantity="one">%1$d فوٹو مطابقت پذیر کر رہا ہے…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">%1$d آئٹم مطابقت پذیر کر رہا ہے…</item>
+        <item quantity="one">%1$d آئٹم مطابقت پذیر کر رہا ہے…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">%1$d ویڈیوز مطابقت پذیر کر رہا ہے…</item>
+        <item quantity="one">%1$d ویڈیو مطابقت پذیر کر رہا ہے…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d ویڈیوز</item>
+        <item quantity="one">%1$d ویڈیو</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d ویڈیوز مطابقت پذیری کے انتظار میں ہیں</item>
+        <item quantity="one">%1$d ویڈیو مطابقت پذیری کے انتظار میں ہے</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d تصویریں</item>
+        <item quantity="one">%d تصویر</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">کل %1$d آئٹم</item>
+        <item quantity="one">کل %1$d آئٹم</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d ڈگری گھمائیں</item>
+        <item quantity="one">%d ڈگری گھمائیں</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d دن</item>
+        <item quantity="one">%d دن</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d گھنٹے</item>
+        <item quantity="one">%d گھنٹہ</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">فلٹر کیے گئے %d غیر تعاون یافتہ آئٹم</item>
+        <item quantity="one">فلٹر کیا گیا %d غیر تعاون یافتہ آئٹم</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF فائلیں %d تصاویر پر مشتمل ہو سکتی ہیں</item>
+        <item quantity="one">PDF فائلیں %d تصویر پر مشتمل ہو سکتی ہیں</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">منتخبہ فوٹو آلہ میں نہیں ہیں. موبائل ڈیٹا کا استعمال کر کے انہیں ڈاؤن لوڈ کریں؟</item>
+        <item quantity="one">منتخبہ فوٹو آلہ میں نہیں ہے. موبائل ڈیٹا کا استعمال کر کے اسے ڈاؤن لوڈ کریں؟</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">منتخب فوٹو آلہ پر نہیں ہیں. انہیں ڈاؤن لوڈ کیا جاۓ گا.</item>
+        <item quantity="one">منتخب فوٹو آلہ پر نہیں ہیں. اسے ڈاؤن لوڈ کیا جاۓ گا.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">منتخب فوٹوز (%d MB) ڈیوائس پر نہیں ہیں۔ انھیں موبائل ڈیٹا استعمال کرتے ہوئے ڈاؤن لوڈ کریں؟</item>
+        <item quantity="one">منتخب فوٹو (%d MB) ڈیوائس پر نہیں ہے۔ اسے موبائل ڈیٹا استعمال کرتے ہوئے ڈاؤن لوڈ کریں؟</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d فائلیں اب تک ڈاؤن لوڈ نہیں ہوئیں۔ بہر حال منسوخ کریں؟</item>
+        <item quantity="one">%d فائل اب تک ڈاؤن لوڈ نہیں ہوئی۔ بہر حال منسوخ کریں؟</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">%d باقی فائلیں ڈاؤن لوڈ کر رہا ہے</item>
+        <item quantity="one">%d باقی فائل ڈاؤن لوڈ کر رہا ہے</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">%1$d فوٹوز ڈاؤن لوڈ نہیں کی جا سکیں, نیٹ ورک سے مربوط ہوں اور دوبارہ کوشش کریں</item>
+        <item quantity="one">%1$d فوٹو ڈاؤن لوڈ نہیں کی جا سکی, نیٹ ورک سے مربوط ہوں اور دوبارہ کوشش کریں</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">%1$d فائلیں ڈاؤن لوڈ نہیں کر سکا (%2$dMB)۔ نیٹ ورک سے مربوط کریں اور دوبارہ کوشش کریں۔</item>
+        <item quantity="one">%1$d فائل ڈاؤن لوڈ نہیں کر سکا (%2$dMB)۔ نیٹ ورک سے مربوط کریں اور دوبارہ کوشش کریں۔</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d فائلیں (%2$dMB) اب تک ڈاؤن لوڈ نہیں ہوئیں۔ موبائل ڈیٹا استعمال کرتے ہوئے ڈاؤن لوڈ کریں؟</item>
+        <item quantity="one">%1$d فائل (%2$dMB) اب تک ڈاؤن لوڈ نہیں ہوئی۔ موبائل ڈیٹا استعمال کرتے ہوئے ڈاؤن لوڈ کریں؟</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">%1$d فوٹو ڈاؤن لوڈ نہیں کر سکا, دوبارہ کوشش کریں؟</item>
+        <item quantity="one">%1$d فوٹو ڈاؤن لوڈ نہیں کر سکا, دوبارہ کوشش کریں؟</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">%1$d فوٹوز (%2$dMB) ڈاؤن لوڈ نہیں کیے جا سکے, دوبارہ کوشش کریں؟</item>
+        <item quantity="one">%1$d فوٹو (%2$dMB) ڈاؤن لوڈ نہیں کیا جا سکا, دوبارہ کوشش کریں؟</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">%d فوٹوز چھوڑی گئیں جو ڈیوائس پر نہیں ہیں۔</item>
+        <item quantity="one">%d فوٹو چھوڑی گئی جو ڈیوائس پر نہیں ہے۔</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d نئے فوٹوز ملے</item>
+        <item quantity="one">%1$d نیا فوٹو ملا</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">کل %d تصاویر</item>
+        <item quantity="one">کل %d تصویر</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d آئٹمز کو نجی البم %1$s سے نہیں نکالا جا سکتا۔</item>
+        <item quantity="one">%2$d آئٹم کو نجی البم %1$s سے نہیں نکالا جا سکتا۔</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">\"%2$s\" میں %1$d تصاویر شامل کی گئیں اور ڈیٹابیس میں میں شامل کی گئیں۔</item>
+        <item quantity="one">\"%2$s\" میں %1$d تصویر شامل کی گئی اور ڈیٹابیس میں میں شامل کی گئی۔</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">\"%2$s\" سے %1$d تصاویر ہٹائی گئیں اور ڈیٹابیس میں شامل کی گئیں۔</item>
+        <item quantity="one">\"%2$s\" سے %1$d تصویر ہٹائی گئی اور ڈیٹابیس میں شامل کی گئی۔</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">\"%2$s\" میں %1$d تصاویر شامل کی گئیں۔</item>
+        <item quantity="one">\"%2$s\" میں %1$d تصویر شامل کی گئی۔</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">\"%2$s\" سے %1$d تصاویر ہٹائی گئیں۔</item>
+        <item quantity="one">\"%2$s\" سے %1$d تصویر ہٹائی گئی۔</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s سے %2$d انسٹالیشن پیکیجز (%3$s)</item>
+        <item quantity="one">%1$s سے %2$d انسٹالیشن پیکیج (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s سے %2$d انسٹالیشن پیکیجز موصول ہوئے (%3$s)</item>
+        <item quantity="one">%1$s سے %2$d انسٹالیشن پیکیج موصول ہوا (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s سے %2$d انسٹالیشن پیکیجز موصول کر رہا ہے (%3$s)…</item>
+        <item quantity="one">%1$s سے %2$d انسٹالیشن پیکیج موصول کر رہا ہے (%3$s)…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s سے %2$d آڈیو فائلیں (%3$s)</item>
+        <item quantity="one">%1$s سے %2$d آڈیو فائل (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s سے %2$d آڈیو فائلیں موصول ہوئیں (%3$s)</item>
+        <item quantity="one">%1$s سے %2$d آڈیو فائل موصول ہوئی (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s سے %2$d آڈیو فائلیں موصول کر رہا ہے (%3$s)…</item>
+        <item quantity="one">%1$s سے %2$d آڈیو فائل موصول کر رہا ہے (%3$s)…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$s سے %2$d %3$s فائلیں (%4$s)</item>
+        <item quantity="one">%1$s سے %2$d %3$s فائل (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s سے %2$d %3$s فائلیں موصول ہوئیں (%4$s)</item>
+        <item quantity="one">%1$s سے %2$d %3$s فائل موصول ہوئی (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s سے %2$d %3$s فائلیں موصول کر رہا ہے (%4$s)…</item>
+        <item quantity="one">%1$s سے %2$d %3$s فائل موصول کر رہا ہے (%4$s)…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s سے %2$d تصاویر</item>
+        <item quantity="one">%1$s سے %2$d تصویر</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s سے %2$d تصاویر موصول ہوئیں</item>
+        <item quantity="one">%1$s سے %2$d تصویر موصول ہوئی</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s سے %2$d تصاویر موصول کر رہا ہے…</item>
+        <item quantity="one">%1$s سے %2$d تصویر موصول کر رہا ہے…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s سے %2$d تصاویر یا ویڈیوز</item>
+        <item quantity="one">%1$s سے %2$d تصویر یا ویڈیو</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s سے %2$d تصاویر یا ویڈیوز موصول ہوئیں</item>
+        <item quantity="one">%1$s سے %2$d تصویر یا ویڈیو موصول ہوئی</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s سے %2$d تصاویر یا ویڈیوز موصول کر رہا ہے…</item>
+        <item quantity="one">%1$s سے %2$d تصویر یا ویڈیو موصول کر رہا ہے…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s سے %2$d فائلیں</item>
+        <item quantity="one">%1$s سے %2$d فائل</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s سے %2$d فائلیں موصول ہوئیں</item>
+        <item quantity="one">%1$s سے %2$d فائل موصول ہوئی</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s سے %2$d فائلیں موصول کر رہا ہے…</item>
+        <item quantity="one">%1$s سے %2$d فائل موصول کر رہا ہے…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">اشتراک نہیں کیا جا سکا۔ ابھی بھی %d تصاویر پراسیس کر رہا ہے…</item>
+        <item quantity="one">اشتراک نہیں کیا جا سکا۔ ابھی بھی %d تصویر پراسیس کر رہا ہے…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s سے %2$d ویڈیوز</item>
+        <item quantity="one">%1$s سے %2$d ویڈیو</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s سے %2$d ویڈیوز موصول ہوئی</item>
+        <item quantity="one">%1$s سے %2$d ویڈیو موصول ہوئی</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s سے %2$d ویڈیوز موصول کر رہا ہے…</item>
+        <item quantity="one">%1$s سے %2$d ویڈیو موصول کر رہا ہے…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s سے %2$d آرکائیوز (%3$s)</item>
+        <item quantity="one">%1$s سے %2$d آرکائیو (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s سے %2$d آرکائیوز موصول ہوئے (%3$s)</item>
+        <item quantity="one">%1$s سے %2$d آرکائیو موصول ہوا (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s سے %2$d آرکائیوز موصول کر رہا ہے (%3$s)…</item>
+        <item quantity="one">%1$s سے %2$d آرکائیو موصول کر رہا ہے (%3$s)…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">%d فوٹوز اپ لوڈ کیے گئے</item>
+        <item quantity="one">%d فوٹو اپ لوڈ کیا گیا</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d کمرے</item>
+        <item quantity="one">%1$d کمرہ</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d اسکرینیں</item>
+        <item quantity="one">%1$d اسکرین</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d اسکرینیں</item>
+        <item quantity="one">%1$d اسکرین</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d اشتراک کردہ اسکرینیں</item>
+        <item quantity="one">%1$d اشتراک کردہ اسکرین</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d آئٹمز مطابقت پذیری کے لیے بہت بڑے ہیں</item>
+        <item quantity="one">%d آئٹم مطابقت پذیری کے لیے بہت بڑا ہے</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">%d آئٹمز مطابقت پذیر نہیں کیے جا سکے۔ اپنا اسٹوریج پلان اپ گریڈ کریں۔</item>
+        <item quantity="one">%d آئٹم مطابقت پذیر نہیں کیا جا سکا۔ اپنا اسٹوریج پلان اپ گریڈ کریں۔</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">%d آئٹمز مطابقت پذیر نہیں ہو سکے۔ دوبارہ کوشش کریں۔</item>
+        <item quantity="one">%d آئٹم مطابقت پذیر نہیں ہو سکا۔ دوبارہ کوشش کریں۔</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">%d آئٹمز مطابقت پذیر نہیں کیے جا سکے۔ اس البم کا مالک کلاؤڈ اسٹوریج سے باہر ہے۔</item>
+        <item quantity="one">%d آئٹم مطابقت پذیر نہیں کیا جا سکا۔ اس البم کا مالک کلاؤڈ اسٹوریج سے باہر ہے۔</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d سیکنڈ</item>
+        <item quantity="one">%1$d سیکنڈ</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d تصاویر آپٹمائز کی گئیں</item>
+        <item quantity="one">%d تصویر آپٹمائز کی گئی</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">%d فوٹوز آپٹمائز کیے گئے</item>
+        <item quantity="one">%d فوٹو آپٹمائز کیا گیا</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">%d ویڈیوز آپٹمائز کیے گئے</item>
+        <item quantity="one">%d ویڈیو آپٹمائز کیا گیا</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d تصاویر آپٹمائز نہیں کی گئیں۔ ابھی روکیں؟</item>
+        <item quantity="one">%d تصویر آپٹمائز نہیں کی گئی۔ ابھی روکیں؟</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d فوٹوز</item>
+        <item quantity="one">%d فوٹو</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d تصاویر باقی ہیں</item>
+        <item quantity="one">%d تصویر باقی ہے</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">آپٹمائز کرنے کے لیے %d آئٹمز باقی</item>
+        <item quantity="one">آپٹمائز کرنے کے لیے %d آئٹم باقی</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d ویڈیوز</item>
+        <item quantity="one">%d ویڈیو</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">%d تصاویر یا ویڈیوز کے بیک اپ لیے گیے</item>
+        <item quantity="one">%d تصویر یا ویڈیو کا بیک اپ لیا گیا</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d آئٹم بیک اپ کے لیے بہت بڑے ہیں</item>
+        <item quantity="one">%d آئٹم بیک اپ کے لیے بہت بڑا ہے</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d آئٹمز</item>
+        <item quantity="one">%d آئٹم</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d تصویریں ہم آہنگ ہو گئیں</item>
+        <item quantity="one">%d تصویر ہم آہنگ ہو گئی</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d ویڈیوز ہم آہنگ ہو گئیں</item>
+        <item quantity="one">%d ویڈیو ہم آہنگ ہوگئی</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">موبائل ڈیٹا استعمال کرتے ہوئے %d آئٹمز مطابقت پذیر کر رہا ہے</item>
+        <item quantity="one">موبائل ڈیٹا استعمال کرتے ہوئے %d آئٹم مطابقت پذیر کر رہا ہے</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">%d آئٹمز مطابقت پذیر کر رہا ہے</item>
+        <item quantity="one">%d آئٹم مطابقت پذیر کر رہا ہے</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s آئٹمز</item>
+        <item quantity="one">%1$s, %2$s آئٹم</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d دن</item>
+        <item quantity="one">%d دن</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d مہینے</item>
+        <item quantity="one">%d مہینہ</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d سال</item>
+        <item quantity="one">%d سال</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d منتخب آئٹم کلاؤڈ اور تمام مطابقت پذیر ڈیوائسز سے مستقل طور پر حذف کر دیے جائیں گے۔ بہر حال حذف کریں؟</item>
+        <item quantity="one">%d منتخب آئٹم کلاؤڈ اور تمام مطابقت پذیر ڈیوائسز سے مستقل طور پر حذف کر دیا جائے گا۔ بہر حال حذف کریں؟</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">حذف کرنے کے بعد آپ %d منتخب کردہ آئٹم کو بحال نہیں کر سکیں گے۔ پھر بھی حذف کریں؟</item>
+        <item quantity="one">حذف کرنے کے بعد آپ %d منتخب کردہ آئٹم کو بحال نہیں کر سکیں گے۔ پھر بھی حذف کریں؟</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d منتخب کردہ آئٹمز مستقل طور پر حذف ہو جائیں گے۔ بہر حال حذف کریں؟</item>
+        <item quantity="one">%d منتخب کردہ آئٹم مستقل طور پر حذف ہو جائے گا۔ بہر حال حذف کریں؟</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">حذف کرنے کے بعد آپ %d منتخب کردہ آئٹم کو بحال نہیں کر سکیں گے۔ پھر بھی حذف کریں؟</item>
+        <item quantity="one">حذف کرنے کے بعد آپ %d منتخب کردہ آئٹم کو بحال نہیں کر سکیں گے۔ پھر بھی حذف کریں؟</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">حذف کرنے کے بعد آپ %d منتخب کردہ آئٹم کو بحال نہیں کر سکیں گے۔ پھر بھی حذف کریں؟</item>
+        <item quantity="one">حذف کرنے کے بعد آپ %d منتخب کردہ آئٹم کو بحال نہیں کر سکیں گے۔ پھر بھی حذف کریں؟</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">یہاں پر آئٹم کو %1$d دنوں کے لیے اسٹور کیا جا سکتا ہے (%2$s)</item>
+        <item quantity="one">یہاں پر آئٹم کو %1$d دن کے لیے اسٹور کیا جا سکتا ہے (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">یہاں پر آئٹم کو %1$d دنوں کے لیے اسٹور کیا جا سکتا ہے۔ اس مدت میں توسیع کرنے کے لیے اپنا پلان اپ گریڈ کریں۔</item>
+        <item quantity="one">یہاں پر آئٹم کو %1$d دن کے لیے اسٹور کیا جا سکتا ہے۔ اس مدت میں توسیع کرنے کے لیے اپنا پلان اپ گریڈ کریں۔</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d فائلیں</item>
+        <item quantity="one">%1$d فائل</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d ویڈیو</item>
+        <item quantity="one">%d ویڈیو</item>
+    </plurals>
+</resources>

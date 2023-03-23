@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.RoundedFrameLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="@dimen/burst_preview_item_frame_height" app:outlineCornerRadius="@dimen/burst_preview_corner_radius"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.editor.ui.view.RoundImageView android:layout_gravity="bottom" android:id="@id/preview" android:layout_width="@dimen/burst_preview_width" android:layout_height="@dimen/burst_preview_height" android:scaleType="centerCrop" />
+    <ImageView android:layout_gravity="end|bottom|center" android:id="@id/select_view" android:background="@drawable/burst_preview_selected" android:visibility="gone" android:layout_width="@dimen/burst_preview_select_view_size" android:layout_height="@dimen/burst_preview_select_view_size" />
+</com.miui.gallery.widget.RoundedFrameLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="miplay_bg_end_color">#ff2a2b2c</color>
+    <color name="miuix_appcompat_action_bar_subtitle_text_dark">@color/miuix_appcompat_action_bar_title_text_color_dark</color>
+    <color name="miuix_appcompat_action_bar_subtitle_text_light">@color/miuix_appcompat_action_bar_title_text_color_light</color>
+    <color name="photo_page_top_bar_subtitle">#99000000</color>
+    <color name="story_desc_text_color">@color/white_100_transparent</color>
+    <color name="story_dialog_bg_color">#00000000</color>
+    <color name="story_title_text_color">@color/white_100_transparent</color>
+</resources>

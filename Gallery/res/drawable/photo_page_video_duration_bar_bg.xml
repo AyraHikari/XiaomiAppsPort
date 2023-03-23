@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="0.73dip" android:color="@color/photo_page_video_duration_bar_bg_stroke" />
+    <solid android:color="@color/photo_page_video_duration_bar_bg_solid" />
+    <corners android:radius="4.3599854dip" />
+</shape>

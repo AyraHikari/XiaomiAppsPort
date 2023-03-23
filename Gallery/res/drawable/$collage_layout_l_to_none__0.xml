@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="60.0dip" android:width="60.0dip" android:viewportWidth="60.0" android:viewportHeight="60.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="_R_G">
+        <group android:name="_R_G_L_2_G" android:translateX="30.0" android:translateY="30.0">
+            <path android:name="_R_G_L_2_G_D_0_P_0" android:fillColor="@color/collage_layout_margin_color" android:pathData=" M-29 -28 C-29,-28 -29,28 -29,28 C-29,28.55 -28.55,29 -28,29 C-28,29 28,29 28,29 C28.55,29 29,28.55 29,28 C29,28 29,-28 29,-28 C29,-28.55 28.55,-29 28,-29 C28,-29 -28,-29 -28,-29 C-28.55,-29 -29,-28.55 -29,-28c  M-23 23 C-23,23 -23,-23 -23,-23 C-23,-23 23,-23 23,-23 C23,-23 23,23 23,23 C23,23 -23,23 -23,23c " android:fillAlpha="1.0" android:fillType="nonZero" />
+        </group>
+        <group android:name="_R_G_L_1_G" android:scaleX="1.0" android:scaleY="1.0" android:translateX="30.5" android:translateY="29.5">
+            <path android:name="_R_G_L_1_G_D_0_P_0" android:fillColor="@color/collage_layout_margin_color" android:pathData=" M-8.5 -9.5 C-8.5,-10.05 -8.05,-10.5 -7.5,-10.5 C-7.5,-10.5 -3.5,-10.5 -3.5,-10.5 C-2.95,-10.5 -2.5,-10.05 -2.5,-9.5 C-2.5,-9.5 -2.5,4.5 -2.5,4.5 C-2.5,4.5 7.5,4.5 7.5,4.5 C8.05,4.5 8.5,4.95 8.5,5.5 C8.5,5.5 8.5,9.5 8.5,9.5 C8.5,10.05 8.05,10.5 7.5,10.5 C7.5,10.5 -7.5,10.5 -7.5,10.5 C-8.05,10.5 -8.5,10.05 -8.5,9.5 C-8.5,9.5 -8.5,-9.5 -8.5,-9.5c " android:fillAlpha="1.0" android:fillType="nonZero" />
+        </group>
+        <group android:name="_R_G_L_0_G" android:scaleX="0.5" android:scaleY="0.0" android:translateX="30.261" android:translateY="29.342">
+            <path android:name="_R_G_L_0_G_D_0_P_0" android:fillColor="@color/collage_layout_margin_color" android:pathData=" M8.15 -10.98 C7.76,-11.37 7.13,-11.37 6.74,-10.98 C6.74,-10.98 -10.98,6.74 -10.98,6.74 C-11.37,7.13 -11.37,7.76 -10.98,8.15 C-10.98,8.15 -8.15,10.98 -8.15,10.98 C-7.76,11.37 -7.13,11.37 -6.74,10.98 C-6.74,10.98 10.98,-6.74 10.98,-6.74 C11.37,-7.13 11.37,-7.76 10.98,-8.15 C10.98,-8.15 8.15,-10.98 8.15,-10.98c " android:fillAlpha="1.0" android:fillType="nonZero" />
+        </group>
+    </group>
+    <group android:name="time_group" />
+</vector>

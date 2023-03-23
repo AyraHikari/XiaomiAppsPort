@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:background="@color/white" android:clipChildren="false" android:layout_width="@dimen/screen_pen_seek_bar_width" android:layout_height="@dimen/screen_pen_seek_bar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/seek_bar_bg" android:background="@drawable/screen_mosaic_size_bar_bg" android:layout_width="fill_parent" android:layout_height="@dimen/screen_pen_seek_bar_bg_height" android:elevation="1.0px" />
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/seek_bar_thumb" android:background="@drawable/ic_brush_alpha_thumb" android:layout_width="@dimen/screen_pen_seek_bar_thumb_size" android:layout_height="@dimen/screen_pen_seek_bar_thumb_size" android:elevation="1.0px" />
+</merge>

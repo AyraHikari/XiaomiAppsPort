@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:gravity="center" android:layout_gravity="center" android:id="@id/all_cards_page_spring_back" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollableView="@id/recycler_view">
+        <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/recycler_view" android:background="@color/window_background" android:paddingBottom="@dimen/safe_distance_bottom" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" android:paddingStart="@dimen/cards_page_margin_start_end" android:paddingEnd="@dimen/cards_page_margin_start_end" app:spanCount="@integer/all_cards_span_count" />
+    </miuix.springback.view.SpringBackLayout>
+    <FrameLayout android:id="@id/all_cards_empty_page_spring_back" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.core.widget.NestedScrollView android:id="@id/scroll_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+            <LinearLayout android:orientation="vertical" android:id="@id/all_cards_empty_view" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                    <ImageView android:layout_gravity="center_horizontal" android:id="@id/empty_icon" android:layout_width="100.0dip" android:layout_height="64.0dip" android:src="@drawable/ic_pic_empty_all_cards" android:scaleType="fitXY" />
+                    <TextView android:textSize="@dimen/today_of_year_empty_text_size" android:textColor="@color/today_of_year_empty_text_color" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:text="@string/all_story_empty_tip" android:fontFamily="mipro-regular" android:textFontWeight="400" />
+                </LinearLayout>
+                <include android:layout_gravity="bottom|center" android:id="@id/take_pic_button" android:layout_width="@dimen/take_pic_button_width" android:layout_height="@dimen/take_pic_button_height" android:layout_marginBottom="@dimen/take_pic_button_margin_bottom" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" layout="@layout/take_pic_button" />
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+    </FrameLayout>
+</LinearLayout>

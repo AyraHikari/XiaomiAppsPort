@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/people_album_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/divider" android:background="@drawable/input_face_name_divider" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.People.List.ContactHeader" android:gravity="center_vertical" android:id="@id/group_tip" android:layout_width="fill_parent" android:layout_height="36.69998dip" android:text="@string/contact_tip" android:layout_marginStart="24.699982dip" />
+</LinearLayout>

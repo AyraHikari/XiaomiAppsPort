@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="gallery_debug_log" path="debug_log/" />
+    <external-path name="system_delete_log" path="DCIM/.deleteRecord" />
+</paths>

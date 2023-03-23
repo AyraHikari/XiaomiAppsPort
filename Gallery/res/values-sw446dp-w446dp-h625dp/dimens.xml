@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_menu_text_radio_button_bubble_width">61.809998dip</dimen>
+    <item type="dimen" name="magic_galery_top">@dimen/px_37</item>
+    <item type="dimen" name="magic_id_photo_guide_text_content_height">@dimen/px_60</item>
+    <item type="dimen" name="magic_id_photo_guide_text_height">@dimen/px_86</item>
+    <item type="dimen" name="magic_id_photo_guide_text_margin_left">@dimen/px_220</item>
+    <item type="dimen" name="magic_id_photo_guide_text_margin_top">@dimen/px_100</item>
+    <item type="dimen" name="magic_id_photo_guide_text_size">@dimen/px_46</item>
+    <item type="dimen" name="magic_id_photo_guide_text_title_size">@dimen/px_66</item>
+    <item type="dimen" name="magic_id_photo_guide_text_width">@dimen/px_800</item>
+    <dimen name="magic_idp_bottom_height">413.8125dip</dimen>
+    <item type="dimen" name="magic_idp_bottom_margin_top">@dimen/px_106</item>
+    <item type="dimen" name="magic_idp_guide_btn1h">@dimen/px_190</item>
+    <item type="dimen" name="magic_idp_guide_btn1w">@dimen/px_310</item>
+    <item type="dimen" name="magic_idp_guide_text_margin_2">@dimen/px_85</item>
+    <item type="dimen" name="magic_idp_guide_text_margin_3">@dimen/px_75</item>
+    <dimen name="magic_idp_icon">25.449982dip</dimen>
+    <item type="dimen" name="magic_idp_make_search_height_left">@dimen/px_105</item>
+    <item type="dimen" name="magic_idp_make_search_look_max_width">@dimen/px_980</item>
+    <item type="dimen" name="magic_idp_make_tab_margin_left">@dimen/px_170</item>
+    <dimen name="magic_idp_make_tab_margin_right">0.0dip</dimen>
+    <item type="dimen" name="magic_idp_make_tab_width">@dimen/px_170</item>
+    <item type="dimen" name="magic_search_edit_width">@dimen/px_1110</item>
+    <item type="dimen" name="magic_search_list_width">@dimen/px_1240</item>
+    <dimen name="magic_status_bar_height">29.819977dip</dimen>
+    <dimen name="magic_idp_guide_photo_height">170.91dip</dimen>
+    <dimen name="magic_idp_guide_photo_width">235.63998dip</dimen>
+</resources>

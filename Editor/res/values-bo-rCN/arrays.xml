@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>རྒྱབ་ལྗོངས་དཀར་པོ།</item>
+        <item>རྒྱབ་ལྗོངས་སྔོ་ནག</item>
+        <item>རྒྱབ་ལྗོངས་སྔོ་དཀར།</item>
+        <item>རྒྱབ་ལྗོངས་དམར་པོ།</item>
+        <item>རྒྱབ་ལྗོངས་ལྗང་ཁུ།</item>
+        <item>རྒྱབ་ལྗོངས་ཟིང་སྐྱ།</item>
+        <item>རྒྱབ་ལྗོངས་སྨུག་པོ།</item>
+        <item>རྒྱབ་ལྗོངས་ཐལ་མདོག</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>རྒྱབ་ལྗོངས་རི་མོ་འདྲེན་འཇུག</item>
+        <item>རྒྱབ་ལྗོངས་དྭངས་གཙང་།</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>ལྷོད་པོ།</item>
+        <item>བསིལ་རླུང་།</item>
+        <item>རྨི་ལམ་ལྟར།</item>
+        <item>སྤྲིན་ལྡོག</item>
+        <item>དྲན་གསོ།</item>
+        <item>མྱུ་གུ།</item>
+        <item>གཉེན་པོ།</item>
+        <item>སྒྲ་སྟུག</item>
+        <item>གྲིབ་རིས།</item>
+        <item>རགས་བསྡུས།</item>
+        <item>ཁྱད་མཚར།</item>
+        <item>འཕྱོ་རི།</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>དབྱིབས་རིས་རྒྱབ་ལྗོངས། པར་རིས་དེ་བས་མཛེས་སྡུག</item>
+        <item>བརྐོས་རིས་རྒྱབ་ལྗོངས་ཕན་འབྲས། པར་རིས་དེ་བས་སྒྱུ་རྩལ་རྣམ་པ་ལྡན།</item>
+        <item>རྒྱབ་ལྗོངས་རི་མོའི་དབྱིབས། འདྲ་པར་ཀྱི་རྩེད་སྟངས་གསར་པ།</item>
+        <item>རྒྱབ་ལྗོངས་ཆུ་ཚོན་རི་མོའི་དབྱིབས། འདྲ་པར་དེ་བས་སྒྱུ་རྩལ་གྱི་ཚོར་སྣང་དང་ལྡན་པ།</item>
+        <item>ནོར་འཁྲུལ་བྱུང་འདུག དེ་བས་བསྐྱར་གསོའི་ཚོར་བ་ཅན་བཟོ་བ།</item>
+        <item>གནས་ནོར་ཐིག་ཕྲལ་ནས། འདྲ་པར་ལ་དེ་བས་དར་བཟོའི་དབྱིངས་ལྡན་པར་བྱེད་དགོས།</item>
+        <item>ཤེལ་སྒོའི་སྨུག་པའི་ནུས་པ། འདྲ་པར་དེ་བས་རབ་རིབ་ཡིན་པ་བྱེད་དགོས།</item>
+        <item>ཚན་རྩལ་ཆག་སྐྱོན་གྱི་ཚོར་བ། འཕྲལ་མར་གློག་བརྙན་རྫིག་པོར་བཟོ་བ།</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>མཐེབ་ཤུན་དམའ་བོ།</item>
+        <item>བརྐོས་རིས།</item>
+        <item>སྐྱ་རིས།</item>
+        <item>ཆུ་ཚོན།</item>
+        <item>RGB</item>
+        <item>འདབ་བརྒྱའི་ཁུང་།</item>
+        <item>སྒེའུ་སྨུག</item>
+        <item>འགོག་རླུང་།</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>ཚོན་ལྡན་དྲས་གྲུབ།</item>
+        <item>རིབ་ཐིག་མཐའ་རིས།</item>
+        <item>འོད་ཐིག་མཐའ་རིས།</item>
+        <item>ཚོན་ལྡན་སྒྲིབ་བཟོ།</item>
+        <item>གློག་རྡུལ་བཤེར་འབེབས།</item>
+        <item>རྒྱུན་གཏད་བཞུར་རྒྱུན།</item>
+        <item>རླབས་རྒྱུན་གློག་རྒྱུན།</item>
+        <item>རྡུལ་ཕྲལ་བསྐོར་རྒྱག</item>
+        <item>ཡིག་ཚད་སྒྲིག་བཀོད།</item>
+        <item>འདོན་འདྲེའི་གཤོག་པ།</item>
+        <item>ཕོ་ཉའི་གཤོག་པ།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>རྒྱུན་སྤྱོད།</item>
+        <item>ལམ་ཡིག</item>
+        <item>ལས་རིགས།</item>
+        <item>ལག་ཁྱེར།</item>
+        <item>སློབ་རིམ་འཕར་བ།</item>
+        <item>ཡིག་རྒྱུགས།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>སྡེ་སྲུང་བྱང་བུ།</item>
+        <item>བདེ་ཐང་བྱང་བུ།</item>
+        <item>སྨན་སྲུང་བྱང་བུ།</item>
+        <item>ཐོབ་ཐང་ལག་ཁྱེར།</item>
+        <item>སྡོད་པའི་ལག་ཁྱེར།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>ཚུན་གཅིག</item>
+        <item>ཚུན་གཉིས།</item>
+        <item>ཚུན་ཆུང་གཅིག</item>
+        <item>ཚུན་ཆུང་གཉིས།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>སློབ་ཞུགས་ཐོ་འགོད།</item>
+        <item>སློབ་མའི་ཡིག་ཚགས་དྲ་བ།</item>
+        <item>སློབ་ཆུང་ཡིག་ཚགས།</item>
+        <item>སློབ་ཚགས་འདྲ་པར།</item>
+        <item>སློབ་ཆེན་སློབ་ཞུགས།</item>
+        <item>མཐོ་རྒྱུགས་ཐོ་འོད།</item>
+        <item>སྙན་ཞུའི་འདྲ་པར།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>དབྱིན་ཡིག་ཚད་རིམ་བཞི་པ་དང་དྲུག་པའི་ཡིག་རྒྱུགས་1</item>
+        <item>དབྱིན་ཡིག་ཚད་རིམ་བཞི་པ་དང་དྲུག་པའི་ཡིག་རྒྱུགས་2</item>
+        <item>དབྱིན་ཡིག་ཚད་རིམ་བཞི་པ་དང་དྲུག་པའི་ཡིག་རྒྱུགས་3</item>
+        <item>སྤྱི་སྐད་ཆུ་ཚད་ཡིག་རྒྱུགས།1</item>
+        <item>སྤྱི་སྐད་ཆུ་ཚད་ཡིག་རྒྱུགས།2</item>
+        <item>སློབ་གནས་དབྱིན་ཡིག</item>
+        <item>དབྱིན་ཡིག་ABརིམ་པ།</item>
+        <item>དབྱིན་ཡིག་རིམ་པ་གསུམ་པའི་ཡིག་ཚད།</item>
+        <item>རྩིས་འཕྲུལ་ཚད་རིམ་ཡིག་རྒྱུགས་1</item>
+        <item>རྩིས་འཕྲུལ་ཚད་རིམ་ཡིག་རྒྱུགས་2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>ཆུང་འབྲིང་སློབ་མའི་དགེ་རྒན་ཚད་གཞིའི་ལག་ཁྱེར།</item>
+        <item>དགེ་རྒན་གྱི་ཚད་གཞིའི་ལག་ཁྱེར།</item>
+        <item>ཁ་ལོ་བའི་ལག་ཁྱེར།</item>
+        <item>སྣེ་ཤན་པའི་ལག་ཁྱེར།</item>
+        <item>གློག་རྡུལ་སྣེ་ཤན་པའི་ལག་ཁྱེར།</item>
+        <item>རྒྱལ་ཁབ་ཀྱི་ཁྲིམས་འཛིན་ཡིག་རྒྱུགས།</item>
+        <item>འཛུགས་སྐྲུན་མཁས་པ་རིམ་པ་དང་པོའི་ལག་ཁྱེར།(གློག་རྡུལ་པར་མ།)</item>
+        <item>འཛུགས་སྐྲུན་མཁས་པ་རིམ་པ་གཉིས་པའི་ལག་ཁྱེར།</item>
+        <item>དམའ་རིམ་རྩིས་པའི་ལས་གནས་ཡིག་རྒྱུགས།</item>
+        <item>རྩིས་པ་ཐོ་འགོད།</item>
+        <item>པེ་ཅིང་སྣེ་ཤན་པའི་ལག་ཁྱེར།</item>
+        <item>འབྲིང་རིམ་རྩིས་པའི་ལས་གནས་ཡིག་རྒྱུགས།</item>
+        <item>མཐོ་རིམ་རྩིས་པའི་ལས་གནས་ཡིག་རྒྱུགས།</item>
+        <item>རྩིས་པའི་ལས་གནས་ལག་ཁྱེར།</item>
+        <item>རྩིས་པའི་ཐོབ་ཐང་ཡིག་རྒྱུགས་ཐོ་འགོད།</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>ཨ་རིའི་ལམ་ཡིག</item>
+        <item>ཝེ་ཐེ་ནམ་གྱི་ལམ་ཡིག</item>
+        <item>ཉི་ཧོང་གི་ལམ་ཡིག</item>
+        <item>ཀང་ཨའོ་བརྒྱུད་པའི་ལམ་ཐིག</item>
+        <item>ལྷོ་ཁོ་རེ་ཡའི་ལམ་ཡིག</item>
+        <item>ཐེ་ལན་ཊིའི་ལམ་ཡིག(ཡུལ་སྐོར་ལམ་ཡིག)</item>
+        <item>ཐེ་ལན་ཊིའི་ལམ་ཡིག(བཅའ་སྡོད་ལམ་ཡིག)</item>
+        <item>རྒྱ་གར་ལམ་ཡིག</item>
+        <item>དབྱི་ཟི་རལ་གྱི་ལམ་ཡིག</item>
+        <item>ཐེ་འཛུལ་ལམ་ཡིག</item>
+        <item>མ་ཡ་ཞི་ཡའི་ལམ་ཡིག</item>
+        <item>ཉུའུ་ཛི་ལན་གྱི་ལམ་ཐིག</item>
+        <item>དབྱི་ཐ་ལའི་ལམ་ཡིག</item>
+        <item>ཨར་གིན་ཐིན་གྱི་ལམ་ཡིག</item>
+        <item>སྦར་འཛིལ་གྱི་ལམ་ཡིག</item>
+        <item>འཁྱགས་གླིང་གི་ལམ་ཡིག</item>
+        <item>ཁན་ནི་ཡའི་ལམ་ཡིག</item>
+    </string-array>
+</resources>

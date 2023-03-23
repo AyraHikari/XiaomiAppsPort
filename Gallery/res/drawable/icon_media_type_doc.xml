@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="80.0dip" android:width="120.0dip" android:autoMirrored="true" android:viewportWidth="120.0" android:viewportHeight="80.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M0,0h120v80h-120z" />
+        <group>
+            <clip-path android:pathData="M40.949,13.766L79.051,13.766A4.902,4.902 0,0 1,83.953 18.667L83.953,60.192A4.902,4.902 0,0 1,79.051 65.094L40.949,65.094A4.902,4.902 0,0 1,36.047 60.192L36.047,18.667A4.902,4.902 0,0 1,40.949 13.766z" />
+            <path android:fillColor="#00000000" android:pathData="M40.949,13.766L79.051,13.766A4.902,4.902 0,0 1,83.953 18.667L83.953,60.192A4.902,4.902 0,0 1,79.051 65.094L40.949,65.094A4.902,4.902 0,0 1,36.047 60.192L36.047,18.667A4.902,4.902 0,0 1,40.949 13.766z" android:strokeColor="#ff0d84ff" android:strokeWidth="11.0" />
+        </group>
+        <path android:fillColor="#00000000" android:pathData="M51.398,30.08H68.599" android:strokeColor="#ff0d84ff" android:strokeWidth="5.5" android:strokeLineCap="round" />
+        <path android:fillColor="#00000000" android:pathData="M51.398,42.781H68.599" android:strokeColor="@color/media_type_icon_color" android:strokeWidth="5.5" android:strokeLineCap="round" />
+    </group>
+</vector>

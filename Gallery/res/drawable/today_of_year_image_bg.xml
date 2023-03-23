@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/assistant_today_of_year_image_top_height" android:width="@dimen/assistant_today_of_year_image_top_width" />
+    <solid android:color="@color/assistant_today_of_year_image_bg_color" />
+    <corners android:radius="3.9799805dip" />
+</shape>

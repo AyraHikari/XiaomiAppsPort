@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/image_selection_tips_dialog_title_size" android:textColor="@color/image_selection_tips_dialog_title_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/alert_selection_title" android:fontFamily="mipro-medium" />
+        <TextView android:textSize="@dimen/image_selection_tips_dialog_detail_text_size" android:textColor="@color/image_selection_tips_dialog_detail_text_color" android:gravity="center_horizontal" android:id="@id/sub_title" android:scrollbars="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/image_selection_tips_dialog_detail_margin_top" android:text="@string/alert_selection_description" android:fadeScrollbars="false" android:fontFamily="mipro-regular" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/pictureGroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/image_selection_tips_dialog_photo_margin_top" android:layout_marginBottom="@dimen/image_selection_tips_dialog_photo_margin_bottom">
+            <ImageView android:layout_width="@dimen/image_selection_tips_dialog_photo_width" android:layout_height="@dimen/image_selection_tips_dialog_photo_height" android:src="@drawable/selection_better" />
+            <ImageView android:layout_width="@dimen/image_selection_tips_dialog_photo_width" android:layout_height="@dimen/image_selection_tips_dialog_photo_height" android:src="@drawable/selection_normal" android:layout_marginStart="@dimen/image_selection_tips_dialog_photo_spacing" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/buttonGroup" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:measureWithLargestChild="true" android:layout_marginStart="@dimen/miuix_appcompat_dialog_button_panel_horizontal_margin" android:layout_marginEnd="@dimen/miuix_appcompat_dialog_button_panel_horizontal_margin" style="?android:buttonBarStyle">
+            <Button android:textSize="@dimen/image_selection_tips_dialog_button_text_size" android:textColor="@color/image_selection_tips_dialog_button_text_color" android:gravity="center" android:id="@id/positive_btn" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/cleaner_scan_ok" android:layout_weight="1.0" android:fontFamily="mipro-medium" style="?android:buttonBarButtonStyle" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

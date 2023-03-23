@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/banner" android:background="#00000000" android:layout_width="fill_parent" android:layout_height="@dimen/magic_top_bar">
+        <TextView android:layout_gravity="start|center" android:id="@id/magic_a_bar_cancel" android:text="@string/magic_cancel" android:onClick="onClick" android:layout_marginStart="@dimen/magic_px_10" style="@style/magic_action_bar_text" />
+        <TextView android:layout_gravity="end|center" android:id="@id/magic_a_bar_save" android:text="@string/magic_next" android:onClick="onClick" android:layout_marginEnd="11.629974dip" style="@style/magic_action_bar_text" />
+    </FrameLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingLeft="@dimen/magic_width_10" android:paddingTop="@dimen/magic_top_height_36" android:paddingRight="@dimen/magic_width_10" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+            <RelativeLayout android:gravity="center" android:id="@id/magic_video_play_btn" android:layout_width="fill_parent" android:layout_height="wrap_content" android:onClick="onClick">
+                <TextureView android:id="@id/magic_video_preview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+                <RelativeLayout android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:contentDescription="@string/acc_video_play_btn">
+                    <ImageView android:layout_width="@dimen/magic_video_play_btn_height" android:layout_height="@dimen/magic_video_play_btn_height" android:layout_marginBottom="5.0dip" android:src="@drawable/magic_video_play_btn" android:layout_alignParentLeft="true" />
+                </RelativeLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

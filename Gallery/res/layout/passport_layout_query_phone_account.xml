@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:gravity="center" android:id="@id/query_skip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="48.0dip" android:text="@string/skip_query_account" android:layout_alignParentBottom="true" style="@style/Passport.CommonRoundButton" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/query_skip">
+        <TextView android:textSize="15.0sp" android:gravity="center" android:id="@id/tv_loading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/passport_account_login_margin_normal" android:text="@string/doing_query_account" android:layout_centerInParent="true" />
+        <ProgressBar android:id="@id/pb_loading" android:layout_above="@id/tv_loading" android:layout_centerHorizontal="true" style="@style/Passport.ProgressBar" />
+    </RelativeLayout>
+</RelativeLayout>

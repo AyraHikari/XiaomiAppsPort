@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="?spinnerDropDownItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/spinner_dropdown_container" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <androidx.appcompat.widget.AppCompatRadioButton android:gravity="center_vertical" android:id="@android:id/checkbox" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="?android:listChoiceIndicatorSingle" android:layout_marginStart="@dimen/miuix_appcompat_spinner_dropdown_item_icon_margin" />
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="dislike" android:height="@dimen/miuix_appcompat_action_button_height" android:width="@dimen/miuix_appcompat_action_button_width" android:viewportWidth="74.0" android:viewportHeight="74.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="group_1" android:pivotX="37.0" android:pivotY="37.0" android:scaleX="1.0" android:scaleY="1.0">
+        <group android:name="group" android:pivotX="40.0" android:pivotY="40.0" android:scaleX="0.9999404" android:scaleY="0.9999404">
+            <path android:name="path_1" android:fillColor="@color/action_button_v20_normal" android:pathData="M13.9184,16.9406C19.8121,11.0205 29.3784,11.0199 35.2701,16.9379L37,18.6756L38.7299,16.9379C44.6216,11.0199 54.1879,11.0205 60.0816,16.9406C65.9715,22.8568 65.9731,32.441 60.0844,38.3561L39.4804,59.052C38.1123,60.4262 35.8877,60.4262 34.5196,59.052L13.9156,38.3561C8.0269,32.441 8.0285,22.8568 13.9184,16.9406ZM31.7267,20.4656C27.7901,16.5114 21.4018,16.5106 17.4617,20.4683C13.5131,24.4345 13.5133,30.8651 17.459,34.8284L37,54.4566L56.541,34.8284C60.4867,30.8651 60.4869,24.4345 56.5383,20.4683C52.5982,16.5106 46.2099,16.5114 42.2733,20.4656L37,25.7624L31.7267,20.4656Z" android:strokeWidth="1.0" android:fillAlpha="0.0" android:fillType="evenOdd" />
+            <group android:name="group_2">
+                <path android:name="path_2" android:fillColor="#fff22424" android:pathData="M13.4184,17.4406C19.3121,11.5205 28.8784,11.5199 34.7701,17.4379L36.5,19.1755L38.2299,17.4379C44.1216,11.5199 53.6879,11.5205 59.5816,17.4406C65.4715,23.3568 65.4731,32.941 59.5844,38.8561L38.9804,59.552C37.6123,60.9262 35.3877,60.9262 34.0196,59.552L13.4156,38.8561C7.5269,32.941 7.5285,23.3568 13.4184,17.4406Z" android:strokeWidth="1.0" android:fillType="evenOdd" />
+            </group>
+        </group>
+    </group>
+</vector>

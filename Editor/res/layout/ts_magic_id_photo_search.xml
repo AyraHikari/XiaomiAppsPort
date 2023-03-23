@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/container" android:background="@color/black" android:paddingTop="@dimen/magic_status_bar_height_96" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/magic_search_bar_height">
+        <RelativeLayout android:id="@id/magic_back" android:layout_width="@dimen/magic_search_bar_height" android:layout_height="@dimen/magic_search_bar_height" android:onClick="onClick" android:contentDescription="@string/cd_btn_back">
+            <ImageView android:id="@id/iv_tittle_search_back" android:layout_width="@dimen/magic_px_100" android:layout_height="@dimen/magic_px_100" android:src="@drawable/magic_back_search" android:layout_centerVertical="true" android:layout_marginStart="@dimen/magic_px_66" />
+        </RelativeLayout>
+        <TextView android:textSize="@dimen/magic_text_size_56" android:textColor="#ccffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/magic_idp_search_size" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <RelativeLayout android:gravity="center" android:paddingTop="@dimen/magic_width_10" android:paddingBottom="@dimen/magic_width_30" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/magic_px_20" android:layout_marginBottom="@dimen/magic_search_margin_bottom_47">
+        <RelativeLayout android:id="@id/rl_input_box_search" android:background="@drawable/shape_search_ed_bg" android:layout_width="@dimen/magic_search_edit_width" android:layout_height="@dimen/magic_idp_search_height">
+            <RelativeLayout android:layout_width="@dimen/magic_idp_search_image" android:layout_height="@dimen/magic_idp_search_image" android:layout_centerVertical="true" android:layout_marginStart="@dimen/magic_px_39">
+                <ImageView android:layout_width="@dimen/magic_px_39" android:layout_height="@dimen/magic_px_40" android:src="@drawable/magic_idp_search" android:layout_centerInParent="true" />
+            </RelativeLayout>
+            <miuix.androidbasewidget.widget.EditText android:textSize="@dimen/magic_idp_search_edit_font" android:textColor="#ffffffff" android:textColorHint="#4dffffff" android:gravity="start|center" android:id="@id/magic_idp_search_edit" android:background="@null" android:focusable="false" android:layout_width="fill_parent" android:layout_height="@dimen/magic_idp_search_height" android:layout_marginLeft="@dimen/magic_idp_search_edit_margin" android:layout_marginRight="@dimen/magic_idp_search_edit_margin" android:hint="@string/magic_idp_search_text" android:maxLength="100" android:imeOptions="actionSearch" android:textAlignment="viewStart" />
+        </RelativeLayout>
+        <View android:id="@id/view_search_layer" android:layout_width="@dimen/magic_search_edit_width" android:layout_height="@dimen/magic_idp_search_height" android:contentDescription="@string/acc_search_guide_button" />
+    </RelativeLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.miui.gallery.magic.widget.EmptyRecyclerView android:layout_gravity="center_horizontal" android:id="@id/magic_idp_search_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/magic_idp_search_list_padding" />
+        <include layout="@layout/ts_magic_id_photo_search_recycler_empty" />
+    </FrameLayout>
+</LinearLayout>

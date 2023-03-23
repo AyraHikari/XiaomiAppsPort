@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="@dimen/magic_idp_pop_width" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/magic_px_40"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/rl_pop_item_px" android:background="@drawable/select_pop_dialog_item_bg_top" android:paddingTop="@dimen/magic_idp_pop_top_30" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/magic_idp_pop_height">
+        <TextView android:textSize="@dimen/magic_text_size_44" android:textColor="@drawable/select_pop_dialog_text_color" android:gravity="start|center|top" android:id="@id/tv_progress" android:layout_width="wrap_content" android:layout_height="@dimen/magic_back_icon_margin_left" android:layout_marginTop="@dimen/magic_px_45" android:text="px" android:layout_marginStart="@dimen/magic_idp_pop_right_80" style="@style/magic_style_medium" />
+        <ImageView android:layout_width="@dimen/magic_idp_pop_iv_side_56" android:layout_height="@dimen/magic_idp_pop_iv_side_56" android:layout_marginTop="@dimen/magic_i_width_46px" android:src="@drawable/select_idp_iv_src" android:layout_marginEnd="@dimen/magic_idp_pop_right_80" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/rl_pop_item_mm" android:background="@drawable/select_pop_dialog_item_bg_bottom" android:paddingBottom="@dimen/magic_idp_pop_top_30" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/magic_idp_pop_height">
+        <TextView android:textSize="@dimen/magic_text_size_44" android:textColor="@drawable/select_pop_dialog_text_color" android:gravity="start|center|top" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/magic_px_45" android:text="mm" android:layout_marginStart="@dimen/magic_idp_pop_right_80" style="@style/magic_style_medium" />
+        <ImageView android:layout_width="@dimen/magic_idp_pop_iv_side_56" android:layout_height="@dimen/magic_idp_pop_iv_side_56" android:layout_marginTop="@dimen/magic_idp_pop_corners_30" android:src="@drawable/select_idp_iv_src" android:layout_marginEnd="@dimen/magic_idp_pop_right_80" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</LinearLayout>

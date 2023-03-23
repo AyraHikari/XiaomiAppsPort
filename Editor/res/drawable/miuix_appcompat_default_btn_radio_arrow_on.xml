@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miuix_appcompat_btn_radio_height" android:width="@dimen/miuix_appcompat_btn_radio_width" android:viewportWidth="20.0" android:viewportHeight="20.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?radioButtonOnDrawableBackgroundColor" android:pathData="M16.7202,6.4826C17.1604,5.9508 17.0861,5.1629 16.5543,4.7227C16.0225,4.2825 15.2345,4.3567 14.7943,4.8885L8.1975,12.8582L4.7857,9.4465C4.2976,8.9583 3.5061,8.9583 3.018,9.4465C2.5298,9.9346 2.5298,10.7261 3.018,11.2142L7.3954,15.5917C7.7585,15.9547 8.2894,16.0478 8.7384,15.8707C8.9341,15.7965 9.1137,15.672 9.2567,15.4993L16.7202,6.4826Z" android:fillType="evenOdd" />
+</vector>

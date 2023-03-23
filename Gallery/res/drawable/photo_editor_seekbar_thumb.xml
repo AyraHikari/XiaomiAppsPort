@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/seekbar_thumb_active_state" android:drawable="@drawable/shape_seekbar_thumb_active" />
+    <item android:id="@id/seekbar_thumb_reset_state" android:drawable="@drawable/shape_seekbar_thumb_reset" />
+</layer-list>

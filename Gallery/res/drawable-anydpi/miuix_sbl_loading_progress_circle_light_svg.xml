@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="20.0dip" android:width="20.0dip" android:viewportWidth="60.0" android:viewportHeight="60.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/miuix_sbl_loading_light" android:pathData="M18.1562,30.0195m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" android:strokeWidth="2.0" android:strokeAlpha="1.0" android:fillAlpha="1.0" />
+</vector>

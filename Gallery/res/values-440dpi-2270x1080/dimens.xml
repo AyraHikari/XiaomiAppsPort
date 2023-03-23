@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vlog_ratio_view_has_nav_line_begin">17.0dip</dimen>
+    <dimen name="vlog_ratio_view_line_begin">18.399994dip</dimen>
+    <dimen name="vlog_video_view_9V16_has_nav_margin_start">45.0dip</dimen>
+    <dimen name="vlog_video_view_9V16_margin_start">45.0dip</dimen>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "music name": "Normal10s",
+  "version": 1,
+  "points": [
+    {
+      "cutPoint": 1920,
+      "transName": "alpha",
+      "transLen": 800
+    },
+    {
+      "cutPoint": 4080,
+      "transName": "alpha",
+      "transLen": 800
+    },
+    {
+      "cutPoint": 5720,
+      "transName": "alpha",
+      "transLen": 800
+    },
+    {
+      "cutPoint": 8000,
+      "transName": "alpha",
+      "transLen": 800
+    },
+    {
+      "cutPoint": 10000
+    }
+  ]
+}

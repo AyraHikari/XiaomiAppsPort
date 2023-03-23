@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.widget.GalleryPreferenceCategory android:title="@string/baby_lock_wallpaper_title" android:key="baby_lock_wallpaper_preference" />
+</PreferenceScreen>

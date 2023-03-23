@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/map_fragment_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.ui.MapFloatingMenuLayout android:layout_gravity="end|bottom|center" android:id="@id/map_floating_menu" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</FrameLayout>

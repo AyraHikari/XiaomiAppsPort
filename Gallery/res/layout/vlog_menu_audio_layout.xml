@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/navRoot" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/audio_list_layout" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.miui.gallery.widget.recyclerview.SimpleRecyclerView android:id="@id/recycler_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/audio_operation_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/top_panel" android:layout_width="fill_parent" android:layout_height="@dimen/vlog_audio_top_panel_seekbar_height" android:layout_marginBottom="@dimen/audio_frame_panel_margin_top" android:layoutDirection="ltr" app:layout_constraintBottom_toTopOf="@id/frame_panel">
+            <com.airbnb.lottie.LottieAnimationView android:id="@id/min_voice_view" android:focusable="true" android:layout_width="@dimen/vlog_audio_top_panel_height" android:layout_height="@dimen/vlog_audio_top_panel_height" android:layout_centerVertical="true" android:contentDescription="@string/vlog_talkback_min_voice_view" android:alpha="0.6" android:layout_marginStart="@dimen/audio_frame_margin_start_end" />
+            <com.airbnb.lottie.LottieAnimationView android:id="@id/max_voice_view" android:focusable="true" android:layout_width="@dimen/vlog_audio_top_panel_height" android:layout_height="@dimen/vlog_audio_top_panel_height" android:layout_centerVertical="true" android:contentDescription="@string/vlog_talkback_max_voice_view" android:alpha="0.6" android:layout_marginEnd="@dimen/audio_frame_margin_start_end" android:layout_alignParentEnd="true" />
+            <include android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/seek_bar_view" />
+        </RelativeLayout>
+        <RelativeLayout android:orientation="horizontal" android:id="@id/frame_panel" android:layout_width="fill_parent" android:layout_height="@dimen/audio_frame_panel_height" android:layout_marginBottom="@dimen/vlog_audio_menu_confirm_layout_margin_top" android:layoutDirection="ltr" app:layout_constraintBottom_toTopOf="@id/bottom_panel">
+            <View android:background="@drawable/vlog_audio_frame_background" android:layout_width="fill_parent" android:layout_height="@dimen/audio_frame_panel_height" android:layout_centerInParent="true" android:layout_marginStart="@dimen/audio_frame_margin_right" android:layout_marginEnd="@dimen/audio_frame_margin_right" />
+            <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/audio_recycler_view" android:paddingTop="@dimen/audio_frame_panel_recycler_padding_top" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentBottom="true" />
+            <View android:id="@id/left_frame_mask" android:background="@drawable/vlog_audio_frame_mask_rotate" android:layout_width="@dimen/audio_frame_margin_right" android:layout_height="fill_parent" />
+            <ImageView android:id="@id/right_frame_mask" android:background="@drawable/vlog_audio_frame_mask" android:layout_width="@dimen/audio_frame_margin_right" android:layout_height="fill_parent" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <FrameLayout android:id="@id/bottom_panel" android:layout_width="fill_parent" android:layout_height="@dimen/vlog_menu_common_confirm_height" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

@@ -1,0 +1,17 @@
+{
+  "param": "param.json",
+  "mixerName": "movit.transition.blending",
+  "mixerParam": "screen_black",
+  "isDynamic": false,
+  "analyticType": 0,
+  "lineCount": 1,
+  "textList": [
+    {
+      "text": "自定义",
+      "lineNum": 0
+    }
+  ],
+  "materialList": [
+    "material.json"
+  ]
+}

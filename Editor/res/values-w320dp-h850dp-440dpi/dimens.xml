@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_edit_dialog_tab_style_bsb_empty_width">176.72998dip</dimen>
+    <dimen name="text_edit_dialog_tab_style_bsb_visibility_width">185.44998dip</dimen>
+    <dimen name="vlog_mutli_clip_slide_swirch_width">265.8125dip</dimen>
+    <dimen name="vlog_single_clip_speed_picker_indicator_width">56.0dip</dimen>
+    <dimen name="vlog_speed_picker_width">272.0dip</dimen>
+    <dimen name="vlog_speed_selected_width">56.0dip</dimen>
+</resources>

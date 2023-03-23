@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="magic_effects_guide_item_h">398.20312dip</dimen>
+    <dimen name="magic_effects_guide_item_w">302.21875dip</dimen>
+    <dimen name="magic_effects_guide_list_magin_end">67.54999dip</dimen>
+    <dimen name="magic_effects_guide_list_magin_start">67.54999dip</dimen>
+    <dimen name="magic_idp_bottom_height">444.4375dip</dimen>
+    <dimen name="magic_idp_make_search_look_max_width">982.21875dip</dimen>
+    <dimen name="magic_idp_make_tab_margin_left">62.659973dip</dimen>
+    <dimen name="magic_idp_make_tab_margin_right">62.659973dip</dimen>
+    <dimen name="magic_search_edit_width">982.21875dip</dimen>
+</resources>

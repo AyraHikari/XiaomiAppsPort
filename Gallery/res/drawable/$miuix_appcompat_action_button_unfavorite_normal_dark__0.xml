@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="unlike" android:height="@dimen/miuix_appcompat_action_button_height" android:width="@dimen/miuix_appcompat_action_button_width" android:viewportWidth="26.0" android:viewportHeight="26.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="group" android:pivotX="40.0" android:pivotY="40.0">
+        <path android:name="path_1" android:fillColor="@color/miuix_appcompat_action_button_color_normal_dark" android:pathData="M4.6223,5.7192C6.7615,3.5704 10.2337,3.5702 12.3721,5.7182L13,6.3489L13.6279,5.7182C15.7664,3.5702 19.2386,3.5704 21.3778,5.7192C23.5156,7.8666 23.5162,11.3453 21.3788,13.4922L13.9003,21.0041C13.4038,21.5028 12.5963,21.5028 12.0998,21.0041L4.6213,13.4922C2.4839,11.3453 2.4844,7.8666 4.6223,5.7192ZM11.086,6.9986C9.6572,5.5634 7.3385,5.5631 5.9084,6.9996C4.4752,8.4392 4.4752,10.7733 5.9074,12.2118L13,19.3361L20.0927,12.2118C21.5248,10.7733 21.5249,8.4392 20.0917,6.9996C18.6616,5.5631 16.3429,5.5634 14.9141,6.9986L13,8.9212L11.086,6.9986Z" android:fillType="evenOdd" />
+        <path android:name="path_2" android:fillColor="@color/miuix_appcompat_svg_icon_color_red_normal_dark" android:pathData="M4.6223,5.7192C6.7615,3.5704 10.2337,3.5702 12.3721,5.7182L12.6457,5.993C12.8411,6.1893 13.1589,6.1893 13.3544,5.993L13.6279,5.7182C15.7664,3.5702 19.2386,3.5704 21.3778,5.7192C23.5156,7.8666 23.5162,11.3453 21.3788,13.4922L13.9003,21.0041C13.4038,21.5028 12.5963,21.5028 12.0998,21.0041L4.6213,13.4922C2.4839,11.3453 2.4844,7.8666 4.6223,5.7192Z" android:fillType="evenOdd" />
+    </group>
+</vector>

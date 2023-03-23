@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.internal.view.CheckBoxAnimatedStateListDrawable
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_checked="true" android:id="@id/checkbox_state_checked" android:drawable="@drawable/miuix_appcompat_btn_checkbox_on_normal_dark" />
+    <item android:state_checked="true" android:drawable="@drawable/miuix_appcompat_btn_checkbox_on_disabled_dark" />
+    <item android:state_enabled="true" android:id="@id/checkbox_state_normal" android:drawable="@drawable/miuix_appcompat_btn_checkbox_off_normal_dark" />
+    <item android:drawable="@drawable/miuix_appcompat_btn_checkbox_off_disabled_dark" />
+    <transition android:drawable="@drawable/miuix_appcompat_btn_checkbox_off_to_on_dark" android:toId="@id/checkbox_state_checked" android:fromId="@id/checkbox_state_normal" />
+    <transition android:drawable="@drawable/miuix_appcompat_btn_checkbox_on_to_off_dark" android:toId="@id/checkbox_state_normal" android:fromId="@id/checkbox_state_checked" />
+</miuix.internal.view.CheckBoxAnimatedStateListDrawable>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingBottom="@dimen/photo_page_bottom_menu_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/content_mask" android:background="@drawable/window_content_mask" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/view_frame" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/layout_menu" />
+    <com.miui.gallery.ui.photoPage.bars.view.LimitRecyclerView android:id="@id/layout_more_actions" android:background="?listMenuBackground" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/layout_menu" android:overScrollMode="never" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/layout_menu" android:background="@drawable/photo_page_action_bar_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+</RelativeLayout>

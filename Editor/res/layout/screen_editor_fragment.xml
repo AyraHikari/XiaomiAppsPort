@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.editor.photo.screen.home.ScreenEditorView android:id="@id/screen_editor_view" android:paddingTop="@dimen/screen_editor_view_top_margin" android:paddingBottom="@dimen/screen_editor_view_bottom_margin" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/screen_editor_view_horizontal_margin" android:paddingEnd="@dimen/screen_editor_view_horizontal_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

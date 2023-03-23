@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/assistant_banner_gradient_bg" android:layout_width="fill_parent" android:layout_height="@dimen/assistant_gradient_bg_height" layout="@layout/assistant_banner_gradient_bg" />
+    <miuix.springback.view.SpringBackLayout android:id="@id/assistant_page_spring_back" android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollableView="@id/assistant_page_view">
+        <com.miui.gallery.widget.AssistantPageNestedScrollView android:id="@id/assistant_page_view" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/assistant_page_view_layout" android:paddingBottom="35.0dip" android:clipChildren="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.miui.gallery.widget.recyclerview.CustomCardBanner android:id="@id/assistant_page_banner" android:layout_width="fill_parent" android:layout_height="@dimen/assistant_banner_card_height" android:importantForAccessibility="no" />
+                <include android:layout_width="fill_parent" android:layout_height="@dimen/assistant_today_of_year_height" android:layout_marginTop="@dimen/assistant_today_of_year_margin_top" android:layout_marginStart="@dimen/assistant_page_margin_start" android:layout_marginEnd="@dimen/assistant_page_margin_end" layout="@layout/view_today_of_year" />
+                <com.miui.gallery.widget.recyclerview.HorizontalRecyclerView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/recycler_view" android:background="@color/assistant_operator_item_layout_bg_color" android:paddingTop="@dimen/assistant_header_top_bottom_divider" android:paddingBottom="@dimen/assistant_header_top_bottom_divider" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/assistant_header_margin_bottom" android:importantForAccessibility="no" android:layout_marginStart="@dimen/assistant_page_margin_start" android:layout_marginEnd="@dimen/assistant_page_margin_start" app:outlineCornerRadius="@dimen/assistant_header_item_radius" app:view_grid="true" />
+                <include android:layout_width="fill_parent" android:layout_height="@dimen/assistant_all_cards_height" android:layout_marginTop="@dimen/assistant_all_cards_layout_margin_top" android:layout_marginStart="@dimen/assistant_page_margin_start" android:layout_marginEnd="@dimen/assistant_page_margin_end" layout="@layout/view_all_time_cards" />
+            </LinearLayout>
+        </com.miui.gallery.widget.AssistantPageNestedScrollView>
+    </miuix.springback.view.SpringBackLayout>
+</FrameLayout>

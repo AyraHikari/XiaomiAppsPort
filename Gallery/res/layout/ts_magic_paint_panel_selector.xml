@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@color/black" android:layout_width="fill_parent" android:layout_height="@dimen/magic_image_width_120"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/magic_paint_seek_body" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <com.miui.gallery.magic.widget.MagicBubbleSeekBar android:layout_gravity="center" android:id="@id/magic_paint_size_seek" android:layout_width="@dimen/magic_bubble_seek_width" android:layout_height="@dimen/magic_px_70" android:layout_marginLeft="@dimen/magic_matting_width_210" app:bsb_bubble_seekbar_distance="10.0dip" app:bsb_color_empty="#24ffffff" app:bsb_color_fill="#ffffce16" app:bsb_color_slider="#ffffffff" app:bsb_current_progress="60.0" app:bsb_empty_progress_height="@dimen/magic_px_50" app:bsb_hide_bubble="false" app:bsb_max_progress="100" app:bsb_slider_enlarge_hide="false" app:bsb_slider_width="@dimen/magic_list_margin_25" app:bsb_visibility_width="@dimen/magic_bubble_seek_visibility_width" />
+        </LinearLayout>
+        <ImageView android:id="@id/magic_paint_size_image" android:clickable="true" android:layout_width="@dimen/magic_padding_80" android:layout_height="@dimen/magic_padding_80" android:layout_marginRight="@dimen/magic_idp_make_edit_icon_height_60" android:src="@drawable/magic_shape_paint_selector_white" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/magic_paint_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <miuix.recyclerview.widget.RecyclerView android:id="@id/recycler_paint_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <ImageView android:id="@id/magic_paint_color_close" android:layout_width="@dimen/magic_padding_80" android:layout_height="@dimen/magic_padding_80" android:layout_marginLeft="@dimen/magic_px_60" android:layout_marginRight="@dimen/magic_px_60" android:src="@drawable/magic_paint_close" />
+    </LinearLayout>
+</RelativeLayout>

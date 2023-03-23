@@ -1,0 +1,10 @@
+KineMaster Manifest/0100
+summary.json=995040eb40397350d5a785185b0ab1c08fa1e742
+[published-effects]
+com.nexstreaming.kinemaster.builtin.transition.crossfade=195ba83bdf0a24deea9344c44c1649fde8deb12d
+none=5e5906825c263554c95b11c4963f986b04742ad4
+[internal-dependencies]
+[external-dependencies]
+transition_crossfade.1ab8b54ebbda716d73839c317a724fd230a3eae1.png=1ab8b54ebbda716d73839c317a724fd230a3eae1
+transition_none.67cf91d13c68c91ca47b8b36d74d702e12e32e00.png=67cf91d13c68c91ca47b8b36d74d702e12e32e00
+[opt-external-dependencies]

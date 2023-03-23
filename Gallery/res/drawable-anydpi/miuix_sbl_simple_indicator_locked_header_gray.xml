@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="40.0dip" android:width="60.0dip" android:viewportWidth="60.0" android:viewportHeight="40.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/miuix_sbl_locked_gray" android:pathData="M52,30C52,17.8497 42.1503,8 30,8C17.8497,8 8,17.8497 8,30V40H0V30C0,13.4315 13.4315,0 30,0C46.5685,0 60,13.4315 60,30V40H52V30Z" android:fillType="evenOdd" />
+</vector>

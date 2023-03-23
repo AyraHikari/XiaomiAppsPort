@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 time siden</item>
+        <item quantity="one">1 time siden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 time siden</item>
+        <item quantity="one">1 time siden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">En halv time siden</item>
+        <item quantity="one">En halv time siden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Om en time</item>
+        <item quantity="one">Om en time</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Om en halv time</item>
+        <item quantity="one">Om en halv time</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Omgående</item>
+        <item quantity="one">Omgående</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">om %d min</item>
+        <item quantity="one">om 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Lige nu</item>
+        <item quantity="one">Lige nu</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min siden</item>
+        <item quantity="one">1 min siden</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Tilføj disse elementer til privat album?</item>
+        <item quantity="one">Tilføj dette element til privat album?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Tilføjet %d cloud-billeder, slå \"vis kun lokale albums\" fra for at se.</item>
+        <item quantity="one">Tilføjede %d cloud-fotos, sluk for \"Vis kun lokale album\" for at se.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">" %2$d elementer kan ikke tilføjes album. %1$s."</item>
+        <item quantity="one">" %2$d element kan ikke tilføjes album. %1$s."</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">" %2$d elementer kan ikke føjes til privat album. %1$s."</item>
+        <item quantity="one">" %2$d element kan ikke føjes til privat album. %1$s."</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d dage</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d måneder</item>
+        <item quantity="one">%d måned</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d år</item>
+        <item quantity="one">%d år</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Delt med %d personer</item>
+        <item quantity="one">Delt med %d folk</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d elementer | %2$s</item>
+        <item quantity="one">%1$d emner | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d elementer)</item>
+        <item quantity="one">(%d element)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d albummer</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s personer kan se dette album</item>
+        <item quantity="one">%s person kan se dette album</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d albummer, herunder %1$s</item>
+        <item quantity="one">%2$d album, herunder %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d elementer</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d lagerpladser</item>
+        <item quantity="one">%d lagerplads</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d fotos af %2$s vil blive tilføjet</item>
+        <item quantity="one">%1$d fotos af %2$s vil blive tilføjet.</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d fotos af %2$s vil blive tilføjet</item>
+        <item quantity="one">%1$d fotos af %2$s will be added.</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Genoptag sikkerhedskopiering om %d timer</item>
+        <item quantity="one">Genoptag sikkerhedskopiering om %d time</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d elementer er for store til at sikkerhedskopiere</item>
+        <item quantity="one">%d element er for stort til at sikkerhedskopiere</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">Fortsætter om %d minutter</item>
+        <item quantity="one">Fortsætter om %d minut</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Sæt synkronisering med clouden på pause for fotos, videoer, kontakter, noter og andre elementer i %d minutter.</item>
+        <item quantity="one">Sæt synkronisering med clouden på pause for fotos, videoer, kontakter, noter og andre elementer i %d minut.</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d fotos og videoer | %2$s</item>
+        <item quantity="one">%1$d foto og video | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d fotos og videoer</item>
+        <item quantity="one">%1$d foto og video</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Slet %d fotos, som du ikke har valgt?</item>
+        <item quantity="one">Slet %d foto, som du ikke har valgt?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Slet %d fotos</item>
+        <item quantity="one">Slet %d foto</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Slet %d valgt foto</item>
+        <item quantity="one">Behold %d valgt foto</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d videoer</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">Kunne ikke synkronisere %d elementer på grund af utilstrækkelig cloud-lager</item>
+        <item quantity="one">Kunne ikke synkronisere %d element på grund af utilstrækkelig cloud-lager</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Kollager kan indeholde %1$d-%2$d fotos</item>
+        <item quantity="one">Kollager kan indeholde %1$d-%2$d foto</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Vælg op til %d fotos</item>
+        <item quantity="one">Vælg op til %d foto</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d elementer valgte</item>
+        <item quantity="one">%d element valgte</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Slet %d seriefotos fra Xiaomi Cloud og alle synkroniserede enheder?</item>
+        <item quantity="one">Slet %d seriefoto fra Xiaomi Cloud og alle synkroniserede enheder?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Slet %d seriefotos?</item>
+        <item quantity="one">Slet %d seriefoto?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d elementer slettet</item>
+        <item quantity="one">%d element slettet</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">Slet %d elementer fra alle enheder og Xiaomi Cloud?</item>
+        <item quantity="one">Slet %d element fra alle enheder og Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">Slet %d elementer?</item>
+        <item quantity="one">Slet %d element?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Slet %d fotos fra alle enheder og Xiaomi Cloud?</item>
+        <item quantity="one">Slet %d foto fra alle enheder og Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Slet %d seriefotos fra denne enhed?</item>
+        <item quantity="one">Slet %d seriefoto fra denne enhed?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">Slet %d videoer fra alle enheder og Xiaomi Cloud?</item>
+        <item quantity="one">Slet %d video fra alle enheder og Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Kunne ikke downloade %1$d filer</item>
+        <item quantity="one">Kunne ikke downloade %1$d filer</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">Kunne ikke downloade %1$d filer, tjek netværksforbindelsen og prøv igen</item>
+        <item quantity="one">Kunne ikke downloade %1$d fil, tjek netværksforbindelsen og prøv igen</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Downloader elementer fra clouden (%2$d/%1$d)</item>
+        <item quantity="one">Downloader elementer fra clouden (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">Total %d fotos</item>
+        <item quantity="one">Total %d foto</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Behandling af fotos…</item>
+        <item quantity="one">Behandling af foto…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">Sprang over %1$d fotos, der ikke kunne renderes.</item>
+        <item quantity="one">Sprang over %1$d foto, der ikke kunne renderes.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d filer</item>
+        <item quantity="one">%1$d fil</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">En halv time siden</item>
+        <item quantity="one">En halv time siden</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Om 1 time</item>
+        <item quantity="one">Om 1 time</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Om en halv time</item>
+        <item quantity="one">Om en halv time</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Omgående</item>
+        <item quantity="one">Omgående</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">om %d minutter</item>
+        <item quantity="one">om 1 minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Lige nu</item>
+        <item quantity="one">Lige nu</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d emner valgt</item>
+        <item quantity="one">%d emne valgt</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutter siden</item>
+        <item quantity="one">1 minut siden</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d elementer afventer synkronisering</item>
+        <item quantity="one">%1$d element afventer synkronisering</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d fotos afventer synkronisering</item>
+        <item quantity="one">%1$d foto afventer synkronisering</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Synkroniserer %1$d fotos…</item>
+        <item quantity="one">Synkroniserer %1$d foto…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Synkroniserer %1$d elementer…</item>
+        <item quantity="one">Synkroniserer %1$d element…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Synkroniserer %1$d videoer…</item>
+        <item quantity="one">Synkroniserer %1$d video…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d videoer</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d videoer afventer synkronisering</item>
+        <item quantity="one">%1$d video afventer synkronisering</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">I alt %1$d elementer</item>
+        <item quantity="one">I alt %1$d element</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Rotér %d grader</item>
+        <item quantity="one">Rotér %d grad</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d dage</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">%d time</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Filtrerede %d ikke-understøttede elementer</item>
+        <item quantity="one">Filtrerede %d ikke-understøttet element</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF-filer kan indeholde op til %d billeder</item>
+        <item quantity="one">PDF-filer kan indeholde op til %d billede</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">De valgte fotos er ikke på denne enhed. Vil du downloade dem med mobildata?</item>
+        <item quantity="one">Valgte fotos findes ikke på enhed. Download dem ved hjælp af mobildata?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">De valgte fotos er ikke på enheden. De vil blive downloadet.</item>
+        <item quantity="one">Valgte fotos findes ikke på enhed. De vil blive downloadet.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Valgte fotos (%d MB) er ikke på enheden. Vil du downloade dem med mobildata?</item>
+        <item quantity="one">Valgte foto (%d MB) er ikke på enheden. Vil du downloade den med mobildata?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d filer er ikke downloadet endnu. Annuller alligevel?</item>
+        <item quantity="one">%d fil er ikke downloadet endnu. Annuller alligevel?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Downloader %d tilbageværende filer</item>
+        <item quantity="one">Downloader %d tilbageværende fil</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Kunne ikke downloade %1$d fotos. Opret forbindelse til netværket, og prøv igen</item>
+        <item quantity="one">Kunne ikke downloade %1$d foto. Opret forbindelse til netværket, og prøv igen</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Kunne ikke downloade %1$d filer (%2$d MB). Tilslut til netværket og prøv så igen.</item>
+        <item quantity="one">Kunne ikke downloade %1$d fil (%2$d MB). Tilslut til netværket og prøv så igen.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d filer (%2$d MB) er ikke downloadet endnu. Download ved hjælp af mobildata?</item>
+        <item quantity="one">%1$d fil (%2$d MB) er ikke downloadet endnu. Download ved hjælp af mobildata?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Kunne ikke downloade %1$d fotos, prøv igen?</item>
+        <item quantity="one">Kunne ikke downloade %1$d foto, prøv igen?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Kunne ikke downloade %1$d fotos (%2$d MB), prøv igen?</item>
+        <item quantity="one">Kunne ikke downloade %1$d foto (%2$d MB), prøv igen?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Sprang over %d fotos, der ikke er på enheden.</item>
+        <item quantity="one">Sprang over %d foto, der ikke er på enheden.</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Fandt %1$d nye fotos</item>
+        <item quantity="one">Fandt %1$d nyt foto</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Total %d fotos</item>
+        <item quantity="one">Total %d foto</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">" %2$d elementer kan ikke fjernes fra privat album. %1$s."</item>
+        <item quantity="one">" %2$d element kan ikke fjernes fra privat album. %1$s."</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">Føjede %1$d fotos til \"%2$s\" og tilføjede dem til databasen.</item>
+        <item quantity="one">Føjede %1$d foto til \"%2$s\" og tilføjede dem til databasen.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">Fjernede %1$d fotos fra \"%2$s\" og tilføjede dem til databasen.</item>
+        <item quantity="one">Fjernede %1$d foto fra \"%2$s\" og tilføjede dem til databasen.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">Føjede %1$d fotos til \"%2$s\".</item>
+        <item quantity="one">Føjede %1$d foto til \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">Fjernede %1$d fotos fra \"%2$s\".</item>
+        <item quantity="one">Fjernede %1$d foto fra \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d installationspakker (%3$s) fra %1$s</item>
+        <item quantity="one">%2$d installationspakke (%3$s) fra %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Har modtaget %2$d installationspakker (%3$s) fra %1$s</item>
+        <item quantity="one">Har modtaget %2$d installationspakke (%3$s) fra %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Modtager %2$d installationspakker (%3$s) fra %1$s…</item>
+        <item quantity="one">Modtager %2$d installationspakke (%3$s) fra %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d lydfiler (%3$s) fra %1$s</item>
+        <item quantity="one">%2$d lydfil (%3$s) fra %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Har modtaget %2$d lydfiler (%3$s) fra %1$s</item>
+        <item quantity="one">Har modtaget %2$d lydfil (%3$s) fra %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Modtager %2$d lydfiler (%3$s) fra %1$s…</item>
+        <item quantity="one">Modtager %2$d lydfil (%3$s) fra %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s filer (%4$s) fra %1$s</item>
+        <item quantity="one">%2$d %3$s fil (%4$s) fra %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Har modtaget %2$d %3$s filer (%4$s) fra %1$s</item>
+        <item quantity="one">Har modtaget %2$d %3$s fil (%4$s) fra %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Modtager %2$d %3$s filer (%4$s) fra %1$s…</item>
+        <item quantity="one">Modtager %2$d %3$s fil (%4$s) fra %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d billeder fra %1$s</item>
+        <item quantity="one">%2$d billede fra %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Har modtaget %2$d billeder fra %1$s</item>
+        <item quantity="one">Har modtaget %2$d billede fra %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Modtager %2$d billeder fra %1$s…</item>
+        <item quantity="one">Modtager %2$d billede fra %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d billeder og videoer fra %1$s</item>
+        <item quantity="one">%2$d billede eller video fra %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Har modtaget %2$d billeder eller videoer fra %1$s</item>
+        <item quantity="one">Har modtaget %2$d billede eller video fra %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Modtager %2$d billeder eller videoer fra %1$s…</item>
+        <item quantity="one">Modtager %2$d billede eller video fra %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d filer fra %1$s</item>
+        <item quantity="one">%2$d fil fra %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Har modtaget %2$d filer fra %1$s</item>
+        <item quantity="one">Har modtaget %2$d fil fra %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Modtager %2$d filer fra %1$s…</item>
+        <item quantity="one">Modtager %2$d fil fra %1$s…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">Kunne ikke dele. Behandler stadigt %d fotos…</item>
+        <item quantity="one">Kunne ikke dele. Behandler stadigt %d foto…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d videoer fra %1$s</item>
+        <item quantity="one">%2$d video fra %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Har modtaget %2$d videoer fra %1$s</item>
+        <item quantity="one">Har modtaget %2$d video fra %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Modtager %2$d videoer fra %1$s…</item>
+        <item quantity="one">Modtager %2$d video fra %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d arkiver (%3$s) fra %1$s</item>
+        <item quantity="one">%2$d arkiv (%3$s) fra %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Har modtaget %2$d arkiver (%3$s) fra %1$s</item>
+        <item quantity="one">Har modtaget %2$d arkiv (%3$s) fra %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Modtager %2$d arkiver (%3$s) fra %1$s…</item>
+        <item quantity="one">Modtager %2$d arkiv (%3$s) fra %1$s…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Uploadet %d fotos</item>
+        <item quantity="one">Uploadet %d foto</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d rum</item>
+        <item quantity="one">%1$d rum</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d skærme</item>
+        <item quantity="one">%1$d skærm</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d skærme</item>
+        <item quantity="one">%1$d skærm</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d delt skærme</item>
+        <item quantity="one">%1$d delt skærm</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d elementer er for stort til at synkronisere</item>
+        <item quantity="one">%d element er for stort til at synkronisere</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">Kunne ikke synkronisere %d elementer. Opgrader din abonnement på lagerplads.</item>
+        <item quantity="one">Kunne ikke synkronisere %d element. Opgrader din abonnement på lagerplads.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">Kunne ikke synkronisere %d elementer. Prøv igen.</item>
+        <item quantity="one">Kunne ikke synkronisere %d element. Prøv igen.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">Kunne ikke synkronisere %d elementer. Dette albums ejer er løbet tør for cloud-lagerplads.</item>
+        <item quantity="one">Kunne ikke synkronisere %d element. Dette albums ejer er løbet tør for cloud-lagerplads.</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">%1$d sekund</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">Optimerede %d fotos</item>
+        <item quantity="one">Optimerede %d foto</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">Optimerede %d fotos</item>
+        <item quantity="one">Optimerede %d foto</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">Optimerede %d videoer</item>
+        <item quantity="one">Optimerede %d video</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d fotos er ikke blevet optimeret. Stop nu?</item>
+        <item quantity="one">%d foto er ikke blevet optimeret. Stop nu?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d fotos tilbage</item>
+        <item quantity="one">%d foto tilbage</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d elementer tilbage at optimere</item>
+        <item quantity="one">%d element tilbage at optimere</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d videoer</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">Har ikke sikkerhedskopieret %d fotos og videoer</item>
+        <item quantity="one">Har ikke sikkerhedskopieret %d foto og video</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d elementer er for store til at sikkerhedskopiere</item>
+        <item quantity="one">%d element er for stort til at sikkerhedskopiere</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d elementer</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">Synkroniserede %d fotos</item>
+        <item quantity="one">Synkroniserede %d foto</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">Synkroniserede %d videoer</item>
+        <item quantity="one">Synkroniserede %d video</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Synkroniserer %d elementer ved hjælp af mobildata</item>
+        <item quantity="one">Synkroniserer %d element ved hjælp af mobildata</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Synkroniserer %d elementer</item>
+        <item quantity="one">Synkroniserer %d element</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s elementer</item>
+        <item quantity="one">%1$s, %2$s element</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d dage</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d måneder</item>
+        <item quantity="one">%d måned</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d år</item>
+        <item quantity="one">%d år</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d udvalgte elementer slettes permanent fra clouden samt alle synkroniserede enheder. Slet alligevel?</item>
+        <item quantity="one">%d udvalgt element slettes permanent fra clouden samt alle synkroniserede enheder. Slet alligevel?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Du vil ikke være i stand til at gendanne %d valgte elementer, hvis du sletter dem. Slet alligevel?</item>
+        <item quantity="one">Du vil ikke være i stand til at gendanne %d valgte element, hvis du sletter det. Slet alligevel?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d valgte elementer slettes øjeblikkeligt. Slet alligevel?</item>
+        <item quantity="one">%d valgte elementer slettes øjeblikkeligt. Slet alligevel?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Du vil ikke være i stand til at gendanne %d valgte elementer, hvis du sletter dem. Slet alligevel?</item>
+        <item quantity="one">Du vil ikke være i stand til at gendanne %d valgte element, hvis du sletter det. Slet alligevel?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Du vil ikke være i stand til at gendanne %d valgte elementer, hvis du sletter dem. Slet alligevel?</item>
+        <item quantity="one">Du vil ikke være i stand til at gendanne %d valgte element, hvis du sletter det. Slet alligevel?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Elementer kan gemmes her i op til %1$d dage (%2$s)</item>
+        <item quantity="one">Elementer kan gemmes her i %1$d dag (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Elementer kan gemmes her i %1$d dage. Opgrader dit abonnement for at forlænge denne periode.</item>
+        <item quantity="one">Elementer kan gemmes her i %1$d dag. Opgrader dit abonnement for at forlænge denne periode.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d filer</item>
+        <item quantity="one">%1$d fil</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d videoer</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:interpolator="@anim/wave_interpolator" android:duration="600" android:startOffset="583" android:valueFrom="@string/wave_path_1" android:valueTo="@string/wave_path_2" android:valueType="pathType" android:propertyName="pathData" />
+    <objectAnimator android:interpolator="@android:anim/linear_interpolator" android:duration="400" android:startOffset="733" android:valueFrom="0.4" android:valueTo="0" android:valueType="floatType" android:propertyName="fillAlpha" />
+</set>

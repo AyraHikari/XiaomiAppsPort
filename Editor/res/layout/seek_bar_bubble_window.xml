@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/layout_popup_content" android:layout_width="@dimen/seek_bar_bubble_shape_bg_solid_radius" android:layout_height="@dimen/seek_bar_bubble_shape_bg_solid_radius" android:layout_alignParentBottom="true">
+        <RelativeLayout android:id="@id/rl_content_view" android:background="@drawable/seek_bar_bubble_shape_bg" android:focusable="true" android:focusableInTouchMode="true" android:descendantFocusability="beforeDescendants" android:layout_width="@dimen/seek_bar_bubble_window_size" android:layout_height="@dimen/seek_bar_bubble_window_size" android:layout_centerInParent="true">
+            <TextView android:textSize="@dimen/seek_bar_bubble_text_size" android:textColor="@color/seek_bar_bubble_text_color" android:gravity="center" android:id="@id/tv_progress" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true" android:fontFamily="mipro-medium" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

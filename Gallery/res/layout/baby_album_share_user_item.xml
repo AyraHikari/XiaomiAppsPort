@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:paddingTop="@dimen/vertical_spacing_big" android:paddingBottom="@dimen/vertical_spacing_big" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_columnWeight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" android:background="@drawable/album_sharer_background" android:layout_width="@dimen/share_album_sharer_icon_size" android:layout_height="@dimen/share_album_sharer_icon_size" android:scaleType="centerCrop" />
+    <ImageView android:id="@id/mark" android:layout_width="@dimen/share_album_sharer_mark_size" android:layout_height="@dimen/share_album_sharer_mark_size" android:scaleType="centerInside" android:layout_alignBottom="@id/icon" android:layout_alignEnd="@id/icon" />
+    <ImageView android:gravity="center_horizontal" android:id="@id/ic_effect" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:layout_alignTop="@id/icon" android:layout_alignBottom="@id/icon" android:layout_alignStart="@id/icon" android:layout_alignEnd="@id/icon" />
+    <TextView android:gravity="center_horizontal" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/share_album_sharer_name_margin" android:layout_below="@id/icon" android:layout_centerHorizontal="true" style="@style/Gallery.TextAppearance.Info.Title" />
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.vlog.base.widget.DisplayView android:id="@id/display_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/vlog_video_view_gap_bottom" android:layout_centerInParent="true" />
+    <com.miui.gallery.vlog.view.VlogVideoProgressBar android:id="@id/progress_bar" android:layout_width="fill_parent" android:layout_height="@dimen/vlog_video_progress_bar_height" android:layout_alignBottom="@id/display_view" android:layout_alignStart="@id/display_view" android:layout_alignEnd="@id/display_view" />
+</RelativeLayout>

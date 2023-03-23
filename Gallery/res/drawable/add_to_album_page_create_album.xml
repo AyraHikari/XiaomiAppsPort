@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="185.0dip" android:width="185.0dip" android:autoMirrored="true" android:viewportWidth="185.0" android:viewportHeight="185.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/add_to_album_page_create_and_secret_icon_bg_color" android:pathData="M36,0L149,0A36,36 0,0 1,185 36L185,149A36,36 0,0 1,149 185L36,185A36,36 0,0 1,0 149L0,36A36,36 0,0 1,36 0z" />
+    <path android:fillColor="@color/add_to_album_page_create_and_secret_icon_content_color" android:pathData="M92.5,65C90.567,65 89,66.567 89,68.5V89H68.5C66.567,89 65,90.567 65,92.5C65,94.433 66.567,96 68.5,96H89V116.5C89,118.433 90.567,120 92.5,120C94.433,120 96,118.433 96,116.5V96H116.5C118.433,96 120,94.433 120,92.5C120,90.567 118.433,89 116.5,89H96V68.5C96,66.567 94.433,65 92.5,65Z" android:fillType="evenOdd" />
+</vector>

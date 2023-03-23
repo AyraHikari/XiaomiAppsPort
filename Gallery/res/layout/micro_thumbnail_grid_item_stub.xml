@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/mask" android:background="@color/black_30_transparent" android:visibility="gone" android:duplicateParentState="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@null" />
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.PickingNumber" android:gravity="center" android:id="@id/pick_num_indicator" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:layout_gravity="start|center|top" android:id="@id/top_indicator_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="end|center|top" android:id="@id/sync_indicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/micro_bottom_spacing" android:contentDescription="@null" android:layout_marginEnd="@dimen/micro_start_spacing" />
+    </FrameLayout>
+    <ImageView android:layout_gravity="start|center|top" android:id="@id/similar_best_mark" android:background="@drawable/similar_best_mark_small" android:visibility="gone" android:layout_width="@dimen/micro_similar_best_mark_size" android:layout_height="@dimen/micro_similar_best_mark_size" android:rotationY="@integer/mark_view_rotation" />
+    <FrameLayout android:layout_gravity="end|bottom|center" android:id="@id/checkbox_container" android:paddingBottom="@dimen/horizontal_spacing_tiny" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingEnd="@dimen/horizontal_spacing_tiny">
+        <CheckBox android:theme="@style/Checkbox_NewStyle" android:id="@android:id/checkbox" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+</FrameLayout>

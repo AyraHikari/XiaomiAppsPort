@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/share_album_family_manage"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <miuix.preference.RadioButtonPreferenceCategory android:key="share_album_family_selector" />
+</PreferenceScreen>

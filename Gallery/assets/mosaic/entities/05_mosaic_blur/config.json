@@ -1,0 +1,6 @@
+{
+  "type": "EFFECT",
+  "effectType": "BLUR",
+  "supportScreenEditor": "true",
+  "talkbackName": "@string/mosaic_item_talkback_effect3"
+}

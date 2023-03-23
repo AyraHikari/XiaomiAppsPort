@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="86.0dip" android:width="86.0dip" android:viewportWidth="86.0" android:viewportHeight="86.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/cleaner_shortcut_icon_background" android:pathData="M43,43m-43,0a43,43 0,1 1,86 0a43,43 0,1 1,-86 0" />
+    <path android:fillColor="@color/cleaner_shortcut_icon_stroke" android:pathData="M37.7699,25.5C37.7699,23.0147 39.7847,21 42.2699,21C44.7552,21 46.7699,23.0147 46.7699,25.5V30H55.4125C57.2452,30 58.7675,31.4138 58.9029,33.2414L60.5271,55.1676C60.7203,57.7767 58.6556,60 56.0394,60H29.5002C26.884,60 24.8193,57.7767 25.0125,55.1676L26.6367,33.2415C26.7721,31.4138 28.2944,30 30.1271,30H37.7699V25.5ZM43.7699,25.5V30H43.7698V33H55.4125C55.6743,33 55.8918,33.202 55.9111,33.4631L56.3583,39.5H29.1813L29.6285,33.4631C29.6478,33.202 29.8653,33 30.1271,33H40.7698V31.5H40.7699V25.5C40.7699,24.6716 41.4415,24 42.2699,24C43.0984,24 43.7699,24.6716 43.7699,25.5ZM28.9591,42.5L28.0043,55.3892C27.9399,56.2589 28.6282,57 29.5002,57H56.0394C56.9114,57 57.5997,56.2589 57.5353,55.3892L56.5805,42.5H28.9591Z" android:strokeAlpha="0.8" android:fillAlpha="0.8" android:fillType="evenOdd" />
+</vector>

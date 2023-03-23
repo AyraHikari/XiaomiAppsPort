@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Setengah jam yang lalu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dalam 1 jam</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Dalam setengah jam</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Secepat mungkin</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dalam masa %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tadi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minit yang lalu</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Tambah item ini ke album peribadi?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">%d foto Cloud ditambah, matikan \"Hanya papar album tempatan\" untuk melihat.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">" %2$d item tidak dapat ditambah ke album. %1$s."</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d item tidak dapat ditambah ke album peribadi: %1$s.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d hari</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d bulan</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d tahun</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Dikongsi dengan %d orang</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d foto</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d item | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d item)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d album</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s orang dapat melihat album ini</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d album termasuk %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d item</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d memori</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d foto %2$s akan ditambah</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d foto %2$s akan ditambah</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Sambung semula sandaran dalam %d jam</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">item %d terlalu besar untuk disandarkan</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">Akan sambung semula dalam %d min</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Jeda penyegerakan gambar, video, kenalan, nota, dan item lain dengan cloud untuk %d minit.</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d gambar dan video | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d gambar dan video</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d gambar</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Padam %d gambar yang anda tidak pilih?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Padam %d gambar</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Simpan %d gambar yang terpilih</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d gambar</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">Tidak dapat menyegerakkan %d item kerana storan cloud tidak mencukupi</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Kolaj boleh mempunyai %1$d-%2$d gambar</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Pilih sehingga %d gambar</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d item dipilih</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Padam %d tangkapan berganda dari Xiaomi Cloud dan kesemua peranti yang disandar?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Padam %d tangkapan berganda?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d item dipadam</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">Padam %d item dari semua peranti dan Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">Padam %d item?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Padam %d gambar dari semua peranti dan Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Padam %d tangkapan berganda dari peranti anda?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">Padam %d video dari semua peranti dan Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Tidak dapat memuat turun %1$d fail</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">Tidak dapat memuat turun %1$d fail, semak rangkaian dan cuba sekali lagi</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Memuat turun item dari cloud (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">Jumlah %d gambar</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Memproses gambar…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">%1$d gambar tidak dapat dilangkau.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d fail</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Setengah jam yang lalu</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Dalam 1 jam</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Dalam setengah jam</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Secepat mungkin</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">dalam masa %d minit</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tadi</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d minit</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d kandungan dipilih</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minit yang lalu</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d item menunggu untuk disegerak</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d gambar</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d gambar menunggu untuk disegerak</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Menyegerak %1$d gambar…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Menyegerak %1$d item…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Menyegerak %1$d video…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d video</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d video menunggu untuk disegerak</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d gambar</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Jumlah %1$d item</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Putar %d darjah</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d hari</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">%d item tidak disokong telah ditapis</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">Fail PDF boleh mengandungi sehingga %d imej</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Foto terpilih tiada dalam peranti. Muat turun melalui data mudah alih?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Foto terpilih tiada dalam peranti. Akan dimuat turun kemudian.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Gambar terpilih (%d MB) tiada dalam peranti. Muat turun melalui data mudah alih?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d fail belum dimuat turun lagi. Batalkan juga?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Memuat turun %d fail berbaki</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Tidak dapat muat turun %1$d gambar, sambungkan ke rangkaian dan cuba semula</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Tidak dapat memuat turun %1$d fail (%2$d MB). Sambungkan ke rangkaian dan cuba semula.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d fail (%2$d MB) belum dimuat turun lagi. Muat turun menggunakan data udah alih?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Tidak dapat memuat turun %1$d gambar, cuba sekali lagi?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Tidak dapat muat turun %1$d gambar (%2$d MB), cuba sekali lagi?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Langkau %d gambar yang tiada dalam peranti.</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d gambar baru ditemui</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Jumlah %d gambar</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d item tidak dapat dipindahkan daripada album peribadi: %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">Tambah %1$d gambar ke \"%2$s\" dan tambah ke pangkalan data.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">Padam %1$d gambar dari \"%2$s\" dan tambah ke pangkalan data.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">Tambah %1$d gambar ke \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">Padam %1$d gambar dari \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d pakej pemasangan (%3$s) dari %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Telah menerima %2$d pakej pemasangan (%3$s) dari %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Menerima %2$d pakej pemasangan (%3$s) dari %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d fail audio (%3$s) dari %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Telah menerima %2$d fail audio (%3$s) dari %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Menerima %2$d fail audio (%3$s) dari %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s fail (%4$s) dari %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Telah menerima %2$d %3$s fail (%4$s) dari %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Menerima %2$d %3$s fail (%4$s) dari %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d imej dari %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Telah menerima %2$d imej dari %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Menerima %2$d imej dari %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d imej atau video dari %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Telah menerima %2$d imej atau video dari %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Menerima %2$d imej atau video dari %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d fail dari %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Telah menerima %2$d fail dari %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Menerima %2$d fail dari %1$s…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">Tidak dapat dikongsi. Masih memproses %d gambar…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d video dari %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Telah menerima %2$d video dari %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Menerima %2$d video dari %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d arkid (%3$s) dari %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Telah menerima %2$d arkib (%3$s) dari %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Menerima %2$d arkib (%3$s) dari %1$s…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">%d gambar dimuat naik</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d bilik</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d skrin</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d skrin</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d skrin yang dikongsi</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%ditem terlalu besar untuk disegerakkan</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">Tidak dapat menyegerakkan %d item. Naik taraf pelan storan anda.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">Tidak dapat menyegerakkan %d item. Cuba lagi.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">Tidak dapat menyegerakkan %d item. Pemilik album ini kehabisan storan cloud.</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d saat</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">Optimumkan %d gambar</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">Optimumkan %d gambar</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">Optimumkan %d video</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d gambar belum dioptimumkan. Hentikan sekarang?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d gambar</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d gambar lagi</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d item yang tinggal untuk dioptimumkan</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">Belum menyandar %d gambar dan video</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">item %d terlalu besar untuk disandarkan</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d item</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d gambar disegerak</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d video disegerak</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Menyegerakkan %d item menggunakan data mudah alih</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Menyegerak %d item</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s item</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d hari</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d bulan</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d tahun</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d item yang dipilih akan dipadamkan secara kekal dari cloud dan semua peranti yang disegerakkan. Padamkan juga?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Anda tidak akan dapat memulihkan %d item yang dipilih jika anda memadamnya. Padam juga?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d item yang dipilih akan dipadamkan secara kekal. Padamkan juga?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Anda tidak akan dapat memulihkan %d item yang dipilih jika anda memadamnya. Padam juga?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Anda tidak akan dapat memulihkan %d item yang dipilih jika anda memadamnya. Padam juga?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Item dapat disimpan di sini untuk %1$d hari (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Item boleh di simpan di sini sehingga %1$d hari. Tingkatkan pelan anda untuk melanjutkan tempoh ini.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d fail</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d video</item>
+    </plurals>
+</resources>

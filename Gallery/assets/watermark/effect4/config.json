@@ -1,0 +1,43 @@
+{
+  "name": "effect4",
+  "talkbackName": "@string/text_item_type_talkback_bubble_watermark_4",
+  "version": 0,
+  "width": 205.09,
+  "height": 62.18,
+  "offsetX": 0,
+  "offsetY": -58,
+  "icon": "icon.png",
+  "bgPost": "",
+  "textPieceList": [
+    {
+      "frameRect": [
+        9.82,
+        10.18,
+        194.18,
+        36.36
+      ],
+      "text": "HOLIDAYS",
+      "size":15.22,
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "isBold": true,
+      "letterSpacing": 0.25,
+      "lines": 1
+    },
+    {
+      "frameRect": [
+        9.82,
+        38.55,
+        194.18,
+        50.18
+      ],
+      "text": "2021 | HAPPINESS",
+      "size": 11.17,
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": 0.5
+    }
+  ]
+}

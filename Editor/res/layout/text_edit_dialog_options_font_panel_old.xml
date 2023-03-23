@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.widget.recyclerview.SingleChoiceRecyclerView android:id="@id/text_edit_dialog_tab_font_recycler" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/text_edit_dialog_tab_font_list_margin_top_old" />
+    <RelativeLayout android:id="@id/open_container" android:layout_width="fill_parent" android:layout_height="@dimen/text_edit_dialog_tab_font_item_height" android:layout_below="@id/text_edit_dialog_tab_font_recycler" android:paddingStart="@dimen/text_edit_dialog_tab_sub_menu_font_item_padding_left" android:paddingEnd="@dimen/text_edit_dialog_tab_sub_menu_font_item_padding_right">
+        <TextView android:textSize="@dimen/text_edit_dialog_tab_sub_menu_font_item_size" android:textColor="@color/text_edit_dialog_tab_sub_menu_font_color_old" android:id="@id/text_open" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/more" android:layout_centerVertical="true" android:layout_marginStart="@dimen/px_60" />
+    </RelativeLayout>
+</RelativeLayout>

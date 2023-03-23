@@ -1,0 +1,45 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: com.miui.gallery_3.5.2.1-403521_minAPI26(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- jpg
+- webp
+- assets/dexopt/baseline.prof
+- png
+- m4a
+- mp4
+- ogg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '26'
+  targetSdkVersion: '31'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  MODULE_LICENSE_BSD: '8'
+  kotlin-tooling-metadata.json: '8'
+  photos-backup.properties: '8'
+  google/protobuf/any.proto: '8'
+  google/protobuf/api.proto: '8'
+  google/protobuf/duration.proto: '8'
+  google/protobuf/empty.proto: '8'
+  google/protobuf/field_mask.proto: '8'
+  google/protobuf/source_context.proto: '8'
+  google/protobuf/struct.proto: '8'
+  google/protobuf/timestamp.proto: '8'
+  google/protobuf/type.proto: '8'
+  google/protobuf/wrappers.proto: '8'
+usesFramework:
+  ids:
+  - 1
+  - 18
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '403529'
+  versionName: 3.5.2.9

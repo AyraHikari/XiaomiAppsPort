@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/miuix_appcompat_arrow_popup_triangle_padding_adjust" android:top="@dimen/miuix_appcompat_arrow_popup_triangle_padding" android:bottom="@dimen/miuix_appcompat_arrow_popup_triangle_padding">
+        <rotate android:fromDegrees="45.0" android:toDegrees="45.0" android:pivotX="87.0%" android:pivotY="139.99939%">
+            <shape android:shape="rectangle">
+                <size android:height="@dimen/miuix_appcompat_triangle_arrow_size" android:width="@dimen/miuix_appcompat_triangle_arrow_size" />
+                <solid android:color="@color/miuix_appcompat_arrow_popup_triangle_color_dark" />
+                <corners android:radius="@dimen/miuix_appcompat_arrow_popup_triangle_corners" />
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

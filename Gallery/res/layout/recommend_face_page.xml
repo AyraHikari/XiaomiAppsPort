@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center" android:orientation="vertical" android:id="@id/normal_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/recommend_face_page_margin_top">
+        <com.miui.gallery.widget.PagerGridLayout android:id="@id/face_group" android:layout_width="fill_parent" android:layout_height="@dimen/recommend_group_height" android:rowCount="@integer/recommend_face_page_rows" android:columnCount="@integer/recommend_face_page_columns" android:paddingStart="@dimen/recommend_face_page_padding_flank" android:paddingEnd="@dimen/recommend_face_page_padding_flank" />
+        <Button android:layout_gravity="bottom|center" android:id="@id/confirm_recommend" android:text="@string/face_confirm" style="@style/Gallery.Widget.Button.Default" />
+    </FrameLayout>
+    <ViewStub android:gravity="center" android:layout_gravity="center" android:id="@id/recommend_face_page_empty_view" android:layout="@layout/people_page_empty_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</FrameLayout>

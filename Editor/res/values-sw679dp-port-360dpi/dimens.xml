@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vlog_menu_nav_pro_icon_margin_end">26.666992dip</dimen>
+    <dimen name="vlog_menu_nav_pro_icon_margin_start">26.666992dip</dimen>
+</resources>

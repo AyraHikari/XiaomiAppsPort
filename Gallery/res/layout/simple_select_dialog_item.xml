@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/preference_menu_item_height" style="@style/Gallery.Widget.ListView.Item.Immersion.DoubleLine"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/creation_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@null" />
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.PreferenceList" android:ellipsize="end" android:gravity="center" android:id="@id/creation_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" />
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.List.Secondary.Preference" android:id="@id/information" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/menu_item_inner_padding" android:layout_marginEnd="@dimen/creation_item_end_padding" />
+</LinearLayout>

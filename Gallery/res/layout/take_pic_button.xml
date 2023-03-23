@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.TakePicButton android:layout_gravity="bottom|center" android:layout_width="@dimen/take_pic_button_width" android:layout_height="@dimen/take_pic_button_height" android:layout_marginStart="@dimen/take_pic_button_margin_start_and_end" android:layout_marginEnd="@dimen/take_pic_button_margin_start_and_end" android:elevation="20.0dip" android:outlineSpotShadowColor="#21000000" app:cardBackgroundColor="#ffffbb00" app:cardCornerRadius="@dimen/take_pic_button_corner_radius" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="5.0dip" android:paddingEnd="5.0dip">
+        <ImageView android:id="@id/button_img" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/button_take_pic_camera_icon" android:layout_marginEnd="@dimen/take_pic_button_text_to_image" />
+        <TextView android:textSize="@dimen/take_pic_button_text_size" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/button_text" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/empty_tip_btn" android:maxLines="1" android:fontFamily="misans-medium" android:textFontWeight="400" />
+    </LinearLayout>
+</com.miui.gallery.widget.TakePicButton>

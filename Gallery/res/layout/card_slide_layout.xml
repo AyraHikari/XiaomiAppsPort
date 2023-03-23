@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.RoundedFrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" app:outlineCornerRadius="@dimen/card_cover_layout_imageview_radius"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.SlideShowView android:id="@id/slide" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="@color/black_10_transparent" android:contentDescription="@null" app:scaleMode="fitView" />
+    <LinearLayout android:gravity="bottom" android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/card_title_margin_bottom" android:layout_marginStart="@dimen/card_title_margin_left" android:layout_marginEnd="@dimen/card_title_margin_left">
+        <TextView android:textSize="@dimen/card_title_textsize_large" android:textStyle="bold" android:textColor="@color/card_title" android:ellipsize="end" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" />
+        <TextView android:textSize="@dimen/card_subtitle_textsize_large" android:textColor="@color/card_title" android:ellipsize="end" android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" />
+    </LinearLayout>
+</com.miui.gallery.widget.RoundedFrameLayout>

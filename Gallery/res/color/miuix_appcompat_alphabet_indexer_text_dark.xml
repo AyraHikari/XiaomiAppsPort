@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:color="@color/miuix_appcompat_alphabet_indexer_highlight_text_color_dark" />
+    <item android:color="@color/miuix_appcompat_alphabet_indexer_activated_text_color_dark" android:state_activated="true" />
+    <item android:color="@color/miuix_appcompat_alphabet_indexer_text_color_dark" />
+</selector>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="@dimen/editor_menu_common_content_item_size" android:width="@dimen/editor_menu_common_content_item_size">
+        <shape>
+            <corners android:radius="@dimen/editor_menu_common_item_selector_bg_corner" />
+            <stroke android:width="@dimen/editor_menu_common_item_selector_bg_stroke_width" android:color="#ffffce16" />
+        </shape>
+    </item>
+    <item android:gravity="center" android:height="@dimen/editor_menu_common_content_item_inner_size" android:width="@dimen/editor_menu_common_content_item_inner_size">
+        <shape>
+            <corners android:radius="@dimen/editor_menu_common_item_selector_bg_inner_corner" />
+            <stroke android:width="@dimen/editor_menu_common_item_selector_bg_inner_stroke_width" android:color="#ff000000" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/screen_mosaic_popwin_size_bar_bg_corner" />
+    <solid android:color="@color/screen_mosaic_size_bar_bg_color" />
+    <size android:height="@dimen/screen_mosaic_popwin_size_bar_bg_height" android:width="@dimen/screen_mosaic_popwin_size_bar_bg_width" />
+</shape>

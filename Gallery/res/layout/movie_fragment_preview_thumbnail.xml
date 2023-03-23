@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/thumbnail_view_root" android:background="@color/movie_bottom_panel_background" android:layout_width="fill_parent" android:layout_height="@dimen/movie_preview_listview_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="center_horizontal" android:id="@id/white_view" android:background="@color/movie_progress_bg" android:layout_width="@dimen/movie_preview_progress_bg" android:layout_height="fill_parent" android:layout_centerHorizontal="true" />
+    <View android:layout_gravity="center_horizontal" android:background="@drawable/movie_preview_progress" android:layout_width="@dimen/movie_preview_progress_width" android:layout_height="fill_parent" android:layout_centerHorizontal="true" />
+</FrameLayout>

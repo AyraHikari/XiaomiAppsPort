@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/text_edit_dialog_options_font_panel_item" android:background="@drawable/text_edit_font_background" android:layout_width="@dimen/text_edit_dialog_tab_font_item_img_width" android:layout_height="@dimen/text_edit_dialog_tab_font_item_img_width"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv_item_background" android:layout_width="@dimen/text_edit_dialog_tab_font_item_img_width" android:layout_height="@dimen/text_edit_dialog_tab_font_item_img_width" />
+    <com.miui.gallery.editor.ui.view.DownloadView android:gravity="center" android:id="@id/item_download" android:layout_width="@dimen/photo_editor_navigator_download_icon_size" android:layout_height="@dimen/photo_editor_navigator_download_icon_size" android:layout_alignParentTop="true" android:layout_alignParentEnd="true" />
+</RelativeLayout>

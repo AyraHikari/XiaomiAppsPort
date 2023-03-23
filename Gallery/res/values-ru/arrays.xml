@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Белый</item>
+        <item>Темно-синий</item>
+        <item>Светло-синий</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Розовый</item>
+        <item>Коричневый</item>
+        <item>Серый</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Выберите изображение</item>
+        <item>Прозрачный фон</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Особенный день</item>
+        <item>Памятный день</item>
+        <item>Яркие моменты</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ы</item>
+        <item>Ь</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ы</item>
+        <item>Ь</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>A delicious year</item>
+        <item>Three courses. Four seasons.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Hello world!</item>
+        <item>On the road</item>
+        <item>A kaleidoscope of places</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Autumn splendor</item>
+        <item>Radiant fall</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Мальчик</item>
+        <item>Девочка</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Резервирование фото</item>
+        <item>Синхронизировать фото с облаком</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>A night to remember</item>
+        <item>Новая страница</item>
+        <item>Фейерверк</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>С Новым годом!</item>
+        <item>Dawn of the new year</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Год Обезьяны</item>
+        <item>Год Петуха</item>
+        <item>Год Собаки</item>
+        <item>Год Свиньи</item>
+        <item>Год Крысы</item>
+        <item>Год Быка</item>
+        <item>Год Тигра</item>
+        <item>Год Кролика</item>
+        <item>Год Дракона</item>
+        <item>Год Змеи</item>
+        <item>Год Лошади</item>
+        <item>Год Козы</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Cityscapes</item>
+        <item>Streets and corners</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Gentle petals</item>
+        <item>In full bloom</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Into the wild</item>
+        <item>Wild and free</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Our get-togethers</item>
+        <item>In the company of friends</item>
+        <item>Long time no see</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Your favorite subjects</item>
+        <item>Kindred spirits</item>
+        <item>"Life's bright moments"</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Busy growing up</item>
+        <item>Cuter and cuter</item>
+        <item>Little explorer</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Fitness diary</item>
+        <item>Stronger and stronger</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Bon appétit!</item>
+        <item>Another bite?</item>
+        <item>Enjoy your meal!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Smile and wave!</item>
+        <item>Playtime</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>The great outdoors</item>
+        <item>Tracks in the snow</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Unstoppable</item>
+        <item>Staying fit</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>A big day</item>
+        <item>Down the aisle!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Пора играть</item>
+        <item>Выходные малыша</item>
+        <item>Малыш</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Мои выходные</item>
+        <item>Частички жизни</item>
+        <item>Мгновения выходных</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Новые друзья и старые приятели</item>
+        <item>Посиделки в прошлом году</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Досуг</item>
+        <item>Бриз</item>
+        <item>Фантазии</item>
+        <item>Облака</item>
+        <item>Мысли</item>
+        <item>Росток</item>
+        <item>Метаморфоза</item>
+        <item>Глубина</item>
+        <item>Отражения</item>
+        <item>Минимализм</item>
+        <item>Тайна</item>
+        <item>Туман</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Превратите фон в зарисовку</item>
+        <item>Фон в акварельном стиле</item>
+        <item>Киберпанк ретро</item>
+        <item>Смещенные вертикальные сегменты</item>
+        <item>Размытие</item>
+        <item>Футуристический стиль</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Рисунок</item>
+        <item>Акварель</item>
+        <item>RGB</item>
+        <item>Шторки</item>
+        <item>Затуманенное окно</item>
+        <item>Технологии</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Цветной контур</item>
+        <item>Пунктирный контур</item>
+        <item>Флуоресцентный контур</item>
+        <item>Цветная тень</item>
+        <item>Электрическая волна</item>
+        <item>Поток</item>
+        <item>Волны</item>
+        <item>Частицы</item>
+        <item>Текст</item>
+        <item>Крылья</item>
+        <item>Ангел</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Переместить</item>
+        <item>Копировать</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>"You've grown up!"</item>
+        <item>"You've grown up again!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>My personal menu</item>
+        <item>Tasty memories</item>
+        <item>Second helping, please!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>"World's best views"</item>
+        <item>Keep climbing</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Папа</item>
+        <item>Мама</item>
+        <item>Дедушка по отцу</item>
+        <item>Бабушка по отцу</item>
+        <item>Дедушка по матери</item>
+        <item>Бабушка по матери</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Вместе</item>
+        <item>Хорошие времена</item>
+        <item>В унисон</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Where the road takes us</item>
+        <item>Journeys well shared</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>A cheerful spring</item>
+        <item>A joyful summer</item>
+        <item>A happy autumn</item>
+        <item>A jolly winter</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Spring meals</item>
+        <item>Summer treats</item>
+        <item>Autumn feasts</item>
+        <item>Winter tuck-ins</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Вместе</item>
+        <item>Отношения</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Я</item>
+        <item>Ребенок</item>
+        <item>Семья</item>
+        <item>Коллеги</item>
+        <item>Одноклассники</item>
+        <item>Друзья</item>
+        <item>Не указано</item>
+    </string-array>
+    <string-array name="season">
+        <item>Весна</item>
+        <item>Лето</item>
+        <item>Осень</item>
+        <item>Зима</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Папа</item>
+        <item>Мама</item>
+        <item>Дедушка по отцу</item>
+        <item>Бабушка по отцу</item>
+        <item>Дедушка по матери</item>
+        <item>Бабушка по матери</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Движение вперед</item>
+        <item>Полны энергии</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Blooms of spring</item>
+        <item>Spring is in the air</item>
+        <item>Hello spring!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>A bit of summer</item>
+        <item>Where summer never ends</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Golden hours</item>
+        <item>Rays of gold</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Дети так быстро растут</item>
+        <item>Фото малыша</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Winter days</item>
+        <item>Winter wonderland</item>
+    </string-array>
+</resources>

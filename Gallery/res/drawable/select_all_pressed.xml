@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingLeft="@dimen/select_all_btn_horizontal_padding" android:paddingRight="@dimen/select_all_btn_horizontal_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/select_all_btn_bg_pressed_color" />
+            <corners android:radius="@dimen/select_all_btn_radius" />
+            <size android:height="@dimen/select_all_btn_height" android:width="@dimen/select_all_btn_width" />
+        </shape>
+    </item>
+</layer-list>

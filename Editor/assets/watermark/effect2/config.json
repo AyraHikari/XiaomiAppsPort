@@ -1,0 +1,28 @@
+{
+  "name": "effect2",
+  "talkbackName": "@string/text_item_type_talkback_bubble_watermark_2",
+  "version": 0,
+  "width": 278.18,
+  "height": 37.82,
+  "offsetX": 0,
+  "offsetY": -46,
+  "icon": "icon.png",
+  "bgPost": "",
+  "textPieceList": [
+    {
+      "frameRect": [
+        10.18,
+        9.09,
+        269.09,
+        29.09
+      ],
+      "text": "PERFECT·HOLIDAYS",
+      "size": 8,
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": 1.2,
+      "lines": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "background": "#ffffff",
+  "collagePositions": [
+    {
+      "margin": 1,
+      "position": [
+        0.049,
+        0.034,
+        0.951,
+        0.714
+      ]
+    }
+  ],
+  "collageModels": [
+    10,
+    20,
+    30,
+    40,
+    51,
+    60
+  ],
+  "textElementModels": [
+    {
+      "x": 0.5,
+      "y": 0.821,
+      "locationType": 3,
+      "textSize": 11.333,
+      "textColor": "#b3000000",
+      "letterSpace": 0.6,
+      "text": "孤独美食家",
+      "maxLength": 7
+    }
+  ],
+  "specifyDrawableModels": [
+    {
+      "x": 0.5,
+      "y": 0.895,
+      "locationType": 5,
+      "specifyDrawableType": "TIME_FORMAT",
+      "extras": {
+        "timeFormat": "yyyy.MM.dd",
+        "textColor": "#80000000",
+        "textSize": 7.333,
+        "letterSpace": 0.3
+      }
+    }
+  ]
+}

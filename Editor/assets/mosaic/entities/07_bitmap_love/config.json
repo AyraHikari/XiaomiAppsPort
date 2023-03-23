@@ -1,0 +1,7 @@
+{
+  "type": "RESOURCE",
+  "tileMode": "REPEAT",
+  "effectType": "BITMAP",
+  "supportScreenEditor": "true",
+  "talkbackName": "@string/mosaic_item_talkback_effect5"
+}

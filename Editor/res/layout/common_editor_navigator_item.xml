@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:paddingBottom="@dimen/photo_editor_nav_padding_bottom" android:layout_width="@dimen/video_editor_nav_item_width" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/img_nav" android:layout_width="@dimen/editor_nav_item_img_width" android:layout_height="@dimen/editor_nav_item_img_width" android:layout_marginBottom="@dimen/video_editor_nav_img_margin_bottom" android:scaleType="center" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+    <com.miui.gallery.editor.ui.view.MarqueeTextView android:textSize="@dimen/editor_nav_item_text_size" android:textColor="@color/photo_editor_label_text_color" android:gravity="center_horizontal" android:id="@id/label" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vlog_single_clip_bar_margin_start">30.475983dip</dimen>
+    <dimen name="vlog_single_clip_speed_picker_indicator_width">72.379974dip</dimen>
+    <dimen name="vlog_speed_picker_padding_left">4.8599854dip</dimen>
+    <dimen name="vlog_speed_picker_padding_right">4.8599854dip</dimen>
+    <dimen name="vlog_speed_picker_width">353.5dip</dimen>
+    <dimen name="vlog_speed_selected_width">72.379974dip</dimen>
+    <item type="dimen" name="text_edit_dialog_tab_style_bsb_visibility_width">@dimen/px_660</item>
+    <item type="dimen" name="text_edit_dialog_tab_style_bsb_empty_width">@dimen/px_636</item>
+    <item type="dimen" name="text_edit_dialog_tab_style_bsb_visibility_height">@dimen/px_70</item>
+    <dimen name="vlog_mutli_clip_slide_swirch_width">353.5dip</dimen>
+</resources>

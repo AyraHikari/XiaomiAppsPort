@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miuix_appcompat_action_button_height" android:width="@dimen/miuix_appcompat_action_button_width" android:viewportWidth="100.0" android:viewportHeight="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/action_button_v20_normal" android:pathData="M43,23C40.239,23 38,25.239 38,28V32H34H29H24.5C23.119,32 22,33.119 22,34.5C22,35.881 23.119,37 24.5,37H29V66C29,68.8 29,70.2 29.545,71.27C30.024,72.211 30.789,72.976 31.73,73.455C32.8,74 34.2,74 37,74H63C65.8,74 67.2,74 68.27,73.455C69.211,72.976 69.976,72.211 70.455,71.27C71,70.2 71,68.8 71,66V37H75.5C76.881,37 78,35.881 78,34.5C78,33.119 76.881,32 75.5,32H71H66H62V28C62,25.239 59.761,23 57,23H43ZM57,32V30C57,28.895 56.105,28 55,28H45C43.895,28 43,28.895 43,30V32H57ZM34,65.8V37H66V65.8C66,66.92 66,67.48 65.782,67.908C65.59,68.284 65.284,68.59 64.908,68.782C64.48,69 63.92,69 62.8,69H37.2C36.08,69 35.52,69 35.092,68.782C34.716,68.59 34.41,68.284 34.218,67.908C34,67.48 34,66.92 34,65.8Z" android:fillAlpha="0.9" android:fillType="evenOdd" />
+</vector>

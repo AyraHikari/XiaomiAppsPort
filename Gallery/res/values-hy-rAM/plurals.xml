@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ժամ առաջ</item>
+        <item quantity="one">1 ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ժամ առաջ</item>
+        <item quantity="one">1 ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Կես ժամ առաջ</item>
+        <item quantity="one">Կես ժամ առաջ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 ժամում</item>
+        <item quantity="one">1 ժամում</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Կես ժամից</item>
+        <item quantity="one">Կես ժամից</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Անմիջապես</item>
+        <item quantity="one">Անմիջապես</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d րոպեից</item>
+        <item quantity="one">1 րոպեից</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Հենց հիմա</item>
+        <item quantity="one">Հենց հիմա</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d րոպե առաջ</item>
+        <item quantity="one">1 րոպե առաջ</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Ավելացնե՞լ այս տարրերը անձնական ալբոմում:</item>
+        <item quantity="one">Ավելացնե՞լ այս տարրը անձնական ալբոմում:</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Ավելացված է %d ամպի նկար: Անջատեք «Ցուցադրել միայն տեղի ալբոմներ»՝ դիտելու համար:</item>
+        <item quantity="one">Ավելացված է %d ամպի նկար: Անջատեք «Ցուցադրել միայն տեղի ալբոմներ»՝ դիտելու համար:</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">%2$d օբյեկտ չի կարող ավելացվել ալբոմին: %1$s:</item>
+        <item quantity="one">%2$d օբյեկտ չի կարող ավելացվել ալբոմին: %1$s:</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d տարրերը չեն կարող ավելացվել անձնական ալբոմում: %1$s:</item>
+        <item quantity="one">%2$d տարրը չի կարող ավելացվել անձնական ալբոմում: %1$s:</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d օր</item>
+        <item quantity="one">%d օր</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d ամիս</item>
+        <item quantity="one">%d ամիս</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d տարի</item>
+        <item quantity="one">%d թ.</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Ուղարկված է %d մարդու</item>
+        <item quantity="one">Ուղարկված է %d մարդու</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d նկար</item>
+        <item quantity="one">%d նկար</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d օբյեկտ | %2$s</item>
+        <item quantity="one">%1$d օբյեկտ | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d օբյեկտ)</item>
+        <item quantity="one">(%d օբյեկտ)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d ալբոմներ</item>
+        <item quantity="one">%d ալբոմ</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s անձիք կարող են դիտել այս ալբոմը</item>
+        <item quantity="one">%s անձը կարող է դիտել այս ալբոմը</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d ալբոմներ ներառյալ %1$s</item>
+        <item quantity="one">%2$d ալբոմ, ներառյալ %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d տարրեր</item>
+        <item quantity="one">%1$d տարր</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d հիշողություններ</item>
+        <item quantity="one">%d հիշողություն</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d նկար %2$s-ի կավելացվի</item>
+        <item quantity="one">%1$d նկար %2$s-ի կավելացվի</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d նկար %2$s-ի կավելացվի</item>
+        <item quantity="one">%1$d նկար %2$s-ի կավելացվի</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Վերսկսել պահուստավորումը %d ժամից</item>
+        <item quantity="one">Վերսկսել պահուստավորումը %d ժամից</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d նյութերը չափազանց մեծ են, որպեսզի կրկնօրինակվեն</item>
+        <item quantity="one">%d նյութը չափազանց մեծ է, որպեսզի կրկնօրինակվի</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">Վերսկսվելու է %d րոպեում</item>
+        <item quantity="one">Վերսկսվելու է %d րոպեում</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Դադարեցրեք լուսանկարները, տեսանյութերը, կոնտակտները, գրառումները և այլ իրեր համաժամանակեցնել cloud-ի հետ %d րոպեի ընթացքում:</item>
+        <item quantity="one">Դադարեցրեք լուսանկարները, տեսանյութերը, կոնտակտները, գրառումները և այլ իրեր համաժամանակեցնել cloud-ի հետ %d րոպեի ընթացքում:</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d նկար կամ տեսանյութ | %2$s</item>
+        <item quantity="one">%1$d նկար կամ տեսանյութ | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d նկար կամ տեսանյութ</item>
+        <item quantity="one">%1$d նկար կամ տեսանյութ</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d լուսանկար</item>
+        <item quantity="one">%d լուսանկար</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Ջնջե՞լ %d լուսանկարները, որոնք չեք ընտրել:</item>
+        <item quantity="one">Ջնջե՞լ %d լուսանկար, որը չեք ընտրել:</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Ջնջել %d լուսանկար</item>
+        <item quantity="one">Ջնջել %d լուսանկար</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Պապանել %d ընտրված լուսանկարները</item>
+        <item quantity="one">Պապանել %d ընտրված լուսանկարը</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d նկար</item>
+        <item quantity="one">%d նկար</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d տեսանյութ</item>
+        <item quantity="one">%d տեսանյութ</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">Չհաջողվեց համաժամանակեցնել %d տարրերը՝ cloud-ի անբավարար պահեստավորման պատճառով</item>
+        <item quantity="one">Չհաջողվեց համաժամանակեցնել %d տարրը՝ cloud-ի անբավարար պահեստավորման պատճառով</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Կոլաժները կարող են պարունակել %1$d-%2$d լուսանկար</item>
+        <item quantity="one">Կոլաժները կարող են պարունակել %1$d-%2$d լուսանկար</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Ընտրել մինչև %d լուսանկար</item>
+        <item quantity="one">Ընտրել մինչև %d լուսանկար</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d ընտրված օբյեկտ</item>
+        <item quantity="one">%d ընտրված օբյեկտ</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Ջնջե՞լ %d բազմանկարը Xiaomi Cloud-ից եւ բոլոր համաժամնակեցված սարքերից:</item>
+        <item quantity="one">Ջնջե՞լ %d բազմանկարը Xiaomi Cloud-ից եւ բոլոր համաժամնակեցված սարքերից:</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Ջնջե՞լ %d բազմանկար:</item>
+        <item quantity="one">Ջնջե՞լ %d բազմանկար:</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d տարրերը ջնջվել են</item>
+        <item quantity="one">%d տարրը ջնջվել է</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">Ջնջե՞լ %d տարր բոլոր սարքերից և Xiaomi Cloud-ից:</item>
+        <item quantity="one">Ջնջե՞լ %d տարր բոլոր սարքերից և Xiaomi Cloud-ից:</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">Ջնջե՞լ %d օբյեկտ:</item>
+        <item quantity="one">Ջնջե՞լ %d օբյեկտ:</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Ջնջե՞լ %d լուսանկարները բոլոր սարքերից և Xiaomi Cloud-ից:</item>
+        <item quantity="one">Ջնջե՞լ %d լուսանկարը բոլոր սարքերից և Xiaomi Cloud-ից:</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Ջնջե՞լ %d բազմանկարը ձեր սարքից:</item>
+        <item quantity="one">Ջնջե՞լ %d բազմանկարը ձեր սարքից:</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">Ջնջե՞լ %d տեսանյութ բոլոր սարքերից և Xiaomi Cloud-ից:</item>
+        <item quantity="one">Ջնջե՞լ %d տեսանյութ բոլոր սարքերից և Xiaomi Cloud-ից:</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Չհաջողվեց ներբեռնել %1$d ֆայլ</item>
+        <item quantity="one">Չհաջողվեց ներբեռնել %1$d ֆայլ</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">Չհաջողվեց ներբեռնել %1$d ֆայլ. ստուգեք միացումը ցանցին և փորձեք կրկին</item>
+        <item quantity="one">Չհաջողվեց ներբեռնել %1$d ֆայլ. ստուգեք միացումը ցանցին և փորձեք կրկին</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Տարրերի ներբեռնում cloud-ին (%2$d/%1$d)</item>
+        <item quantity="one">Տարրի ներբեռնում cloud-ին (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">Ընդամենը՝ %d լուսանկար</item>
+        <item quantity="one">Ընդամենը՝ %d լուսանկար</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Նկարների մշակում…</item>
+        <item quantity="one">Նկարի մշակում…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">Բաց է թողնվել %1$d նկարներ, որոնք չեն կարող ցուցադրվել:</item>
+        <item quantity="one">Բաց է թողնվել %1$d նկար, որոնք չեն կարող ցուցադրվել:</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ֆայլեր</item>
+        <item quantity="one">%1$d ֆայլ</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Կես ժամ առաջ</item>
+        <item quantity="one">Կես ժամ առաջ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 ժամում</item>
+        <item quantity="one">1 ժամում</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Կես ժամից</item>
+        <item quantity="one">Կես ժամից</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Անմիջապես</item>
+        <item quantity="one">Անմիջապես</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d րոպեից</item>
+        <item quantity="one">1 րոպեից</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Հենց հիմա</item>
+        <item quantity="one">Հենց հիմա</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d րոպե</item>
+        <item quantity="one">%d րոպե</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d վարկայն</item>
+        <item quantity="one">%d վարկայն</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ընտրված օբյեկտ</item>
+        <item quantity="one">%d ընտրված օբյեկտ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d րոպե առաջ</item>
+        <item quantity="one">1 րոպե առաջ</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d օբյեկտները սպասում են սինխրոնիզացիային</item>
+        <item quantity="one">%1$d օբյեկտ սպասում է սինխրոնիզացիային</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d լուսանկարներ</item>
+        <item quantity="one">%1$d լուսանկար</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d լուսանկարները սպասում են համաժամանակեցման</item>
+        <item quantity="one">%1$d լուսանկարը սպասում է համաժամանակեցման</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Համաժամանակեցնում է %1$d լուսանկարները…</item>
+        <item quantity="one">Համաժամանակեցնում է %1$d լուսանկարը…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Համաժամանակեցնում է %1$d տարրերը…</item>
+        <item quantity="one">Համաժամանակեցնում է %1$d տարրը…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Համաժամանակեցնում է %1$d տեսանյութերը…</item>
+        <item quantity="one">Համաժամանակեցնում է %1$d տեսանյութերը…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d տեսանյութեր</item>
+        <item quantity="one">%1$d տեսանյութ</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d տեսանյութերը սպասում են համաժամանակեցման</item>
+        <item quantity="one">%1$d տեսանյութը սպասում է համաժամանակեցման</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d նկարներ</item>
+        <item quantity="one">%d նկար</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Ընդամենը՝ %1$d օբյեկտները</item>
+        <item quantity="one">Ընդամենը՝ %1$d օբյեկտ</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Պտտեցնել %d աստիճան</item>
+        <item quantity="one">Պտտեցնել %d աստիճան</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d օրեր</item>
+        <item quantity="one">%d օր</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d ժամ</item>
+        <item quantity="one">%d ժամ</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Տեսակավորվել %d չաջակցվող տարրեր</item>
+        <item quantity="one">Տեսակավորվել %d չաջակցվող տարր</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF ֆայլերը կարող են պարունակել մինչև %d պատկեր</item>
+        <item quantity="one">PDF ֆայլերը կարող են պարունակել մինչև %d պատկեր</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Ընտրված նկարները սարքի վրա չեն: Ներբեռնե՞լ դրանք, օգտագործելով բջջային ցանցը:</item>
+        <item quantity="one">Ընտրված նկարը սարքի վրա չէ: Ներբեռնե՞լ այն, օգտագործելով բջջային ցանցը:</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Ընտրված նկարները սարքի վրա չեն: Դրանք ներբեռնվելու են:</item>
+        <item quantity="one">Ընտրված նկարը սարքի վրա չէ: Այն ներբեռնվելու է:</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Ընտրված նկարները (%d ՄԲ) սարքի վրա չեն: Ներբեռնե՞լ դրանք, օգտագործելով բջջային ցանցը:</item>
+        <item quantity="one">Ընտրված նկարը (%d ՄԲ) սարքի վրա չէ: Ներբեռնե՞լ այն, օգտագործելով բջջային ցանցը:</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d ֆայլը դեռ ներբեռնված չէ: Չեղարկե՞լ ամեն դեպքում:</item>
+        <item quantity="one">%d ֆայլը դեռ ներբեռնված չէ: Չեղարկե՞լ ամեն դեպքում:</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Մնում է %d ֆայլ բեռնելու համար</item>
+        <item quantity="one">Մնում է %d ֆայլ բեռնելու համար</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Չհաջողվեց ներբեռնել %1$d նկարներ. միացեք ցանցին և փորձեք կրկին</item>
+        <item quantity="one">Չհաջողվեց ներբեռնել %1$d նկար. միացեք ցանցին և փորձեք կրկին</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Չհաջողվեց ներբեռնել %1$d ֆալեր (%2$d ՄԲ).Միացեք ցանցին և փորձեք կրկին.</item>
+        <item quantity="one">Չհաջողվեց ներբեռնել %1$d ֆայլ (%2$d ՄԲ).Միացեք ցանցին և փորձեք կրկին.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d ֆայլերը (%2$dՄԲ) դեռ ներբեռնված չեն: Ներբեռնե՞լ օգտագործելով բջջային տվյալները:</item>
+        <item quantity="one">%1$d ֆայլ (%2$d ՄԲ) դեռ ներբեռնված չէ: Ներբեռնե՞լ օգտագործելով բջջային տվյալները:</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Հնարավոր չէ ներբեռնել %1$d լուսանկարներ, փորձե՞լ կրկին:</item>
+        <item quantity="one">Հնարավոր չէ ներբեռնել %1$d լուսանկար, փորձե՞լ կրկին:</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Չհաջողվեց ներբեռնել %1$d նկարներ (%2$d ՄԲ): Փորձե՞լ կրկին:</item>
+        <item quantity="one">Չհաջողվեց ներբեռնել %1$d նկար (%2$d ՄԲ): Փորձե՞լ կրկին:</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Բաց է թողնված %d նկարները, որոնք չկան սարքում:</item>
+        <item quantity="one">Բաց է թողնված %d նկարը, որը չկա սարքում:</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Գտնվել է %1$d նոր լուսանկարներ</item>
+        <item quantity="one">Գտնվել է %1$d նոր լուսանկար</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Ընդամենը՝ %d լուսանկար</item>
+        <item quantity="one">Ընդամենը՝ %d լուսանկար</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d տարրերը հնարավոր չէ հեռացնել անձնական ալբոմից: %1$s.</item>
+        <item quantity="one">%2$d տարրը հնարավոր չէ հեռացնել անձնական ալբոմից: %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">Ավելացված է %1$d նկար \"%2$s\"-ին և ավելացված է տվյալների բազային</item>
+        <item quantity="one">Ավելացված է %1$d նկար \"%2$s\"-ին և ավելացված է տվյալների բազային</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">Հեռացված է %1$d նկար \"%2$s\"-ից և ավելացված է տվյալների բազային:</item>
+        <item quantity="one">Հեռացված է %1$d նկար \"%2$s\"-ից և ավելացված է տվյալների բազային:</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">Ավելացված է %1$d նկար \"%2$s\"-ին:</item>
+        <item quantity="one">Ավելացված է %1$d նկար \"%2$s\"-ին:</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">Հեռացված է %1$d նկար \"%2$s\"-ից:</item>
+        <item quantity="one">Հեռացված է %1$d նկար \"%2$s\"-ից:</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d տեղադրման փաթեթներ (%3$s) %1$s-ից</item>
+        <item quantity="one">%2$d տեղադրման փաթեթ (%3$s) %1$s-ից</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Ստացվեց %2$d տեղադրման փաթեթներ (%3$s) %1$s-ից</item>
+        <item quantity="one">Ստացվեց %2$d տեղադրման փաթեթ (%3$s) %1$s-ից</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Ստանում է %2$d տեղադրման փաթեթներ (%3$s) %1$s…-ից</item>
+        <item quantity="one">Ստանում է %2$d տեղադրման փաթեթ (%3$s) %1$s…-ից</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d աուդիո ֆայլեր (%3$s) %1$s-ից</item>
+        <item quantity="one">%2$d աուդիո ֆայլ (%3$s) %1$s-ից</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Ստացվեց %2$d աուդիո ֆայլեր (%3$s) %1$s-ից</item>
+        <item quantity="one">Ստացվեց %2$d աուդիո ֆայլ (%3$s) %1$s-ից</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Ստանում է %2$d աուդիո ֆայլեր (%3$s) %1$s…-ից</item>
+        <item quantity="one">Ստանում է %2$d աուդիո ֆայլ (%3$s) %1$s…-ից</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s ֆայլեր (%4$s) from %1$s-ից</item>
+        <item quantity="one">%2$d %3$s ֆայլ (%4$s) %1$s-ից</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Ստացվեց %2$d %3$s ֆայլեր (%4$s) %1$s-ից</item>
+        <item quantity="one">Ստացվեց %2$d %3$s ֆայլ (%4$s) %1$s-ից</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Ստանում է %2$d %3$s ֆայլեր (%4$s) %1$s…-ից</item>
+        <item quantity="one">Ստանում է %2$d %3$s ֆայլ (%4$s) %1$s…-ից</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d պատկերները %1$s-ից</item>
+        <item quantity="one">%2$d պատկերը %1$s-ից</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Ստացվեց %2$d պատկերներ %1$s-ից</item>
+        <item quantity="one">Ստացվեց %2$d լուսանկար %1$s-ից</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Ստանում է %2$d պատկերներ %1$s…-ից</item>
+        <item quantity="one">Ստանում է %2$d լուսանկար %1$s…-ից</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d պատկերներ և տեսանյութեր %1$s-ից</item>
+        <item quantity="one">%2$d պատկեր կամ տեսանյութ %1$s-ից</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Ստացվեց %2$d պատկերներ կամ տեսանյութեր %1$s-ից</item>
+        <item quantity="one">Ստացվեց %2$d պատկեր կամ տեսանյութ %1$s-ից</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Ստանում է %2$d պատկերներ կամ տեսանյութեր %1$s…-ից</item>
+        <item quantity="one">Ստանում է %2$d պատկեր կամ տեսանյութ %1$s…-ից</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d ֆայլեր %1$s-ից</item>
+        <item quantity="one">%2$d ֆայլ %1$s-ից</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Ստացվեց %2$d ֆայլեր %1$s-ից</item>
+        <item quantity="one">Ստացվեց %2$d ֆայլ %1$s-ից</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Ստանում է %2$d ֆայլերի %1$s…-ից</item>
+        <item quantity="one">Ստանում է %2$d ֆայլ %1$s…-ից</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">Չհաջողվեց ուղարկել: Դեռ մշակվում են %d նկար…</item>
+        <item quantity="one">Չհաջողվեց ուղարկել: Դեռ մշակվում է %d նկար…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d տեսանյութեր %1$s-ից</item>
+        <item quantity="one">%2$d տեսանյութ %1$s-ից</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Ստացվեց %2$d տեսանյութեր %1$s-ից</item>
+        <item quantity="one">Ստացվեց %2$d տեսանյութ %1$s-ից</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Ստանում է %2$d տեսանյութեր %1$s…-ից</item>
+        <item quantity="one">Ստանում է %2$d տեսանյութ %1$s…-ից</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d արխիվներ (%3$s) %1$s-ից</item>
+        <item quantity="one">%2$d արխիվ (%3$s) %1$s-ից</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Ստացվեց %2$d արխիվներ (%3$s) %1$s-ից</item>
+        <item quantity="one">Ստացվեց %2$d արխիվ (%3$s) %1$s-ից</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Ստանում է %2$d արխիվներ (%3$s) %1$s…-ից</item>
+        <item quantity="one">Ստանում է %2$d արխիվ (%3$s) %1$s…-ից</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Վերբեռնվեց %d լուսանկար</item>
+        <item quantity="one">Վերբեռնվեց %d լուսանկար</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d սենյակ</item>
+        <item quantity="one">%1$d սենյակ</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d էկրան</item>
+        <item quantity="one">%1$d էկրան</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d էկրան</item>
+        <item quantity="one">%1$d էկրան</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d կիսված էկրան</item>
+        <item quantity="one">%1$d կիսված էկրան</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d տարր չափազանց մեծ է համաժամացման համար</item>
+        <item quantity="one">%d տարր չափազանց մեծ է համաժամացման համար</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">Չհաջողվեց համաժամացնել %d տարր: Թարմացրեք ձեր պահեստային պլանը:</item>
+        <item quantity="one">Չհաջողվեց համաժամացնել %d տարր: Թարմացրեք ձեր պահեստային պլանը:</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">Չհաջողվեց համաժամացնել %d տարր: Նորից փորձեք:</item>
+        <item quantity="one">Չհաջողվեց համաժամացնել %d տարր: Նորից փորձեք:</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">Չհաջողվեց համաժամացնել %d տարր: Այս ալբոմի սեփականատիրոջ ամպային պահեստը սպառվել է:</item>
+        <item quantity="one">Չհաջողվեց համաժամացնել %d տարր: Այս ալբոմի սեփականատիրոջ ամպային պահեստը սպառվել է:</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d վայրկյան</item>
+        <item quantity="one">%1$d վայրկյան</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">Օպտիմիզացացվեց %d նկար</item>
+        <item quantity="one">Օպտիմիզացացվեց %d նկար</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">Օպտիմիզացացվեց %d նկարներ</item>
+        <item quantity="one">Օպտիմիզացացվեց %d նկար</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">Օպտիմիզացված %d տեսանյութեր</item>
+        <item quantity="one">Օպտիմիզացված %d տեսանյութ</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d նկար չեն օպտիմիզացվել: Դադարեցնե՞լ հիմա:</item>
+        <item quantity="one">%d նկար չի օպտիմիզացվել: Դադարեցնե՞լ հիմա:</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d լուսանկարներ</item>
+        <item quantity="one">%d լուսանկար</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d նկար մնաց</item>
+        <item quantity="one">%d նկար մնաց</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">Մնացել է %d տարրերը՝ օպտիմալացնելու համար</item>
+        <item quantity="one">Մնացել է %d տարր՝ օպտիմալացնելու համար</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d տեսանյութեր</item>
+        <item quantity="one">%d տեսանյութեր</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">Չպահուստավորվեց %d նկար կամ տեսանյութ</item>
+        <item quantity="one">Չպահուստավորվեց %d նկար կամ տեսանյութ</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d նյութերը չափազանց մեծ են, որպեսզի կրկնօրինակվեն</item>
+        <item quantity="one">%d նյութը չափազանց մեծ է, որպեսզի կրկնօրինակվի</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d օբյեկտ</item>
+        <item quantity="one">%d օբյեկտ</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">Համաժամանակեցված է %d լուսանկարներ</item>
+        <item quantity="one">Համաժամանակեցված է %d լուսանկար</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">Համաժամանակեցված է %d տեսանյութեր</item>
+        <item quantity="one">Համաժամանակեցված է %d տեսանյութ</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Համաժամացվում է %d տարրեր՝ օգտագործելով բջջային տվյալներ</item>
+        <item quantity="one">Համաժամացվում է %d տարր՝ օգտագործելով բջջային տվյալներ</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Համաժամանակեցնում է %d տարրերը</item>
+        <item quantity="one">Համաժամանակեցնում է %d տարր</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s տարրեր</item>
+        <item quantity="one">%1$s, %2$s տարր</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d օր</item>
+        <item quantity="one">%d օր</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d ամիս</item>
+        <item quantity="one">%d ամիս</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d տարի</item>
+        <item quantity="one">%d տարի</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d ընտրված տարրերը ընդմիշտ կջնջվի cloud-ից և բոլոր համաժամեցված սարքերից: Ջնջե՞լ ամեն դեպքում:</item>
+        <item quantity="one">%d ընտրված տարր ընդմիշտ կջնջվի cloud-ից և բոլոր համաժամեցված սարքերից: Ջնջե՞լ ամեն դեպքում:</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Դուք չեք կարողանա վերականգնել %d ընտրված նյութերը, եթե այն ջնջեք: Ջնջե՞լ ամեն դեպքում:</item>
+        <item quantity="one">Դուք չեք կարողանա վերականգնել %d ընտրված նյութը, եթե այն ջնջեք: Ջնջե՞լ ամեն դեպքում:</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d ընտրված տարրերը ընդմիշտ կջնջվի: Ջնջե՞լ ամեն դեպքում:</item>
+        <item quantity="one">%d ընտրված տարր ընդմիշտ կջնջվի: Ջնջե՞լ ամեն դեպքում:</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Դուք չեք կարողանա վերականգնել %d ընտրված նյութերը, եթե այն ջնջեք: Ջնջե՞լ ամեն դեպքում:</item>
+        <item quantity="one">Դուք չեք կարողանա վերականգնել %d ընտրված նյութը, եթե այն ջնջեք: Ջնջե՞լ ամեն դեպքում:</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Դուք չեք կարողանա վերականգնել %d ընտրված նյութերը, եթե այն ջնջեք: Ջնջե՞լ ամեն դեպքում:</item>
+        <item quantity="one">Դուք չեք կարողանա վերականգնել %d ընտրված նյութը, եթե այն ջնջեք: Ջնջե՞լ ամեն դեպքում:</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Նյութերը կարող են պահվել այստեղ %1$d օրերի ընթացքում (%2$s)</item>
+        <item quantity="one">Նյութերը կարող են պահվել այստեղ %1$d օրվա ընթացքում (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Նյութերը կարող են պահվել այստեղ %1$d օրերի ընթացքում: Թարմացրեք այս ժամանակահատվածը երկարացնելու ձեր ծրագիրը:</item>
+        <item quantity="one">Նյութերը կարող են պահվել այստեղ %1$d օրվա ընթացքում: Թարմացրեք այս ժամանակահատվածը երկարացնելու ձեր ծրագիրը:</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d ֆայլերը</item>
+        <item quantity="one">%1$d ֆայլը</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d տեսանյութեր</item>
+        <item quantity="one">%d տեսանյութ</item>
+    </plurals>
+</resources>

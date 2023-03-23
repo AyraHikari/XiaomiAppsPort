@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.airbnb.lottie.LottieAnimationView android:id="@id/common_loading_lottie_view" android:background="@drawable/editor_loading_background" android:layout_width="@dimen/photo_editor_common_loading_dialog_width" android:layout_height="@dimen/photo_editor_common_loading_dialog_height" android:layout_marginTop="@dimen/editor_confirm_menu_height" android:layout_marginBottom="@dimen/editor_menu_zone_height" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:lottie_loop="true" app:lottie_rawRes="@raw/loading" />
+</androidx.constraintlayout.widget.ConstraintLayout>

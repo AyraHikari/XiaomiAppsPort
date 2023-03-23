@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/icon_search_bar_search_icon_width_height" android:width="@dimen/icon_search_bar_search_icon_width_height" android:autoMirrored="true" android:viewportWidth="61.0" android:viewportHeight="60.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/search_bar_search_icon_black_40" android:pathData="M26.4797,13.5045C34.6816,14.6612 40.3845,22.31 39.2182,30.5895C38.052,38.8691 30.4582,44.6449 22.256,43.4908C14.0538,42.3368 8.3485,34.6898 9.5122,26.4099C10.68,18.1284 18.2753,12.3515 26.4797,13.5045ZM25.7391,18.5847L25.7395,18.582C20.2688,17.8131 15.2105,21.6245 14.4411,27.0953C13.6725,32.564 17.4823,37.6204 22.9508,38.3897C28.4194,39.1589 33.4762,35.3497 34.2461,29.8811C35.016,24.4126 31.2075,19.3553 25.7391,18.5847ZM36.3728,37.0157L46.2723,46.9152C47.2486,47.8915 47.2486,49.4744 46.2723,50.4507L46.2723,50.4507C45.296,51.427 43.7131,51.427 42.7368,50.4507L32.8373,40.5512C31.861,39.5749 31.861,37.992 32.8373,37.0157L32.8373,37.0157C33.8136,36.0393 35.3965,36.0393 36.3728,37.0157Z" android:strokeAlpha="0.4" android:fillType="nonZero" />
+</vector>

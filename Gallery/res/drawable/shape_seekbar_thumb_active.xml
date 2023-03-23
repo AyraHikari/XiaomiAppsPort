@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/photo_editor_white_100_transparent" />
+        </shape>
+    </item>
+    <item android:top="@dimen/editor_seek_bar_progress_thumb_start" android:bottom="@dimen/editor_seek_bar_progress_thumb_start" android:start="@dimen/editor_seek_bar_progress_thumb_start" android:end="@dimen/editor_seek_bar_progress_thumb_start">
+        <shape android:shape="oval">
+            <solid android:color="@color/photo_editor_seek_bar_thumb_active" />
+            <size android:height="@dimen/editor_seek_bar_size" android:width="@dimen/editor_seek_bar_size" />
+        </shape>
+    </item>
+</layer-list>

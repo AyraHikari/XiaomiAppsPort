@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.ui.AlbumDetailGridItem android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.Small.Inverse" android:textColor="@color/album_detail_file_size_color" android:layout_gravity="start|bottom|center" android:id="@id/file_size" android:paddingBottom="12.0px" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:paddingStart="20.0px" android:layout_alignParentStart="true" />
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.Small.Inverse" android:textColor="@color/album_detail_file_size_color" android:layout_gravity="start|center|top" android:id="@id/file_size_top" android:paddingTop="12.0px" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:paddingStart="20.0px" android:layout_alignParentStart="true" />
+</com.miui.gallery.ui.AlbumDetailGridItem>

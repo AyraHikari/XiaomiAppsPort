@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/click_view" android:background="@color/search_page_bg" android:paddingBottom="@dimen/navigation_page_header_margin_bottom" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/navigation_page_header_margin_left_right" android:paddingEnd="@dimen/navigation_page_header_margin_left_right"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/search_cloud_setting_bg" android:scaleType="fitXY" android:adjustViewBounds="true" android:contentDescription="@null" />
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/search_cloud_backup_title_start_margin">
+            <TextView android:textSize="@dimen/search_cloud_backup_title_text_size" android:textColor="@color/white_100_transparent" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/search_cloud_backup_title_top_margin" android:text="@string/search_backup_title" />
+            <TextView android:textSize="@dimen/navigation_page_header_text_size" android:textColor="@color/white_100_transparent" android:id="@id/sub_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/search_cloud_backup_subtitle_top_margin" android:text="@string/search_backup_sub_title" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

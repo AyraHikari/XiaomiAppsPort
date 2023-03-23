@@ -1,0 +1,27 @@
+{
+  "background": "#ffffff",
+  "collagePositions": [
+    {
+      "margin": 1,
+      "position": [
+        0.092,
+        0.218,
+        0.908,
+        0.830
+      ]
+    }
+  ],
+  "collageModels": [
+    10,
+    20
+  ],
+  "imageElementModels": [
+    {
+      "name": "img_01.png",
+      "x": 0.909,
+      "y": 0.124,
+      "width": 0.181,
+      "locationType": 6
+    }
+  ]
+}

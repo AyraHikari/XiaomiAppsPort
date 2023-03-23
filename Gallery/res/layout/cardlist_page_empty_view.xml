@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.EmptyPageWithoutSBL android:id="@android:id/empty" android:background="@drawable/window_background" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="@dimen/assistant_page_empty_page_height" app:emptyDescription="@string/empty_description_no_cards" app:emptyIcon="@drawable/ic_pic_empty_memories" app:emptyTitle="@string/empty_title_no_cards" app:showTopDividerLine="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

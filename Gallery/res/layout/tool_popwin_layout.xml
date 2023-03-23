@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/tool_popwin_layout_container" android:clipChildren="false" android:layout_width="@dimen/screen_text_popwin_width" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/screen_tool_popwin_layout_margin_bottom" />
+    <ImageView android:layout_gravity="bottom|center" android:id="@id/arrow" android:layout_width="@dimen/screen_arrow_popwin_width" android:layout_height="@dimen/screen_arrow_popwin_height" android:src="@drawable/screen_arrow_popup_bottom" />
+</FrameLayout>

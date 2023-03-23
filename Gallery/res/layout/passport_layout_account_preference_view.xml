@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layoutDirection="locale"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/preference_title_text_size" android:textColor="@color/passport_preference_title_color" android:ellipsize="end" android:gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:textDirection="anyRtl" android:layout_alignParentStart="true" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/preference_title_text_size" android:textColor="@color/passport_preference_title_color" android:ellipsize="end" android:id="@id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:textDirection="anyRtl" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <ImageView android:id="@id/icon" android:visibility="gone" android:layout_width="40.0dip" android:layout_height="40.0dip" />
+    <ImageView android:id="@id/arrow" android:visibility="gone" android:layout_width="8.0dip" android:layout_height="14.0dip" android:src="@drawable/passport_preference_item_arrow" android:layout_marginStart="10.0dip" />
+</LinearLayout>

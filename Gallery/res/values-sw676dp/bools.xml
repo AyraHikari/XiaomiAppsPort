@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="miuix_appcompat_floating_window_is_translucent">true</bool>
+    <bool name="miuix_appcompat_window_floating">true</bool>
+</resources>

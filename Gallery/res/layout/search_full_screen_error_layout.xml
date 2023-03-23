@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.springback.view.SpringBackLayout android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollOrientation="angle|vertical" app:scrollableView="@id/scroll_view"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.core.widget.NestedScrollView android:id="@id/scroll_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <LinearLayout android:orientation="vertical" android:id="@id/full_screen_error_view" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:layout_above="@id/fix_button">
+                <ImageView android:id="@id/icon" android:layout_width="@dimen/empty_page_icon_size" android:layout_height="@dimen/empty_page_icon_size" android:layout_marginBottom="@dimen/search_full_screen_view_margin_bottom" android:src="@drawable/ic_pic_empty_search" android:contentDescription="@null" />
+                <TextView android:textSize="@dimen/empty_page_title_size" android:textColor="@color/empty_page_title_color" android:ellipsize="middle" android:gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/search_login_title_full_screen" android:maxLines="2" android:layout_marginStart="@dimen/empty_page_margin" android:layout_marginEnd="@dimen/empty_page_margin" />
+            </LinearLayout>
+            <Button android:id="@id/fix_button" android:layout_width="fill_parent" android:layout_height="@dimen/empty_page_button_height" android:layout_marginTop="@dimen/search_full_screen_action_margin_top" android:layout_marginBottom="@dimen/empty_page_margin_bottom" android:text="@string/search_retry" android:layout_marginStart="@dimen/empty_page_margin" android:layout_marginEnd="@dimen/empty_page_margin" style="@style/Widget.Button.Warning" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</miuix.springback.view.SpringBackLayout>

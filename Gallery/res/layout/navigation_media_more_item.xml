@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/click_view" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.miui.gallery.widget.WHRatioRoundedImageView android:id="@id/icon" android:src="@drawable/album_sharer_default" android:importantForAccessibility="no" style="@style/Gallery.Widget.ThumbNail.Location.Regular" />
+        <com.miui.gallery.widget.WHRatioRoundedImageView android:background="@drawable/navigation_more_item_black_cover" android:duplicateParentState="true" android:src="@drawable/arrow_right_small_white_normal" android:scaleType="center" android:contentDescription="@string/more" style="@style/Gallery.Widget.ThumbNail.Location.Regular" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/search_text_default_size" android:ellipsize="end" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/search_text_default_margin" android:lines="1" android:importantForAccessibility="no" />
+</LinearLayout>

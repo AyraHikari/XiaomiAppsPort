@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/common_editor_menu_apply_layout_rotatable" />
+    <TextView android:textSize="@dimen/editor_apply_title_size" android:textColor="@color/photo_editor_text_button_color_normal" android:ellipsize="marquee" android:gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="@dimen/editor_apply_button_size" android:singleLine="true" android:fontFamily="mipro-medium" android:paddingStart="@dimen/editor_menu_title_button_padding" android:paddingEnd="@dimen/editor_menu_title_button_padding" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

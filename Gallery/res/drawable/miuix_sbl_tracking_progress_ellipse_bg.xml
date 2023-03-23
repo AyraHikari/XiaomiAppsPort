@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">--> <size android:height="@dimen/miuix_sbl_tracking_progress_bg_height" android:width="@dimen/miuix_sbl_tracking_progress_bg_width" />
+    <solid android:color="@android:color/transparent" />
+    <stroke android:width="@dimen/miuix_sbl_tracking_progress_bg_stroke_width" android:color="@color/miuix_sbl_loading_light" android:dashWidth="0.0dip" />
+    <corners android:topLeftRadius="20.0dip" android:topRightRadius="20.0dip" android:bottomLeftRadius="20.0dip" android:bottomRightRadius="20.0dip" />
+</shape>

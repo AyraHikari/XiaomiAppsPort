@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="wrap_content" android:layout_height="@dimen/v20_specify_type_enter_bg_height_cn"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="@dimen/v20_specify_type_enter_text_size" android:textStyle="bold" android:textColor="@color/v20_special_type_enter_text_color" android:gravity="center_vertical" android:id="@id/special_type_enter" android:background="@drawable/special_type_enter_bg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/v20_specify_type_enter_bg_height_cn" android:drawablePadding="@dimen/v20_specify_type_enter_text_drawable_padding" android:paddingStart="@dimen/v20_specify_type_enter_text_padding_start" android:paddingEnd="@dimen/v20_specify_type_enter_text_padding_end" android:layout_marginEnd="@dimen/motion_photo_btn_margin_end" />
+</merge>

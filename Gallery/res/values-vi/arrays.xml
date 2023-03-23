@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Trắng</item>
+        <item>Xanh lam đậm</item>
+        <item>Xanh lam nhạt</item>
+        <item>Đỏ</item>
+        <item>Xanh lá cây</item>
+        <item>Hồng</item>
+        <item>Nâu</item>
+        <item>Xám</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Chọn ảnh</item>
+        <item>Bối cảnh trong suốt</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Ngày đặc biệt</item>
+        <item>Ngày để nhớ</item>
+        <item>Khoảnh khắc tỏa sáng</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Một năm ngon lành</item>
+        <item>Bốn mùa bên nhau.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Xin chào thế giới!</item>
+        <item>Trên đường</item>
+        <item>Một nơi kính vạn hoa</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Mùa thu lộng lẫy</item>
+        <item>Mùa thu rạng rỡ</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Trai</item>
+        <item>Gái</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Sao lưu ảnh</item>
+        <item>Đồng bộ ảnh với đám mây</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Đêm đáng nhớ</item>
+        <item>Trang mới</item>
+        <item>Pháo hoa</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Chúc Mừng Năm Mới!</item>
+        <item>Năm mới phát tài</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Năm Thân</item>
+        <item>Năm Dậu</item>
+        <item>Năm Tuất</item>
+        <item>Năm Hợi</item>
+        <item>Năm Tý</item>
+        <item>Năm Sửu</item>
+        <item>Năm Dần</item>
+        <item>Năm Mẹo</item>
+        <item>Năm Thìn</item>
+        <item>Năm Tỵ</item>
+        <item>Năm Ngọ</item>
+        <item>Năm Mùi</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Cảnh quan thành phố</item>
+        <item>Đường phố và ngõ ngách</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Cánh hoa nhẹ nhàng</item>
+        <item>Nở rộ</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Trong tự nhiên</item>
+        <item>Hoang dã và tự do</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Cuộc gặp gỡ của chúng ta</item>
+        <item>Quen biết của những người bạn</item>
+        <item>Đã lâu không gặp</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Chủ đề yêu thích của bạn</item>
+        <item>Tâm hồn tương tự</item>
+        <item>Khoảnh khắc tươi đẹp</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Nhật ký lớn lên</item>
+        <item>Cute và đáng yêu</item>
+        <item>Nhà thám hiểm nhỏ</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Nhật ký tập luyện</item>
+        <item>Mạnh mẽ</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Chúc ngon miệng!</item>
+        <item>Ăn lại?</item>
+        <item>Tận hưởng bữa ăn của bạn!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Hãy mỉm cười và vẫy tay!</item>
+        <item>Giờ chơi</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Bên ngoài tuyệt vời</item>
+        <item>Lối mòn trên tuyết</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Không thể dừng lại</item>
+        <item>Giữ hình ảnh</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Ngày trọng đại</item>
+        <item>Kết hôn!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Thời gian chơi đùa</item>
+        <item>Cuối tuần của bé</item>
+        <item>Thời thơ bé</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Cuối tuần của tôi</item>
+        <item>Khoảnh khắc cuộc sống</item>
+        <item>Kỷ niệm cuối tuần</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Bạn mới và bạn cũ</item>
+        <item>Những cuộc gặp gỡ năm ngoái</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Giải trí</item>
+        <item>Gió nhẹ</item>
+        <item>Giấc mơ</item>
+        <item>Đám mây</item>
+        <item>Ý tưởng</item>
+        <item>Chồi non</item>
+        <item>Biến hóa</item>
+        <item>Chiều sâu</item>
+        <item>Phản chiếu</item>
+        <item>Tối giản</item>
+        <item>Huyền bí</item>
+        <item>Sương mù</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Biến bối cảnh thành phác thảo</item>
+        <item>Bối cảnh phong cách màu nước</item>
+        <item>Cyberpunk hoài cổ</item>
+        <item>Đường thẳng cắt lệch</item>
+        <item>Mờ sương</item>
+        <item>Cảm nhận tương lai</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Phác thảo</item>
+        <item>Màu nước</item>
+        <item>RGB</item>
+        <item>Cửa sổ</item>
+        <item>Cửa sổ sương mù</item>
+        <item>Công nghệ</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Đường viền màu</item>
+        <item>Đường nét đứt</item>
+        <item>Đường viền huỳnh quang</item>
+        <item>Đổ bóng màu</item>
+        <item>Sóng điện</item>
+        <item>Dòng chảy</item>
+        <item>Sóng</item>
+        <item>Hạt</item>
+        <item>Văn bản</item>
+        <item>Đôi cánh</item>
+        <item>Thiên thần</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Chuyển</item>
+        <item>Sao chép</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>Bạn đã lớn!</item>
+        <item>Bạn đã lớn rồi!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Menu cá nhân của tôi</item>
+        <item>Ký ức món ngon</item>
+        <item>Thêm phần nữa!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>Tầm nhìn đẹp nhất thế giới</item>
+        <item>Tiếp tục leo</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Cha</item>
+        <item>Mẹ</item>
+        <item>Ông nội</item>
+        <item>Bà nội</item>
+        <item>Ông ngoại</item>
+        <item>Bà ngoại</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Cùng nhau</item>
+        <item>Thời gian tuyệt vời</item>
+        <item>Đồng thanh</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Nơi con đường đưa chúng ta đến</item>
+        <item>Hành trình chia sẻ</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Mùa xuân vui</item>
+        <item>Mùa hè hân hoan</item>
+        <item>Mùa thu hạnh phúc</item>
+        <item>Mùa đông thú vị</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Bữa ăn mùa xuân</item>
+        <item>Món ăn mùa hè</item>
+        <item>Bữa tiệc mùa thu</item>
+        <item>Nóng hổi ngày đông</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Gặp gỡ</item>
+        <item>Khoảnh khắc tương phùng</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Tôi</item>
+        <item>Con cái</item>
+        <item>Gia đình</item>
+        <item>Đồng nghiệp</item>
+        <item>Bạn học</item>
+        <item>Bạn bè</item>
+        <item>Chưa thiết lập</item>
+    </string-array>
+    <string-array name="season">
+        <item>Mùa xuân</item>
+        <item>Mùa hè</item>
+        <item>Mùa thu</item>
+        <item>Mùa đông</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Cha</item>
+        <item>Mẹ</item>
+        <item>Ông nội</item>
+        <item>Bà nội</item>
+        <item>Ông ngoại</item>
+        <item>Bà ngoại</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Di chuyển về trước</item>
+        <item>Tràn trề năng lượng</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Mùa xuân hoa nở</item>
+        <item>Mùa xuân khắp nơi</item>
+        <item>Xin chào mùa xuân!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Một thoáng mùa hè</item>
+        <item>Nơi mùa hè không bao giờ kết thúc</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Giờ vàng</item>
+        <item>Năm tháng vàng</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Bọn trẻ lớn nhanh quá</item>
+        <item>Ảnh của bé</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Ngày mùa đông</item>
+        <item>Thiên đường mùa đông</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="root"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.ui.CloudBackupStatusPreference android:persistent="false" android:key="backup_automatically" />
+    <com.miui.gallery.transfer.ui.view.GoogleBackupStatusPreference android:persistent="false" android:key="google_backup_banner" />
+    <PreferenceCategory android:title="@string/recommend_category_title" android:key="recommend_category">
+        <CheckBoxPreference android:persistent="false" android:title="@string/image_selection_title" android:key="image_selection_function" android:summary="@string/image_selection_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/generate_story_title" android:key="story_function" android:summary="@string/generate_story_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/creativity_title" android:key="creativity_function" android:summary="@string/creativity_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/today_of_year" android:key="today_of_year_function" android:summary="@string/pref_today_of_year_summary" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/browse_category_title" android:key="browse_category">
+        <miuix.preference.TextPreference android:title="@string/show_hidden_album_title" android:key="show_hidden_album" />
+        <miuix.preference.TextPreference android:title="@string/slideshow_interval_title" android:key="slideshow_interval" android:defaultValue="3" android:dialogTitle="@string/slideshow_interval_dialog_title" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/slideshow_loop_title" android:key="slideshow_loop" android:defaultValue="false" />
+        <CheckBoxPreference android:title="@string/ocr_switch_title" android:key="ocr_long_click" android:summary="@string/ocr_switch_hint" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/hdr_show_title" android:key="hdr_show_switch_status" android:summary="@string/hdr_show_hint" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/operation_send" android:key="send">
+        <miuix.preference.TextPreference android:title="@string/zman_title" android:key="security_share_settings" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/send_heif_title" android:key="heif_convert" android:summary="@string/send_heif_summary" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/other_settings" android:key="others">
+        <miuix.preference.TextPreference android:title="@string/privacy_entrance" android:key="privacy_entrance" />
+        <com.miui.gallery.ui.DrawablePreference android:title="@string/update_check" android:key="update_check" />
+        <miuix.preference.TextPreference android:title="@string/user_agreement4" android:key="privacy_policy" />
+        <miuix.preference.TextPreference android:title="@string/problem_feedback" android:key="problem_feedback" />
+    </PreferenceCategory>
+</PreferenceScreen>

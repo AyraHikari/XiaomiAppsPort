@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:id="@id/state_3" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_press" android:state_hovered="false" />
+    <item android:state_pressed="false" android:id="@id/state_2" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_press" android:state_hovered="true" />
+    <item android:state_pressed="true" android:id="@id/state_1" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_press" android:state_hovered="true" />
+    <item android:id="@id/state_normal" android:drawable="@drawable/miuix_appcompat_dialog_default_btn_bg_primary_dark" />
+    <transition android:toId="@id/state_1" android:fromId="@id/state_normal" android:reversible="true">
+        <animation-list>
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p1" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p2" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p2" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p3" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_press" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_press" />
+        </animation-list>
+    </transition>
+    <transition android:toId="@id/state_2" android:fromId="@id/state_normal" android:reversible="true">
+        <animation-list>
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p1" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p2" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p2" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p3" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_press" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_press" />
+        </animation-list>
+    </transition>
+    <transition android:toId="@id/state_3" android:fromId="@id/state_normal" android:reversible="true">
+        <animation-list>
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p1" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p2" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p2" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_p3" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_press" />
+            <item android:duration="8" android:drawable="@drawable/miuix_appcompat_btn_bg_dialog_selector_primary_dark_press" />
+        </animation-list>
+    </transition>
+</animated-selector>

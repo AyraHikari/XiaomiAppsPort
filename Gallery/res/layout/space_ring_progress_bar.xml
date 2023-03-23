@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingTop="@dimen/cleaner_item_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:EndTopCornerTextView="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/ring_icon" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/cleaner_rotate_icon" android:scaleType="centerInside" android:layout_marginStart="@dimen/cleaner_item_ring_margin" android:layout_marginEnd="@dimen/cleaner_item_ring_margin" />
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.miui.gallery.widget.EndTopCornerTextView android:textSize="@dimen/rotate_ring_text_size" android:textColor="@color/white_100_transparent" android:layout_gravity="center_horizontal" android:id="@id/used_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="mipro-light" EndTopCornerTextView:cornerMargin="@dimen/rotate_ring_corner_margin" EndTopCornerTextView:cornerTextSize="@dimen/rotate_ring_corner_text_size" />
+            <ImageView android:layout_gravity="center" android:id="@id/value_empty_view" android:visibility="gone" android:layout_width="@dimen/rotate_ring_empty_width" android:layout_height="@dimen/rotate_ring_empty_height" android:src="@drawable/cleaner_empty_icon" android:contentDescription="@string/cleaner_empty_value_description" />
+        </FrameLayout>
+        <TextView android:textSize="@dimen/rotate_ring_description_text_size" android:textColor="@color/white_100_transparent" android:layout_gravity="center_horizontal" android:id="@id/value_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+        <TextView android:textSize="@dimen/rotate_ring_detail_description_text_size" android:textColor="@color/white_100_transparent" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/value_detail_description" android:paddingTop="@dimen/rotate_ring_description_padding" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+    </LinearLayout>
+</FrameLayout>

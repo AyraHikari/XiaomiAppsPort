@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/map_actionbar_more_icon_height" android:width="@dimen/map_actionbar_more_icon_width" android:viewportWidth="8.0" android:viewportHeight="44.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/action_bar_icon_color" android:pathData="M4,8C6.2091,8 8,6.2091 8,4C8,1.7909 6.2091,0 4,0C1.7909,0 0,1.7909 0,4C0,6.2091 1.7909,8 4,8ZM4,26C6.2091,26 8,24.2091 8,22C8,19.7909 6.2091,18 4,18C1.7909,18 0,19.7909 0,22C0,24.2091 1.7909,26 4,26ZM8,40C8,42.2091 6.2091,44 4,44C1.7909,44 0,42.2091 0,40C0,37.7909 1.7909,36 4,36C6.2091,36 8,37.7909 8,40Z" android:strokeAlpha="0.9" android:fillType="evenOdd" />
+</vector>

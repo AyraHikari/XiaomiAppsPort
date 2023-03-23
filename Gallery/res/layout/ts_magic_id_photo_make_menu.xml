@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/id_bottom_control" android:paddingTop="@dimen/magic_bottom_71" android:layout_width="fill_parent" android:layout_height="@dimen/magic_menu_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <include android:id="@id/magic_idp_category" android:visibility="visible" layout="@layout/ts_magic_id_photo_make_bottom_category" />
+        <com.miui.gallery.magic.widget.scroll.SimpleRecyclerViewMiuix android:id="@id/magic_idp_color_recyclerview" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/magic_idp_make_recycler_height" android:layout_marginBottom="@dimen/magic_list_margin_25" android:layout_alignParentBottom="true" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <RadioGroup android:gravity="center" android:orientation="horizontal" android:id="@id/magic_tab_radio_group" android:layout_width="fill_parent" android:layout_height="@dimen/magic_tab_radio_height">
+        <RadioButton android:id="@id/magic_idp_tab_category" android:text="@string/magic_specifications" style="@style/magic_tab_radio_btn" />
+        <RadioButton android:id="@id/magic_idp_tab_bg" android:text="@string/magic_background" style="@style/magic_tab_radio_btn" />
+    </RadioGroup>
+</LinearLayout>

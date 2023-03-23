@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_menu_text_radio_button_bubble_width">85.45499dip</dimen>
+    <item type="dimen" name="magic_galery_top">@dimen/px_37</item>
+    <item type="dimen" name="magic_id_photo_guide_text_content_height">@dimen/px_60</item>
+    <item type="dimen" name="magic_id_photo_guide_text_height">@dimen/px_86</item>
+    <dimen name="magic_id_photo_guide_text_margin_left">80.0dip</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_top">36.359985dip</dimen>
+    <item type="dimen" name="magic_id_photo_guide_text_size">@dimen/px_46</item>
+    <item type="dimen" name="magic_id_photo_guide_text_title_size">@dimen/px_66</item>
+    <item type="dimen" name="magic_id_photo_guide_text_width">@dimen/px_880</item>
+    <dimen name="magic_idp_bottom_height">488.72656dip</dimen>
+    <dimen name="magic_idp_bottom_margin_top">87.28dip</dimen>
+    <item type="dimen" name="magic_idp_guide_btn1h">@dimen/px_190</item>
+    <item type="dimen" name="magic_idp_guide_btn1w">@dimen/px_310</item>
+    <item type="dimen" name="magic_idp_guide_btn_halfGap">@dimen/px_22</item>
+    <dimen name="magic_idp_guide_photo_height">274.90625dip</dimen>
+    <dimen name="magic_idp_guide_photo_width">378.90625dip</dimen>
+    <item type="dimen" name="magic_idp_guide_text_margin_2">@dimen/px_59</item>
+    <item type="dimen" name="magic_idp_guide_text_margin_3">@dimen/px_49</item>
+    <item type="dimen" name="magic_idp_icon">@dimen/px_70</item>
+    <item type="dimen" name="magic_idp_make_recycler_item_margin">@dimen/px_25</item>
+    <dimen name="magic_idp_make_search_height_left">83.639984dip</dimen>
+    <item type="dimen" name="magic_idp_make_search_look_max_width">@dimen/px_1600</item>
+    <dimen name="magic_idp_make_tab_width">114.0dip</dimen>
+    <item type="dimen" name="magic_idp_search_list_padding">@dimen/px_40</item>
+    <item type="dimen" name="magic_search_edit_width">@dimen/px_1730</item>
+    <item type="dimen" name="magic_search_list_width">@dimen/px_890</item>
+    <dimen name="magic_status_bar_height">29.819977dip</dimen>
+    <dimen name="magic_text_top">0.0dip</dimen>
+    <dimen name="magic_video_guide_margin_t">0.0dip</dimen>
+    <dimen name="miuix_appcompat_two_state_extra_padding_horizontal_huge">68.0dip</dimen>
+    <dimen name="miuix_appcompat_two_state_extra_padding_horizontal_large">44.0dip</dimen>
+    <dimen name="miuix_appcompat_two_state_extra_padding_horizontal_small">28.0dip</dimen>
+    <dimen name="miuix_appcompat_window_extra_padding_horizontal_huge">68.0dip</dimen>
+    <dimen name="miuix_appcompat_window_extra_padding_horizontal_large">44.0dip</dimen>
+    <dimen name="miuix_appcompat_window_extra_padding_horizontal_small">28.0dip</dimen>
+</resources>

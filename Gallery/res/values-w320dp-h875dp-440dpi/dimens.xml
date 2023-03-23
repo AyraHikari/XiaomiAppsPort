@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_menu_sticker_view_pager_item_width">65.44998dip</dimen>
+    <item type="dimen" name="screen_editor_top_text_max_width">@dimen/px_260</item>
+    <dimen name="text_edit_dialog_options_style_item_height">76.359985dip</dimen>
+    <dimen name="text_edit_dialog_options_style_item_width">76.359985dip</dimen>
+    <dimen name="vlog_single_clip_speed_picker_indicator_width">56.0dip</dimen>
+    <dimen name="vlog_speed_picker_width">272.0dip</dimen>
+    <dimen name="vlog_speed_selected_width">56.0dip</dimen>
+    <dimen name="editor_menu_item_min_width">66.91dip</dimen>
+    <dimen name="photo_editor_frame_color_select_layout_margin_end">0.0dip</dimen>
+    <dimen name="photo_editor_frame_seek_bar_margin_end">25.449982dip</dimen>
+    <dimen name="text_edit_dialog_options_style_panel_rl_seek_bar_margin_right">0.0dip</dimen>
+    <dimen name="text_edit_dialog_tab_font_item_img_width">76.359985dip</dimen>
+    <dimen name="text_edit_dialog_tab_font_margin">21.819977dip</dimen>
+    <dimen name="text_edit_dialog_tab_font_recycler_item_spaces">23.639984dip</dimen>
+    <dimen name="text_edit_dialog_tab_style_transparent_title_margin_right">0.0dip</dimen>
+    <dimen name="text_edit_style_adapter_item_column_spaces">23.639984dip</dimen>
+    <dimen name="text_edit_dialog_tab_style_bsb_visibility_width">185.44998dip</dimen>
+    <dimen name="text_edit_dialog_tab_style_bsb_empty_width">176.72998dip</dimen>
+    <dimen name="vlog_mutli_clip_slide_swirch_width">265.8125dip</dimen>
+</resources>

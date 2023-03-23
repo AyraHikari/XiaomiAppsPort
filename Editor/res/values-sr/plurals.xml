@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Пре 1 час</item>
+        <item quantity="one">Пре 1 час</item>
+        <item quantity="few">Пре 1 час</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Пре 1 час</item>
+        <item quantity="one">Пре 1 час</item>
+        <item quantity="few">Пре 1 час</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Пре пола сата</item>
+        <item quantity="one">Пре пола сата</item>
+        <item quantity="few">Пре пола сата</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">За 1 сат</item>
+        <item quantity="one">За 1 сат</item>
+        <item quantity="few">За 1 сат</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">За пола сата</item>
+        <item quantity="one">За пола сата</item>
+        <item quantity="few">За пола сата</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Одмах</item>
+        <item quantity="one">Одмах</item>
+        <item quantity="few">Одмах</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">за %d минута</item>
+        <item quantity="one">за 1 мин.</item>
+        <item quantity="few">за %d минута</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Управо сада</item>
+        <item quantity="one">Управо сада</item>
+        <item quantity="few">Управо сада</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Пре %d минута</item>
+        <item quantity="one">Пре 1 мин.</item>
+        <item quantity="few">Пре %d минута</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d фајлова</item>
+        <item quantity="one">%1$d фајл</item>
+        <item quantity="few">%1$d фајла</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Пре пола сата</item>
+        <item quantity="one">Пре пола сата</item>
+        <item quantity="few">Пре пола сата</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">За 1 час</item>
+        <item quantity="one">За 1 час</item>
+        <item quantity="few">За 1 час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">За пола сата</item>
+        <item quantity="one">За пола сата</item>
+        <item quantity="few">За пола сата</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Одмах</item>
+        <item quantity="one">Одмах</item>
+        <item quantity="few">Одмах</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">за %d минута</item>
+        <item quantity="one">за 1 мин.</item>
+        <item quantity="few">за %d минута</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Управо сада</item>
+        <item quantity="one">Управо сада</item>
+        <item quantity="few">Управо сада</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d изабраних ставки</item>
+        <item quantity="one">%d изабрана ставка</item>
+        <item quantity="few">%d изабране ставке</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових обавештења</item>
+        <item quantity="one">%d ново обавештење</item>
+        <item quantity="few">%d нова обавештења</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Пре %d минута</item>
+        <item quantity="one">Пре 1 мин.</item>
+        <item quantity="few">Пре %d минута</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Ротирај %d степени</item>
+        <item quantity="one">Ротирај %d степен</item>
+        <item quantity="few">Ротирај %d степена</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d инсталационих пакета (%3$s) са %1$s</item>
+        <item quantity="one">%2$d инсталациони пакет (%3$s) са %1$s</item>
+        <item quantity="few">%2$d инсталациона пакета (%3$s) са %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Примљено је %2$d инсталационих пакета (%3$s) са %1$s</item>
+        <item quantity="one">Примљен је %2$d инсталациони пакет (%3$s) са %1$s</item>
+        <item quantity="few">Примљена су %2$d инсталациона пакета (%3$s) са %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Примање %2$d инсталационих пакета (%3$s) са %1$s…</item>
+        <item quantity="one">Примање %2$d инсталационог пакета (%3$s) са %1$s…</item>
+        <item quantity="few">Примање %2$d инсталациона пакета (%3$s) са %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d аудио фајлова (%3$s) са %1$s</item>
+        <item quantity="one">%2$d аудио фајл (%3$s) са %1$s</item>
+        <item quantity="few">%2$d аудио фајла (%3$s) са %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Примљено је %2$d аудио фајлова (%3$s) са %1$s</item>
+        <item quantity="one">Примљен је %2$d аудио фајл (%3$s) са %1$s</item>
+        <item quantity="few">Примљена су %2$d аудио фајла (%3$s) са %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Примање %2$d аудио фајлова (%3$s) са %1$s…</item>
+        <item quantity="one">Примање %2$d аудио фајла (%3$s) са %1$s…</item>
+        <item quantity="few">Примање %2$d аудио фајла (%3$s) са %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s фајлова (%4$s) са %1$s</item>
+        <item quantity="one">%2$d %3$s фајл (%4$s) са %1$s</item>
+        <item quantity="few">%2$d %3$s фајла (%4$s) са %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Примљено је %2$d %3$s фајлова (%4$s) са %1$s</item>
+        <item quantity="one">Примљен је %2$d %3$s фајл (%4$s) са %1$s</item>
+        <item quantity="few">Примљена су %2$d %3$s фајла (%4$s) са %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Примање %2$d %3$s фајлова (%4$s) са %1$s…</item>
+        <item quantity="one">Примање %2$d %3$s фајла (%4$s) са %1$s…</item>
+        <item quantity="few">Примање %2$d %3$s фајла (%4$s) са %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d слика са %1$s</item>
+        <item quantity="one">%2$d слика са %1$s</item>
+        <item quantity="few">%2$d слике са %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Примљено је %2$d слика са %1$s</item>
+        <item quantity="one">Примљена је %2$d слика са %1$s</item>
+        <item quantity="few">Примљене су %2$d слике са %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Примање %2$d слика са %1$s…</item>
+        <item quantity="one">Примање %2$d слике са %1$s…</item>
+        <item quantity="few">Примање %2$d слика са %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d слика или видеа са %1$s</item>
+        <item quantity="one">%2$d слика или видео са %1$s</item>
+        <item quantity="few">%2$d слике или видеа са %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Примљено је %2$d слика или видео снимака са %1$s</item>
+        <item quantity="one">Примљена је %2$d слика или видео снимак са %1$s</item>
+        <item quantity="few">Примљене су %2$d слике или видео снимка са %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Примање %2$d слика или видео снимака са %1$s…</item>
+        <item quantity="one">Примање %2$d слике или видео снимка са %1$s…</item>
+        <item quantity="few">Примање %2$d слике или видео снимка са %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d фајлова са %1$s</item>
+        <item quantity="one">%2$d фајл са %1$s</item>
+        <item quantity="few">%2$d фајла са %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Примљено је %2$d фајлова са %1$s</item>
+        <item quantity="one">Примљен је %2$d фајл са %1$s</item>
+        <item quantity="few">Примљена су %2$d фајла са %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Примање %2$d фајлова са %1$s…</item>
+        <item quantity="one">Примање %2$d фајла са %1$s…</item>
+        <item quantity="few">Примање %2$d фајла са %1$s…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d видеа са %1$s</item>
+        <item quantity="one">%2$d видео са %1$s</item>
+        <item quantity="few">%2$d видеа са %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Примљено је %2$d видео снимака са %1$s</item>
+        <item quantity="one">Примљен је %2$d видео снимак са %1$s</item>
+        <item quantity="few">Примљена су %2$d видео снимка са %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Примање %2$d видео снимака са %1$s…</item>
+        <item quantity="one">Примање %2$d видео снимка са %1$s…</item>
+        <item quantity="few">Примање %2$d видео снимка са %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d архива (%3$s) са %1$s</item>
+        <item quantity="one">%2$d архива (%3$s) са %1$s</item>
+        <item quantity="few">%2$d архиве (%3$s) са %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Примљено је %2$d архива (%3$s) са %1$s</item>
+        <item quantity="one">Примљена је %2$d архива (%3$s) са %1$s</item>
+        <item quantity="few">Примљене су %2$d архиве (%3$s) са %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Примање %2$d архива (%3$s) са %1$s…</item>
+        <item quantity="one">Примање %2$d архиве (%3$s) са %1$s…</item>
+        <item quantity="few">Примање %2$d архиве (%3$s) са %1$s…</item>
+    </plurals>
+</resources>

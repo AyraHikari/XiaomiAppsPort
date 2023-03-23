@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/extra_content" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/preview_btn" android:layout_width="@dimen/photo_movie_btn_width" android:layout_height="@dimen/photo_movie_btn_width" android:layout_marginTop="@dimen/photo_movie_edit_delete_margin_end" android:layout_alignParentTop="true" android:layout_marginEnd="@dimen/photo_movie_edit_delete_margin_end" android:layout_alignParentEnd="true">
+            <ImageButton android:layout_gravity="center" android:background="@drawable/movie_btn_background" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/movie_video_preview_button" android:contentDescription="@string/movie_full_screen" />
+        </FrameLayout>
+        <ImageView android:id="@id/iv_play" android:visibility="gone" android:layout_width="@dimen/photo_movie_play_btn_width" android:layout_height="@dimen/photo_movie_play_btn_width" android:src="@drawable/video_play_icon" android:scaleType="centerCrop" android:layout_centerInParent="true" android:contentDescription="@string/movie_content_describe_play" />
+        <com.miui.gallery.movie.ui.view.PlayProgressView android:id="@id/play_progress" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/movie_view_progress_height" android:layout_marginBottom="@dimen/movie_view_progress_margin_bottom" android:layout_alignParentBottom="true" />
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+            <include layout="@layout/editor_loading_view" />
+        </FrameLayout>
+    </RelativeLayout>
+</merge>

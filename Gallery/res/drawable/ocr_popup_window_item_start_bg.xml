@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/ocr_popup_window_bg_solid_pressed" />
+    <corners android:topLeftRadius="@dimen/ocr_popup_window_radius" android:topRightRadius="0.0dip" android:bottomLeftRadius="@dimen/ocr_popup_window_radius" android:bottomRightRadius="0.0dip" />
+</shape>

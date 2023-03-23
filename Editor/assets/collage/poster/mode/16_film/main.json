@@ -1,0 +1,22 @@
+{
+  "background": "#ffffff",
+  "ratio": 1,
+  "collagePositions": [
+    {
+      "margin": 1,
+      "position": [
+        0.140,
+        0.313,
+        0.860,
+        0.687
+      ],
+      "radius": [
+        10,
+        10
+      ]
+    }
+  ],
+  "collageModels": [
+    22
+  ]
+}

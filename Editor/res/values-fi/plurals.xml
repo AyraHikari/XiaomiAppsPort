@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 tunti sitten</item>
+        <item quantity="one">1 tunti sitten</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 tunti sitten</item>
+        <item quantity="one">1 tunti sitten</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Puoli tuntia sitten</item>
+        <item quantity="one">Puoli tuntia sitten</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 tunnin kuluttua</item>
+        <item quantity="one">1 tunnin kuluttua</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Puolen tunnin kuluttua</item>
+        <item quantity="one">Puolen tunnin kuluttua</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Heti</item>
+        <item quantity="one">Heti</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">1 min kuluttua</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Juuri nyt</item>
+        <item quantity="one">Juuri nyt</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">1 minuutti sitten</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d tiedostoa</item>
+        <item quantity="one">%1$d tiedosto</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Puoli tuntia sitten</item>
+        <item quantity="one">Puoli tuntia sitten</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 tunnin kuluttua</item>
+        <item quantity="one">1 tunnin kuluttua</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Puolen tunnin kuluttua</item>
+        <item quantity="one">Puolen tunnin kuluttua</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Heti</item>
+        <item quantity="one">Heti</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">1 minuutin kuluttua</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Juuri nyt</item>
+        <item quantity="one">Juuri nyt</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d kohdetta valittu</item>
+        <item quantity="one">%d kohde valittu</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">1 minuutti sitten</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Kierrä %d astetta</item>
+        <item quantity="one">Kierrä %d aste</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d asennuspakettia (%3$s) käyttäjältä %1$s</item>
+        <item quantity="one">%2$d asennuspaketti (%3$s) käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Vastaanotettu %2$d asennuspakettia (%3$s) käyttäjältä %1$s</item>
+        <item quantity="one">Vastaanotettu %2$d asennuspaketti (%3$s) käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Vastaanotetaan %2$d asennuspakettia (%3$s) käyttäjältä %1$s…</item>
+        <item quantity="one">Vastaanotetaan %2$d asennuspaketti (%3$s) käyttäjältä %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d äänitiedostoa (%3$s) käyttäjältä %1$s</item>
+        <item quantity="one">%2$d äänitiedosto (%3$s) käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Vastaanotettu %2$d äänitiedostoa (%3$s) käyttäjältä %1$s</item>
+        <item quantity="one">Vastaanotettu %2$d äänitiedosto (%3$s) käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Vastaanotetaan %2$d äänitiedostoa (%3$s) käyttäjältä %1$s…</item>
+        <item quantity="one">Vastaanotetaan %2$d äänitiedosto (%3$s) käyttäjältä %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s-tiedostoa (%4$s) käyttäjältä %1$s</item>
+        <item quantity="one">%2$d %3$s-tiedosto (%4$s) käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Vastaanotettu %2$d %3$s-tiedostoa (%4$s) käyttäjältä %1$s</item>
+        <item quantity="one">Vastaanotettu %2$d %3$s-tiedosto (%4$s) käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Vastaanotetaan %2$d %3$s-tiedostoa (%4$s) käyttäjältä %1$s…</item>
+        <item quantity="one">Vastaanotetaan %2$d %3$s-tiedosto (%4$s) käyttäjältä %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d kuvaa käyttäjältä %1$s</item>
+        <item quantity="one">%2$d kuva käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Vastaanotettu %2$d kuvaa käyttäjältä %1$s</item>
+        <item quantity="one">Vastaanotettu %2$d kuva käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Vastaanotetaan %2$d kuvaa käyttäjältä %1$s…</item>
+        <item quantity="one">Vastaanotetaan %2$d kuva käyttäjältä %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d kuvaa tai videota käyttäjältä %1$s</item>
+        <item quantity="one">%2$d kuva tai video käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Vastaanotettu %2$d kuvaa ja videota käyttäjältä %1$s</item>
+        <item quantity="one">Vastaanotettu %2$d kuva tai video käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Vastaanotetaan %2$d kuvaa ja videota käyttäjältä %1$s…</item>
+        <item quantity="one">Vastaanotetaan %2$d kuva tai video käyttäjältä %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d tiedostoa käyttäjältä %1$s</item>
+        <item quantity="one">%2$d tiedosto käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Vastaanotettu %2$d tiedostoa käyttäjältä %1$s</item>
+        <item quantity="one">Vastaanotettu %2$d tiedosto käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Vastaanotetaan %2$d tiedostoa käyttäjältä %1$s…</item>
+        <item quantity="one">Vastaanotetaan %2$d tiedosto käyttäjältä %1$s…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d videota käyttäjältä %1$s</item>
+        <item quantity="one">%2$d video käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Vastaanotettu %2$d videota käyttäjältä %1$s</item>
+        <item quantity="one">Vastaanotettu %2$d video käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Vastaanotetaan %2$d videota käyttäjältä %1$s…</item>
+        <item quantity="one">Vastaanotetaan %2$d video käyttäjältä %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d arkistoa (%3$s) käyttäjältä %1$s</item>
+        <item quantity="one">%2$d arkisto (%3$s) käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Vastaanotettu %2$d arkistoa (%3$s) käyttäjältä %1$s</item>
+        <item quantity="one">Vastaanotettu %2$d arkisto (%3$s) käyttäjältä %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Vastaanotetaan %2$d arkistoa (%3$s) käyttäjältä %1$s…</item>
+        <item quantity="one">Vastaanotetaan %2$d arkisto (%3$s) käyttäjältä %1$s…</item>
+    </plurals>
+</resources>

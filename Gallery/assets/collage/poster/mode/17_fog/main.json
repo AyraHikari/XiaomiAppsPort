@@ -1,0 +1,37 @@
+{
+  "background": "#ffffff",
+  "collagePositions": [
+    {
+      "position": [
+        0.080,
+        0.062,
+        0.920,
+        0.702
+      ]
+    }
+  ],
+  "collageModels": [
+    10
+  ],
+  "imageElementModels": [
+    {
+      "name": "img_01.png",
+      "x": 0.921,
+      "y": 0.791,
+      "width": 0.049,
+      "locationType": 6
+    }
+  ],
+  "textElementModels": [
+    {
+      "x": 0.921,
+      "y": 0.880,
+      "locationType": 8,
+      "textSize": 6,
+      "textColor": "#8c000000",
+      "letterSpace": 0.4,
+      "text": "FOGGY MORNING",
+      "maxLength": 10
+    }
+  ]
+}

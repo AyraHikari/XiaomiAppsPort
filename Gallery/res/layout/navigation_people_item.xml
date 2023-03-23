@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/click_view" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.widget.CircleAppCompatImageView android:id="@id/icon" android:src="@drawable/album_sharer_default" android:importantForAccessibility="no" style="@style/Gallery.Widget.ThumbNail.People.Regular" />
+    <TextView android:textSize="@dimen/search_text_default_size" android:ellipsize="end" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/search_text_default_margin" android:lines="1" />
+</LinearLayout>

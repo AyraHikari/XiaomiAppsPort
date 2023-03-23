@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="album_ai_face_load_number">8</integer>
+    <integer name="album_ai_grid_view_columns">4</integer>
+    <integer name="album_ai_location_load_number">7</integer>
+    <integer name="album_ai_tag_load_number">8</integer>
+    <integer name="assistant_header_grid_span_count">3</integer>
+    <integer name="people_face_grid_view_columns">4</integer>
+    <integer name="search_navigation_category_item_count">4</integer>
+    <integer name="search_navigation_location_item_count">4</integer>
+    <integer name="search_navigation_people_column_count">5</integer>
+    <integer name="search_navigation_people_item_count">4</integer>
+    <integer name="search_result_page_column_count">4</integer>
+</resources>

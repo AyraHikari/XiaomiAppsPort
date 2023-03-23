@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/navRoot" android:layout_width="wrap_content" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/back_layout" android:layout_width="@dimen/clip_edit_nav_back_width" android:layout_height="@dimen/clip_edit_nav_back_height">
+        <ImageView android:id="@id/iv_clip_back_img" android:layout_width="@dimen/px_60" android:layout_height="@dimen/px_60" android:layout_marginTop="@dimen/px_24" android:src="@drawable/ic_clip_menu_back" />
+        <TextView android:textSize="@dimen/clip_edit_text_item_text_size" android:textColor="@color/clip_menu_clip_navi_item_text_color" android:gravity="center_vertical" android:id="@id/iv_clip_back_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/px_23" android:text="@string/clip_menu_back" android:fontFamily="mipro-medium" />
+    </LinearLayout>
+    <com.miui.gallery.widget.recyclerview.SingleChoiceRecyclerView android:id="@id/recycler_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

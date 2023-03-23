@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <include android:id="@id/rv_simple_list" layout="@layout/photo_editor_list_content_layout" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/layout_diy_list" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <include android:id="@id/rv_diy_list" android:visibility="gone" layout="@layout/photo_editor_list_content_layout" />
+    </FrameLayout>
+    <FrameLayout android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <include android:id="@id/rv_like_list" android:visibility="gone" layout="@layout/photo_editor_list_content_layout" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/editor_menu_filter_diy_tips_tv_text_size" android:textColor="@color/editor_menu_filter_diy_tips_tv_text_color" android:gravity="center" android:id="@id/tv_diy_tips" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/filter_menu_content_tips_diy_filter" android:fontFamily="mipro-medium" android:layout_marginStart="@dimen/editor_menu_filter_diy_tips_tv_margin_start" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <TextView android:textSize="@dimen/editor_menu_filter_like_tips_tv_text_size" android:textColor="@color/editor_menu_filter_like_tips_tv_text_color" android:id="@id/tv_like_tips" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/filter_menu_content_tips_like_filter" android:fontFamily="mipro-medium" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miuix_appcompat_btn_radio_height" android:width="@dimen/miuix_appcompat_btn_radio_width" android:autoMirrored="true" android:viewportWidth="70.0" android:viewportHeight="34.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff0073dd" android:pathData="M27.0065,17.2619C26.9568,17.8782 27.1955,18.4906 27.665,18.9115L39.686,30.9315C40.4761,31.6399 41.6819,31.6078 42.4333,30.8586C43.1847,30.1093 43.2201,28.9036 42.514,28.1115L31.6635,17.2619L42.514,6.4123C42.889,6.0389 43.0997,5.5315 43.0997,5.0023C43.0997,4.4731 42.889,3.9657 42.514,3.5923C42.1411,3.2134 41.6317,3 41.1,3C40.5684,3 40.059,3.2134 39.686,3.5923L27.665,15.6123C27.1955,16.0332 26.9568,16.6457 27.0065,17.2619Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+</vector>

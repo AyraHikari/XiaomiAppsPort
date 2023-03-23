@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/click_view" android:paddingBottom="@dimen/result_tags_bottom_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.WHRatioRoundedImageView android:id="@id/icon" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" android:importantForAccessibility="no" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:outlineCornerRadius="@dimen/search_radius_middle" app:whRatio="1.0" />
+    <TextView android:textSize="@dimen/search_location_tag_item_title_text_size" android:ellipsize="end" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/result_tag_item_text_top_margin" android:lines="1" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/icon" style="@style/Gallery.TextAppearance.Search.List.Primary.Middle" />
+</androidx.constraintlayout.widget.ConstraintLayout>

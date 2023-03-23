@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/map_view" android:layout="@layout/action_bar_map_view_in_home_page" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/sync_icon" android:layout="@layout/action_bar_sync_icon_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/action_bar_home_margin_bottom" android:layout_marginEnd="@dimen/action_bar_home_sync_margin_end" />
+    <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <Button android:id="@id/more" android:background="?immersionButtonMoreBackground" android:layout_width="@dimen/action_bar_more_icon_size" android:layout_height="@dimen/action_bar_more_icon_size" android:contentDescription="@string/actionbar_overflow_item_desc" />
+        <ImageView android:id="@id/red_dot" android:background="@drawable/red_dot_ic_large" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/preference_menu_red_dot_margin_top" android:layout_alignParentTop="true" android:layout_marginEnd="@dimen/preference_menu_red_dot_margin_end" android:layout_alignEnd="@id/more" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/face_rename_edit_bg_solid_color" />
+    <size android:height="@dimen/face_rename_edit_height" />
+    <corners android:radius="@dimen/face_rename_edit_corner_radius" />
+</shape>

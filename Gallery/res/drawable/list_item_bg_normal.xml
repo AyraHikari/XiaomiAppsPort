@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingLeft="@dimen/menu_item_padding_left" android:paddingRight="@dimen/menu_item_padding_right"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/list_item_bg_color" />
+        </shape>
+    </item>
+</layer-list>

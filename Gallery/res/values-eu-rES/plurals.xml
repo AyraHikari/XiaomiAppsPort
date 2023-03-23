@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Duela ordubete</item>
+        <item quantity="one">Duela ordubete</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Duela ordubete</item>
+        <item quantity="one">Duela ordubete</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Duela ordu erdi</item>
+        <item quantity="one">Duela ordu erdi</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Ordubete barru</item>
+        <item quantity="one">Ordubete barru</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Ordu erdi barru</item>
+        <item quantity="one">Ordu erdi barru</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Berehala</item>
+        <item quantity="one">Berehala</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d min barru</item>
+        <item quantity="one">Min 1 barru</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Oraintxe bertan</item>
+        <item quantity="one">Oraintxe bertan</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Duela %d min</item>
+        <item quantity="one">Duela min 1</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Elementu hauek album pribatuan gehitu?</item>
+        <item quantity="one">Elementu hau album pribatuan gehitu?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Hodeiaren %d argazki gehitu dira, \"Bilduma lokalak soilik erakutsi\" desaktibatu ikusteko.</item>
+        <item quantity="one">Hodeiaren argazki %d gehitu da, \"Bilduma lokalak soilik erakutsi\" desaktibatu ikusteko.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">" %2$d itemak ezin dira albumean gehitu. %1$s."</item>
+        <item quantity="one">" %2$d itemak ezin dira albumean gehitu. %1$s."</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d elementu ezin dira album pribatuan gehitu. %1$s.</item>
+        <item quantity="one">%2$d elementu ezin da album pribatuan gehitu. %1$s.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">%d egun</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d hilabete</item>
+        <item quantity="one">%d hilabete</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d urte</item>
+        <item quantity="one">%d urte</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">%d pertsonekin partekatuta</item>
+        <item quantity="one">%d pertsonekin partekatuta</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d argazkiak</item>
+        <item quantity="one">%d argazki</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d elementuen | %2$s</item>
+        <item quantity="one">%1$d elementu | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d elementuen)</item>
+        <item quantity="one">(%d elementu)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d bilduma</item>
+        <item quantity="one">%d bilduma</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">Album hau %s pertsona ikus dezakete</item>
+        <item quantity="one">Album hau %s pertsona ikus dezake</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d album, %1$s barne</item>
+        <item quantity="one">%2$d album, %1$s barne</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d elementu</item>
+        <item quantity="one">Elementu %1$d</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d oroitzapen</item>
+        <item quantity="one">Oroitzapen %d</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%2$s -ren %1$d argazki gehituko dira</item>
+        <item quantity="one">%2$s -ren %1$d argazki gehituko dira</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%2$s -ren %1$d argazki gehituko dira</item>
+        <item quantity="one">%2$s -ren %1$d argazki gehituko dira</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Babeskopia berriro hasi %d ordutan</item>
+        <item quantity="one">Babeskopia berriro hasi %d ordutan</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d elementu handiegiak dira babeskopia egiteko</item>
+        <item quantity="one">Elementu %d handiegia da babeskopia egiteko</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d minutu barru berriz hasiko da</item>
+        <item quantity="one">Minutu %d barru berriz hasiko da</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Gelditu argazkiak, bideoak, kontaktuak, oharrak eta beste elementuak hodeiarekin sinkronizatzen %d minutuz.</item>
+        <item quantity="one">Gelditu argazkiak, bideoak, kontaktuak, oharrak eta beste elementuak hodeiarekin sinkronizatzen minutu %d -ez.</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d argazkiak eta bideoak | %2$s</item>
+        <item quantity="one">%1$d argazki eta bideo | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d argazkiak eta bideoak</item>
+        <item quantity="one">%1$d argazki eta bideo</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d argazki</item>
+        <item quantity="one">Argazki %d</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Ezabatu aukeratu ez zenituen %d argazki?</item>
+        <item quantity="one">Ezabatu aukeratu ez zenuen argazki %d?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Ezabatu %d argazki</item>
+        <item quantity="one">Ezabatu argazki %d</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Mantendu %d aukeratutako argazki</item>
+        <item quantity="one">Mantendu aukeratutako argazki %d</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d argazki</item>
+        <item quantity="one">%d argazki</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d bideo</item>
+        <item quantity="one">%d bideo</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">Ezin izan dira %d elementu sinkronizatu behar adina hodeiko biltegiratzea ez dagoelako</item>
+        <item quantity="one">Ezin izan da %d elementu sinkronizatu behar adina hodeiko biltegiratzea ez dagoelako</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Collageek %1$d-%2$d argazki eduki ditzakete</item>
+        <item quantity="one">Collageek %1$d-%2$d argazki eduki dezakete</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">%d argazkiak arte aukeratu</item>
+        <item quantity="one">%d argazki arte aukeratu</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d elementu aukeratuta</item>
+        <item quantity="one">%d elementu aukeratuta</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d argazki sorta Xiaomi Cloud-etik eta sinkronizatutako gailu guztietatik ezabatu?</item>
+        <item quantity="one">Argazki sorta %d Xiaomi Cloud-etik eta sinkronizatutako gailu guztietatik ezabatu?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">%d argazki sorta ezabatu?</item>
+        <item quantity="one">Argazki sorta %d ezabatu?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d elementu ezabatuta</item>
+        <item quantity="one">Elementu %d ezabatuta</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d elementu gailu guztietatik eta Xiaomi Cloud-etik ezabatu?</item>
+        <item quantity="one">Elementu %d gailu guztietatik eta Xiaomi Cloud-etik ezabatu?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">%d elementu ezabatu?</item>
+        <item quantity="one">Elementu %d ezabatu?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d argazki gailu guztietatik eta Xiaomi Cloud-etik ezabatu?</item>
+        <item quantity="one">Argazki %d gailu guztietatik eta Xiaomi Cloud-etik ezabatu?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">%d argazki sorta zure gailutik ezabatu?</item>
+        <item quantity="one">Argazki sorta %d zure gailutik ezabatu?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d bideo gailu guztietatik eta Xiaomi Cloud-etik ezabatu?</item>
+        <item quantity="one">Bideo %d gailu guztietatik eta Xiaomi Cloud-etik ezabatu?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">"Couldn't download %1$d files"</item>
+        <item quantity="one">Ezin izan dira %1$d fitxategi deskargatu</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">"Couldn't download %1$d files, check network connection and try again"</item>
+        <item quantity="one">Ezin izan dira %1$d fitxategi deskargatu, sare-konexioa egiaztatu eta berriro saiatu</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Elementuak hodeitik deskargatzen (%2$d/%1$d)</item>
+        <item quantity="one">Elementuak hodeitik deskargatzen (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">Guztira %d argazki</item>
+        <item quantity="one">Guztira %d argazkia</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Argazkiak prozesatzen…</item>
+        <item quantity="one">Argazkiak prozesatzen…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">Ireki izan ez diren %1$d argazki saihestu dira.</item>
+        <item quantity="one">Ireki izan ez den %1$d argazki saihestu da.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d fitxategi</item>
+        <item quantity="one">Fitxategi %1$d</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Duela ordu erdi</item>
+        <item quantity="one">Duela ordu erdi</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Ordubete barru</item>
+        <item quantity="one">Ordubete barru</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Ordu erdi barru</item>
+        <item quantity="one">Ordu erdi barru</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Berehala</item>
+        <item quantity="one">Berehala</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d minutu barru</item>
+        <item quantity="one">Minutu 1 barru</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Oraintxe bertan</item>
+        <item quantity="one">Oraintxe bertan</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">%d minutu</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d segundu</item>
+        <item quantity="one">%d segundu</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementu aukeratuta</item>
+        <item quantity="one">%d elementu aukeratuta</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Duela %d minutu</item>
+        <item quantity="one">Duela minutu 1</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d elementu sinkronizatzeko zain</item>
+        <item quantity="one">%1$d elementu sinkronizatzeko zain</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d argazki</item>
+        <item quantity="one">%1$d argazki</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d argazki sinkronizatzeko zain</item>
+        <item quantity="one">%1$d argazki sinkronizatzeko zain</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">%1$d argazki sinkronizatzen…</item>
+        <item quantity="one">%1$d argazki sinkronizatzen…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">%1$d elementu sinkronizatzen…</item>
+        <item quantity="one">%1$d elementu sinkronizatzen…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">%1$d bideo sinkronizatzen…</item>
+        <item quantity="one">%1$d bideo sinkronizatzen…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d bideo</item>
+        <item quantity="one">%1$d bideo</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d bideo sinkronizatzeko zain</item>
+        <item quantity="one">%1$d bideo sinkronizatzeko zain</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d argazki</item>
+        <item quantity="one">%d argazki</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Guztira %1$d elementu</item>
+        <item quantity="one">Guztira elementu %1$d</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Biratu %d gradu</item>
+        <item quantity="one">Biratu %d gradu</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">%d egun</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">%d ordu</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Onartu gabeko %d elementu iragazi dira</item>
+        <item quantity="one">Onartu gabeko %d elementu iragazi da</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF fitxategiek %d irudi arte eduki ditzakete</item>
+        <item quantity="one">PDF fitxategiek %d irudi arte eduki dezakete</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Aukeratutako argazkiak ez daude gailuan. Mugikorraren datuak erabiliz deskargatu?</item>
+        <item quantity="one">Aukeratutako argazkiak ez daude gailuan. Mugikorraren datuak erabiliz deskargatu?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Aukeratutako argazkiak ez daude gailuan. Deskargatuak izango dira.</item>
+        <item quantity="one">Aukeratutako argazkiak ez daude gailuan. Deskargatuak izango dira.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Aukeratutako argazkiak (%d MB) ez daude gailuan. Datu mugikorrak erabiliz deskargatu?</item>
+        <item quantity="one">Aukeratutako argazkia (%d MB) ez dago gailuan. Datu mugikorrak erabiliz deskargatu?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d fitxategi oraindik ez daude deskargatuta. Hala ere ezeztatu?</item>
+        <item quantity="one">%d fitxategi oraindik ez dago deskargatuta. Hala ere ezeztatu?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Gainontzeko %d fitxategi deskargatzen</item>
+        <item quantity="one">Gainontzeko %d fitxategi deskargatzen</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Ezin izan dira %1$d argazki deskargatu, konektatu sarera eta saiatu berriro</item>
+        <item quantity="one">Ezin izan da %1$d argazki deskargatu, konektatu sarera eta saiatu berriro</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Ezin izan dira %1$d fitxategi (%2$d MB) deskargatu. Konektatu sarera eta saiatu berriro.</item>
+        <item quantity="one">Ezin izan da %1$d fitxategi (%2$d MB) deskargatu. Konektatu sarera eta saiatu berriro.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d fitxategi (%2$d MB) oraindik ez daude deskargatuta. Datu mugikorrak erabiliz deskargatu?</item>
+        <item quantity="one">%1$d fitxategi (%2$d MB) oraindik ez dago deskargatuta. Datu mugikorrak erabiliz deskargatu?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Ezin izan dira %1$d argazki deskargatu, berriro saiatu?</item>
+        <item quantity="one">Ezin izan da %1$d argazki deskargatu, berriro saiatu?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Ezin izan dira %1$d argazki (%2$d MB) deskargatu, saiatu berriro?</item>
+        <item quantity="one">Ezin izan da %1$d argazki (%2$d MB) deskargatu, saiatu berriro?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Gailuan ez dagoen %d argazki saltatu dira.</item>
+        <item quantity="one">Gailuan ez dagoen %d argazki saltatu da.</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d argazki berri aurkitu dira</item>
+        <item quantity="one">%1$d argazki berri aurkitu da</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Guztira %d argazki</item>
+        <item quantity="one">Guztira %d argazkia</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d elementu ezin dira album pribatutik kendu. %1$s.</item>
+        <item quantity="one">%2$d elementu ezin da album pribatutik kendu. %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">%1$d argazki gehituta \"%2$s\"-ean eta datu-basean gehituta.</item>
+        <item quantity="one">%1$d argazki gehituta \"%2$s\"-ean eta datu-basean gehituta.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">%1$d argazki kenduta \"%2$s\"-tik eta datu-basean gehituta.</item>
+        <item quantity="one">%1$d argazki kenduta \"%2$s\"-tik eta datu-basean gehituta.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">%1$d argazki gehituta \"%2$s\"-ean.</item>
+        <item quantity="one">%1$d argazki gehituta \"%2$s\"-ean.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">%1$d argazki kenduta \"%2$s\"-tik.</item>
+        <item quantity="one">%1$d argazki kenduta \"%2$s\"-tik.</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s -(r)en %2$d instalazio pakete (%3$s)</item>
+        <item quantity="one">%1$s -(r)en %2$d instalazio pakete (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s -(r)en %2$d instalazio pakete (%3$s) jaso dira</item>
+        <item quantity="one">%1$s -(r)en %2$d instalazio pakete (%3$s) jaso da</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s -(r)en %2$d instalazio pakete (%3$s) jasotzen…</item>
+        <item quantity="one">%1$s -(r)en %2$d instalazio pakete (%3$s) jasotzen…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s -(r)en %2$d audio fitxategi (%3$s)</item>
+        <item quantity="one">%1$s -(r)en %2$d audio fitxategi (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s -(r)en %2$d audio fitxategi (%3$s) jaso dira</item>
+        <item quantity="one">%1$s -(r)en %2$d audio fitxategi (%3$s) jaso da</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s -(r)en %2$d audio fitxategi (%3$s) jasotzen…</item>
+        <item quantity="one">%1$s -(r)en %2$d audio fitxategi (%3$s) jasotzen…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$s -(r)en %2$d %3$s fitxategi (%4$s)</item>
+        <item quantity="one">%1$s -(r)en %2$d %3$s fitxategi (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s -(r)en %2$d %3$s fitxategi (%4$s) jaso dira</item>
+        <item quantity="one">%1$s -(r)en %2$d %3$s fitxategi (%4$s) jaso da</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s -(r)en %2$d %3$s fitxategi (%4$s) jasotzen…</item>
+        <item quantity="one">%1$s -(r)en %2$d %3$s fitxategi (%4$s) jasotzen…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s -(r)en %2$d irudi</item>
+        <item quantity="one">%1$s -(r)en %2$d irudi</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s -(r)en %2$d irudi jaso dira</item>
+        <item quantity="one">%1$s -(r)en %2$d irudi jaso da</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s -(r)en %2$d irudi jasotzen…</item>
+        <item quantity="one">%1$s -(r)en %2$d irudi jasotzen…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s -(r)en %2$d irudi edo bideo</item>
+        <item quantity="one">%1$s -(r)en %2$d irudi edo bideo</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s -(r)en %2$d irudi edo bideo jaso dira</item>
+        <item quantity="one">%1$s -(r)en %2$d irudi edo bideo jaso dira</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s -(r)en %2$d irudi edo bideo jasotzen…</item>
+        <item quantity="one">%1$s -(r)en %2$d irudi edo bideo jasotzen…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s -(r)en %2$d fitxategi</item>
+        <item quantity="one">%1$s -(r)en %2$d fitxategi</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s -(r)en %2$d fitxategi jaso dira</item>
+        <item quantity="one">%1$s -(r)en %2$d fitxategi jaso da</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s -(r)en %2$d fitxategi jasotzen…</item>
+        <item quantity="one">%1$s -(r)en %2$d fitxategi jasotzen…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">Ezin izan da partekatu. %d argazki oraindik prozesatzen…</item>
+        <item quantity="one">Ezin izan da partekatu. %d argazki oraindik prozesatzen…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s -(r)en %2$d bideo</item>
+        <item quantity="one">%1$s -(r)en %2$d bideo</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s -(r)en %2$d bideo jaso dira</item>
+        <item quantity="one">%1$s -(r)en %2$d bideo jaso da</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s -(r)en %2$d bideo jasotzen…</item>
+        <item quantity="one">%1$s -(r)en %2$d bideo jasotzen…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s -(r)en %2$d artxibo (%3$s)</item>
+        <item quantity="one">%1$s -(r)en %2$d artxibo (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s -(r)en %2$d artxibo (%3$s) jaso dira</item>
+        <item quantity="one">%1$s -(r)en %2$d artxibo (%3$s) jaso da</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s -(r)en %2$d artxibo (%3$s) jasotzen…</item>
+        <item quantity="one">%1$s -(r)en %2$d artxibo (%3$s) jasotzen…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">%d argazki igota</item>
+        <item quantity="one">Argazki %d igota</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d gela</item>
+        <item quantity="one">Gela %1$d</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d pantaila</item>
+        <item quantity="one">Pantaila %1$d</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d pantaila</item>
+        <item quantity="one">Pantaila %1$d</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">Partekatutako %1$d pantaila</item>
+        <item quantity="one">Partekatutako pantaila %1$d</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d elementu handiegiak dira sinkronizatzeko</item>
+        <item quantity="one">Elementu %d handiegia da sinkronizatzeko</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">Ezin izan dira %d elementu sinkronizatu. Zure biltegiratze plana eguneratu.</item>
+        <item quantity="one">Ezin izan da elementu %d sinkronizatu. Zure biltegiratze plana eguneratu.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">Ezin izan dira %d elementu sinkronizatu. Berriro saiatu.</item>
+        <item quantity="one">Ezin izan da elementu %d sinkronizatu. Berriro saiatu.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">Ezin izan dira %d elementu sinkronizatu. Albumaren jabearen hodeiko biltegiratzea beteta dago.</item>
+        <item quantity="one">Ezin izan da elementu %d sinkronizatu. Albumaren jabearen hodeiko biltegiratzea beteta dago.</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d segundo</item>
+        <item quantity="one">Segundo %1$d</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d argazki optimizatu dira</item>
+        <item quantity="one">%d argazki optimizatu dira</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">%d argazki optimizatuta</item>
+        <item quantity="one">%d argazki optimizatuta</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">%d bideo optimizatuta</item>
+        <item quantity="one">%d bideo optimizatuta</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d argazki ez dira optimizatu. Geldi orain?</item>
+        <item quantity="one">%d argazki ez dira optimizatu. Geldi orain?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d argazki</item>
+        <item quantity="one">%d argazki</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d argazki falta dira</item>
+        <item quantity="one">%d argazki falta dira</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d elementu geratzen dira optimizatzeko</item>
+        <item quantity="one">%d elementu geratzen da optimizatzeko</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d bideo</item>
+        <item quantity="one">%d bideo</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">Ez da %d argazkien eta bideoen babeskopia egin</item>
+        <item quantity="one">Ez da %d argazkien eta bideoen babeskopia egin</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d elementu handiegiak dira babeskopia egiteko</item>
+        <item quantity="one">Elementu %d handiegia da babeskopia egiteko</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d elementu</item>
+        <item quantity="one">%d elementu</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d argazki sinkronizatuta</item>
+        <item quantity="one">%d argazki sinkronizatuta</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d bideo sinkronizatuta</item>
+        <item quantity="one">%d bideo sinkronizatuta</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">%d elementu sinkronizatzen datu mugikorrak erabilita</item>
+        <item quantity="one">%d elementu sinkronizatzen datu mugikorrak erabilita</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">%d elementu sinkronizatzen</item>
+        <item quantity="one">%d elementu sinkronizatzen</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s item</item>
+        <item quantity="one">%1$s, %2$s elementu</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">Egun %d</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d hilabete</item>
+        <item quantity="one">Hilabete %d</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d urte</item>
+        <item quantity="one">Urte %d</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">Hautatutako %d elementu betiko ezabatuko dira hodeitik eta sinkronizatutako gailu guztietatik. Hala ere, ezabatu nahi dituzu?</item>
+        <item quantity="one">Hautatutako %d elementu betiko ezabatuko da hodeitik eta sinkronizatutako gailu guztietatik. Hala ere, ezabatu nahi duzu?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Ezin izango duzu aukeratutako %d elementu berreskuratu ezabatu ondoren. Ezabatu hala ere?</item>
+        <item quantity="one">Ezin izango duzu aukeratutako %d elementu berreskuratu ezabatu ondoren. Ezabatu hala ere?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">Hautatutako %d elementu betiko ezabatuko dira. Hala ere, ezabatu nahi dituzu?</item>
+        <item quantity="one">Hautatutako %d elementu betiko ezabatuko da. Hala ere, ezabatu nahi duzu?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Ezin izango duzu aukeratutako %d elementu berreskuratu ezabatu ondoren. Ezabatu hala ere?</item>
+        <item quantity="one">Ezin izango duzu aukeratutako %d elementu berreskuratu ezabatu ondoren. Ezabatu hala ere?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Ezin izango duzu aukeratutako %d elementu berreskuratu ezabatu ondoren. Ezabatu hala ere?</item>
+        <item quantity="one">Ezin izango duzu aukeratutako %d elementu berreskuratu ezabatu ondoren. Ezabatu hala ere?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Elementuak hemen gorde daitezke %1$d egunez (%2$s)</item>
+        <item quantity="one">Elementuak hemen gorde daitezke %1$d egunez (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Elementuak hemen gorde daitezke %1$d egunez. Eguneratu zure plana denbora luzatzeko.</item>
+        <item quantity="one">Elementuak hemen gorde daitezke %1$d egunez. Eguneratu zure plana denbora luzatzeko.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d fitxategi</item>
+        <item quantity="one">Fitxategi %1$d</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d bideo</item>
+        <item quantity="one">%d bideo</item>
+    </plurals>
+</resources>

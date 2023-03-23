@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="@dimen/filter_dynamic_sky_divider_width" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="center" android:background="@color/filter_dynamic_sky_divider_color" android:layout_width="@dimen/filter_dynamic_sky_divider_line_width" android:layout_height="@dimen/filter_dynamic_sky_divider_line_height" />
+</FrameLayout>

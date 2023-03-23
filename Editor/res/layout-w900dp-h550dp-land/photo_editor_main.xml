@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/activity_main" android:background="@color/photo_editor_window_bg" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.editor.photo.hdr.view.HdrDisplayView android:id="@id/display_hdr_panel" android:background="@color/transparent" android:clipChildren="false" android:clipToPadding="false" android:layout_width="0.0dip" android:layout_height="fill_parent" app:layout_constraintEnd_toStartOf="@id/menu_render_line" app:layout_constraintStart_toStartOf="parent" />
+    <FrameLayout android:id="@id/display_panel" android:background="@color/photo_editor_window_bg" android:clipChildren="false" android:clipToPadding="false" android:layout_width="0.0dip" android:layout_height="fill_parent" app:layout_constraintEnd_toStartOf="@id/menu_render_line" app:layout_constraintStart_toStartOf="parent" />
+    <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@id/menu_render_line" android:layout_width="wrap_content" android:layout_height="fill_parent" app:layout_constraintGuide_end="@dimen/editor_menu_zone_height" />
+    <FrameLayout android:id="@id/menu_panel" android:layout_width="0.0dip" android:layout_height="fill_parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/menu_render_line" />
+    <FrameLayout android:id="@id/extra_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

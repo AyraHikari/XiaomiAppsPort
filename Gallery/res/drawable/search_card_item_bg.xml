@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/search_radius_small" />
+            <solid android:color="@color/custom_list_item_pressed_color" />
+            <stroke android:width="1.0px" android:color="@color/search_section_divider_line_color" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/search_radius_small" />
+            <solid android:color="@color/search_item_bg" />
+            <stroke android:width="1.0px" android:color="@color/search_section_divider_line_color" />
+        </shape>
+    </item>
+</selector>

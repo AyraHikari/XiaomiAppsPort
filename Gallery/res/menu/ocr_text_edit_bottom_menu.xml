@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="?actionBarCopyIcon" android:id="@id/action_copy_to_clipboard" android:visible="true" android:orderInCategory="1" android:title="@string/ocr_copy" android:showAsAction="always" />
+    <item android:icon="@drawable/ocr_button_revise" android:id="@id/action_revise" android:visible="true" android:orderInCategory="2" android:title="@string/ocr_revise" android:checkable="true" android:showAsAction="always" />
+    <item android:icon="@drawable/ic_save_to_note" android:id="@id/action_save_to_note" android:visible="true" android:orderInCategory="3" android:title="@string/ocr_save_to_note_new" android:checkable="true" android:showAsAction="always" />
+    <item android:icon="?actionBarSendIcon" android:id="@id/action_send" android:visible="true" android:orderInCategory="4" android:title="@string/ocr_send" android:showAsAction="always" />
+</menu>

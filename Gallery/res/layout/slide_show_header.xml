@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.miui.gallery.widget.SlideShowView android:id="@id/slide" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="@color/black_30_transparent" app:scaleMode="fitView" />
+        <ImageView android:id="@id/video_logo" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+        <ImageView android:id="@id/play_icon" android:layout_width="@dimen/story_play_icon_width" android:layout_height="@dimen/story_play_icon_width" android:layout_marginTop="@dimen/story_slide_header_play_icon_top_margin" android:src="@drawable/card_detail_play" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</merge>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:id="@id/spring_back_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollableView="@id/recyclerview">
+        <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/recyclerview" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </miuix.springback.view.SpringBackLayout>
+    <com.miui.gallery.widget.EmptyPage android:id="@id/network_error" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" app:emptyIcon="@drawable/ic_pic_empty_internet" app:emptyTitle="@string/hybrid_network_unavaliable" app:showActionButton="false" />
+    <include android:id="@id/loading_view" android:visibility="gone" layout="@layout/search_full_screen_loading_layout" />
+</FrameLayout>

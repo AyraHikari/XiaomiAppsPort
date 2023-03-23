@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Valge</item>
+        <item>Tumesinine</item>
+        <item>Helesinine</item>
+        <item>Punane</item>
+        <item>Roheline</item>
+        <item>Roosa</item>
+        <item>Pruun</item>
+        <item>Hall</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Vali pilt</item>
+        <item>Läbipaistev taust</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Mees</item>
+        <item>Naine</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Eriline päev</item>
+        <item>Päev meenutamiseks</item>
+        <item>Eredad hetked</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Maitsev aasta</item>
+        <item>Kolm käiku, neli aastaaega.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Tere, maailm!</item>
+        <item>Teel</item>
+        <item>Kohtade kaleidoskoop</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Sügisene hiilgus</item>
+        <item>Särav sügis</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Poiss</item>
+        <item>Tüdruk</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Fotode varundamine</item>
+        <item>Sonkrooni fotod pilvega</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Öö, mida meenutada</item>
+        <item>Uus lehekülg</item>
+        <item>Ilutulestik</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Head uut aastat!</item>
+        <item>Uue aasta koidik</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Ahviaasta</item>
+        <item>Kukeaasta</item>
+        <item>Koera-aasta</item>
+        <item>Sea-aasta</item>
+        <item>Rotiaasta</item>
+        <item>Härja-aasta</item>
+        <item>Tiigriaasta</item>
+        <item>Jäneseaasta</item>
+        <item>Draakoniaasta</item>
+        <item>Maoaasta</item>
+        <item>Hobuseaasta</item>
+        <item>Kitseaasta</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Linnamaastikud</item>
+        <item>Tänavad ja nurgad</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Õrnad kroonlehed</item>
+        <item>Täisõites</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Metsikusse</item>
+        <item>Metsik ja vaba</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Meie kokkusaamised</item>
+        <item>Sõprade seltsis</item>
+        <item>Pole ammu näinud</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Sinu lemmikteemad</item>
+        <item>Hõimuvaimud</item>
+        <item>Elu helged hetked</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Kasvamisega hõivatud</item>
+        <item>Armas ja veel armsam</item>
+        <item>Väike avastaja</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Fitnessi päevik</item>
+        <item>Veelgi tugevamaks</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Head isu!</item>
+        <item>Veel üks näksimine?</item>
+        <item>Naudi oma einet!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Naerata ja lehvita!</item>
+        <item>Mänguaeg</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Õues</item>
+        <item>Jäljed lumel</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Pidurdamatu</item>
+        <item>Olles vormis</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Suur päev</item>
+        <item>Alla vahekäiku!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Time to play</item>
+        <item>"Kiddo's weekend"</item>
+        <item>The little one</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Minu nädalavahetusted</item>
+        <item>Elu killud</item>
+        <item>Nädalavahetuse mälestused</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>New friends and old pals</item>
+        <item>"Last year's get-togethers"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Vaba aeg</item>
+        <item>Briis</item>
+        <item>Unenäod</item>
+        <item>Pilved</item>
+        <item>Mõtted</item>
+        <item>Pungad</item>
+        <item>Metamorfoos</item>
+        <item>Sügavus</item>
+        <item>Peegeldus</item>
+        <item>Minimalistlik</item>
+        <item>Müsteerium</item>
+        <item>Udu</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Muuda taustad visanditeks</item>
+        <item>Akvarellstiilis taustad</item>
+        <item>Küberpunk retro</item>
+        <item>Valesti paigutatud vertikaalsed segmendid</item>
+        <item>Udune hägusus</item>
+        <item>Futuristlik tunne</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Visand</item>
+        <item>Akvarell</item>
+        <item>RGB</item>
+        <item>Rulood</item>
+        <item>Udune aken</item>
+        <item>Tehnoloogia</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Värviline kontuur</item>
+        <item>Katkendlik kontuur</item>
+        <item>Fluorestseeruv kontuur</item>
+        <item>Värviline vari</item>
+        <item>Elektrilaine</item>
+        <item>Praegune</item>
+        <item>Lained</item>
+        <item>Osakesed</item>
+        <item>Tekst</item>
+        <item>Tiivad</item>
+        <item>Ingel</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Liiguta</item>
+        <item>Kopeeri</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Jaanuar</item>
+        <item>Veebruar</item>
+        <item>Märts</item>
+        <item>Aprill</item>
+        <item>Mai</item>
+        <item>Juuni</item>
+        <item>Juuli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktoober</item>
+        <item>November</item>
+        <item>Detsember</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>Sa oled suureks kasvanud!</item>
+        <item>Sa oled jälle suureks kasvanud!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Minu isiklik menüü</item>
+        <item>Maitsvad mälestused</item>
+        <item>Ma tahan veel ühte portsjonit!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>Maailma parimad vaated</item>
+        <item>Jätka ronimist</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Isa</item>
+        <item>Ema</item>
+        <item>Isapoolne vanaisa</item>
+        <item>Isapoolne vanaema</item>
+        <item>Emapoolne vanaisa</item>
+        <item>Emapoolne vanaema</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Koos</item>
+        <item>Head ajad</item>
+        <item>Ühel häälel</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Kuhu tee meid viib</item>
+        <item>Jagatud reisid</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Rõõmus kevade</item>
+        <item>Rõõmsameelne suvi</item>
+        <item>Õnnelik sügis</item>
+        <item>Lustakas talv</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Kevadised toidud</item>
+        <item>Suvised ahvatlused</item>
+        <item>Sügispeod</item>
+        <item>Talvised sissejuhatused</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Together</item>
+        <item>Bonds and ties</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Mina</item>
+        <item>Laps</item>
+        <item>Perekond</item>
+        <item>Kolleegid</item>
+        <item>Klassikaaslased</item>
+        <item>Sõbrad</item>
+        <item>Rühmitamata</item>
+    </string-array>
+    <string-array name="season">
+        <item>Kevad</item>
+        <item>Suvi</item>
+        <item>Sügis</item>
+        <item>Talv</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Isa</item>
+        <item>Ema</item>
+        <item>Isapoolne vanaisa</item>
+        <item>Isapoolne vanaema</item>
+        <item>Emapoolne vanaisa</item>
+        <item>Emapoolne vanaema</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Liigub edasi</item>
+        <item>Energiat täis</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Kevadised õied</item>
+        <item>Õhus on kevadet</item>
+        <item>Tere, kevad!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Veidi suve</item>
+        <item>Kus suvi kunagi ei lõpe</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Kuldsed tunnid</item>
+        <item>Kuldsed kiired</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>They grow so fast</item>
+        <item>"Kiddo's photos"</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Talvepäevad</item>
+        <item>Talvevõlumaa</item>
+    </string-array>
+</resources>

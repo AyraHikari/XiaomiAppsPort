@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="miuix_appcompat_two_state_extra_padding_horizontal_huge">128.0dip</dimen>
+    <dimen name="miuix_appcompat_two_state_extra_padding_horizontal_large">72.0dip</dimen>
+    <dimen name="miuix_appcompat_two_state_extra_padding_horizontal_small">44.0dip</dimen>
+    <dimen name="miuix_appcompat_window_extra_padding_horizontal_huge">128.0dip</dimen>
+    <dimen name="miuix_appcompat_window_extra_padding_horizontal_large">72.0dip</dimen>
+    <dimen name="miuix_appcompat_window_extra_padding_horizontal_small">44.0dip</dimen>
+    <dimen name="miuix_preference_item_padding_end">72.0dip</dimen>
+    <dimen name="miuix_preference_item_padding_start">72.0dip</dimen>
+</resources>

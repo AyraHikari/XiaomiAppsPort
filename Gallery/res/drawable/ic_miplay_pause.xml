@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miplay_ic_play_pause_size" android:width="@dimen/miplay_ic_play_pause_size" android:viewportWidth="74.0" android:viewportHeight="74.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M22,15L26,15A3,3 0,0 1,29 18L29,56A3,3 0,0 1,26 59L22,59A3,3 0,0 1,19 56L19,18A3,3 0,0 1,22 15z" android:strokeAlpha="0.8" android:fillAlpha="0.8" />
+    <path android:fillColor="#ffffffff" android:pathData="M48,15L52,15A3,3 0,0 1,55 18L55,56A3,3 0,0 1,52 59L48,59A3,3 0,0 1,45 56L45,18A3,3 0,0 1,48 15z" android:strokeAlpha="0.8" android:fillAlpha="0.8" />
+</vector>

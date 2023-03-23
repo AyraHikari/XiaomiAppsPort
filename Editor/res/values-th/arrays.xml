@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>สีขาว</item>
+        <item>สีน้ำเงินเข้ม</item>
+        <item>สีน้ำเงินอ่อน</item>
+        <item>สีแดง</item>
+        <item>สีเขียว</item>
+        <item>สีชมพู</item>
+        <item>สีน้ำตาล</item>
+        <item>สีเทา</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>เลือกรูปภาพ</item>
+        <item>พื้นหลังโปร่งใส</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>สันทนาการ</item>
+        <item>ลมโชย</item>
+        <item>ความฝัน</item>
+        <item>เมฆ</item>
+        <item>ความคิด</item>
+        <item>ดอกไม้ตูม</item>
+        <item>เมตามอร์โฟซิส</item>
+        <item>ความลึก</item>
+        <item>สะท้อน</item>
+        <item>เรียบง่าย</item>
+        <item>ลึกลับ</item>
+        <item>หมอก</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>พื้นหลังเรขาคณิตแห่งอนาคต</item>
+        <item>ภาพบรรยากาศงานพิมพ์เก่า</item>
+        <item>เปลี่ยนพื้นหลังให้เป็นภาพร่าง</item>
+        <item>พื้นหลังสไตล์สีน้ำ</item>
+        <item>ไซเบอร์พังค์ย้อนยุค</item>
+        <item>วางส่วนแนวตั้งผิดตำแหน่ง</item>
+        <item>หมอกเบลอ</item>
+        <item>ความรู้สึกล้ำยุค</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Low poly</item>
+        <item>Etching</item>
+        <item>ภาพร่าง</item>
+        <item>สีน้ำ</item>
+        <item>RGB</item>
+        <item>มู่ลี่</item>
+        <item>หน้าต่างที่เต็มไปด้วยหมอก</item>
+        <item>เทคโนโลยี</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>เค้าโครงสี</item>
+        <item>เค้าโครงเส้นประ</item>
+        <item>เค้าโครงเรืองแสง</item>
+        <item>เงาสี</item>
+        <item>คลื่นไฟฟ้า</item>
+        <item>กระแส</item>
+        <item>คลื่น</item>
+        <item>อนุภาค</item>
+        <item>ข้อความ</item>
+        <item>ปีก</item>
+        <item>นางฟ้า</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>ทั่วไป</item>
+        <item>ท่องเที่ยว</item>
+        <item>งาน</item>
+        <item>เอกสาร</item>
+        <item>การศึกษา</item>
+        <item>ข้อสอบ</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>ประกันสังคม</item>
+        <item>คำชี้แจงเกี่ยวกับสุขภาพ</item>
+        <item>ประกันสุขภาพ</item>
+        <item>ID</item>
+        <item>ใบอนุญาตผู้พำนัก</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Two cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>ใบสมัครเข้างาน</item>
+        <item>เครือข่ายนักศึกษา</item>
+        <item>เครือข่ายนักเรียนระดับประถมศึกษา</item>
+        <item>โปรไฟล์เครือข่ายนักศึกษา</item>
+        <item>การรับเข้ามหาวิทยาลัย</item>
+        <item>NCEE</item>
+        <item>ประวัติย่อ</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>การทดสอบภาษาอังกฤษของวิทยาลัย 1</item>
+        <item>การทดสอบภาษาอังกฤษของวิทยาลัย 2</item>
+        <item>2การทดสอบภาษาอังกฤษของวิทยาลัย 3</item>
+        <item>การทดสอบความชำนาญของผู่ตงฮัว 1</item>
+        <item>การทดสอบความชำนาญของผู่ตงฮัว 2</item>
+        <item>แบบทดสอบภาษาอังกฤษระดับปริญญา</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>ใบรับรองครูโรงเรียนประถมศึกษาและมัธยมศึกษา</item>
+        <item>ใบรับรองครู</item>
+        <item>ใบขับขี่</item>
+        <item>ใบอนุญาตมัคคุเทศก์</item>
+        <item>ใบอนุญาตมัคคุเทศก์อิเล็กทรอนิกส์</item>
+        <item>สอบตุลาการแห่งชาติ</item>
+        <item>ใบรับรองคอนสตรัคเตอร์อิเล็กทรอนิกส์ชั้นหนึ่ง</item>
+        <item>ใบรับรองคอนสตรัคเตอร์ชั้นสอง</item>
+        <item>การสอบชื่อบัญชีรุ่นเยาว์</item>
+        <item>นักบัญชีที่ได้รับอนุญาต</item>
+        <item>ใบอนุญาตมัคคุเทศก์ปักกิ่ง</item>
+        <item>สอบชื่อบัญชีขั้นกลาง</item>
+        <item>การสอบบัญชีอาวุโส</item>
+        <item>ใบรับรองคุณสมบัติทางบัญชี</item>
+        <item>การสอบนักบัญชีที่ได้รับอนุญาต</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>สหรัฐอเมริกา</item>
+        <item>เวียดนาม</item>
+        <item>ญี่ปุ่น</item>
+        <item>ฮ่องกงและมาเก๊า</item>
+        <item>เกาหลีใต้</item>
+        <item>ประเทศไทย (นักท่องเที่ยว)</item>
+        <item>ประเทศไทย (on arrival)</item>
+        <item>อินเดีย</item>
+        <item>อิสราเอล</item>
+        <item>ไต้หวัน</item>
+        <item>มาเลเซีย</item>
+        <item>นิวซีแลนด์</item>
+        <item>อิตาลี</item>
+        <item>อาร์เจนติน่า</item>
+        <item>บราซิล</item>
+        <item>ไอซ์แลนด์</item>
+        <item>เคนย่า</item>
+    </string-array>
+</resources>

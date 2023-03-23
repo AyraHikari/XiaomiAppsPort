@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/card_title_avatar" android:layout_width="72.0dip" android:layout_height="72.0dip" android:src="@drawable/passport_ic_user_avatar_default" android:scaleType="fitCenter" />
+    <TextView android:textSize="24.0sp" android:textStyle="bold" android:textColor="@color/passport_phone_number_card_big_title" android:ellipsize="end" android:gravity="center" android:id="@id/card_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="87****99" android:singleLine="true" android:textDirection="anyRtl" />
+</LinearLayout>

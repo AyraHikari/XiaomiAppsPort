@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="@dimen/video_editor_old_filter_item_width" android:layout_height="@dimen/video_editor_old_filter_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.editor.ui.view.RoundImageView android:id="@id/icon" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:importantForAccessibility="yes" />
+    <View android:id="@id/selector" android:background="@drawable/video_editor_filter_background_shape" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignBottom="@id/icon" android:alpha="0.85" />
+    <TextView android:textSize="@dimen/video_editor_filter_item_title_size" android:textColor="@color/video_editor_white_100_transparent" android:gravity="center" android:id="@id/name" android:background="@drawable/video_editor_filter_text_background_shape" android:padding="@dimen/filter_menu_item_title_padding" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignBottom="@id/icon" />
+</RelativeLayout>

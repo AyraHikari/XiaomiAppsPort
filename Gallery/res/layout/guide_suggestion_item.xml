@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/click_view" android:background="@drawable/search_list_item_background" android:descendantFocusability="blocksDescendants" android:layout_height="@dimen/default_suggestion_item_height" android:paddingStart="@dimen/default_suggestion_start_margin" android:paddingEnd="@dimen/default_suggestion_end_margin" style="@style/Gallery.Widget.ListView.AlbumList.Item"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.widget.CircleAppCompatImageView android:id="@id/icon" android:layout_width="@dimen/default_suggestion_icon_height" android:layout_height="@dimen/default_suggestion_icon_height" android:scaleType="centerCrop" android:contentDescription="@null" />
+    <RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/default_suggestion_text_margin">
+        <ImageView android:id="@id/arrow_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/arrow_right" android:contentDescription="@null" android:layout_marginStart="@dimen/default_suggestion_text_margin" android:layout_marginEnd="@dimen/search_suggestion_guide_item_arrow_margin_end" android:layout_alignParentEnd="true" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toStartOf="@id/arrow_right">
+            <TextView android:ellipsize="middle" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Gallery.TextAppearance.Search.List.Primary.Suggestion" />
+        </FrameLayout>
+    </RelativeLayout>
+</LinearLayout>

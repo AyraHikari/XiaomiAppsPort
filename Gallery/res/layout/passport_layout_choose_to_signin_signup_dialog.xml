@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/passport_page_min_horizontal_padding" android:paddingEnd="@dimen/passport_page_min_horizontal_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/image_user_avatar" android:layout_width="64.0dip" android:layout_height="64.0dip" android:layout_margin="16.0dip" android:src="@drawable/passport_mi_to" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/text_view_user_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="昵称：张×× 手机号：150××××2234" />
+    </LinearLayout>
+</LinearLayout>

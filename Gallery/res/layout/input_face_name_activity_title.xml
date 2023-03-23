@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:id="@id/top_bar_edit_text_container" android:background="@drawable/face_rename_edit_bg" android:layout_width="0.0dip" android:layout_height="@dimen/face_rename_edit_height" android:layout_weight="1.0" android:layout_marginStart="0.70000005dip">
+        <ImageView android:layout_gravity="center" android:id="@id/cancel" android:background="@drawable/arrow_left_big_normal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/back" android:layout_marginStart="@dimen/input_face_name_title_cancel_margin_start" />
+        <miuix.androidbasewidget.widget.ClearableEditText android:textAppearance="@style/Gallery.TextAppearance.People.List.Middle" android:textSize="15.299988sp" android:textColorHint="@color/people_text_color_60" android:layout_gravity="start|center" android:id="@id/autoCompleteTextView" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="@string/input_a_name" android:selectAllOnFocus="true" android:textAlignment="viewStart">
+            <requestFocus />
+        </miuix.androidbasewidget.widget.ClearableEditText>
+    </LinearLayout>
+    <com.miui.gallery.editor.ui.view.MarqueeTextView android:textSize="16.699982sp" android:textColor="@drawable/face_rename_confirm_button" android:gravity="center" android:id="@id/ok" android:layout_width="55.0dip" android:layout_height="@dimen/face_rename_edit_height" android:text="@android:string/ok" android:layout_marginStart="-1.0px" android:layout_marginEnd="0.70000005dip" />
+</LinearLayout>

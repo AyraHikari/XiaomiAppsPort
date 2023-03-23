@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="@dimen/fast_scroller_thumb_border_width" android:color="@color/fast_scroller_thumb_border" />
+    <solid android:color="@color/fast_scroller_thumb_background" />
+    <corners android:radius="@dimen/fast_scroller_thumb_radius" />
+    <size android:height="@dimen/fast_scroller_thumb_height" android:width="@dimen/fast_scroller_thumb_width" />
+</shape>

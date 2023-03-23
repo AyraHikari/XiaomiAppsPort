@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="magic_effects_guide_item_h">398.20312dip</dimen>
+    <dimen name="magic_effects_guide_item_w">302.21875dip</dimen>
+    <dimen name="magic_effects_guide_list_magin_end">21.329987dip</dimen>
+    <dimen name="magic_effects_guide_list_magin_start">21.329987dip</dimen>
+    <dimen name="magic_icon_width_34">9.769989dip</dimen>
+    <dimen name="magic_icon_width_69">22.21997dip</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_left">96.879974dip</dimen>
+    <dimen name="magic_id_photo_guide_text_width">517.3281dip</dimen>
+    <dimen name="magic_idp_guide_btn1w_margin_left">170.32999dip</dimen>
+    <dimen name="magic_idp_make_search_height_left">31.109985dip</dimen>
+    <dimen name="magic_idp_make_search_look_max_width">606.21875dip</dimen>
+    <dimen name="magic_idp_make_tab_margin_left">62.659973dip</dimen>
+    <dimen name="magic_idp_make_tab_margin_right">62.659973dip</dimen>
+    <dimen name="magic_main_layout_bottom">27.559998dip</dimen>
+    <dimen name="magic_search_edit_width">606.21875dip</dimen>
+</resources>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>白</item>
+        <item>ダークブルー</item>
+        <item>ライトブルー</item>
+        <item>赤</item>
+        <item>緑</item>
+        <item>ピンク</item>
+        <item>ブラウン</item>
+        <item>グレー</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>画像を選択</item>
+        <item>透明な背景</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>男性</item>
+        <item>女性</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>特別な日</item>
+        <item>覚えておくべき日</item>
+        <item>活気に満ちた瞬間</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>A delicious year</item>
+        <item>Three courses. Four seasons.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Hello world!</item>
+        <item>On the road</item>
+        <item>万華鏡のような風景</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>秋の輝き</item>
+        <item>Radiant fall</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>男の子</item>
+        <item>女の子</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>写真をバックアップ</item>
+        <item>写真をクラウドと同期する</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>思い出に残る一夜</item>
+        <item>新しいページ</item>
+        <item>花火</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>謹賀新年</item>
+        <item>新年の幕開け</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>申年</item>
+        <item>酉年</item>
+        <item>戌年</item>
+        <item>亥年</item>
+        <item>子年</item>
+        <item>丑年</item>
+        <item>寅年</item>
+        <item>卯年</item>
+        <item>辰年</item>
+        <item>巳年</item>
+        <item>午年</item>
+        <item>未年</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Cityscapes</item>
+        <item>Streets and corners</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>優しい花びら</item>
+        <item>満開</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>自然の世界へ</item>
+        <item>野生と自由</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>懇親会</item>
+        <item>仲間と一緒</item>
+        <item>久しぶり</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Your favorite subjects</item>
+        <item>Kindred spirits</item>
+        <item>"Life's bright moments"</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>すくすく成長中</item>
+        <item>ますますかわいい</item>
+        <item>小さな探検家</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>ワークアウト日記</item>
+        <item>より強く</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>いただきます</item>
+        <item>もう一口？</item>
+        <item>召し上がれ</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>笑顔で手を振って！</item>
+        <item>プレイタイム</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>大自然の中で過ごす</item>
+        <item>雪の中の軌跡</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>元気満々</item>
+        <item>健康維持</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>A big day</item>
+        <item>バージンロードを歩く</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Time to play</item>
+        <item>"Kiddo's weekend"</item>
+        <item>The little one</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>私の週末</item>
+        <item>生活のかけら</item>
+        <item>週末の思い出</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>New friends and old pals</item>
+        <item>"Last year's get-togethers"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>レジャー</item>
+        <item>そよ風</item>
+        <item>夢</item>
+        <item>雲</item>
+        <item>思考</item>
+        <item>つぼみ</item>
+        <item>変形</item>
+        <item>深さ</item>
+        <item>回想</item>
+        <item>ミニマリスト</item>
+        <item>ミステリー</item>
+        <item>霧</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>背景をスケッチに変える</item>
+        <item>水彩画風の背景</item>
+        <item>サイバーパンクレトロ</item>
+        <item>間違った位置の垂直セグメント</item>
+        <item>かすんだぼかし</item>
+        <item>近未来的な雰囲気</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>スケッチ</item>
+        <item>水彩</item>
+        <item>RGB</item>
+        <item>ブラインド</item>
+        <item>霧の窓</item>
+        <item>ハイテク</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>色付きのアウトライン</item>
+        <item>破線のアウトライン</item>
+        <item>蛍光のアウトライン</item>
+        <item>色付きの影</item>
+        <item>電波</item>
+        <item>流れ</item>
+        <item>波</item>
+        <item>粒子</item>
+        <item>テキスト</item>
+        <item>翼</item>
+        <item>天使</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>移動</item>
+        <item>コピー</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>"You've grown up!"</item>
+        <item>"You've grown up again!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>My personal menu</item>
+        <item>Tasty memories</item>
+        <item>Second helping, please!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>世界最高の景色</item>
+        <item>Keep climbing</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>父</item>
+        <item>母</item>
+        <item>父方の祖父</item>
+        <item>父方の祖母</item>
+        <item>母方の祖父</item>
+        <item>母方の祖母</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>一緒に</item>
+        <item>楽しい時間</item>
+        <item>ユニゾン</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>道の行く末</item>
+        <item>Journeys well shared</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>A cheerful spring</item>
+        <item>A joyful summer</item>
+        <item>A happy autumn</item>
+        <item>A jolly winter</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Spring meals</item>
+        <item>Summer treats</item>
+        <item>Autumn feasts</item>
+        <item>Winter tuck-ins</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Together</item>
+        <item>Bonds and ties</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>自分</item>
+        <item>子</item>
+        <item>家族</item>
+        <item>同僚</item>
+        <item>同級生</item>
+        <item>友達</item>
+        <item>グループ化を解除しました</item>
+    </string-array>
+    <string-array name="season">
+        <item>春</item>
+        <item>夏</item>
+        <item>秋</item>
+        <item>冬</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>お父さん</item>
+        <item>お母さん</item>
+        <item>父方のおじいさん</item>
+        <item>父方のおばあさん</item>
+        <item>母方のおじいさん</item>
+        <item>母方のおばあさん</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>前進する</item>
+        <item>元気いっぱい</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>春爛漫</item>
+        <item>春の訪れ</item>
+        <item>こんにちは、春！</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>夏の風物詩</item>
+        <item>夏の終わらないところ</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>金色の時間</item>
+        <item>黄金の光線</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>They grow so fast</item>
+        <item>"Kiddo's photos"</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Winter days</item>
+        <item>Winter wonderland</item>
+    </string-array>
+</resources>

@@ -1,0 +1,38 @@
+{
+  "background": "#ffffff",
+  "collagePositions": [
+    {
+      "margin": 1,
+      "position": [
+        0.201,
+        0.197,
+        0.799,
+        0.646
+      ]
+    }
+  ],
+  "collageModels": [
+    11
+  ],
+  "imageElementModels": [
+    {
+      "name": "img_01.png",
+      "x": 0.5,
+      "y": 0.787,
+      "width": 0.111,
+      "locationType": 3
+    }
+  ],
+  "textElementModels": [
+    {
+      "x": 0.5,
+      "y": 0.857,
+      "locationType": 5,
+      "textSize": 6,
+      "textColor": "#80000000",
+      "letterSpace": 0.35,
+      "text": "蓝天白云 怅然若失",
+      "maxLength": 11
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.editor.ui.view.switchview.MoreSlideSwitchView android:layout_gravity="center" android:id="@id/speed_switch_view" android:background="@drawable/more_slide_switch_bg" android:paddingTop="@dimen/vlog_clip_menu_slide_switch_padding_top_bottom" android:paddingBottom="@dimen/vlog_clip_menu_slide_switch_padding_top_bottom" android:layout_width="@dimen/vlog_mutli_clip_slide_swirch_width" android:layout_height="@dimen/vlog_mutli_clip_slide_swirch_height" android:paddingStart="@dimen/vlog_clip_menu_slide_switch_padding_start_end" android:paddingEnd="@dimen/vlog_clip_menu_slide_switch_padding_start_end" />
+</FrameLayout>

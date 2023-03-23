@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="80.0dip" android:width="120.0dip" android:autoMirrored="true" android:viewportWidth="120.0" android:viewportHeight="80.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M0,0h120v80h-120z" />
+        <path android:fillColor="@color/media_type_icon_color" android:pathData="M41.023,37.104H53.98V50.974C52.551,52.343 50.802,53.483 48.734,54.396C46.696,55.339 44.095,55.825 40.932,55.856C35.639,55.734 31.518,54.061 28.567,50.837C25.647,47.613 24.157,43.552 24.096,38.655C24.157,34.123 25.678,30.275 28.659,27.112C31.609,23.918 35.578,22.245 40.567,22.093C43.639,22.093 46.209,22.443 48.277,23.143C50.315,23.842 52.155,24.952 53.798,26.473L50.741,30.899C49.524,29.743 48.034,28.876 46.27,28.298C44.506,27.69 42.772,27.386 41.069,27.386C37.905,27.416 35.229,28.42 33.039,30.397C30.848,32.374 29.708,35.112 29.617,38.61C29.617,42.047 30.696,44.875 32.856,47.096C34.985,49.316 37.784,50.426 41.251,50.426C44.323,50.426 46.772,49.757 48.597,48.419V42.031H41.023V37.104Z" android:strokeAlpha="0.95" android:fillAlpha="0.95" />
+        <path android:fillColor="@color/media_type_icon_color" android:pathData="M60.694,22.549H66.078V55.4H60.694V22.549Z" android:strokeAlpha="0.95" android:fillAlpha="0.95" />
+        <path android:fillColor="@color/media_type_icon_color" android:pathData="M73.393,55.4V22.549H96.068V27.568H78.777V36.693H94.928V41.712H78.777V55.4H73.393Z" android:strokeAlpha="0.95" android:fillAlpha="0.95" />
+    </group>
+</vector>

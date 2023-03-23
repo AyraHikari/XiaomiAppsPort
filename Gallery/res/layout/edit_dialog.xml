@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.internal.widget.DialogParentPanel android:orientation="vertical" android:id="@id/parentPanel" android:background="?miuixDialogRoundWindowBg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/edit_dialog_content" />
+</miuix.internal.widget.DialogParentPanel>

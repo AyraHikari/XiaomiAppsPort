@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/px_4" />
+    <size android:height="@dimen/px_8" android:width="@dimen/px_8" />
+    <solid android:color="@color/screen_tool_indicator_bg_color" />
+</shape>

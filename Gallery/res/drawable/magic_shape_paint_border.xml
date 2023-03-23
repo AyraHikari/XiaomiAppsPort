@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <shape android:shape="oval">
+            <stroke android:width="2.0dip" android:color="@color/white" />
+            <size android:height="@dimen/magic_shape_paint_border_w_s" android:width="@dimen/magic_shape_paint_border_w_s" />
+        </shape>
+    </item>
+</selector>

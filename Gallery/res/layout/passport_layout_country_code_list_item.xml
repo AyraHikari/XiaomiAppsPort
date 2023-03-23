@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaomi.passport.ui.internal.CountryCodeListItem android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/section_header_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/passport_area_code_header_margin_top" android:layout_marginBottom="@dimen/passport_area_code_header_margin_bottom">
+        <TextView android:textColor="@color/passport_area_code_name_text_color" android:id="@id/section_header" android:paddingBottom="@dimen/passport_area_code_header_padding_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="A" />
+    </LinearLayout>
+    <RelativeLayout android:gravity="center_vertical" android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:layout_gravity="center_vertical" android:id="@id/country_code_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignParentRight="true" android:layout_alignParentEnd="true">
+            <TextView android:textSize="@dimen/passport_area_code_country_code_text_size" android:textColor="@color/passport_area_code_text_color" android:id="@id/area_code" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="+86" />
+            <View android:id="@id/extra_padding_area_code" android:visibility="visible" android:layout_width="@dimen/passport_area_code_extra_padding_end" android:layout_height="fill_parent" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/passport_area_code_country_name_text_size" android:textColor="@color/passport_area_code_name_text_color" android:id="@id/area" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Hello" android:singleLine="true" android:fontFamily="sans-serif-medium" android:layout_toStartOf="@id/country_code_number" android:layout_alignParentStart="true" />
+    </RelativeLayout>
+</com.xiaomi.passport.ui.internal.CountryCodeListItem>

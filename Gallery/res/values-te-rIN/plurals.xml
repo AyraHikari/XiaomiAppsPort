@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంటల క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d నిమి క్రితం</item>
+        <item quantity="one">1 నిమి క్రితం</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">ఈ అంశాలను ప్రైవేట్ ఆల్బమ్‌కి జోడించాలా?</item>
+        <item quantity="one">ఈ అంశాన్ని ప్రైవేట్ ఆల్బమ్‌కి జోడించాలా?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">%d క్లౌడ్ ఫోటోలు జోడించబడ్డాయి, చూసేందుకు \"స్థానిక ఆల్బమ్‌లు మాత్రమే చూపించు\"ని ఆఫ్ చేయండి.</item>
+        <item quantity="one">%d క్లౌడ్ ఫోటో జోడించబడింది, చూసేందుకు \"స్థానిక ఆల్బమ్‌లు మాత్రమే చూపించు\"ని ఆఫ్ చేయండి.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">" %2$d అంశాలను ఆల్బమ్‌కి జోడించలేము. %1$s."</item>
+        <item quantity="one">" %2$d అంశాన్ని ఆల్బమ్‌కి జోడించలేము. %1$s."</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d అంశాలను ప్రైవేట్ ఆల్బమ్‌కి జోడించలేము. %1$s.</item>
+        <item quantity="one">%2$d అంశాన్ని ప్రైవేట్ ఆల్బమ్‌కి జోడించలేము. %1$s.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="one">%d రోజు</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d నెలలు</item>
+        <item quantity="one">%d నెల</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d సంవత్సరాలు</item>
+        <item quantity="one">%d సంవత్సరం</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">%d వ్యక్తులతో భాగస్వామ్యం చేయబడింది</item>
+        <item quantity="one">%d వ్యక్తితో భాగస్వామ్యం చేయబడింది</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d ఫోటోలు</item>
+        <item quantity="one">%d ఫోటో</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d అంశాలు | %2$s</item>
+        <item quantity="one">%1$d అంశం | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d అంశాలు)</item>
+        <item quantity="one">(%d అంశం)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d ఆల్బమ్‌లు</item>
+        <item quantity="one">%d ఆల్బమ్</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s వ్యక్తులు ఈ ఆల్బమ్‌ని చూడగలరు</item>
+        <item quantity="one">%s వ్యక్తి ఈ ఆల్బమ్‌ని చూడగలరు</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%1$sతో పాటు %2$d ఆల్బమ్‌లు</item>
+        <item quantity="one">%1$sతో పాటు %2$d ఆల్బమ్</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d అంశాలు</item>
+        <item quantity="one">%1$d అంశం</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d జ్ఞాపకాలు</item>
+        <item quantity="one">%d జ్ఞాపకం</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d %2$s ఫోటోలు జోడించబడతాయి</item>
+        <item quantity="one">%1$d %2$s ఫోటో జోడించబడుతుంది</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d %2$s ఫోటోలు జోడించబడతాయి</item>
+        <item quantity="one">%1$d %2$s ఫోటో జోడించబడుతుంది</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">%d గంటల్లో బ్యాకప్ పునరుద్ధరించు</item>
+        <item quantity="one">%d గంటలో బ్యాకప్ పునరుద్ధరించు</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d అంశాలు బ్యాకప్ చేసేందుకు చాలా పెద్ద పరిమాణంలో ఉన్నాయి</item>
+        <item quantity="one">%d అంశం బ్యాకప్ చేసేందుకు చాలా పెద్ద పరిమాణంలో ఉంది</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d నిమిషాల్లో పునరుద్ధరించబడుతుంది</item>
+        <item quantity="one">%d నిమిషంలో పునరుద్ధరించబడుతుంది</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">ఫోటోలు, వీడియోలు, పరిచయాలు, గమనికలు మరియు ఇతర అంశాలు క్లౌడ్‌తో సింక్ కావడాన్ని %d నిమిషాలు పాజ్ అవుతుంది.</item>
+        <item quantity="one">ఫోటోలు, వీడియోలు, పరిచయాలు, గమనికలు మరియు ఇతర అంశాలు క్లౌడ్‌తో సింక్ కావడాన్ని %d నిమిషం పాజ్ అవుతుంది.</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d ఫోటోలు లేదా వీడియోలు | %2$s</item>
+        <item quantity="one">%1$d ఫోటో లేదా వీడియో | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d ఫోటోలు లేదా వీడియోలు</item>
+        <item quantity="one">%1$d ఫోటో లేదా వీడియో</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d ఫోటోలు</item>
+        <item quantity="one">%d ఫోటో</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">మీరు ఎంపిక చేయని %d ఫోటోలని తొలగించాలా?</item>
+        <item quantity="one">మీరు ఎంపిక చేయని %d ఫోటోని తొలగించాలా?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">%d ఫోటోలను తొలగించు</item>
+        <item quantity="one">%d ఫోటో తొలగించు</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">ఎంచుకున్న %d ఫోటోలను ఉంచు</item>
+        <item quantity="one">ఎంచుకున్న %d ఫోటోని ఉంచు</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d ఫోటోలు</item>
+        <item quantity="one">%d ఫోటో</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d వీడియోలు</item>
+        <item quantity="one">%d వీడియో</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">తగినంత క్లౌడ్ నిల్వ ప్రదేశం లేని కారణంగా %d అంశాలను సింక్ చేయలేకపోయాము</item>
+        <item quantity="one">తగినంత క్లౌడ్ నిల్వ ప్రదేశం లేని కారణంగా %d అంశాన్ని సింక్ చేయలేకపోయాము</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">కలాజ్‌లలో %1$d-%2$d ఫోటోలు ఉండవచ్చు</item>
+        <item quantity="one">కలాజ్‌లలో %1$d-%2$d ఫోటో ఉండవచ్చు</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">%d వరకు ఫోటోలు ఎంచుకోండి</item>
+        <item quantity="one">%d ఫోటో వరకు ఎంచుకోండి</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d అంశం ఎంచుకోబడింది</item>
+        <item quantity="one">%d అంశం ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Xiaomi క్లౌడ్ మరియు అన్ని సింక్ అయిన పరికరాల నుండి %d బరస్ట్ షాట్‌లని తొలగించాలా?</item>
+        <item quantity="one">Xiaomi క్లౌడ్ మరియు అన్ని సింక్ అయిన పరికరాల నుండి %d బరస్ట్ షాట్‌ని తొలగించాలా?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">%d బరస్ట్ షాట్‌లని తొలగించాలా?</item>
+        <item quantity="one">%d బరస్ట్ షాట్‌ని తొలగించాలా?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d అంశాలు తొలగించబడ్డాయి</item>
+        <item quantity="one">%d అంశం తొలగించబడింది</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">అన్ని పరికరాలు మరియు Xiaomi క్లౌడ్ నుండి %d అంశాలను తొలగించాలా?</item>
+        <item quantity="one">అన్ని పరికరాలు మరియు Xiaomi క్లౌడ్ నుండి %d అంశాన్ని తొలగించాలా?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">%d అంశాలను తొలగించాలా?</item>
+        <item quantity="one">%d అంశాన్ని తొలగించాలా?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">అన్ని పరికరాలు మరియు Xiaomi క్లౌడ్ నుండి %d ఫోటోలను తొలగించాలా?</item>
+        <item quantity="one">అన్ని పరికరాలు మరియు Xiaomi క్లౌడ్ నుండి %d ఫోటోలను తొలగించాలా?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">మీ పరికరం నుండి %d బరస్ట్ షాట్‌లని తొలగించాలా?</item>
+        <item quantity="one">మీ పరికరం నుండి %d బరస్ట్ షాట్‌ని తొలగించాలా?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">అన్ని పరికరాలు మరియు Xiaomi క్లౌడ్ నుండి %d వీడియోలను తొలగించాలా?</item>
+        <item quantity="one">అన్ని పరికరాలు మరియు Xiaomi క్లౌడ్ నుండి %d వీడియోని తొలగించాలా?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">%1$d ఫైల్ డౌన్‌లోడ్ చేయలేకపోయాము</item>
+        <item quantity="one">%1$d ఫైల్ డౌన్‌లోడ్ చేయలేకపోయాము</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">%1$d ఫైళ్లని డౌన్‌లోడ్ చేయలేకపోయాము, నెట్‌వర్క్ కనెక్షన్‌ని తనిఖీ చేసి, మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="one">%1$d ఫైల్‌ని డౌన్‌లోడ్ చేయలేకపోయాము, నెట్‌వర్క్ కనెక్షన్‌ని తనిఖీ చేసి, మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">క్లౌడ్ నుండి అంశాలను డౌన్‌లోడ్ చేస్తోంది (%2$d/%1$d)</item>
+        <item quantity="one">క్లౌడ్ నుండి అంశాలను డౌన్‌లోడ్ చేస్తోంది (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">మొత్తం %d ఫోటోలు</item>
+        <item quantity="one">మొత్తం %d ఫోటో</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">ఫోటోలని ప్రాసెస్ చేస్తోంది…</item>
+        <item quantity="one">ఫోటోని ప్రాసెస్ చేస్తోంది…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">చూపించడానికి వీలు లేని %1$d ఫోటోలు విస్మరించబడ్డాయి.</item>
+        <item quantity="one">చూపించడానికి వీలు లేని %1$d ఫోటో విస్మరించబడింది.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ఫైళ్లు</item>
+        <item quantity="one">%1$d ఫైల్</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d నిమిషాలు</item>
+        <item quantity="one">%d నిమిషం</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d సెకన్లు</item>
+        <item quantity="one">%d సెకను</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d అంశాలు ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">%d అంశం ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d నిమిషాల క్రితం</item>
+        <item quantity="one">1 నిమిషం క్రితం</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d అంశాలు సింక్ అవడానికి వేచి ఉన్నాయి</item>
+        <item quantity="one">%1$d అంశం సింక్ కావడానికి వేచి ఉంది</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d ఫోటోలు</item>
+        <item quantity="one">%1$d ఫోటో</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d ఫోటోలు సింక్ అవడానికి వేచి ఉన్నాయి</item>
+        <item quantity="one">%1$d ఫోటో సింక్ అవడానికి వేచి ఉంది</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">%1$d ఫోటోలను సింక్ చేస్తోంది…</item>
+        <item quantity="one">%1$d ఫోటోని సింక్ చేస్తోంది…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">%1$d అంశాలను సింక్ చేస్తోంది…</item>
+        <item quantity="one">%1$d అంశాన్ని సింక్ చేస్తోంది…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">%1$d వీడియోలను సింక్ చేస్తోంది…</item>
+        <item quantity="one">%1$d వీడియోని సింక్ చేస్తోంది…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d వీడియోలు</item>
+        <item quantity="one">%1$d వీడియో</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d వీడియోలు సింక్ కోసం వేచి ఉన్నాయి</item>
+        <item quantity="one">%1$d వీడియో సింక్ కోసం వేచి ఉంది</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d ఫోటోలు</item>
+        <item quantity="one">%d ఫోటో</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">మొత్తం %1$d అంశాలు</item>
+        <item quantity="one">మొత్తం %1$d అంశం</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d డిగ్రీలు తిప్పు</item>
+        <item quantity="one">%d డిగ్రీ తిప్పు</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="one">%d రోజు</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">%d గంట</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">%d మద్దతు లేని అంశాలు ఫిల్టర్ చేయబడ్డాయి</item>
+        <item quantity="one">%d మద్దతు లేని అంశం ఫిల్టర్ చేయబడింది</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF ఫైళ్లలో %d ఇమేజ్‌ల వరకు ఉండవచ్చు</item>
+        <item quantity="one">PDF ఫైళ్లలో %d ఇమేజ్ వరకు ఉండవచ్చు</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">ఎంచుకున్న ఫోటోలు పరికరంలో లేవు. వాటిని మొబైల్ డేటాని ఉపయోగించి డౌన్‌లోడ్ చేయాలా?</item>
+        <item quantity="one">ఎంచుకున్న ఫోటో పరికరంలో లేదు. దానిని మొబైల్ డేటాని ఉపయోగించి డౌన్‌లోడ్ చేయాలా?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">ఎంచుకున్న ఫోటోలు పరికరంలో లేవు. అవి డౌన్‌లోడ్ చేయబడతాయి.</item>
+        <item quantity="one">ఎంచుకున్న ఫోటో పరికరంలో లేదు. అది డౌన్‌లోడ్ చేయబడుతుంది.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">ఎంచుకున్న ఫోటోలు (%d MB) పరికరంలో లేవు. వాటిని మొబైల్ డేటాని ఉపయోగించి డౌన్‌లోడ్ చేయాలా?</item>
+        <item quantity="one">ఎంచుకున్న ఫోటో (%d MB) పరికరంలో లేదు. దానిని మొబైల్ డేటాని ఉపయోగించి డౌన్‌లోడ్ చేయాలా?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d ఫైళ్లు ఇంకా డౌన్‌లోడ్ కాలేదు. ఏదేమైనా రద్దు చేయాలా?</item>
+        <item quantity="one">%d ఫైల్ ఇంకా డౌన్‌లోడ్ కాలేదు. ఏదేమైనా రద్దు చేయాలా?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">మిగిలి ఉన్న %d ఫైల్‌లు డౌన్‌లోడ్ అవుతున్నాయి</item>
+        <item quantity="one">మిగిలి ఉన్న %d ఫైల్ డౌన్‌లోడ్ అవుతోంది</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">%1$d ఫోటోలని డౌన్‌లోడ్ చేయలేకపోయాము, నెట్‌వర్క్‌కి కనెక్ట్ చేసి, మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="one">%1$d ఫోటోని డౌన్‌లోడ్ చేయలేకపోయాము, నెట్‌వర్క్‌కి కనెక్ట్ చేసి, మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">%1$d ఫైళ్లు (%2$d MB) డౌన్‌లోడ్ చేయలేకపోయాము. నెట్‌వర్క్‌కి కనెక్ట్ చేసి మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">%1$d ఫైల్ (%2$d MB) డౌన్‌లోడ్ చేయలేకపోయాము. నెట్‌వర్క్‌కి కనెక్ట్ చేసి మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d ఫైళ్లు (%2$d MB) ఇంకా డౌన్‌లోడ్ కాలేదు. మొబైల్ డేటా ఉపయోగించి డౌన్‌లోడ్ చేయాలా?</item>
+        <item quantity="one">%1$d ఫైల్ (%2$d MB) ఇంకా డౌన్‌లోడ్ కాలేదు. మొబైల్ డేటా ఉపయోగించి డౌన్‌లోడ్ చేయాలా?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">%1$d ఫోటోలని డౌన్‌లోడ్ చేయలేకపోయాము, మళ్లీ ప్రయత్నించాలా?</item>
+        <item quantity="one">%1$d ఫోటోని డౌన్‌లోడ్ చేయలేకపోయాము, మళ్లీ ప్రయత్నించాలా?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">%1$d ఫోటోలని (%2$d MB) డౌన్‌లోడ్ చేయలేకపోయాము, మళ్లీ ప్రయత్నించాలా?</item>
+        <item quantity="one">%1$d ఫోటోని (%2$d MB) డౌన్‌లోడ్ చేయలేకపోయాము, మళ్లీ ప్రయత్నించాలా?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">పరికరంలో లేని %d ఫోటోలు విస్మరించబడ్డాయి.</item>
+        <item quantity="one">పరికరంలో లేని %d ఫోటో విస్మరించబడింది.</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d కొత్త ఫోటోలు గుర్తించబడ్డాయి</item>
+        <item quantity="one">%1$d కొత్త ఫోటో గుర్తించబడింది</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">మొత్తం %d ఫోటోలు</item>
+        <item quantity="one">మొత్తం %d ఫోటో</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d అంశాలను ప్రైవేట్ ఆల్బమ్ నుండి తొలగించలేము. %1$s.</item>
+        <item quantity="one">%2$d అంశాన్ని ప్రైవేట్ ఆల్బమ్ నుండి తొలగించలేము. %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">\"%2$s\"కి %1$d ఫోటోలు జోడించబడ్డాయి మరియు డేటాబేస్‌కి జోడించబడ్డాయి.</item>
+        <item quantity="one">\"%2$s\"కి %1$d ఫోటో జోడించబడింది మరియు డేటాబేస్‌కి జోడించబడింది.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">\"%2$s\" నుండి %1$d ఫోటోలు తీసివేయబడ్డాయి మరియు డేటాబేస్‌కి జోడించబడ్డాయి.</item>
+        <item quantity="one">\"%2$s\" నుండి %1$d ఫోటో తీసివేయబడింది మరియు డేటాబేస్‌కి జోడించబడింది.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">\"%2$s\"కి %1$d ఫోటోలు జోడించబడ్డాయి.</item>
+        <item quantity="one">\"%2$s\"కి %1$d ఫోటో జోడించబడింది.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">\"%2$s\" నుండి %1$d ఫోటోలు తీసివేయబడ్డాయి.</item>
+        <item quantity="one">\"%2$s\" నుండి %1$d ఫోటో తీసివేయబడింది.</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్‌లు (%3$s)</item>
+        <item quantity="one">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్ (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్‌లను (%3$s) స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్‌ని (%3$s) స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్‌లను (%3$s) స్వీకరిస్తున్నారు…</item>
+        <item quantity="one">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్‌ని (%3$s) స్వీకరిస్తున్నారు…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఆడియో ఫైల్‌లు (%3$s)</item>
+        <item quantity="one">%1$s నుండి %2$d ఆడియో ఫైల్‌లు (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఆడియో ఫైల్‌లను (%3$s) స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఆడియో ఫైల్‌ని (%3$s) స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఆడియో ఫైల్‌లను (%3$s) స్వీకరిస్తున్నారు…</item>
+        <item quantity="one">%1$s నుండి %2$d ఆడియో ఫైల్‌ని (%3$s) స్వీకరిస్తున్నారు…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d %3$s ఫైల్‌లు (%4$s)</item>
+        <item quantity="one">%1$s నుండి %2$d %3$s ఫైల్ (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d %3$s ఫైల్‌లను (%4$s) స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d %3$s ఫైల్‌ని (%4$s) స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d %3$s ఫైల్‌లను (%4$s) స్వీకరిస్తున్నారు…</item>
+        <item quantity="one">%1$s నుండి %2$d %3$s ఫైల్‌ని (%4$s) స్వీకరిస్తున్నారు…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లు</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లని స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్‌ని స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లని స్వీకరిస్తోంది…</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్‌ని స్వీకరిస్తోంది…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లు లేదా వీడియోలు</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్ లేదా వీడియో</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లు లేదా వీడియోలని స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్ లేదా వీడియోని స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లు లేదా వీడియోలని స్వీకరిస్తోంది…</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్ లేదా వీడియోని స్వీకరిస్తోంది…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఫైల్‌లు</item>
+        <item quantity="one">%1$s నుండి %2$d ఫైల్</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఫైల్‌లను స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఫైల్‌ని స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఫైల్‌లని స్వీకరిస్తోంది…</item>
+        <item quantity="one">%1$s నుండి %2$d ఫైల్‌ని స్వీకరిస్తోంది…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">భాగస్వామ్యం చేయలేము. ఇప్పటికీ %d ఫోటోలు ప్రాసెస్ అవుతున్నాయి…</item>
+        <item quantity="one">భాగస్వామ్యం చేయలేము. ఇప్పటికీ %d ఫోటో ప్రాసెస్ అవుతోంది…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d వీడియోలు</item>
+        <item quantity="one">%1$s నుండి %2$d వీడియో</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d వీడియోలని స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d వీడియోని స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d వీడియోలని స్వీకరిస్తోంది…</item>
+        <item quantity="one">%1$s నుండి %2$d వీడియోని స్వీకరిస్తోంది…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఆర్కైవ్‌లు (%3$s)</item>
+        <item quantity="one">%1$s నుండి %2$d ఆర్కైవ్ (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఆర్కైవ్‌లని (%3$s) స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఆర్కైవ్‌ని (%3$s) స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఆర్కైవ్‌లని (%3$s) స్వీకరిస్తున్నారు…</item>
+        <item quantity="one">%1$s నుండి %2$d ఆర్కైవ్‌ని (%3$s) స్వీకరిస్తున్నారు…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">%d ఫోటోలు అప్‌లోడ్ అయ్యాయి</item>
+        <item quantity="one">%d ఫోటో అప్‌లోడ్ అయింది</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d గదులు</item>
+        <item quantity="one">%1$d గది</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d స్క్రీన్‌లు</item>
+        <item quantity="one">%1$d స్క్రీన్</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d స్క్రీన్‌లు</item>
+        <item quantity="one">%1$d స్క్రీన్</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d షేర్ చేసిన స్క్రీన్‌లు</item>
+        <item quantity="one">%1$d షేర్ చేసిన స్క్రీన్</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d అంశాలు సింక్ చేసేందుకు చాలా పెద్ద పరిమాణంలో ఉన్నాయి</item>
+        <item quantity="one">%d అంశం సింక్ చేసేందుకు చాలా పెద్ద పరిమాణంలో ఉంది</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">%d అంశాలను సింక్ చేయలేకపోయాము. మీ నిల్వ ప్రదేశ ప్లాన్‌ని అప్‌గ్రేడ్ చేయండి.</item>
+        <item quantity="one">%d అంశాన్ని సింక్ చేయలేకపోయాము. మీ నిల్వ ప్రదేశ ప్లాన్‌ని అప్‌గ్రేడ్ చేయండి.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">%d అంశాలను సింక్ చేయలేకపోయాము. మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">%d అంశాన్ని సింక్ చేయలేకపోయాము. మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">%d అంశాలను సింక్ చేయలేకపోయాము. ఈ ఆల్బమ్ యజమాని వద్ద క్లౌడ్ నిల్వ ప్రదేశం నిండిపోయింది.</item>
+        <item quantity="one">%d అంశాన్ని సింక్ చేయలేకపోయాము. ఈ ఆల్బమ్ యజమాని వద్ద క్లౌడ్ నిల్వ ప్రదేశం నిండిపోయింది.</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d సెకన్లు</item>
+        <item quantity="one">%1$d సెకను</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d ఫోటోలు అనుకూలపరచబడ్డాయి</item>
+        <item quantity="one">%d ఫోటో అనుకూలపరచబడింది</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">%d ఫోటోలు అనుకూలపరచబడ్డాయి</item>
+        <item quantity="one">%d ఫోటో అనుకూలపరచబడింది</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">%d వీడియోలు అనుకూలపరచబడ్డాయి</item>
+        <item quantity="one">%d వీడియో అనుకూలపరచబడింది</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d ఫోటోలు అనుకూలపరచబడలేదు. ఇప్పుడే ఆపివేయాలా?</item>
+        <item quantity="one">%d ఫోటో అనుకూలపరచబడలేదు. ఇప్పుడే ఆపివేయాలా?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d ఫోటోలు</item>
+        <item quantity="one">%d ఫోటో</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d ఫోటోలు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">%d ఫోటో మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">అనుకూలపరిచేందుకు %d అంశాలు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">అనుకూలపరిచేందుకు %d అంశం మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d వీడియోలు</item>
+        <item quantity="one">%d వీడియో</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">%d ఫోటోలు లేదా వీడియోలు బ్యాకప్ కాలేదు</item>
+        <item quantity="one">%d ఫోటో లేదా వీడియో బ్యాకప్ కాలేదు</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d అంశాలు బ్యాకప్ చేసేందుకు చాలా పెద్ద పరిమాణంలో ఉన్నాయి</item>
+        <item quantity="one">%d అంశం బ్యాకప్ చేసేందుకు చాలా పెద్ద పరిమాణంలో ఉంది</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d అంశాలు</item>
+        <item quantity="one">%d అంశం</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d ఫోటోలు సింక్ అయ్యాయి</item>
+        <item quantity="one">%d ఫోటో సింక్ అయింది</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d వీడియోలు సింక్ అయ్యాయి</item>
+        <item quantity="one">%d వీడియో సింక్ అయింది</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">మొబైల్ డేటాని ఉపయోగించి %d అంశాలను సింక్ చేస్తోంది</item>
+        <item quantity="one">మొబైల్ డేటాని ఉపయోగించి %d అంశాన్ని సింక్ చేస్తోంది</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">%d అంశాలను సింక్ చేస్తోంది</item>
+        <item quantity="one">%d అంశాన్ని సింక్ చేస్తోంది</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s అంశాలు</item>
+        <item quantity="one">%1$s, %2$s అంశం</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="one">%d రోజు</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d నెలలు</item>
+        <item quantity="one">%d నెల</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d సంవత్సరాలు</item>
+        <item quantity="one">%d సంవత్సరం</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d ఎంపిక చేసిన అంశాలు క్లౌడ్ మరియు అన్ని సింక్ చేసిన పరికరాల నుండి శాశ్వతంగా తొలగించబడతాయి. ఏదేమైనా తొలగించాలా?</item>
+        <item quantity="one">%d ఎంపిక చేసిన అంశం క్లౌడ్ మరియు అన్ని సింక్ చేసిన పరికరాల నుండి శాశ్వతంగా తొలగించబడుతుంది. ఏదేమైనా తొలగించాలా?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">ఎంపిక చేసిన %d అంశాలను తొలగించినట్లయితే మీరు వాటిని పునరుద్ధరించలేరు. ఏదేమైనా తొలగించాలా?</item>
+        <item quantity="one">ఎంపిక చేసిన %d అంశాన్ని తొలగించినట్లయితే మీరు దానిని పునరుద్ధరించలేరు. ఏదేమైనా తొలగించాలా?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d ఎంపిక చేసిన అంశాలు శాశ్వతంగా తొలగించబడతాయి. ఏదేమైనా తొలగించాలా?</item>
+        <item quantity="one">%d ఎంపిక చేసిన అంశం శాశ్వతంగా తొలగించబడింది. ఏదేమైనా తొలగించాలా?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">ఎంపిక చేసిన %d అంశాలను తొలగించినట్లయితే మీరు వాటిని పునరుద్ధరించలేరు. ఏదేమైనా తొలగించాలా?</item>
+        <item quantity="one">ఎంపిక చేసిన %d అంశాన్ని తొలగించినట్లయితే మీరు దానిని పునరుద్ధరించలేరు. ఏదేమైనా తొలగించాలా?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">ఎంపిక చేసిన %d అంశాలను తొలగించినట్లయితే మీరు వాటిని పునరుద్ధరించలేరు. ఏదేమైనా తొలగించాలా?</item>
+        <item quantity="one">ఎంపిక చేసిన %d అంశాన్ని తొలగించినట్లయితే మీరు దానిని పునరుద్ధరించలేరు. ఏదేమైనా తొలగించాలా?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">అంశాలను ఇక్కడ %1$d రోజులు నిల్వ చేయవచ్చు (%2$s)</item>
+        <item quantity="one">అంశాలను ఇక్కడ %1$d రోజు నిల్వ చేయవచ్చు (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">అంశాలను ఇక్కడ %1$d రోజులు నిల్వ చేయవచ్చు. ఈ వ్యవధి పొడిగించేందుకు మీ ప్లాన్‌ని అప్‌గ్రేడ్ చేయండి.</item>
+        <item quantity="one">అంశాలను ఇక్కడ %1$d రోజు నిల్వ చేయవచ్చు. ఈ వ్యవధి పొడిగించేందుకు మీ ప్లాన్‌ని అప్‌గ్రేడ్ చేయండి.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d పైళ్లు</item>
+        <item quantity="one">%1$d పైల్</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d వీడియోలు</item>
+        <item quantity="one">%d వీడియో</item>
+    </plurals>
+</resources>

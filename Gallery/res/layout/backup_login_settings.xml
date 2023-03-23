@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/image_selection_tips_dialog_title_size" android:textColor="@color/image_selection_tips_dialog_title_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cloud_login_settings_title" android:fontFamily="mipro-medium" />
+    <FrameLayout android:id="@id/backup_login" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/image_selection_tips_dialog_detail_margin_top" />
+</LinearLayout>

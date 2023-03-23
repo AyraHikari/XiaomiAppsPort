@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:variablePadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:drawable="@drawable/miuix_appcompat_btn_bg_warn_single_disable_dark" />
+    <item android:state_pressed="true" android:drawable="@drawable/miuix_appcompat_btn_bg_warn_single_pressed_dark" />
+    <item android:state_checked="true" android:drawable="@drawable/miuix_appcompat_btn_bg_warn_single_pressed_dark" />
+    <item android:state_selected="true" android:drawable="@drawable/miuix_appcompat_btn_bg_warn_single_pressed_dark" />
+    <item android:drawable="@drawable/miuix_appcompat_btn_bg_warn_single_pressed_dark" android:state_activated="true" />
+    <item android:drawable="@drawable/miuix_appcompat_btn_bg_warn_single_normal_dark" />
+</selector>

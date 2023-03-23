@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/album_common_wrapper_main" android:background="@null" style="@style/Gallery.Widget.ListView.Item.Album"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ViewStub android:id="@id/view_model_child_stub" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintTop_toTopOf="parent" />
+    <ViewStub android:id="@id/album_other_view_group" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/Gallery.Widget.AlbumCover.Linear" />
+</androidx.constraintlayout.widget.ConstraintLayout>

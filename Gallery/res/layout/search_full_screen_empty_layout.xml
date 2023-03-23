@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.springback.view.SpringBackLayout android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollableView="@id/scroll_view"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.core.widget.NestedScrollView android:id="@id/scroll_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/linear_layout" android:paddingBottom="@dimen/search_full_screen_empty_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:layout_width="@dimen/empty_page_icon_size" android:layout_height="@dimen/empty_page_icon_size" android:layout_marginBottom="@dimen/search_full_screen_view_margin_bottom" android:src="@drawable/ic_pic_empty_search" />
+            <TextView android:textSize="@dimen/empty_page_title_size" android:textColor="@color/empty_page_title_color" android:ellipsize="middle" android:gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/search_result_empty" android:maxLines="2" android:layout_marginStart="@dimen/empty_page_margin" android:layout_marginEnd="@dimen/empty_page_margin" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</miuix.springback.view.SpringBackLayout>

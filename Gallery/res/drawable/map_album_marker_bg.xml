@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/map_album_bg_fill" />
+    <stroke android:width="@dimen/px_6" android:color="@color/map_album_bg_stroke" />
+    <corners android:radius="@dimen/map_album_cover_marker_rounded_corner_value" />
+</shape>

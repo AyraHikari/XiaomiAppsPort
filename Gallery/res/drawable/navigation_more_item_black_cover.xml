@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/album_grid_rounded_corner_value" />
+    <solid android:color="@color/people_item_black_cover" />
+</shape>

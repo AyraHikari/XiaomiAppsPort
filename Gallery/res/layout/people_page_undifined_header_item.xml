@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/undefined_line" android:background="@color/people_undefine_group_header_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/people_page_undefine_group_header_height" android:layout_marginTop="@dimen/people_undefine_group_header_margin_top" android:layout_marginBottom="@dimen/people_undefine_group_header_margin_bottom" android:layout_marginEnd="@dimen/people_page_list_head_item_padding_end" />
+</FrameLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/special_type_enter_icon_size" android:width="@dimen/special_type_enter_icon_size" android:viewportWidth="100.0" android:viewportHeight="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/v20_special_type_enter_icon_color" android:pathData="M39,34C36.239,34 34,36.239 34,39V62C34,64.761 36.239,67 39,67H61C63.761,67 66,64.761 66,62V39C66,36.239 63.761,34 61,34H39ZM42,44H58V48H52V58H48V48H42V44Z" android:fillType="evenOdd" />
+</vector>

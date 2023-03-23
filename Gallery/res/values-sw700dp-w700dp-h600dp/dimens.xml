@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_printer_margin_end">22.21997dip</dimen>
+    <dimen name="device_area_height">134.66998dip</dimen>
+    <dimen name="device_list_margin_top">14.009979dip</dimen>
+    <dimen name="nearby_area_height">71.109985dip</dimen>
+    <dimen name="send_to_margin_start">52.22998dip</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/shape_dialog_save_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/magic_idp_save_one" android:text="@string/magic_make_save_title" style="@style/magic_idp_dialog_save_tv" />
+    <TextView android:id="@id/magic_idp_save_two" android:text="@string/magic_make_save_1" style="@style/magic_idp_dialog_save_tv" />
+    <TextView android:id="@id/magic_idp_save_m" android:layout_marginBottom="@dimen/magic_px_40" android:text="@string/magic_make_save_title2" style="@style/magic_idp_dialog_save_tv" />
+    <TextView android:textSize="@dimen/magic_text_size_48" android:textColor="@color/white_70_transparent" android:gravity="center" android:id="@id/magic_idp_save_cancel" android:background="@drawable/magic_idp_save_dialog_selector" android:layout_width="fill_parent" android:layout_height="@dimen/magic_px_140" android:layout_marginLeft="@dimen/magic_padding_80" android:layout_marginRight="@dimen/magic_padding_80" android:text="@string/magic_cancel" style="@style/magic_style_medium" />
+</LinearLayout>

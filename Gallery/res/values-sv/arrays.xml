@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Vit</item>
+        <item>Mörkblå</item>
+        <item>Ljusblå</item>
+        <item>Röd</item>
+        <item>Grön</item>
+        <item>Rosa</item>
+        <item>Brun</item>
+        <item>Grå</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Välj bild</item>
+        <item>Transparent bakgrund</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Man</item>
+        <item>Kvinna</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>En speciell dag</item>
+        <item>Dag att minnas</item>
+        <item>Pulserande stunder</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Ett smakrikt år</item>
+        <item>Tre rätter. Fyra årstider.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Hej världen!</item>
+        <item>På vägen</item>
+        <item>Ett kalejdoskop av platser</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Höstens prakt</item>
+        <item>Strålande höst</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Pojke</item>
+        <item>Flicka</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Säkerhetskopiera bilder</item>
+        <item>Synkronisera bilder med molnet</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>En natt att minnas</item>
+        <item>Ny sida</item>
+        <item>Fyrverkeri</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Gott nytt år!</item>
+        <item>Det nya årets gryning</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Apans år</item>
+        <item>Tuppens år</item>
+        <item>Hundens år</item>
+        <item>Grisens år</item>
+        <item>Råttans år</item>
+        <item>Oxens år</item>
+        <item>Tigerns år</item>
+        <item>Harens år</item>
+        <item>Drakens år</item>
+        <item>Ormens år</item>
+        <item>Hästens år</item>
+        <item>Getens år</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Stadsbilder</item>
+        <item>Gator och hörn</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Milda kronblad</item>
+        <item>I full blomning</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>In i det vilda</item>
+        <item>Vild och fri</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Våra sammankomster</item>
+        <item>I sällskapet av vänner</item>
+        <item>Det var länge sedan</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Dina favoritämnen</item>
+        <item>Själsfränder</item>
+        <item>Livets ljusa stunder</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Upptagen med att växa upp</item>
+        <item>Sötare och sötare</item>
+        <item>Liten utforskare</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Träningsdagbok</item>
+        <item>Starkare och starkare</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Bon appétit!</item>
+        <item>En tugga till?</item>
+        <item>Njut av din måltid!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Le och vinka!</item>
+        <item>Lekdags</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Det fantastiska utomhus</item>
+        <item>Spår i snön</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Ostoppbar</item>
+        <item>Hålla sig i form</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>En stor dag</item>
+        <item>Nedför gången!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Time to play</item>
+        <item>"Kiddo's weekend"</item>
+        <item>The little one</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Mina helger</item>
+        <item>Bitar av liv</item>
+        <item>Helgminnen</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>New friends and old pals</item>
+        <item>"Last year's get-togethers"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Fritid</item>
+        <item>Bris</item>
+        <item>Drömmar</item>
+        <item>Moln</item>
+        <item>Tankar</item>
+        <item>Polare</item>
+        <item>Metamorfos</item>
+        <item>Djup</item>
+        <item>Reflektioner</item>
+        <item>Minimalist</item>
+        <item>Mysterium</item>
+        <item>Dimma</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Förvandla bakgrunder till skissar</item>
+        <item>Bakgrunder med vattenfärg-stil</item>
+        <item>Cyberpunk retro</item>
+        <item>Felplacerade vertikala segment</item>
+        <item>Dunkel suddighet</item>
+        <item>Futuristisk känsla</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Skiss</item>
+        <item>Vattenfärg</item>
+        <item>RGB</item>
+        <item>Persienner</item>
+        <item>Dimmigt fönster</item>
+        <item>Tech</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Färgad kontur</item>
+        <item>Punktad kontur</item>
+        <item>Fluorescerande kontur</item>
+        <item>Färgad skugga</item>
+        <item>Elektrisk våg</item>
+        <item>Ström</item>
+        <item>Vågor</item>
+        <item>Partiklar</item>
+        <item>Text</item>
+        <item>Vingar</item>
+        <item>Ängel</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Flytta</item>
+        <item>Kopiera</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Mars</item>
+        <item>April</item>
+        <item>Maj</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Augusti</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>Du har vuxit upp!</item>
+        <item>Du har vuxit upp igen!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Min personliga meny</item>
+        <item>Smakrika minnen</item>
+        <item>En andra portion, tack!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>Världens bästa utsikter</item>
+        <item>Fortsätt klättra</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Fader</item>
+        <item>Mor</item>
+        <item>Farfar</item>
+        <item>Farmor</item>
+        <item>Morfar</item>
+        <item>Mormor</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Tillsammans</item>
+        <item>Goda tider</item>
+        <item>Unisont</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Dit vägen tar oss</item>
+        <item>Resor väl delade</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>En glädjefull vår</item>
+        <item>En glädjefull sommar</item>
+        <item>En glad höst</item>
+        <item>En glädjefull vinter</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Vårmåltider</item>
+        <item>Sommargott</item>
+        <item>Höstfestmåltider</item>
+        <item>Vintermysmat</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Together</item>
+        <item>Bonds and ties</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Jag</item>
+        <item>Barn</item>
+        <item>Familj</item>
+        <item>Kollegor</item>
+        <item>Klasskamrater</item>
+        <item>Vänner</item>
+        <item>Ogrupperad</item>
+    </string-array>
+    <string-array name="season">
+        <item>Vår</item>
+        <item>Sommar</item>
+        <item>Höst</item>
+        <item>Vinter</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Pappa</item>
+        <item>Mamma</item>
+        <item>Farfar</item>
+        <item>Farmor</item>
+        <item>Morfar</item>
+        <item>Mormor</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Rör sig framåt</item>
+        <item>Full av energi</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Vårens blomningar</item>
+        <item>Våren ligger i luften</item>
+        <item>Hej våren!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>En bit av sommaren</item>
+        <item>Där sommaren aldrig tar slut</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Gyllene timmar</item>
+        <item>Strålar av guld</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>They grow so fast</item>
+        <item>"Kiddo's photos"</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Vinterdagar</item>
+        <item>Vinterparadis</item>
+    </string-array>
+</resources>

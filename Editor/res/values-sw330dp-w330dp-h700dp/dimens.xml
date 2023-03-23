@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="magic_id_photo_guide_text_margin_left">@dimen/px_120</item>
+    <item type="dimen" name="magic_id_photo_guide_text_margin_top">@dimen/px_140</item>
+    <item type="dimen" name="magic_idp_bottom_height">@dimen/px_1723</item>
+    <dimen name="magic_idp_bottom_margin_top">191.63998dip</dimen>
+    <dimen name="magic_idp_guide_photo_height">170.91dip</dimen>
+    <dimen name="magic_idp_guide_photo_width">235.63998dip</dimen>
+    <item type="dimen" name="magic_search_edit_width">@dimen/px_750</item>
+    <item type="dimen" name="magic_search_list_width">@dimen/px_880</item>
+    <dimen name="magic_status_bar_height">29.819977dip</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="18.0sp" android:textColor="@color/passport_input_code_notice_title" android:ellipsize="end" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="50.0dip" android:text="@string/passport_input_verify_code" android:maxLines="2" />
+    <TextView android:textSize="14.0sp" android:textColor="@color/passport_input_code_notice_sub_title" android:ellipsize="end" android:gravity="center" android:id="@id/send_phone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/passport_send_sms_to" android:maxLines="2" />
+    <com.xiaomi.passport.ui.view.VerifyCodeEditText android:id="@id/verify_code" android:layout_width="fill_parent" android:layout_height="@dimen/passport_verify_code_text_height" android:layout_marginTop="50.0dip" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip">
+        <TextView android:textSize="14.0sp" android:textColor="@color/passport_clickable_text_color" android:ellipsize="end" android:gravity="start" android:id="@id/resend_timer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/passport_ticket_send_by_second" android:maxLines="2" android:layout_weight="1.0" android:layout_marginEnd="5.0dip" />
+        <TextView android:textSize="14.0sp" android:textColor="@color/passport_clickable_text_color" android:ellipsize="end" android:gravity="end" android:id="@id/can_not_receive_verify_code" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/passport_can_not_recevie_verify_code" android:maxLines="2" android:layout_weight="1.0" android:layout_marginStart="5.0dip" />
+    </LinearLayout>
+</LinearLayout>

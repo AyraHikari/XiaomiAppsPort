@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="@dimen/vlog_menu_common_operation_height" android:paddingStart="@dimen/vlog_menu_common_operation_btn_hot_area_padding_start" android:paddingEnd="@dimen/vlog_menu_common_operation_btn_hot_area_padding_start"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:paddingStart="@dimen/vlog_filter_menu_play_btn_hot_area_padding_start" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintTop_toTopOf="parent" layout="@layout/vlog_play_layout" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/remover_menu_background_pressed" />
+    <corners android:radius="@dimen/editor_menu_remover_corner" />
+</shape>

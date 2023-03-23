@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="end|bottom|center" android:id="@id/content_layout" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tool="http://schemas.android.com/apk/res-auto">
+    <ImageButton android:layout_gravity="bottom" android:id="@id/miplay_volume_btn" android:background="@drawable/miplay_circle_bg" android:padding="@dimen/px_34" android:layout_width="@dimen/miplay_circle_btn_bg_size" android:layout_height="@dimen/miplay_circle_btn_bg_size" android:src="@drawable/ic_miplay_sound" android:contentDescription="@string/miplay_volume_btn" />
+    <com.miui.gallery.widget.VerticalSeekBar android:id="@id/miplay_volume_seekbar" android:visibility="gone" android:layout_width="@dimen/miplay_volume_seekbar_height" android:layout_height="@dimen/miplay_circle_btn_bg_size" android:maxWidth="@dimen/miplay_volume_seekbar_height" android:maxHeight="@dimen/miplay_circle_btn_bg_size" android:progressDrawable="@drawable/miplay_volume_seekbar" tool:progress="50" />
+    <ImageView android:layout_gravity="bottom" android:id="@id/miplay_volume_seekbar_icon" android:padding="@dimen/px_34" android:visibility="gone" android:layout_width="@dimen/miplay_circle_btn_bg_size" android:layout_height="@dimen/miplay_circle_btn_bg_size" android:src="@drawable/ic_miplay_sound" />
+</FrameLayout>

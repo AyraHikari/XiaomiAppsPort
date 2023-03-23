@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.ui.PhotoPageVideoItem android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.github.chrisbanes.photoview.PhotoView android:id="@id/photoview" android:duplicateParentState="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/video_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/video_play_icon" android:layout_centerInParent="true" android:contentDescription="@string/play_video_desc" />
+    <ViewStub android:id="@id/page_item_check" android:layout="@layout/page_item_check" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</com.miui.gallery.ui.PhotoPageVideoItem>

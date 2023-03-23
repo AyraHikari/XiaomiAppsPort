@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toTopOf="@id/enable_service_button" app:layout_constraintTop_toTopOf="parent" app:scrollableView="@id/list">
+        <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="false" />
+    </miuix.springback.view.SpringBackLayout>
+    <Button android:gravity="center" android:id="@id/enable_service_button" android:text="@string/login_and_enable_service" android:layout_marginStart="@dimen/cloud_backup_btn_margin_start_end" android:layout_marginEnd="@dimen/cloud_backup_btn_margin_start_end" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" style="@style/Gallery.Widget.Button.Default" />
+</androidx.constraintlayout.widget.ConstraintLayout>

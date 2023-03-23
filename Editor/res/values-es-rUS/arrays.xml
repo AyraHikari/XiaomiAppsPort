@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Blanco</item>
+        <item>Azul oscuro</item>
+        <item>Azul claro</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Café</item>
+        <item>Gris</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Seleccionar imagen</item>
+        <item>Fondo transparente</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Ocio</item>
+        <item>Brisa</item>
+        <item>Sueños</item>
+        <item>Nubes</item>
+        <item>Pensamientos</item>
+        <item>Brotes</item>
+        <item>Metamorfosis</item>
+        <item>Profundidad</item>
+        <item>Reflejos</item>
+        <item>Minimalista</item>
+        <item>Misterio</item>
+        <item>Niebla</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Fondo geométrico futurista</item>
+        <item>Atmósfera de grabados antiguos</item>
+        <item>Convierte fondos en bocetos</item>
+        <item>Fondos de estilo acuarela</item>
+        <item>Cyberpunk retro</item>
+        <item>Segmentos verticales mal colocados</item>
+        <item>Desenfoque brumoso</item>
+        <item>Sensación futurista</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Malla poligonal</item>
+        <item>Grabado</item>
+        <item>Boceto</item>
+        <item>Acuarela</item>
+        <item>RGB</item>
+        <item>Persianas</item>
+        <item>Ventana con niebla</item>
+        <item>Tecnología</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Contorno de color</item>
+        <item>Contorno discontinuo</item>
+        <item>Contorno fluorescente</item>
+        <item>Sombra de color</item>
+        <item>Onda electrica</item>
+        <item>Flujo</item>
+        <item>Olas</item>
+        <item>Partículas</item>
+        <item>Texto</item>
+        <item>Alas</item>
+        <item>Ángel</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Two cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+</resources>

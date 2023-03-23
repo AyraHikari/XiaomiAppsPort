@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="60.0px" android:width="60.0px" android:viewportWidth="60.0" android:viewportHeight="60.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/action_button_v20_normal" android:pathData="M24.3652 22.6285C24.3652 21.1448 26.0046 20.2468 27.255 21.0456L38.7933 28.4173C39.9494 29.1559 39.9494 30.8445 38.7933 31.5832L27.255 38.9549C26.0046 39.7537 24.3652 38.8557 24.3652 37.3719V22.6285Z" android:fillAlpha="0.9" />
+    <path android:fillColor="@color/action_button_v20_normal" android:pathData="M60 30C60 46.5685 46.5685 60 30 60C13.4315 60 0 46.5685 0 30C0 13.4315 13.4315 0 30 0C46.5685 0 60 13.4315 60 30ZM55 30C55 43.8071 43.8071 55 30 55C16.1929 55 5 43.8071 5 30C5 16.1929 16.1929 5 30 5C43.8071 5 55 16.1929 55 30Z" android:fillAlpha="0.9" android:fillType="evenOdd" />
+</vector>

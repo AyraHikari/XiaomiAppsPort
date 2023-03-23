@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_3V4">14.0dip</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_9V16">-11.25dip</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_has_nav_bar_3V4">30.179993dip</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_has_nav_bar_9V16">18.579987dip</dimen>
+    <dimen name="editor_remove_watermark_margin_top_3V4">77.26999dip</dimen>
+    <dimen name="editor_remove_watermark_margin_top_9V16">46.929993dip</dimen>
+    <dimen name="editor_remove_watermark_margin_top_has_nav_bar_3V4">55.26999dip</dimen>
+    <dimen name="editor_remove_watermark_margin_top_has_nav_bar_9V16">46.929993dip</dimen>
+</resources>

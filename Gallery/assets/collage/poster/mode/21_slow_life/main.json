@@ -1,0 +1,43 @@
+{
+  "background": "#ffffff",
+  "collagePositions": [
+    {
+      "margin": 1,
+      "position": [
+        0.161,
+        0.155,
+        0.839,
+        0.745
+      ]
+    }
+  ],
+  "collageModels": [
+    10,
+    20,
+    30,
+    40,
+    51,
+    60
+  ],
+  "imageElementModels": [
+    {
+      "name": "img_01.png",
+      "x": 0.5,
+      "y": 0.824,
+      "width": 0.194,
+      "locationType": 3
+    }
+  ],
+  "textElementModels": [
+    {
+      "x": 0.5,
+      "y": 0.888,
+      "locationType": 5,
+      "textSize": 5.667,
+      "textColor": "#99010101",
+      "letterSpace": 0.6,
+      "text": "ENJOY THIS TIME",
+      "maxLength": 12
+    }
+  ]
+}

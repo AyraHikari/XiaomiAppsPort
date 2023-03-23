@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="110.0dip" android:width="110.0dip" android:viewportWidth="110.0" android:viewportHeight="110.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/album_empty_cover_icon" android:pathData="M50.974,41.78C50.204,40.448 48.282,40.448 47.512,41.78L34.479,64.323C33.708,65.656 34.67,67.324 36.21,67.324H62.276C63.816,67.324 64.778,65.656 64.007,64.323L50.974,41.78Z" android:strokeColor="#ffc3c9d3" android:strokeWidth="4.0" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillType="evenOdd" />
+    <path android:fillColor="@color/album_empty_cover_icon" android:pathData="M71.127,68.913L60.387,50.213L61.771,47.721C62.914,45.663 65.873,45.663 67.016,47.721L76.314,64.457C77.425,66.456 75.979,68.913 73.691,68.913H71.127Z" android:fillType="evenOdd" />
+</vector>

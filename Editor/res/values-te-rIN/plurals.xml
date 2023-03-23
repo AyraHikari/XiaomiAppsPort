@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 గంటల క్రితం</item>
+        <item quantity="one">1 గంటల క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d నిమి క్రితం</item>
+        <item quantity="one">1 నిమి క్రితం</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ఫైళ్లు</item>
+        <item quantity="one">%1$d ఫైల్</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">అర గంట క్రితం</item>
+        <item quantity="one">అర గంట క్రితం</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 గంటలో</item>
+        <item quantity="one">1 గంటలో</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">అర గంటలో</item>
+        <item quantity="one">అర గంటలో</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">వెంటనే</item>
+        <item quantity="one">వెంటనే</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d నిమిషాల్లో</item>
+        <item quantity="one">1 నిమిషంలో</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ఇప్పుడే</item>
+        <item quantity="one">ఇప్పుడే</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d అంశాలు ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">%d అంశం ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d నిమిషాల క్రితం</item>
+        <item quantity="one">1 నిమిషం క్రితం</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d డిగ్రీలు తిప్పు</item>
+        <item quantity="one">%d డిగ్రీ తిప్పు</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్‌లు (%3$s)</item>
+        <item quantity="one">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్ (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్‌లను (%3$s) స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్‌ని (%3$s) స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్‌లను (%3$s) స్వీకరిస్తున్నారు…</item>
+        <item quantity="one">%1$s నుండి %2$d ఇన్‌స్టాలేషన్ ప్యాకేజ్‌ని (%3$s) స్వీకరిస్తున్నారు…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఆడియో ఫైల్‌లు (%3$s)</item>
+        <item quantity="one">%1$s నుండి %2$d ఆడియో ఫైల్‌లు (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఆడియో ఫైల్‌లను (%3$s) స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఆడియో ఫైల్‌ని (%3$s) స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఆడియో ఫైల్‌లను (%3$s) స్వీకరిస్తున్నారు…</item>
+        <item quantity="one">%1$s నుండి %2$d ఆడియో ఫైల్‌ని (%3$s) స్వీకరిస్తున్నారు…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d %3$s ఫైల్‌లు (%4$s)</item>
+        <item quantity="one">%1$s నుండి %2$d %3$s ఫైల్ (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d %3$s ఫైల్‌లను (%4$s) స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d %3$s ఫైల్‌ని (%4$s) స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d %3$s ఫైల్‌లను (%4$s) స్వీకరిస్తున్నారు…</item>
+        <item quantity="one">%1$s నుండి %2$d %3$s ఫైల్‌ని (%4$s) స్వీకరిస్తున్నారు…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లు</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లని స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్‌ని స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లని స్వీకరిస్తోంది…</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్‌ని స్వీకరిస్తోంది…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లు లేదా వీడియోలు</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్ లేదా వీడియో</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లు లేదా వీడియోలని స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్ లేదా వీడియోని స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఇమేజ్‌లు లేదా వీడియోలని స్వీకరిస్తోంది…</item>
+        <item quantity="one">%1$s నుండి %2$d ఇమేజ్ లేదా వీడియోని స్వీకరిస్తోంది…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఫైల్‌లు</item>
+        <item quantity="one">%1$s నుండి %2$d ఫైల్</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఫైల్‌లను స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఫైల్‌ని స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఫైల్‌లని స్వీకరిస్తోంది…</item>
+        <item quantity="one">%1$s నుండి %2$d ఫైల్‌ని స్వీకరిస్తోంది…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d వీడియోలు</item>
+        <item quantity="one">%1$s నుండి %2$d వీడియో</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d వీడియోలని స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d వీడియోని స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d వీడియోలని స్వీకరిస్తోంది…</item>
+        <item quantity="one">%1$s నుండి %2$d వీడియోని స్వీకరిస్తోంది…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s నుండి %2$d ఆర్కైవ్‌లు (%3$s)</item>
+        <item quantity="one">%1$s నుండి %2$d ఆర్కైవ్ (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s నుండి %2$d ఆర్కైవ్‌లని (%3$s) స్వీకరించారు</item>
+        <item quantity="one">%1$s నుండి %2$d ఆర్కైవ్‌ని (%3$s) స్వీకరించారు</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s నుండి %2$d ఆర్కైవ్‌లని (%3$s) స్వీకరిస్తున్నారు…</item>
+        <item quantity="one">%1$s నుండి %2$d ఆర్కైవ్‌ని (%3$s) స్వీకరిస్తున్నారు…</item>
+    </plurals>
+</resources>

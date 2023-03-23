@@ -1,0 +1,48 @@
+{
+  "name": "effect8",
+  "talkbackName": "@string/text_item_type_talkback_bubble_watermark_8",
+  "version": 0,
+  "width": 177.82,
+  "height": 146.55,
+  "offsetX": 0,
+  "offsetY": 0,
+  "icon": "icon.png",
+  "bgPost": "bg.png",
+  "bgPostRect": [
+    70.55,
+    20,
+    104.36,
+    57.82
+  ],
+  "textPieceList": [
+    {
+      "frameRect": [
+        10.555,
+        69.82,
+        165.09,
+        84.73
+      ],
+      "size": 10.89,
+      "text": "HELLO SPRING",
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": 0.27
+    },
+    {
+      "frameRect": [
+        10.55,
+        87.27,
+        165.45,
+        105.82
+      ],
+      "size": 13.83,
+      "text": "你好，春天",
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": 0.2,
+      "lines": 1
+    }
+  ]
+}

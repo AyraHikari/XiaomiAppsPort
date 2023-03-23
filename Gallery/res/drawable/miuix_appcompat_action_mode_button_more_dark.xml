@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:variablePadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/miuix_appcompat_action_mode_button_more_selected_dark" />
+    <item android:state_enabled="false" android:drawable="@drawable/miuix_appcompat_action_mode_button_more_disable_dark" />
+    <item android:drawable="@drawable/miuix_appcompat_action_mode_button_more_normal_dark" />
+</selector>

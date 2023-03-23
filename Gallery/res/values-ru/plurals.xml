@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Час назад</item>
+        <item quantity="one">Час назад</item>
+        <item quantity="few">Час назад</item>
+        <item quantity="many">Час назад</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Час назад</item>
+        <item quantity="one">Час назад</item>
+        <item quantity="few">Час назад</item>
+        <item quantity="many">Час назад</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+        <item quantity="one">Полчаса назад</item>
+        <item quantity="few">Полчаса назад</item>
+        <item quantity="many">Полчаса назад</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Через 1 час</item>
+        <item quantity="one">Через 1 час</item>
+        <item quantity="few">Через 1 час</item>
+        <item quantity="many">Через 1 час</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Через полчаса</item>
+        <item quantity="one">Через полчаса</item>
+        <item quantity="few">Через полчаса</item>
+        <item quantity="many">Через полчаса</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Немедленно</item>
+        <item quantity="one">Немедленно</item>
+        <item quantity="few">Немедленно</item>
+        <item quantity="many">Немедленно</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">через %d мин</item>
+        <item quantity="one">через 1 мин</item>
+        <item quantity="few">через %d мин</item>
+        <item quantity="many">через %d мин</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Только что</item>
+        <item quantity="one">Только что</item>
+        <item quantity="few">Только что</item>
+        <item quantity="many">Только что</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d мин назад</item>
+        <item quantity="one">1 мин назад</item>
+        <item quantity="few">%d мин назад</item>
+        <item quantity="many">%d мин назад</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Добавить объекты в личный альбом?</item>
+        <item quantity="one">Добавить объект в личный альбом?</item>
+        <item quantity="few">Добавить объекты в личный альбом?</item>
+        <item quantity="many">Добавить объекты в личный альбом?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Добавлено %d фото из облака, для просмотра отключите \"Только локальные альбомы\".</item>
+        <item quantity="one">Добавлено %d фото из облака, для просмотра отключите \"Только локальные альбомы\".</item>
+        <item quantity="few">Добавлено %d фото из облака, для просмотра отключите \"Только локальные альбомы\".</item>
+        <item quantity="many">Добавлено %d фото из облака, для просмотра отключите \"Только локальные альбомы\".</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">Ошибка добавления %2$d объектов в альбом. %1$s.</item>
+        <item quantity="one">Ошибка добавления %2$d объекта в альбом. %1$s.</item>
+        <item quantity="few">Ошибка добавления %2$d объектов в альбом. %1$s.</item>
+        <item quantity="many">Ошибка добавления %2$d объектов в альбом. %1$s.</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">Не удается добавить %2$d объектов в личный альбом. %1$s.</item>
+        <item quantity="one">Не удается добавить %2$d объект в личный альбом. %1$s.</item>
+        <item quantity="few">Не удается добавить %2$d объекта в личный альбом. %1$s.</item>
+        <item quantity="many">Не удается добавить %2$d объектов в личный альбом. %1$s.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d дней</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d месяцев</item>
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяца</item>
+        <item quantity="many">%d месяцев</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d лет</item>
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d года</item>
+        <item quantity="many">%d лет</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Доступно для %d человек</item>
+        <item quantity="one">Доступно для %d человека</item>
+        <item quantity="few">Доступно для %d человек</item>
+        <item quantity="many">Доступно для %d человек</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+        <item quantity="few">%d фото</item>
+        <item quantity="many">%d фото</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d объектов | %2$s</item>
+        <item quantity="one">%1$d объект | %2$s</item>
+        <item quantity="few">%1$d объекта | %2$s</item>
+        <item quantity="many">%1$d объектов | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d объектов)</item>
+        <item quantity="one">(%d объект)</item>
+        <item quantity="few">(%d объекта)</item>
+        <item quantity="many">(%d объектов)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d альбомов</item>
+        <item quantity="one">%d альбом</item>
+        <item quantity="few">%d альбома</item>
+        <item quantity="many">%d альбомов</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s человек могут просматривать этот альбом</item>
+        <item quantity="one">%s человек может просматривать этот альбом</item>
+        <item quantity="few">%s человека могут просматривать этот альбом</item>
+        <item quantity="many">%s человек могут просматривать этот альбом</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d альбомов (включая %1$s)</item>
+        <item quantity="one">%2$d альбом (включая %1$s)</item>
+        <item quantity="few">%2$d альбома (включая %1$s)</item>
+        <item quantity="many">%2$d альбомов (включая %1$s)</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d объектов</item>
+        <item quantity="one">%1$d объект</item>
+        <item quantity="few">%1$d объекта</item>
+        <item quantity="many">%1$d объектов</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d сюжетов</item>
+        <item quantity="one">%d сюжет</item>
+        <item quantity="few">%d сюжета</item>
+        <item quantity="many">%d сюжетов</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">Будет добавлено %1$d фото из %2$s</item>
+        <item quantity="one">Будет добавлено %1$d фото из %2$s</item>
+        <item quantity="few">Будет добавлено %1$d фото из %2$s</item>
+        <item quantity="many">Будет добавлено %1$d фото из %2$s</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">Будет добавлено %1$d фото из %2$s</item>
+        <item quantity="one">Будет добавлено %1$d фото из %2$s</item>
+        <item quantity="few">Будет добавлено %1$d фото из %2$s</item>
+        <item quantity="many">Будет добавлено %1$d фото из %2$s</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Возобновить выгрузку через %d часов</item>
+        <item quantity="one">Возобновить выгрузку через %d час</item>
+        <item quantity="few">Возобновить выгрузку через %d часа</item>
+        <item quantity="many">Возобновить выгрузку через %d часов</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d слишком больших объектов</item>
+        <item quantity="one">%d слишком большой объект</item>
+        <item quantity="few">%d слишком больших объекта</item>
+        <item quantity="many">%d слишком больших объектов</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">Возобновление через %d минут</item>
+        <item quantity="one">Возобновление через %d минуту</item>
+        <item quantity="few">Возобновление через %d минуты</item>
+        <item quantity="many">Возобновление через %d минут</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Приостановить синхронизацию фото, видео, контактов, заметок и других объектов с облаком на %d минут.</item>
+        <item quantity="one">Приостановить синхронизацию фото, видео, контактов, заметок и других объектов с облаком на %d минуту.</item>
+        <item quantity="few">Приостановить синхронизацию фото, видео, контактов, заметок и других объектов с облаком на %d минуты.</item>
+        <item quantity="many">Приостановить синхронизацию фото, видео, контактов, заметок и других объектов с облаком на %d минут.</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d фото и видео | %2$s</item>
+        <item quantity="one">%1$d фото или видео | %2$s</item>
+        <item quantity="few">%1$d фото и видео | %2$s</item>
+        <item quantity="many">%1$d фото и видео | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d фото и видео</item>
+        <item quantity="one">%1$d фото или видео</item>
+        <item quantity="few">%1$d фото и видео</item>
+        <item quantity="many">%1$d фото и видео</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+        <item quantity="few">%d фото</item>
+        <item quantity="many">%d фото</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Удалить %d не выбранных вами фото?</item>
+        <item quantity="one">Удалить %d не выбранное вами фото?</item>
+        <item quantity="few">Удалить %d не выбранных вами фото?</item>
+        <item quantity="many">Удалить %d не выбранных вами фото?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Удаление %d фото</item>
+        <item quantity="one">Удаление %d фото</item>
+        <item quantity="few">Удаление %d фото</item>
+        <item quantity="many">Удаление %d фото</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Оставить %d выбранных фото</item>
+        <item quantity="one">Оставить %d выбранное фото</item>
+        <item quantity="few">Оставить %d выбранных фото</item>
+        <item quantity="many">Оставить %d выбранных фото</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+        <item quantity="few">%d фото</item>
+        <item quantity="many">%d фото</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
+        <item quantity="few">%d видео</item>
+        <item quantity="many">%d видео</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">Не удалось синхронизировать %d объектов из-за нехватки места в облаке.</item>
+        <item quantity="one">Не удалось синхронизировать %d объект из-за нехватки места в облаке.</item>
+        <item quantity="few">Не удалось синхронизировать %d объекта из-за нехватки места в облаке.</item>
+        <item quantity="many">Не удалось синхронизировать %d объектов из-за нехватки места в облаке.</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Коллаж может содержать от %1$d-%2$d фото</item>
+        <item quantity="one">Коллаж может содержать от %1$d до %2$d фото</item>
+        <item quantity="few">Коллаж может содержать от %1$d-%2$d фото</item>
+        <item quantity="many">Коллаж может содержать от %1$d-%2$d фото</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Выберите до %d фото</item>
+        <item quantity="one">Выберите до %d фото</item>
+        <item quantity="few">Выберите до %d фото</item>
+        <item quantity="many">Выберите до %d фото</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+        <item quantity="few">Выбрано: %d</item>
+        <item quantity="many">Выбрано: %d</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Удалить %d снимков из Xiaomi Cloud и со всех синхронизированных устройств?</item>
+        <item quantity="one">Удалить %d снимок из Xiaomi Cloud и со всех синхронизированных устройств?</item>
+        <item quantity="few">Удалить %d снимка из Xiaomi Cloud и со всех синхронизированных устройств?</item>
+        <item quantity="many">Удалить %d снимков из Xiaomi Cloud и со всех синхронизированных устройств?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Удалить %d снимков?</item>
+        <item quantity="one">Удалить %d снимок?</item>
+        <item quantity="few">Удалить %d снимка?</item>
+        <item quantity="many">Удалить %d снимков?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">Удалено %d объектов</item>
+        <item quantity="one">Удален %d объект</item>
+        <item quantity="few">Удалено %d объекта</item>
+        <item quantity="many">Удалено %d объектов</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">Удалить %d объектов со всех устройств и из Xiaomi Cloud?</item>
+        <item quantity="one">Удалить %d объект со всех устройств и из Xiaomi Cloud?</item>
+        <item quantity="few">Удалить %d объекта со всех устройств и из Xiaomi Cloud?</item>
+        <item quantity="many">Удалить %d объектов со всех устройств и из Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">Удалить %d объектов?</item>
+        <item quantity="one">Удалить %d объект?</item>
+        <item quantity="few">Удалить %d объекта?</item>
+        <item quantity="many">Удалить %d объектов?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Удалить %d фото со всех устройств и из Xiaomi Cloud?</item>
+        <item quantity="one">Удалить %d фото со всех устройств и из Xiaomi Cloud?</item>
+        <item quantity="few">Удалить %d фото со всех устройств и из Xiaomi Cloud?</item>
+        <item quantity="many">Удалить %d фото со всех устройств и из Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Удалить %d снимков с вашего устройства?</item>
+        <item quantity="one">Удалить %d снимок с вашего устройства?</item>
+        <item quantity="few">Удалить %d снимка с вашего устройства?</item>
+        <item quantity="many">Удалить %d снимков с вашего устройства?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">Удалить %d видео со всех устройств и из Xiaomi Cloud?</item>
+        <item quantity="one">Удалить %d видео со всех устройств и из Xiaomi Cloud?</item>
+        <item quantity="few">Удалить %d видео со всех устройств и из Xiaomi Cloud?</item>
+        <item quantity="many">Удалить %d видео со всех устройств и из Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Не удалось загрузить %1$d файлов</item>
+        <item quantity="one">Не удалось загрузить %1$d файл</item>
+        <item quantity="few">Не удалось загрузить %1$d файла</item>
+        <item quantity="many">Не удалось загрузить %1$d файлов</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">Не удалось загрузить %1$d файлов, проверьте подключение и повторите попытку</item>
+        <item quantity="one">Не удалось загрузить %1$d файл, проверьте подключение и повторите попытку</item>
+        <item quantity="few">Не удалось загрузить %1$d файла, проверьте подключение и повторите попытку</item>
+        <item quantity="many">Не удалось загрузить %1$d файлов, проверьте подключение и повторите попытку</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Загрузка объектов из облака (%2$d из %1$d)</item>
+        <item quantity="one">Загрузка объектов из облака (%2$d из %1$d)</item>
+        <item quantity="few">Загрузка объектов из облака (%2$d из %1$d)</item>
+        <item quantity="many">Загрузка объектов из облака (%2$d из %1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">Всего %d фото</item>
+        <item quantity="one">Всего %d фото</item>
+        <item quantity="few">Всего %d фото</item>
+        <item quantity="many">Всего %d фото</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Обработка фото…</item>
+        <item quantity="one">Обработка фото…</item>
+        <item quantity="few">Обработка фото…</item>
+        <item quantity="many">Обработка фото…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">Пропущено %1$d фото, которые не могут быть отображены.</item>
+        <item quantity="one">Пропущено %1$d фото, которое не может быть отображено.</item>
+        <item quantity="few">Пропущено %1$d фото, которые не могут быть отображены.</item>
+        <item quantity="many">Пропущено %1$d фото, которые не могут быть отображены.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d файлов</item>
+        <item quantity="one">%1$d файл</item>
+        <item quantity="few">%1$d файла</item>
+        <item quantity="many">%1$d файлов</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+        <item quantity="one">Полчаса назад</item>
+        <item quantity="few">Полчаса назад</item>
+        <item quantity="many">Полчаса назад</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Через 1 час</item>
+        <item quantity="one">Через 1 час</item>
+        <item quantity="few">Через 1 час</item>
+        <item quantity="many">Через 1 час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Через полчаса</item>
+        <item quantity="one">Через полчаса</item>
+        <item quantity="few">Через полчаса</item>
+        <item quantity="many">Через полчаса</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Немедленно</item>
+        <item quantity="one">Немедленно</item>
+        <item quantity="few">Немедленно</item>
+        <item quantity="many">Немедленно</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d мин</item>
+        <item quantity="one">через 1 мин</item>
+        <item quantity="few">через %d мин</item>
+        <item quantity="many">через %d мин</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Только что</item>
+        <item quantity="one">Только что</item>
+        <item quantity="few">Только что</item>
+        <item quantity="many">Только что</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+        <item quantity="few">%d мин</item>
+        <item quantity="many">%d мин</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d с</item>
+        <item quantity="one">%d с</item>
+        <item quantity="few">%d с</item>
+        <item quantity="many">%d с</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+        <item quantity="few">Выбрано: %d</item>
+        <item quantity="many">Выбрано: %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d мин назад</item>
+        <item quantity="one">1 мин назад</item>
+        <item quantity="few">%d мин назад</item>
+        <item quantity="many">%d мин назад</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d объектов ожидают синхронизации</item>
+        <item quantity="one">%1$d объект ожидает синхронизации</item>
+        <item quantity="few">%1$d объекта ожидают синхронизации</item>
+        <item quantity="many">%1$d объектов ожидают синхронизации</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d фото</item>
+        <item quantity="one">%1$d фото</item>
+        <item quantity="few">%1$d фото</item>
+        <item quantity="many">%1$d фото</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d фото ожидают синхронизации</item>
+        <item quantity="one">%1$d фото ожидает синхронизации</item>
+        <item quantity="few">%1$d фото ожидают синхронизации</item>
+        <item quantity="many">%1$d фото ожидают синхронизации</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Синхронизация %1$d фото…</item>
+        <item quantity="one">Синхронизация %1$d фото…</item>
+        <item quantity="few">Синхронизация %1$d фото…</item>
+        <item quantity="many">Синхронизация %1$d фото…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Синхронизация %1$d объектов…</item>
+        <item quantity="one">Синхронизация %1$d объекта…</item>
+        <item quantity="few">Синхронизация %1$d объектов…</item>
+        <item quantity="many">Синхронизация %1$d объектов…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Синхронизация %1$d видео…</item>
+        <item quantity="one">Синхронизация %1$d видео…</item>
+        <item quantity="few">Синхронизация %1$d видео…</item>
+        <item quantity="many">Синхронизация %1$d видео…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d видео</item>
+        <item quantity="one">%1$d видео</item>
+        <item quantity="few">%1$d видео</item>
+        <item quantity="many">%1$d видео</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d видео ожидают синхронизации</item>
+        <item quantity="one">%1$d видео ожидает синхронизации</item>
+        <item quantity="few">%1$d видео ожидают синхронизации</item>
+        <item quantity="many">%1$d видео ожидают синхронизации</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+        <item quantity="few">%d фото</item>
+        <item quantity="many">%d фото</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">%1$d объектов</item>
+        <item quantity="one">%1$d объект</item>
+        <item quantity="few">%1$d объекта</item>
+        <item quantity="many">%1$d объектов</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Поворот на %d градусов</item>
+        <item quantity="one">Поворот на %d градус</item>
+        <item quantity="few">Поворот на %d градуса</item>
+        <item quantity="many">Поворот на %d градусов</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d дней</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d ч</item>
+        <item quantity="one">%d ч</item>
+        <item quantity="few">%d ч</item>
+        <item quantity="many">%d ч</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Отсортировано %d неподдерживаемых объектов</item>
+        <item quantity="one">Отсортирован %d неподдерживаемый объект</item>
+        <item quantity="few">Отсортировано %d неподдерживаемых объекта</item>
+        <item quantity="many">Отсортировано %d неподдерживаемых объектов</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF-файлы могут содержать не более %d изображений</item>
+        <item quantity="one">PDF-файлы могут содержать не более %d изображения</item>
+        <item quantity="few">PDF-файлы могут содержать не более %d изображений</item>
+        <item quantity="many">PDF-файлы могут содержать не более %d изображений</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Выбранных фото нет на устройстве. Загрузить через мобильный интернет?</item>
+        <item quantity="one">Выбранных фото нет на устройстве. Загрузить через мобильный интернет?</item>
+        <item quantity="few">Выбранных фото нет на устройстве. Загрузить через мобильный интернет?</item>
+        <item quantity="many">Выбранных фото нет на устройстве. Загрузить через мобильный интернет?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Выбранных фото нет на устройстве. Они будут загружены.</item>
+        <item quantity="one">Выбранных фото нет на устройстве. Они будут загружены.</item>
+        <item quantity="few">Выбранных фото нет на устройстве. Они будут загружены.</item>
+        <item quantity="many">Выбранных фото нет на устройстве. Они будут загружены.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Выбранных фото (%d МБ) нет на устройстве. Загрузить через мобильный интернет?</item>
+        <item quantity="one">Выбранных фото (%d МБ) нет на устройстве. Загрузить через мобильный интернет?</item>
+        <item quantity="few">Выбранных фото (%d МБ) нет на устройстве. Загрузить через мобильный интернет?</item>
+        <item quantity="many">Выбранных фото (%d МБ) нет на устройстве. Загрузить через мобильный интернет?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d файлов не были загружены. Отменить?</item>
+        <item quantity="one">%d файл не был загружен. Отменить?</item>
+        <item quantity="few">%d файла не были загружены. Отменить?</item>
+        <item quantity="many">%d файлов не были загружены. Отменить?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Осталось загрузить %d файлов</item>
+        <item quantity="one">Осталось загрузить %d файл</item>
+        <item quantity="few">Осталось загрузить %d файла</item>
+        <item quantity="many">Осталось загрузить %d файлов</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Не удалось загрузить %1$d фото. Подключитесь к сети и повторите попытку.</item>
+        <item quantity="one">Не удалось загрузить %1$d фото. Подключитесь к сети и повторите попытку.</item>
+        <item quantity="few">Не удалось загрузить %1$d фото. Подключитесь к сети и повторите попытку.</item>
+        <item quantity="many">Не удалось загрузить %1$d фото. Подключитесь к сети и повторите попытку.</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Не удалось загрузить %1$d файлов (%2$d МБ). Подключитесь к сети и повторите попытку.</item>
+        <item quantity="one">Не удалось загрузить %1$d файл (%2$d МБ). Подключитесь к сети и повторите попытку.</item>
+        <item quantity="few">Не удалось загрузить %1$d файла (%2$d МБ). Подключитесь к сети и повторите попытку.</item>
+        <item quantity="many">Не удалось загрузить %1$d файлов (%2$d МБ). Подключитесь к сети и повторите попытку.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d файлов (%2$d МБ) не были загружены. Загрузить через мобильный интернет?</item>
+        <item quantity="one">%1$d файл (%2$d МБ) не был загружен. Загрузить через мобильный интернет?</item>
+        <item quantity="few">%1$d файла (%2$d МБ) не были загружены. Загрузить через мобильный интернет?</item>
+        <item quantity="many">%1$d файлов (%2$d МБ) не были загружены. Загрузить через мобильный интернет?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Не удалось загрузить %1$d фото. Повторить попытку?</item>
+        <item quantity="one">Не удалось загрузить %1$d фото. Повторить попытку?</item>
+        <item quantity="few">Не удалось загрузить %1$d фото. Повторить попытку?</item>
+        <item quantity="many">Не удалось загрузить %1$d фото. Повторить попытку?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Не удалось загрузить %1$d фото (%2$d МБ). Повторить?</item>
+        <item quantity="one">Не удалось загрузить %1$d фото (%2$d МБ). Повторить?</item>
+        <item quantity="few">Не удалось загрузить %1$d фото (%2$d МБ). Повторить?</item>
+        <item quantity="many">Не удалось загрузить %1$d фото (%2$d МБ). Повторить?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Пропущено %d фото, которых нет на устройстве.</item>
+        <item quantity="one">Пропущено %d фото, которого нет на устройстве.</item>
+        <item quantity="few">Пропущено %d фото, которых нет на устройстве.</item>
+        <item quantity="many">Пропущено %d фото, которых нет на устройстве.</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Найдено %1$d новых фото</item>
+        <item quantity="one">Найдено %1$d новое фото</item>
+        <item quantity="few">Найдено %1$d новых фото</item>
+        <item quantity="many">Найдено %1$d новых фото</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Всего %d фото</item>
+        <item quantity="one">Всего %d фото</item>
+        <item quantity="few">Всего %d фото</item>
+        <item quantity="many">Всего %d фото</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">Ошибка удаления %2$d объектов из личного альбома. %1$s.</item>
+        <item quantity="one">Ошибка удаления %2$d объекта из личного альбома. %1$s.</item>
+        <item quantity="few">Ошибка удаления %2$d объектов из личного альбома. %1$s.</item>
+        <item quantity="many">Ошибка удаления %2$d объектов из личного альбома. %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">Добавлено %1$d фото в \"%2$s\" и в базу данных.</item>
+        <item quantity="one">Добавлено %1$d фото в \"%2$s\" и в базу данных.</item>
+        <item quantity="few">Добавлено %1$d фото в \"%2$s\" и в базу данных.</item>
+        <item quantity="many">Добавлено %1$d фото в \"%2$s\" и в базу данных.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">Удалено %1$d фото из \"%2$s\" и добавлено в базу данных.</item>
+        <item quantity="one">Удалено %1$d фото из \"%2$s\" и добавлено в базу данных.</item>
+        <item quantity="few">Удалено %1$d фото из \"%2$s\" и добавлено в базу данных.</item>
+        <item quantity="many">Удалено %1$d фото из \"%2$s\" и добавлено в базу данных.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">Добавлено %1$d фото в \"%2$s\".</item>
+        <item quantity="one">Добавлено %1$d фото в \"%2$s\".</item>
+        <item quantity="few">Добавлено %1$d фото в \"%2$s\".</item>
+        <item quantity="many">Добавлено %1$d фото в \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">Удалено %1$d фото из \"%2$s\".</item>
+        <item quantity="one">Удалено %1$d фото из \"%2$s\".</item>
+        <item quantity="few">Удалено %1$d фото из \"%2$s\".</item>
+        <item quantity="many">Удалено %1$d фото из \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d установочных пакетов (%3$s) от %1$s.</item>
+        <item quantity="one">%2$d установочный пакет (%3$s) от %1$s.</item>
+        <item quantity="few">%2$d установочных пакета (%3$s) от %1$s.</item>
+        <item quantity="many">%2$d установочных пакетов (%3$s) от %1$s.</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Получено %2$d установочных пакетов (%3$s) от %1$s.</item>
+        <item quantity="one">Получен %2$d установочный пакет (%3$s) от %1$s.</item>
+        <item quantity="few">Получено %2$d установочных пакета (%3$s) от %1$s.</item>
+        <item quantity="many">Получено %2$d установочных пакетов (%3$s) от %1$s.</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Получение %2$d установочных пакетов (%3$s) от %1$s…</item>
+        <item quantity="one">Получение %2$d установочного пакета (%3$s) от %1$s…</item>
+        <item quantity="few">Получение %2$d установочных пакетов (%3$s) от %1$s…</item>
+        <item quantity="many">Получение %2$d установочных пакетов (%3$s) от %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d аудиофайлов (%3$s) от %1$s.</item>
+        <item quantity="one">%2$d аудиофайл (%3$s) от %1$s.</item>
+        <item quantity="few">%2$d аудиофайла (%3$s) от %1$s.</item>
+        <item quantity="many">%2$d аудиофайлов (%3$s) от %1$s.</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Получено %2$d аудиофайлов (%3$s) от %1$s.</item>
+        <item quantity="one">Получен %2$d аудиофайл (%3$s) от %1$s.</item>
+        <item quantity="few">Получено %2$d аудиофайла (%3$s) от %1$s.</item>
+        <item quantity="many">Получено %2$d аудиофайлов (%3$s) от %1$s.</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Получение %2$d аудиофайлов (%3$s) от %1$s…</item>
+        <item quantity="one">Получение %2$d аудиофайла (%3$s) от %1$s…</item>
+        <item quantity="few">Получение %2$d аудиофайлов (%3$s) от %1$s…</item>
+        <item quantity="many">Получение %2$d аудиофайлов (%3$s) от %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d файлов %3$s (%4$s) от %1$s.</item>
+        <item quantity="one">%2$d файл %3$s (%4$s) от %1$s.</item>
+        <item quantity="few">%2$d файла %3$s (%4$s) от %1$s.</item>
+        <item quantity="many">%2$d файлов %3$s (%4$s) от %1$s.</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Получено %2$d файлов %3$s (%4$s) от %1$s.</item>
+        <item quantity="one">Получен %2$d файл %3$s (%4$s) от %1$s.</item>
+        <item quantity="few">Получено %2$d файла %3$s (%4$s) от %1$s.</item>
+        <item quantity="many">Получено %2$d файлов %3$s (%4$s) от %1$s.</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Получение %2$d файлов %3$s (%4$s) от %1$s…</item>
+        <item quantity="one">Получение %2$d файла %3$s (%4$s) от %1$s…</item>
+        <item quantity="few">Получение %2$d файлов %3$s (%4$s) от %1$s…</item>
+        <item quantity="many">Получение %2$d файлов %3$s (%4$s) от %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d изображений от %1$s.</item>
+        <item quantity="one">%2$d изображение от %1$s.</item>
+        <item quantity="few">%2$d изображения от %1$s.</item>
+        <item quantity="many">%2$d изображений от %1$s.</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Получено %2$d изображений от %1$s.</item>
+        <item quantity="one">Получено %2$d изображение от %1$s.</item>
+        <item quantity="few">Получено %2$d изображения от %1$s.</item>
+        <item quantity="many">Получено %2$d изображений от %1$s.</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Получение %2$d изображений от %1$s…</item>
+        <item quantity="one">Получение %2$d изображения от %1$s…</item>
+        <item quantity="few">Получение %2$d изображений от %1$s…</item>
+        <item quantity="many">Получение %2$d изображений от %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d изображений или видео от %1$s.</item>
+        <item quantity="one">%2$d изображение или видео от %1$s.</item>
+        <item quantity="few">%2$d изображения или видео от %1$s.</item>
+        <item quantity="many">%2$d изображений или видео от %1$s.</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Получено %2$d изображений или видео от %1$s.</item>
+        <item quantity="one">Получено %2$d изображение или видео от %1$s.</item>
+        <item quantity="few">Получено %2$d изображения или видео от %1$s.</item>
+        <item quantity="many">Получено %2$d изображений или видео от %1$s.</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Получение %2$d изображений или видео от %1$s…</item>
+        <item quantity="one">Получение %2$d изображения или видео от %1$s…</item>
+        <item quantity="few">Получение %2$d изображений или видео от %1$s…</item>
+        <item quantity="many">Получение %2$d изображений или видео от %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d файлов от %1$s.</item>
+        <item quantity="one">%2$d файл от %1$s.</item>
+        <item quantity="few">%2$d файла от %1$s.</item>
+        <item quantity="many">%2$d файлов от %1$s.</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Получено %2$d файлов от %1$s.</item>
+        <item quantity="one">Получен %2$d файл от %1$s.</item>
+        <item quantity="few">Получено %2$d файла от %1$s.</item>
+        <item quantity="many">Получено %2$d файлов от %1$s.</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Получение %2$d файлов от %1$s…</item>
+        <item quantity="one">Получение %2$d файла от %1$s…</item>
+        <item quantity="few">Получение %2$d файлов от %1$s…</item>
+        <item quantity="many">Получение %2$d файлов от %1$s…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">Не удалось отправить. Идет обработка %d фото…</item>
+        <item quantity="one">Не удалось отправить. Идет обработка %d фото…</item>
+        <item quantity="few">Не удалось отправить. Идет обработка %d фото…</item>
+        <item quantity="many">Не удалось отправить. Идет обработка %d фото…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d видео от %1$s.</item>
+        <item quantity="one">%2$d видео от %1$s.</item>
+        <item quantity="few">%2$d видео от %1$s.</item>
+        <item quantity="many">%2$d видео от %1$s.</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Получено %2$d видео от %1$s.</item>
+        <item quantity="one">Получено %2$d видео от %1$s.</item>
+        <item quantity="few">Получено %2$d видео от %1$s.</item>
+        <item quantity="many">Получено %2$d видео от %1$s.</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Получение %2$d видео от %1$s…</item>
+        <item quantity="one">Получение %2$d видео от %1$s…</item>
+        <item quantity="few">Получение %2$d видео от %1$s…</item>
+        <item quantity="many">Получение %2$d видео от %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d архивов (%3$s) от %1$s.</item>
+        <item quantity="one">%2$d архив (%3$s) от %1$s.</item>
+        <item quantity="few">%2$d архива (%3$s) от %1$s.</item>
+        <item quantity="many">%2$d архивов (%3$s) от %1$s.</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Получено %2$d архивов (%3$s) от %1$s.</item>
+        <item quantity="one">Получен %2$d архив (%3$s) от %1$s.</item>
+        <item quantity="few">Получено %2$d архива (%3$s) от %1$s.</item>
+        <item quantity="many">Получено %2$d архивов (%3$s) от %1$s.</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Получение %2$d архивов (%3$s) от %1$s…</item>
+        <item quantity="one">Получение %2$d архива (%3$s) от %1$s…</item>
+        <item quantity="few">Получение %2$d архивов (%3$s) от %1$s…</item>
+        <item quantity="many">Получение %2$d архивов (%3$s) от %1$s…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Загружено %d фото</item>
+        <item quantity="one">Загружено %d фото</item>
+        <item quantity="few">Загружено %d фото</item>
+        <item quantity="many">Загружено %d фото</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d комнат</item>
+        <item quantity="one">%1$d комната</item>
+        <item quantity="few">%1$d комнаты</item>
+        <item quantity="many">%1$d комнат</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d экрана</item>
+        <item quantity="one">%1$d экран</item>
+        <item quantity="few">%1$d экрана</item>
+        <item quantity="many">%1$d экранов</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d экранов</item>
+        <item quantity="one">%1$d экран</item>
+        <item quantity="few">%1$d экрана</item>
+        <item quantity="many">%1$d экранов</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d общих экранов</item>
+        <item quantity="one">%1$d общий экран</item>
+        <item quantity="few">%1$d общих экрана</item>
+        <item quantity="many">%1$d общих экранов</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d объектов слишком велики для синхронизации</item>
+        <item quantity="one">%d объект слишком велик для синхронизации</item>
+        <item quantity="few">%d объекта слишком велики для синхронизации</item>
+        <item quantity="many">%d объектов слишком велики для синхронизации</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">Не удалось синхронизировать %d объектов. Улучшите план хранилища.</item>
+        <item quantity="one">Не удалось синхронизировать %d объект. Улучшите план хранилища.</item>
+        <item quantity="few">Не удалось синхронизировать %d объекта. Улучшите план хранилища.</item>
+        <item quantity="many">Не удалось синхронизировать %d объектов. Улучшите план хранилища.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">Не удалось синхронизировать %d объектов. Повторите попытку.</item>
+        <item quantity="one">Не удалось синхронизировать %d объект. Повторите попытку.</item>
+        <item quantity="few">Не удалось синхронизировать %d объекта. Повторите попытку.</item>
+        <item quantity="many">Не удалось синхронизировать %d объектов. Повторите попытку.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">Не удалось синхронизировать %d объектов. Облачное хранилище владельца этого альбома заполнено.</item>
+        <item quantity="one">Не удалось синхронизировать %d объект. Облачное хранилище владельца этого альбома заполнено.</item>
+        <item quantity="few">Не удалось синхронизировать %d объекта. Облачное хранилище владельца этого альбома заполнено.</item>
+        <item quantity="many">Не удалось синхронизировать %d объектов. Облачное хранилище владельца этого альбома заполнено.</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d секунд</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунды</item>
+        <item quantity="many">%1$d секунд</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">Оптимизировано %d фото</item>
+        <item quantity="one">Оптимизировано %d фото</item>
+        <item quantity="few">Оптимизировано %d фото</item>
+        <item quantity="many">Оптимизировано %d фото</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">Оптимизировано %d фото</item>
+        <item quantity="one">Оптимизировано %d фото</item>
+        <item quantity="few">Оптимизировано %d фото</item>
+        <item quantity="many">Оптимизировано %d фото</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">Оптимизировано %d видео</item>
+        <item quantity="one">Оптимизировано %d видео</item>
+        <item quantity="few">Оптимизировано %d видео</item>
+        <item quantity="many">Оптимизировано %d видео</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d фото не оптимизировано. Остановить?</item>
+        <item quantity="one">%d фото не оптимизировано. Остановить?</item>
+        <item quantity="few">%d фото не оптимизировано. Остановить?</item>
+        <item quantity="many">%d фото не оптимизировано. Остановить?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+        <item quantity="few">%d фото</item>
+        <item quantity="many">%d фото</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">Осталось %d фото</item>
+        <item quantity="one">Осталось %d фото</item>
+        <item quantity="few">Осталось %d фото</item>
+        <item quantity="many">Осталось %d фото</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">Можно оптимизировать еще %d объектов</item>
+        <item quantity="one">Можно оптимизировать еще %d объект</item>
+        <item quantity="few">Можно оптимизировать еще %d объекта</item>
+        <item quantity="many">Можно оптимизировать еще %d объектов</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
+        <item quantity="few">%d видео</item>
+        <item quantity="many">%d видео</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">Не выгружено %d фото или видео</item>
+        <item quantity="one">Не выгружено %d фото или видео</item>
+        <item quantity="few">Не выгружено %d фото или видео</item>
+        <item quantity="many">Не выгружено %d фото или видео</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d слишком больших объектов</item>
+        <item quantity="one">%d слишком большой объект</item>
+        <item quantity="few">%d слишком больших объекта</item>
+        <item quantity="many">%d слишком больших объектов</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d объектов</item>
+        <item quantity="one">%d объект</item>
+        <item quantity="few">%d объекта</item>
+        <item quantity="many">%d объектов</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">Синхронизированно %d фото</item>
+        <item quantity="one">Синхронизированно %d фото</item>
+        <item quantity="few">Синхронизированно %d фото</item>
+        <item quantity="many">Синхронизированно %d фото</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">Синхронизированно %d видео</item>
+        <item quantity="one">Синхронизированно %d видео</item>
+        <item quantity="few">Синхронизированно %d видео</item>
+        <item quantity="many">Синхронизированно %d видео</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Синхронизация %d объектов через мобильный интернет</item>
+        <item quantity="one">Синхронизация %d объекта через мобильный интернет</item>
+        <item quantity="few">Синхронизация %d объектов через мобильный интернет</item>
+        <item quantity="many">Синхронизация %d объектов через мобильный интернет</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Синхронизция %d объектов</item>
+        <item quantity="one">Синхронизция %d объекта</item>
+        <item quantity="few">Синхронизция %d объектов</item>
+        <item quantity="many">Синхронизция %d объектов</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s объектов</item>
+        <item quantity="one">%1$s, %2$s объект</item>
+        <item quantity="few">%1$s, %2$s объекта</item>
+        <item quantity="many">%1$s, %2$s объектов</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+        <item quantity="few">%d days</item>
+        <item quantity="many">%d days</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d months</item>
+        <item quantity="one">%d month</item>
+        <item quantity="few">%d months</item>
+        <item quantity="many">%d months</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d years</item>
+        <item quantity="one">%d year</item>
+        <item quantity="few">%d years</item>
+        <item quantity="many">%d years</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d выбранных объектов будут удалены из облака и со всех синхронизированных устройств без возможности восстановления. Удалить их?</item>
+        <item quantity="one">%d выбранный объект будет удален из облака и со всех синхронизированных устройств без возможности восстановления. Удалить его?</item>
+        <item quantity="few">%d выбранных объекта будут удалены из облака и со всех синхронизированных устройств без возможности восстановления. Удалить их?</item>
+        <item quantity="many">%d выбранных объектов будут удалены из облака и со всех синхронизированных устройств без возможности восстановления. Удалить их?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Вы не сможете восстановить %d выбранных объектов после удаления. Удалить?</item>
+        <item quantity="one">Вы не сможете восстановить %d выбранный объект после удаления. Удалить?</item>
+        <item quantity="few">Вы не сможете восстановить %d выбранных объекта после удаления. Удалить?</item>
+        <item quantity="many">Вы не сможете восстановить %d выбранных объектов после удаления. Удалить?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d выбранных объектов будут удалены без возможности восстановления. Удалить их?</item>
+        <item quantity="one">%d выбранный объект будет удален без возможности восстановления. Удалить его?</item>
+        <item quantity="few">%d выбранных объекта будут удалены без возможности восстановления. Удалить их?</item>
+        <item quantity="many">%d выбранных объектов будут удалены без возможности восстановления. Удалить их?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Вы не сможете восстановить %d выбранных объектов после удаления. Удалить?</item>
+        <item quantity="one">Вы не сможете восстановить %d выбранный объект после удаления. Удалить?</item>
+        <item quantity="few">Вы не сможете восстановить %d выбранных объекта после удаления. Удалить?</item>
+        <item quantity="many">Вы не сможете восстановить %d выбранных объектов после удаления. Удалить?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Вы не сможете восстановить %d выбранных объектов после удаления. Удалить?</item>
+        <item quantity="one">Вы не сможете восстановить %d выбранный объект после удаления. Удалить?</item>
+        <item quantity="few">Вы не сможете восстановить %d выбранных объекта после удаления. Удалить?</item>
+        <item quantity="many">Вы не сможете восстановить %d выбранных объектов после удаления. Удалить?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Объекты могут быть сохранены здесь в течение %1$d дней (%2$s)</item>
+        <item quantity="one">Объекты могут быть сохранены здесь в течение %1$d дня (%2$s)</item>
+        <item quantity="few">Объекты могут быть сохранены здесь в течение %1$d дней (%2$s)</item>
+        <item quantity="many">Объекты могут быть сохранены здесь в течение %1$d дней (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Объекты могут быть сохранены здесь в течение %1$d дней. Обновите план подписки для увеличения этого срока.</item>
+        <item quantity="one">Объекты могут быть сохранены здесь в течение %1$d дня. Обновите план подписки для увеличения этого срока.</item>
+        <item quantity="few">Объекты могут быть сохранены здесь в течение %1$d дней. Обновите план подписки для увеличения этого срока.</item>
+        <item quantity="many">Объекты могут быть сохранены здесь в течение %1$d дней. Обновите план подписки для увеличения этого срока.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d файлов</item>
+        <item quantity="one">%1$d файл</item>
+        <item quantity="few">%1$d файла</item>
+        <item quantity="many">%1$d файлов</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
+        <item quantity="few">%d видео</item>
+        <item quantity="many">%d видео</item>
+    </plurals>
+</resources>

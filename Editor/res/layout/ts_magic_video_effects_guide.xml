@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_width="1.0dip" android:layout_height="@dimen/magic_status_bar_height" />
+    <RelativeLayout android:id="@id/banner" android:background="#00000000" android:layout_width="fill_parent" android:layout_height="@dimen/magic_top_bar">
+        <RelativeLayout android:id="@id/idp_se_cancel" android:layout_width="wrap_content" android:layout_height="fill_parent" android:onClick="onClick">
+            <ImageView android:id="@id/iv_video_effect_back" android:layout_width="@dimen/magic_px_57_03" android:layout_height="@dimen/magic_px_38_67" android:src="@drawable/magic_back" android:layout_centerVertical="true" android:contentDescription="@string/cd_btn_back" android:layout_marginStart="@dimen/magic_padding_80" />
+        </RelativeLayout>
+        <TextView android:textSize="@dimen/magic_title_size" android:textColor="@color/white" android:gravity="center" android:id="@id/idp_se_save" android:layout_width="@dimen/magic_title_width" android:layout_height="@dimen/magic_title_height" android:text="@string/magic_effect_video_text" android:layout_centerInParent="true" android:onClick="onClick" android:fontFamily="mipro-medium" />
+    </RelativeLayout>
+    <ScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/magic_video_guide" android:layout_width="fill_parent" android:layout_height="wrap_content" android:onClick="onClick">
+            <View android:id="@id/magic_guide_empty_top" android:layout_width="1.0dip" android:layout_height="@dimen/magic_video_guide_margin_t" />
+            <RelativeLayout android:id="@id/content" android:layout_width="@dimen/magic_video_guide_car_width" android:layout_height="wrap_content" android:onClick="onClick">
+                <TextureView android:id="@id/magic_video_guide_view" android:layout_width="@dimen/magic_video_guide_car_width" android:layout_height="@dimen/magic_video_guide_height_body" android:layout_centerHorizontal="true" android:contentDescription="@string/acc_renxiangtexiaoshipin" />
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/magic_video_guide_car" android:background="@color/color_222222" android:layout_width="@dimen/magic_video_guide_car_width" android:layout_height="@dimen/magic_video_guide_height_card" android:layout_below="@id/magic_video_guide_view">
+                    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@color/color_222222" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:paddingStart="@dimen/magic_padding_68">
+                        <TextView android:textSize="@dimen/magic_list_item_title_size" android:textColor="@color/white" android:ellipsize="marquee" android:id="@id/magic_list_item_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/magic_special_guide_title" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:fallbackLineSpacing="false" style="@style/magic_style_medium" />
+                        <TextView android:textSize="@dimen/magic_list_item_dsc_size" android:textColor="@color/white_60" android:ellipsize="marquee" android:id="@id/magic_list_item_dsc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/magic_special_guide_text" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:fallbackLineSpacing="false" style="@style/magic_style_medium" />
+                    </LinearLayout>
+                    <TextView android:textSize="@dimen/magic_px_40" android:textColor="@color/black" android:ellipsize="marquee" android:gravity="center" android:id="@id/tv_video_make" android:background="@drawable/select_tv_video_make_bg" android:layout_width="@dimen/magic_matting_width_210" android:layout_height="@dimen/magic_px_100" android:text="@string/magic_video_make" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:onClick="onClick" android:paddingStart="@dimen/magic_px_36" android:paddingEnd="@dimen/magic_px_36" android:layout_marginStart="@dimen/magic_padding_68" android:layout_marginEnd="@dimen/magic_70px" style="@style/magic_style_medium" />
+                </LinearLayout>
+            </RelativeLayout>
+            <View android:layout_width="1.0dip" android:layout_height="@dimen/magic_video_guide_margin_b" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/action_button_merge_face_light" android:id="@id/action_merge_face_album" android:title="@string/merge_album" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/action_button_remove_face_light" android:id="@id/action_ignore_face_album" android:title="@string/ignore_album" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/action_button_group_light" android:id="@id/action_set_group" android:title="@string/set_group" android:showAsAction="ifRoom" />
+</menu>

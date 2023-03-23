@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Oq</item>
+        <item>To‘q ko‘k</item>
+        <item>Ochiq ko‘k</item>
+        <item>Qizil</item>
+        <item>Yashil</item>
+        <item>Pushti</item>
+        <item>Jigar rang</item>
+        <item>Kul rang</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Suratni tanlang</item>
+        <item>Shaffof fon</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Erkin</item>
+        <item>Shabada</item>
+        <item>Orzular</item>
+        <item>Bulutlar</item>
+        <item>Fikrlar</item>
+        <item>Kurtaklari</item>
+        <item>Metamorfoz</item>
+        <item>Chuqurlik</item>
+        <item>Ko‘zgular</item>
+        <item>Minimalist</item>
+        <item>Sir</item>
+        <item>Tuman</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Futuristik geometrik fon</item>
+        <item>Qadimgi bosh nashrlarning atmosferasi</item>
+        <item>Fonlarni eskizlarga aylantiring</item>
+        <item>Akvarel uslubdagi fonlar</item>
+        <item>Cyberpunk retro</item>
+        <item>Noto‘g‘ri vertikal segmentlar</item>
+        <item>Xira</item>
+        <item>Futuristik stil</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Pastki poli</item>
+        <item>Naqsh</item>
+        <item>Chizma</item>
+        <item>Akvarel</item>
+        <item>RGB</item>
+        <item>Pardalar</item>
+        <item>Tumanli oyna</item>
+        <item>Texnologiya</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Rangli loyiha</item>
+        <item>Kesikli kontur</item>
+        <item>Floresan konturi</item>
+        <item>Rangli soya</item>
+        <item>Elektr to‘lqini</item>
+        <item>Joriy</item>
+        <item>To‘lqinlar</item>
+        <item>Zarralar</item>
+        <item>Matn</item>
+        <item>Qanotlar</item>
+        <item>Farishta</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Two cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+</resources>

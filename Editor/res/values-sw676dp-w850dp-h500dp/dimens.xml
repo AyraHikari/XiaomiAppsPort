@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chooser_item_cell_margin">58.179993dip</dimen>
+    <dimen name="crop_menu_top_panel_margin_start_or_end">56.359985dip</dimen>
+    <dimen name="editor_capsule_background_padding_horizontal">24.799988dip</dimen>
+    <dimen name="editor_confirm_button_margin_horizontal">43.639984dip</dimen>
+    <dimen name="editor_confirm_menu_height">127.26999dip</dimen>
+    <dimen name="editor_crop_menu_item_size">76.359985dip</dimen>
+    <dimen name="editor_menu_bottom_region_height">127.26999dip</dimen>
+    <dimen name="editor_menu_crop_content_guide_line_end">127.26999dip</dimen>
+    <dimen name="editor_menu_crop_top_guide_line_end">203.63998dip</dimen>
+    <dimen name="editor_menu_discard_confirm_margin_horizontal_outer">54.549988dip</dimen>
+    <dimen name="editor_menu_doodle_paint_view_margin_start">47.26999dip</dimen>
+    <dimen name="editor_menu_filter_top_guide_line_end">203.63998dip</dimen>
+    <dimen name="editor_menu_sticker_content_guide_end">121.81998dip</dimen>
+    <dimen name="editor_menu_sticker_top_guide_end">252.72998dip</dimen>
+    <dimen name="editor_menu_zone_height">314.54688dip</dimen>
+    <dimen name="fast_share_height">368.3125dip</dimen>
+</resources>

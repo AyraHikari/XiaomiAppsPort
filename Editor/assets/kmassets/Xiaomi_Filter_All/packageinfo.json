@@ -1,0 +1,19 @@
+{
+ "assetName": {
+  "en": "nexeditorsdk LUT"
+ },
+ "format": "com.kinemaster.assetpackage",
+ "itemRoots": [
+   "filter/lut_xiaomi_bai",
+   "filter/lut_xiaomi_gmi",
+   "filter/lut_xiaomi_gse",
+   "filter/lut_xiaomi_gshi",
+   "filter/lut_xiaomi_lu",
+   "filter/lut_xiaomi_ncha",
+   "filter/lut_xiaomi_opian",
+   "filter/lut_xiaomi_osenlin"
+ ],
+ "minVersionCode": 2,
+ "packageContentVersion": 1,
+ "targetVersionCode": 4
+}

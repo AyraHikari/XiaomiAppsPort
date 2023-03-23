@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center" android:id="@id/rl_top_bar" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:paddingEnd="@dimen/movie_action_bar_horizontal_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/Miuix.AppCompat.TextAppearance.Widget.ActionMode.Title" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/movie_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_centerVertical="true" android:layout_alignWithParentIfMissing="true" android:contentDescription="@string/movie_return" android:drawableStart="?android:homeAsUpIndicator" android:layout_alignParentStart="true" />
+    <ImageView android:id="@id/movie_share" android:padding="@dimen/movie_action_bar_horizontal_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?actionBarSendIcon" android:layout_centerVertical="true" android:contentDescription="@string/movie_preview_share_title" android:layout_alignParentEnd="true" />
+</RelativeLayout>

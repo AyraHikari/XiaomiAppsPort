@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/common_beauty_menu_item_corner_size" />
+    <solid android:color="@color/color_common_beauty_menu_selected_background" />
+</shape>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="100.0dip" android:width="100.0dip" android:viewportWidth="240.0" android:viewportHeight="240.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="wave1" android:fillColor="@color/bg_device_xiaomi" android:pathData="@string/wave_path_1" android:fillAlpha="1.0" />
+    <path android:name="wave2" android:fillColor="@color/bg_device_xiaomi" android:pathData="@string/wave_path_1" android:fillAlpha="1.0" />
+    <path android:name="wave3" android:fillColor="@color/bg_device_xiaomi" android:pathData="@string/wave_path_1" android:fillAlpha="1.0" />
+</vector>

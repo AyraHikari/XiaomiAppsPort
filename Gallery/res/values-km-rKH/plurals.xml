@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">កន្លះ​ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">ក្នុង​រយៈពេល 1 ម៉ោង</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ក្នុង​រយៈពេល​កន្លះ​ម៉ោង</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ភ្លាមៗ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">ក្នុងរយៈពេល %d នាទី</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">អម្បាញ់មិញនេះ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d នាទីមុន</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">បន្ថែមធាតុទាំងនេះទៅអាល់ប៊ុមឯកជនឬ?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">បាន​បន្ថែម​រូបថត %d សន្លឹក ដើម្បី​មើល​បាន សូមបិទ\"បង្ហាញ​តែ​​អាល់ប៊ុម\"​។</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">ធាតុ​ចំនួន %2$d មិន​អាច​បន្ថែមទៅក្នុង​អាល់ប៊ុមបាន។ %1$s។</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">ធាតុ​ចំនួន %2$d មិនអាចបន្ថែមទៅអាល់ប៊ុមឯកជនបានទេ។ %1$s។</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d ខែ</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">បាន​ចែករំលែក​ទៅកាន់មនុស្ស %d នាក់</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">រូបថត %d សន្លឹក</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">ធាតុ​ចំនួន %1$d | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d ធាតុ)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d អាល់ប៊ុម</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">មានមនុស្ស %s នាក់អាចមើលអាល់ប៊ុមនេះបាន</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d អាល់ប៊ុម ដែលរួមមាន %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">ធាតុ %1$d</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">អនុស្សាវរីយ៍ចំនួន %d</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d រូបថត​របស់ %2$s នឹង​មាន​ការបន្ថែម</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d រូបថត​របស់ %2$s នឹង​មាន​ការបន្ថែម</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">ចាប់បន្ត​ការបម្រុងទុក​ក្នុង​រយៈពេល %d ម៉ោង</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">ធាតុ%d ធំពេកសម្រាប់ការបម្រុងទុក</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">នឹងបន្តក្នុងរយៈពេល %d នាទី</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">ផ្អាកការធ្វើសមកាលកម្មរូបថត វីដេអូ ឈ្មោះទំនាក់ទំនង កំណត់ត្រា និងធាតុផ្សេងទៀតជាមួយ Cloud រយៈពេល​ %d នាទី។</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">រូបថត និងវីដេអូ %1$d | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">រូបថត និងវីដេអូ %1$d</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">រូបថត %d សន្លឹក</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">លុបចោល​រូបថតទាំង %d ដែលអ្នកមិនបានជ្រើសរើសឬ?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">លុបចោល​រូបថត %d សន្លឹក</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">រក្សាទុករូបថត %d សន្លឹកដែលបានជ្រើសរើស</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">រូបថត %d សន្លឹក</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">វីដេអូ %d</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">មិនអាចធ្វើសមកម្មធាតុ %d បានទេ ដោយសារអង្គផ្ទុក Cloud មិនគ្រប់គ្រាន់</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">បង្គុំរូបអាចផ្ទុកមាន %1$d-%2$d រូបថត</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">ជ្រើសរើស​រូបថត​ពី %d</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">បានជ្រើសរើសធាតុ​ចំនួន %d</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">លុបរូបថតរហ័ស %d ពី Xiaomi Cloud និងឧបករណ៍ដែលបានធ្វើសមកាលកម្មទាំងអស់ឬ?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">លុបរូបថតរហ័ស %d ផ្ទាំងនេះឬ?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">ធាតុ %d ត្រូវបានលុប</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">លុបចោល​ធាតុ​​ចំនួន %d ចេញពី​គ្រប់​ឧបករណ៍​ទាំងអស់ និង​ Xiaomi Cloud​ ឬ?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">លុបចោល​ធាតុ​ចំនួន %d?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">លុបចោល​រូបថត​​ចំនួន %d សន្លឹក​ចេញពី​គ្រប់​ឧបករណ៍​ទាំងអស់ និង​ Xiaomi Cloud ឬ?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">លុបរូបថតរហ័ស %d ផ្ទាំងពីឧបករណ៍របស់អ្នកឬ?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">លុបចោល​វីដេអូ​​ចំនួន %d ខ្សែ​ចេញពី​គ្រប់​ឧបករណ៍​ទាំងអស់ និង​ Xiaomi Cloud​ ឬ?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">មិនអាចទាញយក​ឯកសារ​ចំនួន %1$d បាន</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">​ឯកសារ​ចំនួន %1$d មិន​អាច​ទាញយកបាន សូមពិនិត្យមើលការតភ្ជាប់​បណ្ដាញ​ ហើយ​ព្យាយាម​ម្ដងទៀត</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">កំពុងទាញយកធាតុពី Cloud (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">សរុប​ចំនួន​រូបថត %d</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">កំពុង​ដំណើរការ​រូបថត…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">បាន​រំលង​រូបថត %1$d សន្លឹក​ដែល​មិន​អាច​មាន​ការនាំយកទៅបាន។</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">ឯកសារ %1$d</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">កន្លះ​ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">ក្នុងរយៈពេល 1 ម៉ោង</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ក្នុង​រយៈពេល​កន្លះ​ម៉ោង</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ភ្លាមៗ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d នាទី</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">គ្រាន់តែឥឡូវនេះ</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d នាទី</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d វិនាទី</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">បានជ្រើសរើសធាតុ​ចំនួន %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d នាទីមុន</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">ធាតុ %1$d កំពុងរង់ចាំការធ្វើសមកាលកម្ម</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">រូបថត %1$d សន្លឹក</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">រូបថត %1$d កំពុងរង់ចាំការធ្វើសមកាលកម្ម</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">កំពុងធ្វើសមកាលកម្មរូបថត %1$d …</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">កំពុងធ្វើសមកាលកម្មធាតុ %1$d …</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">កំពុងធ្វើសមកាលកម្មវីដេអូ %1$d …</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">វីដេអូចំនួន %1$d ខ្សែ</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">វីដេអូ %1$d កំពុងរង់ចាំការធ្វើសមកាលកម្ម</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d រូបថត</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">សរុប​ចំនួនធាតុ %1$d</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">បង្វិលអេក្រង់ %d ដឺក្រេ</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d ម៉ោង</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">បានត្រងស្រង់ធាតុដែលមិនគាំទ្រ %d</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">ឯកសារ PDF អាចផ្ទុករូបភាពរហូតដល់ %d</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">រូបថត​​ដែល​បាន​ជ្រើសរើស​មិន​មាន​នៅក្នុង​ឧបករណ៍​ទេ។ ទាញយក​វា​ដោយ​ប្រើ​ទិន្នន័យចល័ត?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">រូបថត​​ដែល​បាន​ជ្រើសរើស​មិន​មាន​នៅក្នុង​ឧបករណ៍​ទេ។ នឹង​មាន​ការទាញយក​រូបថត​ទាំងនោះ។</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">រូបថត​​ដែល​បាន​ជ្រើសរើស (%d MB) ​មិន​មាន​នៅក្នុង​ឧបករណ៍​ទេ។ ទាញយក​វា​ដោយ​ប្រើ​ទិន្នន័យចល័តឬ?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">ឯកសារ %d មិនទាន់ត្រូវបានទាញយកបានសម្រេចទេ។ នៅតែបោះបង់ឬ?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">កំពុងទាញយក %d ឯកសារដែលនៅសល់</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">​រូបថត %1$d សន្លឹក​មិន​អាច​ទាញយកបាន សូមតភ្ជាប់​បណ្ដាញ ហើយ​ព្យាយាម​ម្ដងទៀត</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">មិន​អាច​ទាញយក​ឯកសារ %1$d (%2$d MB) បាន។ សូមភ្ជាប់​បណ្ដាញ​អ៊ីនធឺណិត ហើយ​ព្យាយាម​ម្ដងទៀត។</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">ឯកសារ %1$d (%2$d MB) មិនទាន់បានទាញយកនៅឡើយទេ។ ទាញយកដោយប្រើទិន្នន័យចល័តឬ?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">រូបថត %1$d សន្លឹក​មិនអាចទាញយកបាន ព្យាយាមម្តងទៀតឬ?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">រូបថត %1$d សន្លឹក (%2$d MB) មិនអាចទាញយកបាន ព្យាយាមម្តងទៀតឬ?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">បាន​រំលង​រូបថត​ចំនួន %d សន្លឹក​ដែល​មិន​មាន​នៅក្នុង​ឧបករណ៍​ទេ។</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">រកឃើញ​មាន​រូបថត​ថ្មី​ចំនួន %1$d សន្លឹក</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">សរុប​ចំនួន​រូបថត %d</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">ធាតុ​ចំនួន %2$d មិន​អាចយកចេញពី​អាល់ប៊ុម​ឯកជនបាន។ ដោយសារ %1$s។</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">បាន​បន្ថែម​​រូបថត​ចំនួន %1$d សន្លឹក​ទៅក្នុង \"%2$s” និង​បាន​បន្ថែម​ចូលក្នុង​មូលដ្ឋាន​ទិន្នន័យ។</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">បាន​ដក​រូបថត​ចំនួន %1$d សន្លឹក​ចេញ​ពី \"%2$s” និង​បាន​បន្ថែម​ចូលក្នុង​មូលដ្ឋាន​ទិន្នន័យ។</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">បាន​បន្ថែម​រូបថត​ចំនួន %1$d សន្លឹក​ទៅក្នុង \"%2$s\"។</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">បាន​ដក​រូបថត​ចំនួន %1$d សន្លឹក​ចេញ​ពី \"%2$s\"។</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d កញ្ចប់ដំឡើងកម្មវិធី (%3$s) មកពី %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">បានទទួល %2$d កញ្ចប់ដំឡើងកម្មវិធី (%3$s) មកពី %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">កំពុងទទួល %2$d កញ្ចប់ដំឡើងកម្មវិធី (%3$s) មកពី %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d ឯកសារសម្លេង (%3$s) មកពី %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">បានទទួល %2$d ឯកសារសម្លេង (%3$s) មកពី %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">កំពុងទទួល %2$d ឯកសារសម្លេង (%3$s) មកពី %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s ឯកសារ (%4$s) មកពី %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">បានទទួល %2$d %3$s ឯកសារ (%4$s) មកពី %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">កំពុងទទួល %2$d %3$s ឯកសារ (%4$s) មកពី %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d រូបភាពមកពី %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">បានទទួល %2$d រូបភាពដែលមកពី %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">កំពុងទទួល %2$d រូបភាពដែលមកពី %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d រូបភាព​ និងវីដេអូមកពី %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">បានទទួល %2$d រូបភាព​ និងវីដេអូដែលមកពី %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">កំពុងទទួល %2$d រូបភាព​ និងវីដេអូដែលមកពី %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d ឯកសារមកពី %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">បានទទួល %2$d ឯកសារដែលមកពី %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">កំពុងទទួល %2$d ឯកសារដែលមកពី %1$s…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">មិន​អាច​ចែករំលែកបាន។ រូបថតចំនួន %d សន្លឹកនៅកំពុង​ដំណើរការ​…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d វីដេអូមកពី %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">បានទទួល %2$d វីដេអូដែលមកពី %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">កំពុងទទួល %2$d វីដេអូដែលមកពី %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d ប័ណ្ណសារ (%3$s) មកពី %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">បានទទួល %2$d ប័ណ្ណសារ (%3$s) មកពី %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">កំពុងទទួល %2$d ប័ណ្ណសារ (%3$s) មកពី %1$s…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">បានបង្ហោះរូបថត %d សន្លឹក</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d បន្ទប់</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d អេក្រង់</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d អេក្រង់</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">អេក្រង់ដែលបានចែករំលែក %1$d</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">មិនអាចធ្វើសមកាលកម្មបាន ដោយសារចំនួន %d ធាតុមានទំហំធំខ្លាំងពេក</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">មិនអាចធ្វើសមកាលកម្ម %d ធាតុបាន។ សូមដំឡើងគម្រោងឧបករណ៍ផ្ទុករបស់អ្នក។</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">មិនអាចធ្វើសមកាលកម្ម %d ធាតុបាន។ ព្យាយាមម្ដងទៀត។</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">មិនអាចធ្វើសមកាលកម្ម %d ធាតុបាន។ ម្ចាស់អាល់ប៊ុមនេះអស់ចន្លោះអង្គផ្ទុកលើ Cloud ហើយ។</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d វិនាទី</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">បានបង្កើនប្រសិទ្ធភាពរូបថត %d សន្លឹក</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">បានបង្កើនប្រសិទ្ធភាព %d រូបថត</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">បានបង្កើនប្រសិទ្ធភាព %d វីដេអូ</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">មិនបានបង្កើនប្រសិទ្ធភាព​រូបថត %d សន្លឹក។ បញ្ឈប់ឥឡូវនេះ?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d រូបថត</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">នៅសល់រូបថត %d សន្លឹក</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">នៅសល់ %d ធាតុដើម្បីបង្កើនប្រសិទ្ធភាព</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d វីដេអូ</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">មិន​ទាន់​បាន​បម្រុង​ទុក​រូបថត និង​វីដេអូ​ចំនួន %d សន្លឹក</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">ធាតុ%dធំពេកសម្រាប់បម្រុងទុក</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d ធាតុ</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">បានធ្វើសមកាលកម្ម %d រូបថត</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">បានធ្វើសមកាលកម្ម %d វីដេអូ</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">ការធ្វើសមកាលកម្មធាតុ %d ដោយប្រើទិន្នន័យចល័ត</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">កំពុងធ្វើសមកាលកម្មធាតុ %d</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s ធាតុ</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d ខែ</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d ធាតុដែលបានជ្រើសរើសនឹងត្រូវបានលុបចោលជាអចិន្ត្រៃយ៍ពី Cloud និងឧបករណ៍ដែលបានធ្វើសមកាលកម្មទាំងអស់។ នៅតែលុបឬ?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">អ្នក​នឹង​មិន​អាច​ស្តារ​ធាតុ​ដែល​បាន​ជ្រើសរើស​ទាំង​ %d ឡេីង​វិញ​បាន​ទេ​ ប្រសិន​បើ​លុប​ពួក​វា​ចោល​។ នៅ​តែ​លុប​ចោល​ឬ?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d ធាតុដែលបានជ្រើសរើសនឹងត្រូវបានលុបចោលជាអចិន្ត្រៃយ៍។ នៅតែលុបឬ?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">អ្នក​នឹង​មិន​អាច​ស្តារ​ធាតុ​ដែល​បាន​ជ្រើសរើស​ទាំង​ %d ឡេីង​វិញ​បាន​ទេ​ ប្រសិន​បើ​លុប​ពួក​វា​ចោល​។ នៅ​តែ​លុប​ចោល​ឬ?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">អ្នក​នឹង​មិន​អាច​ស្តារ​ធាតុ​ដែល​បាន​ជ្រើសរើស​ទាំង​ %d ឡេីង​វិញ​បាន​ទេ​ ប្រសិន​បើ​លុប​ពួក​វា​ចោល​។ នៅ​តែ​លុប​ចោល​ឬ?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">ធាតុ​នានា​អាចរក្សា​ទុក​នៅ​ទី​នេះបាន​រយៈ​ពេល​ %1$d ថ្ងៃ​ (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">ធាតុ​នានា​អាចរក្សា​ទុក​នៅ​ទី​នេះបាន​រយៈ​ពេល​ %1$d ថ្ងៃ​។ ដំឡើង​គម្រោង​របស់​អ្នក​ដេីម្បី​ពន្យារ​រយៈ​ពេល​នេះ​។</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d ឯកសារ</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d វីដេអូ</item>
+    </plurals>
+</resources>

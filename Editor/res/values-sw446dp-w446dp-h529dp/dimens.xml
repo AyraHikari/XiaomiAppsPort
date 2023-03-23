@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_menu_text_radio_button_bubble_width">61.809998dip</dimen>
+    <dimen name="magic_galery_top">13.454987dip</dimen>
+    <dimen name="magic_id_photo_guide_text_content_height">21.817993dip</dimen>
+    <dimen name="magic_id_photo_guide_text_height">31.27298dip</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_left">80.0dip</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_top">36.363983dip</dimen>
+    <dimen name="magic_id_photo_guide_text_size">16.72699dip</dimen>
+    <dimen name="magic_id_photo_guide_text_title_size">24.0dip</dimen>
+    <dimen name="magic_id_photo_guide_text_width">290.90625dip</dimen>
+    <dimen name="magic_idp_bottom_height">413.8125dip</dimen>
+    <dimen name="magic_idp_bottom_margin_top">39.22dip</dimen>
+    <dimen name="magic_idp_guide_btn1h">69.09dip</dimen>
+    <dimen name="magic_idp_guide_btn1w">112.72699dip</dimen>
+    <dimen name="magic_idp_guide_btn_halfGap">8.0dip</dimen>
+    <dimen name="magic_idp_guide_photo_height">170.91dip</dimen>
+    <dimen name="magic_idp_guide_photo_width">235.63998dip</dimen>
+    <dimen name="magic_idp_guide_text_margin_2">26.181976dip</dimen>
+    <dimen name="magic_idp_guide_text_margin_3">17.817993dip</dimen>
+    <dimen name="magic_idp_icon">25.449982dip</dimen>
+    <dimen name="magic_idp_make_search_height_left">38.179993dip</dimen>
+    <dimen name="magic_idp_make_search_look_max_width">356.35938dip</dimen>
+    <dimen name="magic_idp_make_tab_width">61.819977dip</dimen>
+    <dimen name="magic_search_edit_width">403.6328dip</dimen>
+    <dimen name="magic_search_list_width">450.90625dip</dimen>
+    <dimen name="magic_status_bar_height">29.819977dip</dimen>
+</resources>

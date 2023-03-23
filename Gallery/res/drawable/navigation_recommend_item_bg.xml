@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/search_radius_large" />
+    <solid android:color="@color/search_nav_recommend_item_bg" />
+</shape>

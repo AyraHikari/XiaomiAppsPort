@@ -1,0 +1,778 @@
+[
+  {
+    "featureName": "dynamicfeature_basefeature_map",
+    "libraryId" : "104702",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "libgnustl_shared.so",
+          "displayName": "libgnustl_shared.so",
+          "sha1Base16": "1e381e27a51ca8a8950616b485cf0c375a75f16b",
+          "type": "so"
+        },
+        {
+          "text": "libBaiduMapSDK_base_v7_4_2.so",
+          "displayName": "libBaiduMapSDK_base_v7_4_2.so",
+          "sha1Base16": "deab9fb3b20fe2b6c045df005abbff762e3e7923",
+          "type": "so"
+        },
+        {
+          "text": "libBaiduMapSDK_map_v7_4_2.so",
+          "displayName": "libBaiduMapSDK_map_v7_4_2.so",
+          "sha1Base16": "3310a6b5cb9d769f1620842fa127f952176c112f",
+          "type": "so"
+        },
+        {
+          "text": "liblocSDK8a.so",
+          "displayName": "liblocSDK8a.so",
+          "sha1Base16": "cb659e3ccff58fc8af65a4775d01972eed64e513",
+          "type": "so"
+        }
+      ],
+      "arm32": [
+        {
+          "text": "libgnustl_shared.so",
+          "displayName": "libgnustl_shared.so",
+          "sha1Base16": "7defb02779e276f575f0c5efbcc2fe5d49d248a5",
+          "type": "so"
+        },
+        {
+          "text": "libBaiduMapSDK_base_v7_4_2.so",
+          "displayName": "libBaiduMapSDK_base_v7_4_2.so",
+          "sha1Base16": "6ea8df5b80cfc361b0597ea4303f1ad2d2712683",
+          "type": "so"
+        },
+        {
+          "text": "libBaiduMapSDK_map_v7_4_2.so",
+          "displayName": "libBaiduMapSDK_map_v7_4_2.so",
+          "sha1Base16": "1628e89708354d0c6896f551deade1bd1d3424e3",
+          "type": "so"
+        },
+        {
+          "text": "liblocSDK8a.so",
+          "displayName": "liblocSDK8a.so",
+          "sha1Base16": "c2042290bb878fa3748fbf4903816fb0dd125ffd",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_basefeature_ffmpeg",
+    "libraryId" : "1038",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "libmigalleryffmpeg.so",
+          "displayName": "libmigalleryffmpeg.so",
+          "sha1Base16": "dbe30893ac366e9ce6bcd7c52c74f25d40760ce0",
+          "type": "so"
+        },
+        {
+          "text": "libGalleryFrameRetriever.so",
+          "displayName": "libGalleryFrameRetriever.so",
+          "sha1Base16": "7e957815db10bb543a5136e498348b6d0e5bd95d",
+          "type": "so"
+        }
+      ],
+      "arm32": [
+        {
+          "text": "libmigalleryffmpeg.so",
+          "displayName": "libmigalleryffmpeg.so",
+          "sha1Base16": "046cb869c3f6df47d5b832866eab3c1ca2fd22f1",
+          "type": "so"
+        },
+        {
+          "text": "libGalleryFrameRetriever.so",
+          "displayName": "libGalleryFrameRetriever.so",
+          "sha1Base16": "340acdeb7567c3c118dec4188dc2698659b34f81",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_basefeature_videocompress",
+    "libraryId" : "1044",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "libtranscode.so",
+          "displayName": "libtranscode.so",
+          "sha1Base16": "dd176f3906814dd1d10aa8ed3a316c881b60765a",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_basefeature_imagefeature",
+    "libraryId" : "1002002",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "libc++_shared.so",
+          "displayName": "libc++_shared_base.so",
+          "sha1Base16": "b7e8229ee4816443f473a2825912d39000240fed",
+          "type": "so"
+        },
+        {
+          "text": "libiqa.so",
+          "displayName": "libiqa.so",
+          "sha1Base16": "32673d6bdd62e80b3e6b1cd16048eeea1931321e",
+          "type": "so"
+        },
+        {
+          "text": "libimage_iqa.so",
+          "displayName": "libimage_iqa.so",
+          "sha1Base16": "2e89f1f395ad31ad685dc21c721bac66e872eeeb",
+          "type": "so"
+        },
+        {
+          "text": "libncnn.so",
+          "displayName": "libncnn.so",
+          "sha1Base16": "ce1e7c5d281bbe44958be8c4c367aa29fb92c418",
+          "type": "so"
+        },
+        {
+          "text": "libJNI_SimilarImgCluster.so",
+          "displayName": "libJNI_SimilarImgCluster.so",
+          "sha1Base16": "9649e1fdef46ff1fe47475107e2cde6494395257",
+          "type": "so"
+        }
+      ],
+      "arm32": [
+        {
+          "text": "libc++_shared.so",
+          "displayName": "libc++_shared_base.so",
+          "sha1Base16": "b3e1f52f695b169d31694434a5f496d10508bba8",
+          "type": "so"
+        },
+        {
+          "text": "libiqa.so",
+          "displayName": "libiqa.so",
+          "sha1Base16": "c5e6a7e4933aebcc57271e3cba4d37bcb0df5693",
+          "type": "so"
+        },
+        {
+          "text": "libimage_iqa.so",
+          "displayName": "libimage_iqa.so",
+          "sha1Base16": "b8b1bd5d455f450bf12f3088467fdb78e6cb1709",
+          "type": "so"
+        },
+        {
+          "text": "libncnn.so",
+          "displayName": "libncnn.so",
+          "sha1Base16": "875efc2216a36cb86c3c18deedd667174ea8a3b2",
+          "type": "so"
+        },
+        {
+          "text": "libJNI_SimilarImgCluster.so",
+          "displayName": "libJNI_SimilarImgCluster.so",
+          "sha1Base16": "75d04a02e992b150427dae2124afca593bf35141",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_7350",
+    "libraryId" : "10286",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "libsnpe_dsp_v65_domains_v2_skel.so",
+          "displayName": "libsnpe_dsp_v65_domains_v2_skel_7350.so",
+          "sha1Base16": "06f6463a244b6514820808ff09bd770f53896dd5",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_v66_domains_v2_skel.so",
+          "displayName": "libsnpe_dsp_v66_domains_v2_skel_7350.so",
+          "sha1Base16": "7ab84262ccdf12c89fbbff998fbebcd7c3a1b97e",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_v68_domains_v3_skel.so",
+          "displayName": "libsnpe_dsp_v68_domains_v3_skel_7350.so",
+          "sha1Base16": "a36a7c33280e66461910a71d3afff14d3009c868",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_domains_v3.so",
+          "displayName": "libsnpe_dsp_domains_v3_7350.so",
+          "sha1Base16": "f5ab4d767af0f9ee820021b7e09c6536561f316a",
+          "type": "so"
+        },
+        {
+          "text": "libsnpe_dsp_domains_v2.so",
+          "displayName": "libsnpe_dsp_domains_v2_7350.so",
+          "sha1Base16": "1454723402fe903bcfcf170c46dd8ad374e6f5ae",
+          "type": "so"
+        },
+        {
+          "text": "libSNPE.so",
+          "displayName": "libSNPE_7350.so",
+          "sha1Base16": "39c5bc3b60a469535b85fb83c126a022a5ecd3c2",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_8450",
+    "libraryId" : "10286",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "libSnpeHtpV69Skel.so",
+          "displayName": "libSnpeHtpV69Skel.so",
+          "sha1Base16": "525404d5ec286bca98c18b01f0a457d8b70afc37",
+          "type": "model"
+        },
+        {
+          "text": "libSnpeHtpV69Stub.so",
+          "displayName": "libSnpeHtpV69Stub.so",
+          "sha1Base16": "373c34a60dc362c4f5d290385dc4a591044c56b5",
+          "type": "so"
+        },
+        {
+          "text": "libSNPE.so",
+          "displayName": "libSNPE_8450.so",
+          "sha1Base16": "dffb9ffa0f11dd7e893f5ba848c764298612a0e8",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_8550",
+    "libraryId" : "10286",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "libSnpeHtpV73Skel.so",
+          "displayName": "libSnpeHtpV73Skel.so",
+          "sha1Base16": "48492cc1f7cc24fbbb0c501789f52e645d8491fb",
+          "type": "model"
+        },
+        {
+          "text": "libSnpeHtpV73Stub.so",
+          "displayName": "libSnpeHtpV73Stub.so",
+          "sha1Base16": "8b7b575de100230a995efc9f960907b162d20900",
+          "type": "so"
+        },
+        {
+          "text": "libSNPE.so",
+          "displayName": "libSNPE_8550.so",
+          "sha1Base16": "bc65207948d3fbb092198d2c36008cd7d5fd53c9",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_aimode_7350",
+    "libraryId" : "10286",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "screenscene.dlc",
+          "displayName": "screenscene_7350.dlc",
+          "sha1Base16": "158237d5151950e14748585ecc5c8f4daf7d29fe",
+          "type": "model"
+        },
+        {
+          "text": "libscene_tag.so",
+          "displayName": "libscene_tag_7350.so",
+          "sha1Base16": "e1b54d75a1e7507d8ef374e87f4084c98625d34d",
+          "type": "so"
+        },
+        {
+          "text": "libscreen_scene_tag.so",
+          "displayName": "libscreen_scene_tag_7350.so",
+          "sha1Base16": "8fa74c9749e88fd254b3c50e0f068fc99a17b024",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_aimode_8450",
+    "libraryId" : "10286",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "screenscene.dlc",
+          "displayName": "screenscene_8450.dlc",
+          "sha1Base16": "e7799342efbcbe25b6a22f9d385cf44c4f14c4c5",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_v65_domains_v2_skel.so",
+          "displayName": "libsnpe_dsp_v65_domains_v2_skel_8450.so",
+          "sha1Base16": "a7a115e87cd7183ac1e194d45e9f74901e3291e5",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_v66_domains_v2_skel.so",
+          "displayName": "libsnpe_dsp_v66_domains_v2_skel_8450.so",
+          "sha1Base16": "8835952d312f9bd3bb143d76b61739f0ea7a8613",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_v68_domains_v3_skel.so",
+          "displayName": "libsnpe_dsp_v68_domains_v3_skel_8450.so",
+          "sha1Base16": "f8a09bd24159ec22df49d47e8e292bd5b5d81d03",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_domains_v2.so",
+          "displayName": "libsnpe_dsp_domains_v2_8450.so",
+          "sha1Base16": "641cb2de3a868939838c0c0afe0f1b92d08363dd",
+          "type": "so"
+        },
+        {
+          "text": "libsnpe_dsp_domains_v3.so",
+          "displayName": "libsnpe_dsp_domains_v3_8450.so",
+          "sha1Base16": "a9aa928a2bf53d4969572e25c004dc53c5717ebf",
+          "type": "so"
+        },
+        {
+          "text": "libscene_tag.so",
+          "displayName": "libscene_tag_8450.so",
+          "sha1Base16": "11b692b615e96071939220237b49dc7a4c374569",
+          "type": "so"
+        },
+        {
+          "text": "libscreen_scene_tag.so",
+          "displayName": "libscreen_scene_tag_8450.so",
+          "sha1Base16": "8fa74c9749e88fd254b3c50e0f068fc99a17b024",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_aimode_8550",
+    "libraryId" : "10286",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "screenscene.dlc",
+          "displayName": "screenscene_8550.dlc",
+          "sha1Base16": "8da3917fb48b3effdde02143a964fb7a00944021",
+          "type": "model"
+        },
+        {
+          "text": "libcalculator_skel.so",
+          "displayName": "libcalculator_skel.so",
+          "sha1Base16": "b4acf1ecbe432bbf4f01356da1d768c0b50404b4",
+          "type": "model"
+        },
+        {
+          "text": "libscene_tag.so",
+          "displayName": "libscene_tag_8550.so",
+          "sha1Base16": "c739a32fefbbb65690dc6138bc9ff55993b1fda4",
+          "type": "so"
+        },
+        {
+          "text": "libscreen_scene_tag.so",
+          "displayName": "libscreen_scene_tag_8550.so",
+          "sha1Base16": "8fa74c9749e88fd254b3c50e0f068fc99a17b024",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_story_7350",
+    "libraryId" : "3419",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "scene_indoor_outdoor.dlc",
+          "displayName": "scene_indoor_outdoor_7350.dlc",
+          "sha1Base16": "e7d1fa66cb405448e01aa531ac90adb67c0152c5",
+          "type": "model"
+        },
+        {
+          "text": "shot_type.dlc",
+          "displayName": "shot_type_7350.dlc",
+          "sha1Base16": "03ede26f6661858d6bf5f882b9ec7f8fa6408189",
+          "type": "model"
+        },
+        {
+          "text": "scene_2k.dlc",
+          "displayName": "scene_2k_7350.dlc",
+          "sha1Base16": "6df9ae4695b703724155ebecfc51a939918bc3c0",
+          "type": "model"
+        },
+        {
+          "text": "head_hollywood_yolov5s_640.dlc",
+          "displayName": "head_hollywood_yolov5s_640_7350.dlc",
+          "sha1Base16": "1a744f471208b11a95ad45c930f5536d52c19ca6",
+          "type": "model"
+        },
+        {
+          "text": "libmergetag_info.so",
+          "displayName": "libmergetag_info_7350.so",
+          "sha1Base16": "30dcd0026ee62677fdd21f652ae15989a4e8eca7",
+          "type": "so"
+        },
+        {
+          "text": "libmerge_tag.so",
+          "displayName": "libmerge_tag_7350.so",
+          "sha1Base16": "266e710b37deee7dc77005cce9b49b59cdd2baef",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_story_8450",
+    "libraryId" : "3419",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "scene_indoor_outdoor.dlc",
+          "displayName": "scene_indoor_outdoor_8450.dlc",
+          "sha1Base16": "5eb505326a46359b65368ec34be640313f2b619a",
+          "type": "model"
+        },
+        {
+          "text": "shot_type.dlc",
+          "displayName": "shot_type_8450.dlc",
+          "sha1Base16": "ac9a0a1676334a9c614adbbe3af021ffd48cf0c5",
+          "type": "model"
+        },
+        {
+          "text": "scene_2k.dlc",
+          "displayName": "scene_2k_8450.dlc",
+          "sha1Base16": "66c5f8f155db93fb0085bc60065514f337d6c80b",
+          "type": "model"
+        },
+        {
+          "text": "head_hollywood_yolov5s_640.dlc",
+          "displayName": "head_hollywood_yolov5s_640_8450.dlc",
+          "sha1Base16": "9ba4a46dff2f14a3cc2bbf002ae617563397d55e",
+          "type": "model"
+        },
+        {
+          "text": "libmergetag_info.so",
+          "displayName": "libmergetag_info_8450.so",
+          "sha1Base16": "b9c2670ea4448501f9569309357ed730d3eef78c",
+          "type": "so"
+        },
+        {
+          "text": "libmerge_tag.so",
+          "displayName": "libmerge_tag_8450.so",
+          "sha1Base16": "99337e4546d0d460aceb4f11ae41b1766c6351fc",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_story_8550",
+    "libraryId" : "3419",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "scene_indoor_outdoor.dlc",
+          "displayName": "scene_indoor_outdoor_8550.dlc",
+          "sha1Base16": "6b2081e6c3d06eeb4b6716ad2fd74f13b429e266",
+          "type": "model"
+        },
+        {
+          "text": "shot_type.dlc",
+          "displayName": "shot_type_8550.dlc",
+          "sha1Base16": "400cb741db26dcd974bb0a39a217abdfce7f809f",
+          "type": "model"
+        },
+        {
+          "text": "scene_2k.dlc",
+          "displayName": "scene_2k_8550.dlc",
+          "sha1Base16": "38c3bfa39f07f3c215a0e184c8132eb50e60879f",
+          "type": "model"
+        },
+        {
+          "text": "head_hollywood_yolov5s_640.dlc",
+          "displayName": "head_hollywood_yolov5s_640_8550.dlc",
+          "sha1Base16": "b0a9e5b9db75fa2b14c519ec1d31f874c9b406a2",
+          "type": "model"
+        },
+        {
+          "text": "libmergetag_info.so",
+          "displayName": "libmergetag_info_8550.so",
+          "sha1Base16": "0597bfe353d2e307f40d42fbe788a3e52b500107",
+          "type": "so"
+        },
+        {
+          "text": "libmerge_tag.so",
+          "displayName": "libmerge_tag_8550.so",
+          "sha1Base16": "dbefb18dc7a16addb5568d2f89dde49076f8f5e5",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_story_mtk",
+    "libraryId" : "3419",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "libmergetag_info.so",
+          "displayName": "libmergetag_info_mtk.so",
+          "sha1Base16": "2fb70eeb45fd54bc1bf68b23a37fb145dc1ecf61",
+          "type": "so"
+        },
+        {
+          "text": "libmerge_tag.so",
+          "displayName": "libmerge_tag_mtk.so",
+          "sha1Base16": "eaa9be156ff1dcdb7316c04dd094194b685a28bd",
+          "type": "so"
+        }
+      ],
+      "arm32" : [
+        {
+          "text": "libmergetag_info.so",
+          "displayName": "libmergetag_info_mtk.so",
+          "sha1Base16": "f465f47f6e82140e2608b92bf6d6911bf4e20d3d",
+          "type": "so"
+        },
+        {
+          "text": "libmerge_tag.so",
+          "displayName": "libmerge_tag_mtk.so",
+          "sha1Base16": "15838fdf1a92745bb501e8f625d73e5443823c51",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_story_default",
+    "libraryId" : "3419",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "scene_indoor_outdoor.dlc",
+          "displayName": "scene_indoor_outdoor.dlc",
+          "sha1Base16": "d5a53be00d3f6deb14f160283dcefdc845cbc84f",
+          "type": "model"
+        },
+        {
+          "text": "shot_type.dlc",
+          "displayName": "shot_type.dlc",
+          "sha1Base16": "af546e14d31641995b2675b163672b70c125d663",
+          "type": "model"
+        },
+        {
+          "text": "scene_2k.dlc",
+          "displayName": "scene_2k.dlc",
+          "sha1Base16": "3f48d20207a082cd5aadcc1dd54f636ce0818175",
+          "type": "model"
+        },
+        {
+          "text": "head_hollywood_yolov5s_640.dlc",
+          "displayName": "head_hollywood_yolov5s_640.dlc",
+          "sha1Base16": "bdd1f00c3387cd63bcd03d8cf3e795c58da7c41e",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_domains_skel.so",
+          "displayName": "libsnpe_dsp_domains_skel.so",
+          "sha1Base16": "5aaff843471e6d2dc7cca7c0cac676ed3ce87a30",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_skel.so",
+          "displayName": "libsnpe_dsp_skel.so",
+          "sha1Base16": "53654c9840621c7cc73d38b457a92ede978a2eb2",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_v65_domains_v2_skel.so",
+          "displayName": "libsnpe_dsp_v65_domains_v2_skel.so",
+          "sha1Base16": "5150c8c6b14586c4d83061e58b1e7d1872261e70",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_v66_domains_v2_skel.so",
+          "displayName": "libsnpe_dsp_v66_domains_v2_skel.so",
+          "sha1Base16": "0d985962927b09153b9538829fc836fa948b9361",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_domains.so",
+          "displayName": "libsnpe_dsp_domains.so",
+          "sha1Base16": "fcefc3cdf65b43b24c3ed38a59033ecf6be22d24",
+          "type": "so"
+        },
+        {
+          "text": "libsnpe_dsp_domains_v2.so",
+          "displayName": "libsnpe_dsp_domains_v2.so",
+          "sha1Base16": "d7164c4f59dbd91cea666849d265656eb09704b8",
+          "type": "so"
+        },
+        {
+          "text": "libsnpe_adsp.so",
+          "displayName": "libsnpe_adsp.so",
+          "sha1Base16": "f4152bd2699fc01b69ca47073057a099d915e69b",
+          "type": "so"
+        },
+        {
+          "text": "libSNPE.so",
+          "displayName": "libSNPE.so",
+          "sha1Base16": "4306d9629f3bfe35cf78d37c2b5afd582397dd59",
+          "type": "so"
+        },
+        {
+          "text": "libmergetag_info.so",
+          "displayName": "libmergetag_info.so",
+          "sha1Base16": "f33f52931fd07677a6a8c71786ab1f12728b5d23",
+          "type": "so"
+        },
+        {
+          "text": "libmerge_tag.so",
+          "displayName": "libmerge_tag.so",
+          "sha1Base16": "47089e2882157000a09b588194a31321ed79ec3b",
+          "type": "so"
+        }
+      ],
+      "arm32" : [
+        {
+          "text": "scene_indoor_outdoor.dlc",
+          "displayName": "scene_indoor_outdoor.dlc",
+          "sha1Base16": "d5a53be00d3f6deb14f160283dcefdc845cbc84f",
+          "type": "model"
+        },
+        {
+          "text": "shot_type.dlc",
+          "displayName": "shot_type.dlc",
+          "sha1Base16": "af546e14d31641995b2675b163672b70c125d663",
+          "type": "model"
+        },
+        {
+          "text": "scene_2k.dlc",
+          "displayName": "scene_2k.dlc",
+          "sha1Base16": "3f48d20207a082cd5aadcc1dd54f636ce0818175",
+          "type": "model"
+        },
+        {
+          "text": "head_hollywood_yolov5s_640.dlc",
+          "displayName": "head_hollywood_yolov5s_640.dlc",
+          "sha1Base16": "bdd1f00c3387cd63bcd03d8cf3e795c58da7c41e",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_domains_skel.so",
+          "displayName": "libsnpe_dsp_domains_skel.so",
+          "sha1Base16": "5aaff843471e6d2dc7cca7c0cac676ed3ce87a30",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_skel.so",
+          "displayName": "libsnpe_dsp_skel.so",
+          "sha1Base16": "53654c9840621c7cc73d38b457a92ede978a2eb2",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_v65_domains_v2_skel.so",
+          "displayName": "libsnpe_dsp_v65_domains_v2_skel.so",
+          "sha1Base16": "5150c8c6b14586c4d83061e58b1e7d1872261e70",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_v66_domains_v2_skel.so",
+          "displayName": "libsnpe_dsp_v66_domains_v2_skel.so",
+          "sha1Base16": "0d985962927b09153b9538829fc836fa948b9361",
+          "type": "model"
+        },
+        {
+          "text": "libsnpe_dsp_domains.so",
+          "displayName": "libsnpe_dsp_domains.so",
+          "sha1Base16": "8d348e1d472946305d77a24c07fc71bb28bbb2e7",
+          "type": "so"
+        },
+        {
+          "text": "libsnpe_dsp_domains_v2.so",
+          "displayName": "libsnpe_dsp_domains_v2.so",
+          "sha1Base16": "6e28bd6a1d6b948bb5b39fb0bd2331ae2fba7045",
+          "type": "so"
+        },
+        {
+          "text": "libsnpe_adsp.so",
+          "displayName": "libsnpe_adsp.so",
+          "sha1Base16": "c8323b480c94078bc604ebaa75f34daea92fb7ae",
+          "type": "so"
+        },
+        {
+          "text": "libSNPE.so",
+          "displayName": "libSNPE.so",
+          "sha1Base16": "e222e1181f5f571b84b807aaff70215d59d5b64c",
+          "type": "so"
+        },
+        {
+          "text": "libmergetag_info.so",
+          "displayName": "libmergetag_info.so",
+          "sha1Base16": "51cc94e3ddb1c85383f4ffdd87bd09650059806d",
+          "type": "so"
+        },
+        {
+          "text": "libmerge_tag.so",
+          "displayName": "libmerge_tag.so",
+          "sha1Base16": "9b62fceacf997f359543d95d76b5c2eb93bdc0e9",
+          "type": "so"
+        }
+      ]
+    }
+  },
+  {
+    "featureName": "dynamicfeature_story_basefeature",
+    "libraryId" : "3419",
+    "soNames": {
+      "arm64": [
+        {
+          "text": "libvideo_cluster_sdk.so",
+          "displayName": "libvideo_cluster_sdk.so",
+          "sha1Base16": "09442bd25f2c694486f48aa4deba8b260ca64a2e",
+          "type": "so"
+        },
+        {
+          "text": "libxplatform_util.so",
+          "displayName": "libxplatform_util.so",
+          "sha1Base16": "1295f4ae733dd44008f364eff2f2706a7c5c612d",
+          "type": "so"
+        },
+        {
+          "text": "libvideo_analytic.so",
+          "displayName": "libvideo_analytic.so",
+          "sha1Base16": "48e8259725038eca6c8eef6e84933d6929ae8222",
+          "type": "so"
+        }
+      ],
+      "arm32" : [
+        {
+          "text": "libvideo_cluster_sdk.so",
+          "displayName": "libvideo_cluster_sdk.so",
+          "sha1Base16": "2fb209a52ee92ddc021812348ff82e91535da379",
+          "type": "so"
+        },
+        {
+          "text": "libxplatform_util.so",
+          "displayName": "libxplatform_util.so",
+          "sha1Base16": "712d3e05adb22f000b01ce647ac5b9cb63fe85b0",
+          "type": "so"
+        },
+        {
+          "text": "libvideo_analytic.so",
+          "displayName": "libvideo_analytic.so",
+          "sha1Base16": "14e083b332cc87853092daddd6e69eb708528341",
+          "type": "so"
+        }
+      ]
+    }
+  }
+]

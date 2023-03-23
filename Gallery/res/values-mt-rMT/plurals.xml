@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">(-il) siegħa ilu</item>
+        <item quantity="one">Siegħa ilu</item>
+        <item quantity="few">Sigħat ilu</item>
+        <item quantity="many">(-il) siegħa ilu</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">(-il) siegħa ilu</item>
+        <item quantity="one">Siegħa ilu</item>
+        <item quantity="few">Sigħat ilu</item>
+        <item quantity="many">(-il) siegħa ilu</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Nofs siegħa ilu</item>
+        <item quantity="one">Nofs siegħa ilu</item>
+        <item quantity="few">Nofs siegħa ilu</item>
+        <item quantity="many">Nofs siegħa ilu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Siegħa oħra</item>
+        <item quantity="one">Siegħa oħra</item>
+        <item quantity="few">Siegħa oħra</item>
+        <item quantity="many">Siegħa oħra</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Nofs siegħa oħra</item>
+        <item quantity="one">Nofs siegħa oħra</item>
+        <item quantity="few">Nofs siegħa oħra</item>
+        <item quantity="many">Nofs siegħa oħra</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Minnufih</item>
+        <item quantity="one">Minnufih</item>
+        <item quantity="few">Minnufih</item>
+        <item quantity="many">Minnufih</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d(-il) min oħra</item>
+        <item quantity="one">min oħra</item>
+        <item quantity="few">%d min oħra</item>
+        <item quantity="many">%d(-il) min oħra</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Issa</item>
+        <item quantity="one">Issa</item>
+        <item quantity="few">Issa</item>
+        <item quantity="many">Issa</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d(-il) min ilu</item>
+        <item quantity="one">Min ilu</item>
+        <item quantity="few">%d min ilu</item>
+        <item quantity="many">%d(-il) min ilu</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">"Trid tpoġġi dal-affarijiet f'album privat?"</item>
+        <item quantity="one">"Trid tpoġġi dil-ħaġa f'album privat?"</item>
+        <item quantity="few">"Trid tpoġġi dal-affarijiet f'album privat?"</item>
+        <item quantity="many">"Trid tpoġġi dal-affarijiet f'album privat?"</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Ġew miżjuda %d ritratti tal-cloud, itfi \"Uri biss albums lokali\" biex tara.</item>
+        <item quantity="one">Ġew miżjuda %d ritratti tal-cloud, itfi \"Uri biss albums lokali\" biex tara.</item>
+        <item quantity="few">Ġew miżjuda %d ritratti tal-cloud, itfi \"Uri biss albums lokali\" biex tara.</item>
+        <item quantity="many">Ġew miżjuda %d ritratti tal-cloud, itfi \"Uri biss albums lokali\" biex tara.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">%2$d(-il) ħaġa ma setgħetx tiżdied mal-album. %1$s.</item>
+        <item quantity="one">%2$d affarijiet ma setgħux jiżdiedu mal-album. %1$s.</item>
+        <item quantity="few">%2$d affarijiet ma setgħux jiżdiedu mal-album. %1$s.</item>
+        <item quantity="many">%2$d(-il) ħaġa ma setgħetx tiżdied mal-album. %1$s.</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d(-il) ħaġa ma jistgħu jitpoġġew fl-album privat. %1$s.</item>
+        <item quantity="one">Ħaġa %2$d ma tistax titpoġġa fl-album privat. %1$s.</item>
+        <item quantity="few">%2$d ħaġiet ma jistgħu jitpoġġew fl-album privat. %1$s.</item>
+        <item quantity="many">%2$d(-il) ħaġa ma jistgħu jitpoġġew fl-album privat. %1$s.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d(-il) jum</item>
+        <item quantity="one">%d jum</item>
+        <item quantity="few">%d ijiem</item>
+        <item quantity="many">%d(-il) jum</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d(-il) xahar</item>
+        <item quantity="one">%d xahar</item>
+        <item quantity="few">%d xhur</item>
+        <item quantity="many">%d(-il) xahar</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d sena</item>
+        <item quantity="one">%d sena</item>
+        <item quantity="few">%d snin</item>
+        <item quantity="many">%d sena</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">"Maqsum ma' %d(-il) persuna"</item>
+        <item quantity="one">"Maqsum ma' %d persuni"</item>
+        <item quantity="few">"Maqsum ma' %d persuni"</item>
+        <item quantity="many">"Maqsum ma' %d(-il) persuna"</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d(-il) ritratt</item>
+        <item quantity="one">%d ritratti</item>
+        <item quantity="few">%d ritratti</item>
+        <item quantity="many">%d(-il) ritratt</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d(-il) ħaġa | %2$s</item>
+        <item quantity="one">ħaġa %1$d | %2$s</item>
+        <item quantity="few">%1$d affarijiet | %2$s</item>
+        <item quantity="many">%1$d(-il) ħaġa | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d(-il) ħaġa)</item>
+        <item quantity="one">(ħaġa %d)</item>
+        <item quantity="few">(%d affarijiet)</item>
+        <item quantity="many">(%d(-il) ħaġa)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d(-il) album</item>
+        <item quantity="one">Album %d</item>
+        <item quantity="few">%d albums</item>
+        <item quantity="many">%d(-il) album</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s tan-nies jistgħu jaraw dan l-album</item>
+        <item quantity="one">"%s wieħed tan-nies jista' jara dan l-album"</item>
+        <item quantity="few">%s tan-nies jistgħu jaraw dan l-album</item>
+        <item quantity="many">%s tan-nies jistgħu jaraw dan l-album</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d album inkluż %1$s</item>
+        <item quantity="one">Album %2$d inkluż %1$s</item>
+        <item quantity="few">%2$d albums inkluż %1$s</item>
+        <item quantity="many">%2$d-il album inkluż %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d(-il) ħaġa</item>
+        <item quantity="one">Ħaġa %1$d</item>
+        <item quantity="few">%1$d ħaġiet</item>
+        <item quantity="many">%1$d(-il) ħaġa</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d-il memorja</item>
+        <item quantity="one">%d memorja</item>
+        <item quantity="few">%d memorji</item>
+        <item quantity="many">%d memorji</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d(-il) ritratt minn %2$s ser jiġu miżjuda</item>
+        <item quantity="one">%1$d ritratti minn %2$s ser jiġu miżjuda</item>
+        <item quantity="few">%1$d ritratti minn %2$s ser jiġu miżjuda</item>
+        <item quantity="many">%1$d(-il) ritratt minn %2$s ser jiġu miżjuda</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d(-il) ritratt minn %2$s ser jiġu miżjuda</item>
+        <item quantity="one">%1$d ritratti minn %2$s ser jiġu miżjuda</item>
+        <item quantity="few">%1$d ritratti minn %2$s ser jiġu miżjuda</item>
+        <item quantity="many">%1$d(-il) ritratt minn %2$s ser jiġu miżjuda</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Kompli l-ħżin wara %d(-il) siegħa</item>
+        <item quantity="one">Kompli l-ħżin wara %d sigħat</item>
+        <item quantity="few">Kompli l-ħżin wara %d sigħat</item>
+        <item quantity="many">Kompli l-ħżin wara %d(-il) siegħa</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d(-il) ħaġa huma kbar wisq biex tinħażnilhom kopja</item>
+        <item quantity="one">Ħaġa %d hija kbira wisq biex tinħażnilha kopja</item>
+        <item quantity="few">%d affarijiet huma kbar wisq biex tinħażnilhom kopja</item>
+        <item quantity="many">%d(-il) ħaġa huma kbar wisq biex tinħażnilhom kopja</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">Se tkompli fi %d(-il) minuta</item>
+        <item quantity="one">"Se tkompli f'minuta %d"</item>
+        <item quantity="few">"Se tkompli f'%d minuti"</item>
+        <item quantity="many">Se tkompli fi %d(-il) minuta</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">"Issospendi s-sinkronizzazjoni tar-ritratti, tal-vidjos, tal-kuntatti, tan-noti u ta' affarijiet oħra mal-cloud għal %d(-il) minuta."</item>
+        <item quantity="one">"Issospendi s-sinkronizzazjoni tar-ritratti, tal-vidjos, tal-kuntatti, tan-noti u ta' affarijiet oħra mal-cloud għal minuta %d."</item>
+        <item quantity="few">"Issospendi s-sinkronizzazjoni tar-ritratti, tal-vidjos, tal-kuntatti, tan-noti u ta' affarijiet oħra mal-cloud għal %d minuti."</item>
+        <item quantity="many">"Issospendi s-sinkronizzazjoni tar-ritratti, tal-vidjos, tal-kuntatti, tan-noti u ta' affarijiet oħra mal-cloud għal %d(-il) minuta."</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d(-il) ritratt jew vidjo | %2$s</item>
+        <item quantity="one">%1$d ritratti jew vidjos | %2$s</item>
+        <item quantity="few">%1$d ritratti jew vidjos | %2$s</item>
+        <item quantity="many">%1$d(-il) ritratt jew vidjo | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d(-il) ritratt jew vidjo</item>
+        <item quantity="one">%1$d ritratti jew vidjos</item>
+        <item quantity="few">%1$d ritratti jew vidjos</item>
+        <item quantity="many">%1$d(-il) ritratt jew vidjo</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d(-il) ritratt</item>
+        <item quantity="one">Ritratt %d</item>
+        <item quantity="few">%d ritratti</item>
+        <item quantity="many">%d(-il) ritratt</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">"Trid tħassar %d(-il) ritratt li m'għażiltx?"</item>
+        <item quantity="one">"Trid tħassar ritratt %d li m'għażiltx?"</item>
+        <item quantity="few">"Trid tħassar %d ritratti li m'għażiltx?"</item>
+        <item quantity="many">"Trid tħassar %d(-il) ritratt li m'għażiltx?"</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Ħassar %d(-il) ritratt</item>
+        <item quantity="one">Ħassar ritratt %d</item>
+        <item quantity="few">Ħassar %d ritratti</item>
+        <item quantity="many">Ħassar %d(-il) ritratt</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Żomm %d(-il) ritratti magħżul</item>
+        <item quantity="one">Żomm ritratt %d magħżul</item>
+        <item quantity="few">Żomm %d ritratti magħżula</item>
+        <item quantity="many">Żomm %d(-il) ritratti magħżul</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d(-il) ritratt</item>
+        <item quantity="one">%d ritratti</item>
+        <item quantity="few">%d ritratti</item>
+        <item quantity="many">%d(-il) ritratt</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d(-il) vidjo</item>
+        <item quantity="one">%d vidjo</item>
+        <item quantity="few">%d vidjos</item>
+        <item quantity="many">%d(-il) vidjo</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">"Ma setax jissinkronizza %d oġġetti minħabba li m'hemmx spazzju ta' ħażna biżżejjed fuq il-cloud"</item>
+        <item quantity="one">"Ma setax jissinkronizza %d oġġett minħabba li m'hemmx spazzju ta' ħażna biżżejjed fuq il-cloud"</item>
+        <item quantity="few">"Ma setax jissinkronizza %d -il oġġett minħabba li m'hemmx spazzju ta' ħażna biżżejjed fuq il-cloud"</item>
+        <item quantity="many">"Ma setax jissinkronizza %d oġġett minħabba li m'hemmx spazzju ta' ħażna biżżejjed fuq il-cloud"</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">"Il-collages jista' jkollhom bejn dan-numru ta' ritratti: %1$d-%2$d"</item>
+        <item quantity="one">"Il-collages jista' jkollhom bejn dan-numru ta' ritratti: %1$d-%2$d"</item>
+        <item quantity="few">"Il-collages jista' jkollhom bejn dan-numru ta' ritratti: %1$d-%2$d"</item>
+        <item quantity="many">"Il-collages jista' jkollhom bejn dan-numru ta' ritratti: %1$d-%2$d"</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Agħżel sa %d(-il) ritratt</item>
+        <item quantity="one">Agħżel sa ritratt %d</item>
+        <item quantity="few">Agħżel sa %d ritratti</item>
+        <item quantity="many">Agħżel sa %d(-il) ritratt</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d(-il) ħaġa magħżula</item>
+        <item quantity="one">%d ħaġa waħda magħżula</item>
+        <item quantity="few">%d affarijiet magħżula</item>
+        <item quantity="many">%d(-il) ħaġa magħżula</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">"Trid tħassar %d(-il) sensiela ta' ritratti mix-Xiaomi Cloud u t-tagħmir sinkronizzat kollu?"</item>
+        <item quantity="one">"Trid tħassar sensiela %d ta' ritratti mix-Xiaomi Cloud u t-tagħmir sinkronizzat kollu?"</item>
+        <item quantity="few">"Trid tħassar %d sensiliet ta' ritratti mix-Xiaomi Cloud u t-tagħmir sinkronizzat kollu?"</item>
+        <item quantity="many">"Trid tħassar %d(-il) sensiela ta' ritratti mix-Xiaomi Cloud u t-tagħmir sinkronizzat kollu?"</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">"Trid tħassar %d(-il) ritratt meħuda f'sensiela?"</item>
+        <item quantity="one">"Trid tħassar ir-ritratt %d meħud f'sensiela?"</item>
+        <item quantity="few">"Trid tħassar %d ritratti meħuda f'sensiela?"</item>
+        <item quantity="many">"Trid tħassar %d(-il) ritratt meħuda f'sensiela?"</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">Tħassru %d(-il) ħaġa</item>
+        <item quantity="one">Tħassret ħaġa %d</item>
+        <item quantity="few">Tħassru %d affarijiet</item>
+        <item quantity="many">Tħassru %d(-il) ħaġa</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">Trid tħassar %d(-il) ħaġa mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+        <item quantity="one">Trid tħassar ħaġa %d mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+        <item quantity="few">Trid tħassar %d ħaġiet mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+        <item quantity="many">Trid tħassar %d(-il) ħaġa mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">Trid tħassar %d(-il) ħaġa?</item>
+        <item quantity="one">Trid tħassar %d affarijiet?</item>
+        <item quantity="few">Trid tħassar %d affarijiet?</item>
+        <item quantity="many">Trid tħassar %d(-il) ħaġa?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Trid tħassar %d(-il) ritratt mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+        <item quantity="one">Trid tħassar ritratt %d mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+        <item quantity="few">Trid tħassar %d ritratti mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+        <item quantity="many">Trid tħassar %d(-il) ritratt mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">"Trid tħassar %d(-il) sensiela ta' ritratti mit-tagħmir tiegħek?"</item>
+        <item quantity="one">"Trid tħassar sensiela %d ta' ritratti mit-tagħmir tiegħek?"</item>
+        <item quantity="few">"Trid tħassar %d sensiliet ta' ritratti mit-tagħmir tiegħek?"</item>
+        <item quantity="many">"Trid tħassar %d(-il) sensiela ta' ritratti mit-tagħmir tiegħek?"</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">Trid tħassar %d(-il) vidjo mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+        <item quantity="one">Trid tħassar vidjo %d mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+        <item quantity="few">Trid tħassar %d vidjos mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+        <item quantity="many">Trid tħassar %d(-il) vidjo mit-tagħmir kollu u mix-Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Ma jistax iniżżel %1$d(-il) fajl</item>
+        <item quantity="one">Ma jistax iniżżel %1$d fajls</item>
+        <item quantity="few">Ma jistax iniżżel %1$d fajls</item>
+        <item quantity="many">Ma jistax iniżżel %1$d(-il) fajl</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">"Ma setax iniżżel %1$d(-il) fajl, iċċekja l-konnesjoni tan-netwerk u erġa' pprova"</item>
+        <item quantity="one">"Ma setax iniżżel %1$d fajl, iċċekja l-konnesjoni tan-netwerk u erġa' pprova"</item>
+        <item quantity="few">"Ma setax iniżżel %1$d fajls, iċċekja l-konnesjoni tan-netwerk u erġa' pprova"</item>
+        <item quantity="many">"Ma setax iniżżel %1$d(-il) fajl, iċċekja l-konnesjoni tan-netwerk u erġa' pprova"</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Qed iniżżel oġġetti minn fuq il-cloud (%2$d/%1$d)</item>
+        <item quantity="one">Qed iniżżel oġġett minn fuq il-cloud (%2$d/%1$d)</item>
+        <item quantity="few">Qed iniżżel oġġetti minn fuq il-cloud (%2$d/%1$d)</item>
+        <item quantity="many">Qed iniżżel oġġetti minn fuq il-cloud (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">"Total ta' %d (-il) ritratt"</item>
+        <item quantity="one">"Total ta' %d ritratti"</item>
+        <item quantity="few">"Total ta' %d ritratti"</item>
+        <item quantity="many">"Total ta' %d (-il) ritratt"</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Qed jiproċessa r-ritratti…</item>
+        <item quantity="one">Qed jiproċessa ritratt…</item>
+        <item quantity="few">Qed jiproċessa r-ritratti…</item>
+        <item quantity="many">Qed jiproċessa r-ritratti…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">Inqabżu %1$d(-il) ritratt li ma setgħux jintwerew.</item>
+        <item quantity="one">Inqabeż ritratt %1$d li ma setax jintwera.</item>
+        <item quantity="few">Inqabżu %1$d ritratti li ma setgħux jintwerew.</item>
+        <item quantity="many">Inqabżu %1$d(-il) ritratt li ma setgħux jintwerew.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d(-il) fajl</item>
+        <item quantity="one">Fajl %1$d</item>
+        <item quantity="few">%1$d fajls</item>
+        <item quantity="many">%1$d(-il) fajl</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Nofs siegħa ilu</item>
+        <item quantity="one">Nofs siegħa ilu</item>
+        <item quantity="few">Nofs siegħa ilu</item>
+        <item quantity="many">Nofs siegħa ilu</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Siegħa oħra</item>
+        <item quantity="one">Siegħa oħra</item>
+        <item quantity="few">Siegħa oħra</item>
+        <item quantity="many">Siegħa oħra</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Nofs siegħa oħra</item>
+        <item quantity="one">Nofs siegħa oħra</item>
+        <item quantity="few">Nofs siegħa oħra</item>
+        <item quantity="many">Nofs siegħa oħra</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Minnufih</item>
+        <item quantity="one">Minnufih</item>
+        <item quantity="few">Minnufih</item>
+        <item quantity="many">Minnufih</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d(-il) minuta oħra</item>
+        <item quantity="one">minuta oħra</item>
+        <item quantity="few">%d minuti oħra</item>
+        <item quantity="many">%d(-il) minuta oħra</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Issa</item>
+        <item quantity="one">Issa</item>
+        <item quantity="few">Issa</item>
+        <item quantity="many">Issa</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">Minuta %d</item>
+        <item quantity="few">%d minuti</item>
+        <item quantity="many">%d-il minuta</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d sekonda</item>
+        <item quantity="one">Sekonda %d</item>
+        <item quantity="few">%d sekondi</item>
+        <item quantity="many">%d-il sekonda</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d oġġett magħżul</item>
+        <item quantity="one">Oġġett %d magħżul</item>
+        <item quantity="few">%d oġġett magħżulin</item>
+        <item quantity="many">%d-il oġġett magħżula</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d(-il) minuta ilu</item>
+        <item quantity="one">Minuta ilu</item>
+        <item quantity="few">%d minuti ilu</item>
+        <item quantity="many">%d(-il) minuta ilu</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d(-il) ħaġa qed jistennew biex jiġu sinkronizzati</item>
+        <item quantity="one">Ħaġa %1$d qed tistenna biex tiġi sinkronizzata</item>
+        <item quantity="few">%1$d ħaġiet qed jistennew biex jiġu sinkronizzati</item>
+        <item quantity="many">%1$d(-il) ħaġa qed jistennew biex jiġu sinkronizzati</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d(-il) ritratt</item>
+        <item quantity="one">Ritratt %1$d</item>
+        <item quantity="few">%1$d ritratti</item>
+        <item quantity="many">%1$d(-il) ritratt</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d(-il) ritratt jistennew biex jiġu sinkronizzati</item>
+        <item quantity="one">Ritratt %1$d jistenna biex jiġi sinkronizzat</item>
+        <item quantity="few">%1$d ritratti jistennew biex jiġu sinkronizzati</item>
+        <item quantity="many">%1$d(-il) ritratt jistennew biex jiġu sinkronizzati</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Qed jissinkronizza %1$d(-il) ritratt…</item>
+        <item quantity="one">Qed jissinkronizza ritratt %1$d…</item>
+        <item quantity="few">Qed jissinkronizza %1$d ritratti…</item>
+        <item quantity="many">Qed jissinkronizza %1$d(-il) ritratt…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Qed jissinkronizza %1$d(-il) ħaġa…</item>
+        <item quantity="one">Qed jissinkronizza ħaġa %1$d…</item>
+        <item quantity="few">Qed jissinkronizza %1$d ħaġiet…</item>
+        <item quantity="many">Qed jissinkronizza %1$d(-il) ħaġa…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Qed jissinkronizza %1$d(-il) vidjo…</item>
+        <item quantity="one">Qed jissinkronizza vidjo %1$d…</item>
+        <item quantity="few">Qed jissinkronizza %1$d vidjos…</item>
+        <item quantity="many">Qed jissinkronizza %1$d(-il) vidjo…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d(-il) vidjo</item>
+        <item quantity="one">Vidjo %1$d</item>
+        <item quantity="few">%1$d vidjos</item>
+        <item quantity="many">%1$d(-il) vidjo</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d(-il) vidjo jistennew biex jiġu sinkronizzati</item>
+        <item quantity="one">Vidjo %1$d jistenna biex jiġi sinkronizzat</item>
+        <item quantity="few">%1$d vidjos jistennew biex jiġu sinkronizzati</item>
+        <item quantity="many">%1$d(-il) vidjo jistennew biex jiġu sinkronizzati</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d ritratti</item>
+        <item quantity="one">%d ritratt</item>
+        <item quantity="few">%d(-il) ritratt</item>
+        <item quantity="many">%d ritratti</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">"Total ta' %1$d(-il) ħaġa"</item>
+        <item quantity="one">"Total ta' ħaġa %1$d"</item>
+        <item quantity="few">"Total ta' %1$d affarijiet"</item>
+        <item quantity="many">"Total ta' %1$d affarijiet"</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Dawwar %d grad</item>
+        <item quantity="one">Dawwar grad %d</item>
+        <item quantity="few">Dawwar %d gradi</item>
+        <item quantity="many">Dawwar %d-il grad</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d(-il) jum</item>
+        <item quantity="one">Jum %d</item>
+        <item quantity="few">%d ijiem</item>
+        <item quantity="many">%d(-il) jum</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d(-il) sgħ</item>
+        <item quantity="one">sgħ %d</item>
+        <item quantity="few">%d sgħ</item>
+        <item quantity="many">%d(-il) sgħ</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Iffiltra %d(-il) ħaġa mhux kompatibbli</item>
+        <item quantity="one">Iffiltra ħaġa %d mhux kompatibbli</item>
+        <item quantity="few">Iffiltra %d ħwejjeġ mhux kompatibbli</item>
+        <item quantity="many">Iffiltra %d(-il) ħaġa mhux kompatibbli</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">Il-fajls PDF ma jistax ikollhom iktar minn %d(-il) stampa</item>
+        <item quantity="one">Il-fajls PDFs ma jistax ikollhom iktar minn stampa %d</item>
+        <item quantity="few">Il-fajls PDF ma jistax ikollhom iktar minn %d stampi</item>
+        <item quantity="many">Il-fajls PDF ma jistax ikollhom iktar minn %d(-il) stampa</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Ir-ritratti li għażilt mhux qiegħdin fuq it-tagħmir. Trid inniżluhom bl-użu tad-dejta tal-mowbajl?</item>
+        <item quantity="one">Ir-ritratt li għażilt mhux qiegħed fuq it-tagħmir. Trid inniżluh bl-użu tad-dejta tal-mowbajl?</item>
+        <item quantity="few">Ir-ritratti li għażilt mhux qiegħdin fuq it-tagħmir. Trid inniżluhom bl-użu tad-dejta tal-mowbajl?</item>
+        <item quantity="many">Ir-ritratti li għażilt mhux qiegħdin fuq it-tagħmir. Trid inniżluhom bl-użu tad-dejta tal-mowbajl?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Ir-ritratti magħżula mhux qiegħdin fuq it-tagħmir. Se jkollna nniżluhom.</item>
+        <item quantity="one">Ir-ritratt magħżul mhux qiegħed fuq it-tagħmir. Se jkollna nniżluh.</item>
+        <item quantity="few">Ir-ritratti magħżula mhux qiegħdin fuq it-tagħmir. Se jkollna nniżluhom.</item>
+        <item quantity="many">Ir-ritratti magħżula mhux qiegħdin fuq it-tagħmir. Se jkollna nniżluhom.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Ir-ritratti magħżula (%d MB) mhux fuq it-tagħmir. Trid tniżżilhom bid-dejta tal-mowbajl?</item>
+        <item quantity="one">Ir-ritratt magħżul (%d MB) mhux fuq it-tagħmir. Trid tniżżlu bid-dejta tal-mowbajl?</item>
+        <item quantity="few">Ir-ritratti magħżula (%d MB) mhux fuq it-tagħmir. Trid tniżżilhom bid-dejta tal-mowbajl?</item>
+        <item quantity="many">Ir-ritratti magħżula (%d MB) mhux fuq it-tagħmir. Trid tniżżilhom bid-dejta tal-mowbajl?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d(-il) fajl għadhom ma niżlux. Trid tikkanċella xorta waħda?</item>
+        <item quantity="one">Fajl %d għadu ma niżilx. Trid tikkanċella xorta waħda?</item>
+        <item quantity="few">%d fajls għadhom ma niżlux. Trid tikkanċella xorta waħda?</item>
+        <item quantity="many">%d(-il) fajl għadhom ma niżlux. Trid tikkanċella xorta waħda?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Qed iniżżel il-fajls li fadal: %d</item>
+        <item quantity="one">Qed iniżżel il-fajls li fadal: %d</item>
+        <item quantity="few">Qed iniżżel il-fajls li fadal: %d</item>
+        <item quantity="many">Qed iniżżel il-fajls li fadal: %d</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">"Ma setax iniżżel %1$d(-il) ritratt, aqbad man-netwerk u erġa' pprova"</item>
+        <item quantity="one">"Ma setax iniżżel ritratt %1$d, aqbad man-netwerk u erġa' pprova"</item>
+        <item quantity="few">"Ma setax iniżżel %1$d ritratti, aqbad man-netwerk u erġa' pprova"</item>
+        <item quantity="many">"Ma setax iniżżel %1$d(-il) ritratt, aqbad man-netwerk u erġa' pprova"</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">"Ma setax iniżżel %1$d(-il) fajl (%2$d MB). Aqbad man-netwerk u erġa' pprova."</item>
+        <item quantity="one">"Ma setax iniżżel fajl %1$d (%2$d MB). Aqbad man-netwerk u erġa' pprova."</item>
+        <item quantity="few">"Ma setax iniżżel %1$d fajls (%2$d MB). Aqbad man-netwerk u erġa' pprova."</item>
+        <item quantity="many">"Ma setax iniżżel %1$d(-il) fajl (%2$d MB). Aqbad man-netwerk u erġa' pprova."</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d(-il) fajl (%2$d MB) għadhom mhux imniżżla. Trid tniżżilhom bid-dejta tal-mowbajl?</item>
+        <item quantity="one">.Fajl %1$d (%2$d MB) għadu mhux imniżżel. Trid tniżżlu bid-dejta tal-mowbajl?</item>
+        <item quantity="few">%1$d fajls (%2$d MB) għadhom mhux imniżżla. Trid tniżżilhom bid-dejta tal-mowbajl?</item>
+        <item quantity="many">%1$d(-il) fajl (%2$d MB) għadhom mhux imniżżla. Trid tniżżilhom bid-dejta tal-mowbajl?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">"Ma setax iniżżel %1$d(-il) ritratt, trid terġa' tipprova?"</item>
+        <item quantity="one">"Ma setax iniżżel ritratt %1$d, trid terġa' tipprova?"</item>
+        <item quantity="few">"Ma setax iniżżel %1$d ritratti, trid terġa' tipprova?"</item>
+        <item quantity="many">"Ma setax iniżżel %1$d(-il) ritratt, trid terġa' tipprova?"</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">"Ma setax iniżżel %1$d(-il) ritratt (%2$d MB), trid terġa' tipprova?"</item>
+        <item quantity="one">"Ma setax iniżżel ritratt %1$d (%2$d MB), trid terġa' tipprova?"</item>
+        <item quantity="few">"Ma setax iniżżel %1$d ritratti (%2$d MB), trid terġa' tipprova?"</item>
+        <item quantity="many">"Ma setax iniżżel %1$d(-il) ritratt (%2$d MB), trid terġa' tipprova?"</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Inqabżu %d(-il) ritratt li mhux fuq it-tagħmir.</item>
+        <item quantity="one">Inqabeż ritratt %d li mhux fuq it-tagħmir.</item>
+        <item quantity="few">Inqabżu %d ritratti li mhux fuq it-tagħmir.</item>
+        <item quantity="many">Inqabżu %d(-il) ritratt li mhux fuq it-tagħmir.</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Instabu %1$d(-il) ritratt ġdid</item>
+        <item quantity="one">Instab ritratt %1$d ġdid</item>
+        <item quantity="few">Instabu %1$d ritratti ġodda</item>
+        <item quantity="many">Instabu %1$d(-il) ritratt ġdid</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">"Total ta' %d (-il) ritratt"</item>
+        <item quantity="one">"Total ta' %d ritratti"</item>
+        <item quantity="few">"Total ta' %d ritratti"</item>
+        <item quantity="many">"Total ta' %d (-il) ritratt"</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d(-il) ħaġa ma jistgħux jitneħħew mill-album privat. %1$s.</item>
+        <item quantity="one">Ħaġa %2$d ma tistax titneħħa mill-album privat. %1$s.</item>
+        <item quantity="few">%2$d ħaġiet ma jistgħux jitneħħew mill-album privat. %1$s.</item>
+        <item quantity="many">%2$d(-il) ħaġa ma jistgħux jitneħħew mill-album privat. %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">"Ġew miżjuda %1$d(-il) ritratt ma' \"%2$s\" u ġew miżjuda fid-database."</item>
+        <item quantity="one">"Ġew miżjud %1$d ritratti ma' \"%2$s\" u ġew miżjuda fid-database."</item>
+        <item quantity="few">"Ġew miżjuda %1$d ritratti ma' \"%2$s\" u ġew miżjuda fid-database."</item>
+        <item quantity="many">"Ġew miżjuda %1$d(-il) ritratt ma' \"%2$s\" u ġew miżjuda fid-database."</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">Tneħħew %1$d(-il) ritratt minn \"%2$s\" u ġew miżjuda fid-database.</item>
+        <item quantity="one">Tneħħa %1$d ritratt minn \"%2$s\" u ġie miżjud fid-database.</item>
+        <item quantity="few">Tneħħew %1$d ritratti minn \"%2$s\" u ġew miżjuda fid-database.</item>
+        <item quantity="many">Tneħħew %1$d(-il) ritratt minn \"%2$s\" u ġew miżjuda fid-database.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">"Ġew miżjuda %1$d(-il) ritratt ma' \"%2$s\"."</item>
+        <item quantity="one">"Ġie miżjud %1$d ritratt ma' \"%2$s\"."</item>
+        <item quantity="few">"Ġew miżjuda %1$d ritratti ma' \"%2$s\"."</item>
+        <item quantity="many">"Ġew miżjuda %1$d(-il) ritratt ma' \"%2$s\"."</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">Tneħħew %1$d(-il) ritratt minn \"%2$s\".</item>
+        <item quantity="one">Tneħħa %1$d ritratt minn \"%2$s\".</item>
+        <item quantity="few">Tneħħew %1$d ritratti minn \"%2$s\".</item>
+        <item quantity="many">Tneħħew %1$d(-il) ritratt minn \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d(-il) pakkett tal-installazzjoni (%3$s) minn %1$s</item>
+        <item quantity="one">Pakkett tal-installazzjoni %2$d (%3$s) minn %1$s</item>
+        <item quantity="few">%2$d pakketti tal-installazzjoni (%3$s) minn %1$s</item>
+        <item quantity="many">%2$d(-il) pakkett tal-installazzjoni (%3$s) minn %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Irċieva %2$d(-il) pakkett tal-installazzjoni (%3$s) mingħand %1$s</item>
+        <item quantity="one">Irċieva pakkett tal-installazzjoni %2$d (%3$s) mingħand %1$s</item>
+        <item quantity="few">Irċieva %2$d pakketti tal-installazzjoni (%3$s) mingħand %1$s</item>
+        <item quantity="many">Irċieva %2$d(-il) pakkett tal-installazzjoni (%3$s) mingħand %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Qed jirċievi %2$d(-il) pakkett tal-installazzjoni (%3$s) mingħand %1$s…</item>
+        <item quantity="one">Qed jirċievi pakkett tal-installazzjoni %2$d (%3$s) mingħand %1$s…</item>
+        <item quantity="few">Qed jirċievi %2$d pakketti tal-installazzjoni (%3$s) mingħand %1$s…</item>
+        <item quantity="many">Qed jirċievi %2$d(-il) pakkett tal-installazzjoni (%3$s) mingħand %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d(-il) fajl tal-ħoss (%3$s) minn %1$s</item>
+        <item quantity="one">Fajl tal-ħoss %2$d (%3$s) minn %1$s</item>
+        <item quantity="few">%2$d fajls tal-ħoss (%3$s) minn %1$s</item>
+        <item quantity="many">%2$d(-il) fajl tal-ħoss (%3$s) minn %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Irċieva %2$d(-il) fajl tal-ħoss (%3$s) mingħand %1$s</item>
+        <item quantity="one">Irċieva fajl tal-ħoss %2$d (%3$s) mingħand %1$s</item>
+        <item quantity="few">Irċieva %2$d fajls tal-ħoss (%3$s) mingħand %1$s</item>
+        <item quantity="many">Irċieva %2$d(-il) fajl tal-ħoss (%3$s) mingħand %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Qed jirċievi %2$d(-il) fajl tal-ħoss (%3$s) mingħand %1$s…</item>
+        <item quantity="one">Qed jirċievi fajl tal-ħoss %2$d (%3$s) mingħand %1$s…</item>
+        <item quantity="few">Qed jirċievi %2$d fajls tal-ħoss (%3$s) mingħand %1$s…</item>
+        <item quantity="many">Qed jirċievi %2$d(-il) fajl tal-ħoss (%3$s) mingħand %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d(-il) fajl %3$s (%4$s) minn %1$s</item>
+        <item quantity="one">Fajl %3$s %2$d (%4$s) minn %1$s</item>
+        <item quantity="few">%2$d fajls %3$s (%4$s) minn %1$s</item>
+        <item quantity="many">%2$d(-il) fajl %3$s (%4$s) minn %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Irċieva %2$d(-il) fajl %3$s (%4$s) mingħand %1$s</item>
+        <item quantity="one">Irċieva fajl %3$s %2$d (%4$s) mingħand %1$s</item>
+        <item quantity="few">Irċieva %2$d fajls %3$s (%4$s) mingħand %1$s</item>
+        <item quantity="many">Irċieva %2$d(-il) fajl %3$s (%4$s) mingħand %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Qed jirċievi %2$d(-il) fajl %3$s (%4$s) mingħand %1$s…</item>
+        <item quantity="one">Qed jirċievi fajl %3$s %2$d (%4$s) mingħand %1$s…</item>
+        <item quantity="few">Qed jirċievi %2$d fajls %3$s (%4$s) mingħand %1$s…</item>
+        <item quantity="many">Qed jirċievi %2$d(-il) fajl %3$s (%4$s) mingħand %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d(-il) stampa minn %1$s</item>
+        <item quantity="one">Stampa %2$d waħda minn %1$s</item>
+        <item quantity="few">%2$d stampi minn %1$s</item>
+        <item quantity="many">%2$d(-il) stampa minn %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Irċieva %2$d(-il) stampa mingħand %1$s</item>
+        <item quantity="one">Irċieva stampa %2$d mingħand %1$s</item>
+        <item quantity="few">Irċieva %2$d stampi mingħand %1$s</item>
+        <item quantity="many">Irċieva %2$d(-il) stampa mingħand %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Qed jirċievi %2$d(-il) stampa mingħand %1$s…</item>
+        <item quantity="one">Qed jirċievi stampa %2$d mingħand %1$s…</item>
+        <item quantity="few">Qed jirċievi %2$d stampi mingħand %1$s…</item>
+        <item quantity="many">Qed jirċievi %2$d(-il) stampa mingħand %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d(-il) stampa u vidjo minn %1$s</item>
+        <item quantity="one">Stampa jew vidjo %2$d minn %1$s</item>
+        <item quantity="few">%2$d stampi u vidjos minn %1$s</item>
+        <item quantity="many">%2$d(-il) stampa u vidjo minn %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Irċieva %2$d(-il) stampa u vidjos mingħand %1$s</item>
+        <item quantity="one">Irċieva stampa jew vidjo %2$d mingħand %1$s</item>
+        <item quantity="few">Irċieva %2$d stampi u vidjos mingħand %1$s</item>
+        <item quantity="many">Irċieva %2$d(-il) stampa u vidjos mingħand %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Qed jirċievi %2$d(-il) stampa u vidjos mingħand %1$s…</item>
+        <item quantity="one">Qed jirċievi stampa jew vidjo %2$d mingħand %1$s…</item>
+        <item quantity="few">Qed jirċievi %2$d stampi u vidjos mingħand %1$s…</item>
+        <item quantity="many">Qed jirċievi %2$d(-il) stampa u vidjos mingħand %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d(-il) fajl minn %1$s</item>
+        <item quantity="one">Fajl %2$d minn %1$s</item>
+        <item quantity="few">%2$d fajls minn %1$s</item>
+        <item quantity="many">%2$d(-il) fajl minn %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Irċieva %2$d(-il) fajl mingħand %1$s</item>
+        <item quantity="one">Irċieva fajl %2$d mingħand %1$s</item>
+        <item quantity="few">Irċieva %2$d fajls mingħand %1$s</item>
+        <item quantity="many">Irċieva %2$d(-il) fajl mingħand %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Qed jirċievi %2$d(-il) fajl mingħand %1$s…</item>
+        <item quantity="one">Qed jirċievi fajl %2$d mingħand %1$s…</item>
+        <item quantity="few">Qed jirċievi %2$d fajls mingħand %1$s…</item>
+        <item quantity="many">Qed jirċievi %2$d(-il) fajl mingħand %1$s…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">Ma setax jaqsam mal-oħrajn. Għadu qed jiproċessa %d ritratti…</item>
+        <item quantity="one">Ma setax jaqsam mal-oħrajn. Għadu qed jiproċessa %d ritratti…</item>
+        <item quantity="few">Ma setax jaqsam mal-oħrajn. Għadu qed jiproċessa %d ritratti…</item>
+        <item quantity="many">Ma setax jaqsam mal-oħrajn. Għadu qed jiproċessa %d ritratti…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d(-il) vidjo minn %1$s</item>
+        <item quantity="one">Vidjo %2$d minn %1$s</item>
+        <item quantity="few">%2$d vidjos minn %1$s</item>
+        <item quantity="many">%2$d(-il) vidjo minn %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Irċieva %2$d(-il) vidjo mingħand %1$s</item>
+        <item quantity="one">Irċieva vidjo %2$d mingħand %1$s</item>
+        <item quantity="few">Irċieva %2$d vidjos mingħand %1$s</item>
+        <item quantity="many">Irċieva %2$d(-il) vidjo mingħand %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Qed jirċievi %2$d(-il) vidjo mingħand %1$s…</item>
+        <item quantity="one">Qed jirċievi vidjo %2$d mingħand %1$s…</item>
+        <item quantity="few">Qed jirċievi %2$d vidjos mingħand %1$s…</item>
+        <item quantity="many">Qed jirċievi %2$d(-il) vidjo mingħand %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d(-il) arkivju (%3$s) minn %1$s</item>
+        <item quantity="one">Arkivju %2$d (%3$s) minn %1$s</item>
+        <item quantity="few">%2$d arkivji (%3$s) minn %1$s</item>
+        <item quantity="many">%2$d(-il) arkivju (%3$s) minn %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Irċieva %2$d(-il) arkivju (%3$s) mingħand %1$s</item>
+        <item quantity="one">Irċieva arkivju %2$d (%3$s) mingħand %1$s</item>
+        <item quantity="few">Irċieva %2$d arkivji (%3$s) mingħand %1$s</item>
+        <item quantity="many">Irċieva %2$d(-il) arkivju (%3$s) mingħand %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Qed jirċievi %2$d(-il) arkivju (%3$s) mingħand %1$s…</item>
+        <item quantity="one">Qed jirċievi arkivju %2$d (%3$s) mingħand %1$s…</item>
+        <item quantity="few">Qed jirċievi %2$d arkivji (%3$s) mingħand %1$s…</item>
+        <item quantity="many">Qed jirċievi %2$d(-il) arkivju (%3$s) mingħand %1$s…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Tellajt %d ritratt</item>
+        <item quantity="one">Tellajt ritratt %d</item>
+        <item quantity="few">Tellajt %d ritratti</item>
+        <item quantity="many">Tellajt %d-il ritratt</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d kamra</item>
+        <item quantity="one">Kamra %1$d</item>
+        <item quantity="few">%1$d ikmamar</item>
+        <item quantity="many">%1$d-il kamra</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d skrins</item>
+        <item quantity="one">Skrin %1$d</item>
+        <item quantity="few">%1$d-il skrin</item>
+        <item quantity="many">%1$d skrin</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d tagħmir</item>
+        <item quantity="one">Tagħmir %1$d</item>
+        <item quantity="few">%1$d tagħmir</item>
+        <item quantity="many">%1$d-il tagħmir</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d skrin maqsum</item>
+        <item quantity="one">Skrin maqsum %1$d</item>
+        <item quantity="few">%1$d skrins maqsuma</item>
+        <item quantity="many">%1$d-il skrin maqsuma</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d ħaġa kbar wisq biex jiġu sinkronizzati</item>
+        <item quantity="one">Ħaġa %d kbira wisq biex tiġi sinkronizzata</item>
+        <item quantity="few">%d ħwejjeġ kbar wisq biex jiġu sinkronizzati</item>
+        <item quantity="many">%d-il ħaġa kbar wisq biex jiġu sinkronizzati</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">Ma setax jissinkronizza %d ħaġa. Aġġorna l-pakkett tal-ħażna tiegħek.</item>
+        <item quantity="one">Ma setax jissinkronizza ħaġa %d. Aġġorna l-pakkett tal-ħażna tiegħek.</item>
+        <item quantity="few">Ma setax jissinkronizza %d ħwejjeġ. Aġġorna l-pakkett tal-ħażna tiegħek.</item>
+        <item quantity="many">Ma setax jissinkronizza %d-il ħaġa. Aġġorna l-pakkett tal-ħażna tiegħek.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">"Ma setax jissinkronizza %d ħaġa. Erġa' pprova."</item>
+        <item quantity="one">"Ma setax jissinkronizza ħaġa %d. Erġa' pprova."</item>
+        <item quantity="few">"Ma setax jissinkronizza %d ħwejjeġ. Erġa' pprova."</item>
+        <item quantity="many">"Ma setax jissinkronizza %d-il ħaġa. Erġa' pprova."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">Ma setax jissinkronizza %d ħaġa. Sid l-album ma fadallux spazju tal-ħażna.</item>
+        <item quantity="one">Ma setax jissinkronizza ħaġa %d. Sid l-album ma fadallux spazju tal-ħażna.</item>
+        <item quantity="few">Ma setax jissinkronizza %d ħwejjeġ. Sid l-album ma fadallux spazju tal-ħażna.</item>
+        <item quantity="many">Ma setax jissinkronizza %d-il ħaġa. Sid l-album ma fadallux spazju tal-ħażna.</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d(-il) sekonda</item>
+        <item quantity="one">Sekonda %1$d</item>
+        <item quantity="few">%1$d sekondi</item>
+        <item quantity="many">%1$d(-il) sekonda</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">Ttejjbu %d (-il) ritratt</item>
+        <item quantity="one">Ttejjeb %d ritratt wieħed</item>
+        <item quantity="few">Ttejjbu %d ritratti</item>
+        <item quantity="many">Ttejjbu %d (-il) ritratt</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">%d ritratti ottimizzati</item>
+        <item quantity="one">Ritratt %d ottimizzat</item>
+        <item quantity="few">%d-il ritratt ottimizzati</item>
+        <item quantity="many">%d ritratt ottimizzati</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">%d vidjos ottimizzati</item>
+        <item quantity="one">Vidjo %d ottimizzat</item>
+        <item quantity="few">%d -il vidjo ottimizzati</item>
+        <item quantity="many">%d vidjo ottimizzati</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d (-il) ritratt għadu ma ttejbux. Trid twaqqaf issa?</item>
+        <item quantity="one">%d ritratti għadhom ma ttejbux. Trid twaqqaf issa?</item>
+        <item quantity="few">%d ritratti għadhom ma ttejbux. Trid twaqqaf issa?</item>
+        <item quantity="many">%d (-il) ritratt għadu ma ttejbux. Trid twaqqaf issa?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d ritratt</item>
+        <item quantity="one">Ritratt %d</item>
+        <item quantity="few">%d ritratti</item>
+        <item quantity="many">%d-il ritratt</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">fadal %d (-il) ritratt</item>
+        <item quantity="one">fadal %d ritratt</item>
+        <item quantity="few">fadal %d ritratti</item>
+        <item quantity="many">fadal %d (-il) ritratt</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">Fadallek %d ħaġa xi ttejjeb</item>
+        <item quantity="one">Fadallek ħaġa %d xi ttejjeb</item>
+        <item quantity="few">Fadallek %d ħwejjeġ xi ttejjeb</item>
+        <item quantity="many">Fadallek %d-il ħaġa xi ttejjeb</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d vidjo</item>
+        <item quantity="one">Vidjo %d</item>
+        <item quantity="few">%d vidjos</item>
+        <item quantity="many">%d-il vidjo</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">"Għadek ma ħżintx kopja ta' %d(-il) ritratt jew vidjo"</item>
+        <item quantity="one">"Għadek ma ħżintx kopja ta' %d ritratti jew vidjos"</item>
+        <item quantity="few">"Għadek ma ħżintx kopja ta' %d ritratti jew vidjos"</item>
+        <item quantity="many">"Għadek ma ħżintx kopja ta' %d(-il) ritratt jew vidjo"</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d(-il) ħaġa huma kbar wisq biex tinħażnilhom kopja</item>
+        <item quantity="one">Ħaġa %d hija kbira wisq biex tinħażnilha kopja</item>
+        <item quantity="few">%d affarijiet huma kbar wisq biex tinħażnilhom kopja</item>
+        <item quantity="many">%d(-il) ħaġa huma kbar wisq biex tinħażnilhom kopja</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d (-il) ħaġa</item>
+        <item quantity="one">%d affarijiet</item>
+        <item quantity="few">%d affarijiet</item>
+        <item quantity="many">%d (-il) ħaġa</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d ritratti sinkronizzati</item>
+        <item quantity="one">Ritratt %d issinkronizzat</item>
+        <item quantity="few">%d -ir ritratt issinkronizzat</item>
+        <item quantity="many">%d ritratt issinkronizzat</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d vidjos issinkronizzati</item>
+        <item quantity="one">Vidjo %d issinkronizzat</item>
+        <item quantity="few">%d -il vidjo ssinkronizzat</item>
+        <item quantity="many">%d vidjos issinkronizzati</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Qed jissinkronizza %d oġġetti permezz tad-dejta tal-mowbajl</item>
+        <item quantity="one">Qed jissinkronizza %d oġġett permezz tad-dejta tal-mowbajl</item>
+        <item quantity="few">Qed jissinkronizza %d -il oġġett permezz tad-dejta tal-mowbajl</item>
+        <item quantity="many">Qed jissinkronizza %d oġġett permezz tad-dejta tal-mowbajl</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Qed jissinkronizza %d oġġetti</item>
+        <item quantity="one">Qed jissinkronizza %d oġġett</item>
+        <item quantity="few">Qed jissinkronizza %d(-il) oġġett</item>
+        <item quantity="many">Qed jissinkronizza %d oġġett</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s ħaġa</item>
+        <item quantity="one">%1$s, ħaġa %2$s</item>
+        <item quantity="few">%1$s, %2$s ħwejjeġ</item>
+        <item quantity="many">%1$s, %2$s-il ħaġa</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d jum</item>
+        <item quantity="one">Jum %d</item>
+        <item quantity="few">%d ijiem</item>
+        <item quantity="many">%d-il jum</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d xahar</item>
+        <item quantity="one">Xahar %d</item>
+        <item quantity="few">%d xhur</item>
+        <item quantity="many">%d-il xahar</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d sena</item>
+        <item quantity="one">Sena %d</item>
+        <item quantity="few">%d snin</item>
+        <item quantity="many">%d-il sena</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d ħaġa magħżula se jitħassru għal kollox mill-cloud u mit-tagħmir sinkronizzat kollu. Trid tħassarhom xorta?</item>
+        <item quantity="one">Ħaġa %d magħżula se titħassar għal kollox mill-cloud u mit-tagħmir sinkronizzat kollu. Trid tħassarha xorta?</item>
+        <item quantity="few">%d affarijiet magħżula se jitħassru għal kollox mill-cloud u mit-tagħmir sinkronizzat kollu. Trid tħassarhom xorta?</item>
+        <item quantity="many">%d-il ħaġa magħżula se jitħassru għal kollox mill-cloud u mit-tagħmir sinkronizzat kollu. Trid tħassarhom xorta?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">"Mhux se tkun tista' tirkupra %d(-il) ħaġa magħżula jekk tħassarha. Trid tħassarha xorta waħda?"</item>
+        <item quantity="one">"Mhux se tkun tista' tirkupra ħaġa %d magħżula jekk tħassarha. Trid tħassarha xorta waħda?"</item>
+        <item quantity="few">"Mhux se tkun tista' tirkupra %d ħaġiet magħżula jekk tħassarha. Trid tħassarha xorta waħda?"</item>
+        <item quantity="many">"Mhux se tkun tista' tirkupra %d(-il) ħaġa magħżula jekk tħassarha. Trid tħassarha xorta waħda?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d ħaġa magħżula se jitħassru għal kollox. Trid tħassarhom xorta?</item>
+        <item quantity="one">Ħaġa %d magħżula se titħassar għal kollox. Trid tħassarha xorta?</item>
+        <item quantity="few">%d affarijiet magħżula se jitħassru għal kollox. Trid tħassarhom xorta?</item>
+        <item quantity="many">%d-il ħaġa magħżula se jitħassru għal kollox. Trid tħassarhom xorta?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">"Mhux se tkun tista' tirkupra %d(-il) ħaġa magħżula jekk tħassarha. Trid tħassarha xorta waħda?"</item>
+        <item quantity="one">"Mhux se tkun tista' tirkupra ħaġa %d magħżula jekk tħassarha. Trid tħassarha xorta waħda?"</item>
+        <item quantity="few">"Mhux se tkun tista' tirkupra ħaġa %d magħżula jekk tħassarha. Trid tħassarha xorta waħda?"</item>
+        <item quantity="many">"Mhux se tkun tista' tirkupra %d(-il) ħaġa magħżula jekk tħassarha. Trid tħassarha xorta waħda?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">"Mhux se tkun tista' tirkupra %d(-il) ħaġa magħżula jekk tħassru. Trid tħassru xorta waħda?"</item>
+        <item quantity="one">"Mhux se tkun tista' tirkupra ħaġa %d magħżula jekk tħassru. Trid tħassru xorta waħda?"</item>
+        <item quantity="few">"Mhux se tkun tista' tirkupra %d ħaġiet magħżula jekk tħassru. Trid tħassru xorta waħda?"</item>
+        <item quantity="many">"Mhux se tkun tista' tirkupra %d(-il) ħaġa magħżula jekk tħassru. Trid tħassru xorta waħda?"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">L-affarijiet jistgħu jinħażnu hawn għal %1$d(-il) jum (%2$s)</item>
+        <item quantity="one">L-affarijiet jistgħu jinħażnu hawn għal jum %1$d (%2$s)</item>
+        <item quantity="few">L-affarijiet jistgħu jinħażnu hawn għal %1$d ijiem (%2$s)</item>
+        <item quantity="many">L-affarijiet jistgħu jinħażnu hawn għal %1$d(-il) jum (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">L-affarijiet jistgħu jinħażnu hawn għal %1$d(-il) jum. Ikseb abbonament aħjar biex ittawwal dal-perjodu.</item>
+        <item quantity="one">L-affarijiet jistgħu jinħażnu hawn għal jum %1$d. Ikseb abbonament aħjar biex ittawwal dal-perjodu.</item>
+        <item quantity="few">L-affarijiet jistgħu jinħażnu hawn għal %1$d ijiem. Ikseb abbonament aħjar biex ittawwal dal-perjodu.</item>
+        <item quantity="many">L-affarijiet jistgħu jinħażnu hawn għal %1$d(-il) jum. Ikseb abbonament aħjar biex ittawwal dal-perjodu.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d fajls</item>
+        <item quantity="one">Fajl %1$d</item>
+        <item quantity="few">%1$d fajls</item>
+        <item quantity="many">%1$d fajls</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d vidjos</item>
+        <item quantity="one">Vidjow %d</item>
+        <item quantity="few">%d(-il) vidjo</item>
+        <item quantity="many">%d(-il) vidjo</item>
+    </plurals>
+</resources>

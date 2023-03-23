@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/passport_title_bar_height_1" android:paddingStart="@dimen/passport_title_bar_padding_horizontal" android:paddingEnd="@dimen/passport_title_bar_padding_horizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/header_back" android:layout_width="@dimen/passport_title_bar_icon_size" android:layout_height="@dimen/passport_title_bar_icon_size" android:layout_marginTop="30.0dip" android:src="@drawable/passport_ic_back" android:layout_alignParentStart="true" />
+    <RelativeLayout android:id="@id/help_layout" android:layout_width="40.0dip" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:layout_alignParentRight="true" android:layout_alignParentEnd="true">
+        <ImageView android:id="@id/header_help" android:layout_width="@dimen/passport_title_bar_icon_size" android:layout_height="@dimen/passport_title_bar_icon_size" android:src="@drawable/passport_ic_help" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+        <TextView android:textColor="#ff333333" android:id="@id/header_help_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:text="@string/header_help" android:layout_marginStart="5.0dip" />
+    </RelativeLayout>
+    <TextView android:id="@id/header_country_name" android:layout_marginTop="40.0dip" android:layout_marginRight="3.0dip" android:text="中国大陆" android:layout_toLeftOf="@id/help_layout" android:layout_marginEnd="3.0dip" android:layout_toStartOf="@id/help_layout" style="@style/Passport.HighlightText" />
+</RelativeLayout>

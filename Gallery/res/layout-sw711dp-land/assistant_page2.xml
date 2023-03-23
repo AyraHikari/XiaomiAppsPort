@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:id="@id/assistant_page_spring_back" android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollableView="@id/assistant_page_view" xmlns:app="http://schemas.android.com/apk/res-auto">
+        <miuix.core.widget.NestedScrollView android:id="@id/assistant_page_view" android:paddingBottom="40.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="horizontal" android:clipChildren="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="40.0dip" android:weightSum="5.0" android:layout_marginEnd="@dimen/assistant_page_margin_end">
+                <com.miui.gallery.widget.recyclerview.CustomCardBanner android:id="@id/assistant_page_banner" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="3.0" android:importantForAccessibility="no" />
+                <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="2.0">
+                    <include android:layout_width="fill_parent" android:layout_height="@dimen/assistant_today_of_year_height" layout="@layout/view_today_of_year" />
+                    <com.miui.gallery.widget.recyclerview.HorizontalRecyclerView android:id="@id/recycler_view" android:background="@color/assistant_operator_item_layout_bg_color" android:paddingTop="@dimen/assistant_header_top_bottom_divider" android:paddingBottom="@dimen/assistant_header_top_bottom_divider" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/assistant_today_of_year_margin_top" android:importantForAccessibility="no" app:outlineCornerRadius="@dimen/assistant_header_item_radius" app:spanCount="4" app:view_grid="true" />
+                    <include android:layout_width="fill_parent" android:layout_height="@dimen/assistant_all_cards_height" android:layout_marginTop="@dimen/assistant_all_cards_layout_margin_top" layout="@layout/view_all_time_cards" />
+                </LinearLayout>
+            </LinearLayout>
+        </miuix.core.widget.NestedScrollView>
+    </miuix.springback.view.SpringBackLayout>
+</FrameLayout>

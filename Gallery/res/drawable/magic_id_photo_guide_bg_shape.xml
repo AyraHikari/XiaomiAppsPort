@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/color_magic_idp_guide_navigationbar" />
+    <corners android:topLeftRadius="@dimen/px_66" android:topRightRadius="@dimen/px_66" />
+</shape>

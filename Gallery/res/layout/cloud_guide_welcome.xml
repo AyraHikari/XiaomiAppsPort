@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.core.widget.NestedScrollView android:scrollbarStyle="outsideOverlay" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:windowActionBar="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/introduce_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/welcome_margin_top" android:paddingStart="@dimen/page_content_margin_lr" android:paddingEnd="@dimen/page_content_margin_lr">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/welcome_image_text_margin" android:src="@drawable/cloud" android:contentDescription="@null" />
+                <TextView android:gravity="center" android:id="@id/welcome_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/welcome_text_margin" style="@style/Gallery.TextAppearance.List.Primary" />
+                <TextView android:gravity="center" android:id="@id/introduce" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Gallery.TextAppearance.List.Secondary" />
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <FrameLayout android:id="@android:id/list_container" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+    <Button android:gravity="center" android:layout_gravity="bottom" android:id="@id/next" android:layout_marginStart="@dimen/cloud_backup_btn_margin_start_end" android:layout_marginEnd="@dimen/cloud_backup_btn_margin_start_end" style="@style/Gallery.Widget.Button.Default" />
+</LinearLayout>

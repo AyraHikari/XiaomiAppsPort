@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/item_group_album_main" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginHorizontal="@dimen/album_group_header_margin_horizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/item_group_album_tip" android:background="@color/album_group_more_tip_background" android:layout_width="fill_parent" android:layout_height="@dimen/album_page_more_album_height"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <TextView android:textSize="@dimen/album_group_header_title_text_size" android:textColor="@color/album_group_header_title_text_color" android:id="@id/tv_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/album_group_header_title_text_view_margin_top" android:includeFontPadding="false" />
+</FrameLayout>

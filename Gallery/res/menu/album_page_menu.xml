@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/action_button_rename_light" android:id="@id/menu_rename" android:orderInCategory="1" android:title="@string/operation_rename" android:showAsAction="always" />
+    <item android:icon="@drawable/action_button_hidden_light" android:id="@id/menu_hidden" android:orderInCategory="2" android:title="@string/operation_hide" android:showAsAction="always" />
+    <item android:icon="?actionBarDeleteIcon" android:id="@id/menu_delete" android:orderInCategory="3" android:title="@string/delete" android:showAsAction="always" />
+    <item android:id="@id/menu_show_in_photos_tab" android:orderInCategory="4" android:title="@string/operation_show_in_photos_tab" android:showAsAction="never" />
+    <item android:id="@id/menu_disable_show_in_photos_tab" android:visible="false" android:orderInCategory="4" android:title="@string/operation_not_show_in_photos_tab" android:showAsAction="never" />
+    <item android:id="@id/menu_move_to_other_albums" android:orderInCategory="4" android:title="@string/operation_move_to_other_albums" android:showAsAction="never" />
+    <item android:id="@id/menu_replace_album_cover" android:orderInCategory="4" android:title="@string/operation_replace_album_cover" android:showAsAction="never" />
+</menu>

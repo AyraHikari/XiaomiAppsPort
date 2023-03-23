@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollOrientation="vertical" app:scrollableView="@id/recyclerViewList">
+        <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/recyclerViewList" android:paddingBottom="@dimen/album_item_placeholder_height" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </miuix.springback.view.SpringBackLayout>
+    <FrameLayout android:orientation="horizontal" android:id="@id/rubbish_button" android:background="@drawable/rubbish_nomedia_button_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent">
+        <Button android:textSize="@dimen/stop_scan_btn_text_size" android:textColor="@color/stop_scan_text_color" android:id="@id/manage" android:background="@drawable/btn_bg_cleaner_action" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/cleaner_item_action_layout_height" android:layout_marginTop="@dimen/stop_scan_btn_margin_top" android:layout_marginBottom="@dimen/stop_scan_btn_margin_bottom" android:text="@string/rubbish_nomedia_manager_button_text" android:fontFamily="mipro-medium" android:layout_marginStart="@dimen/space_action_margin" android:layout_marginEnd="@dimen/space_action_margin" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

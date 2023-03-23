@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<storyboard sceneWidth="720" sceneHeight="1520">	
+	<track source=":1" clipStart="0" clipDuration="1" repeat="true"/>	      	
+	<track source="black_block.png" width="720" height="1520" clipStart="0" clipDuration="800000">	      	
+		<effect name="transform">
+			<animation paramName="opacity">
+				<key time="0" value="0"/>
+				<key time="1200" value="1"/>
+			</animation>
+		</effect>
+	</track>		
+</storyboard>

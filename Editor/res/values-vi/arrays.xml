@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Trắng</item>
+        <item>Xanh lam đậm</item>
+        <item>Xanh lam nhạt</item>
+        <item>Đỏ</item>
+        <item>Xanh lá cây</item>
+        <item>Hồng</item>
+        <item>Nâu</item>
+        <item>Xám</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Chọn ảnh</item>
+        <item>Bối cảnh trong suốt</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Giải trí</item>
+        <item>Gió nhẹ</item>
+        <item>Giấc mơ</item>
+        <item>Đám mây</item>
+        <item>Ý tưởng</item>
+        <item>Chồi non</item>
+        <item>Biến hóa</item>
+        <item>Chiều sâu</item>
+        <item>Phản chiếu</item>
+        <item>Tối giản</item>
+        <item>Huyền bí</item>
+        <item>Sương mù</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Nền hình học mang phong cách vị lai</item>
+        <item>Mang không khí của bản in cũ</item>
+        <item>Biến bối cảnh thành phác thảo</item>
+        <item>Bối cảnh phong cách màu nước</item>
+        <item>Cyberpunk hoài cổ</item>
+        <item>Đường thẳng cắt lệch</item>
+        <item>Mờ sương</item>
+        <item>Cảm nhận tương lai</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Lưới đa giác</item>
+        <item>Khắc axít</item>
+        <item>Phác thảo</item>
+        <item>Màu nước</item>
+        <item>RGB</item>
+        <item>Cửa sổ</item>
+        <item>Cửa sổ sương mù</item>
+        <item>Công nghệ</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Đường viền màu</item>
+        <item>Đường nét đứt</item>
+        <item>Đường viền huỳnh quang</item>
+        <item>Đổ bóng màu</item>
+        <item>Sóng điện</item>
+        <item>Dòng chảy</item>
+        <item>Sóng</item>
+        <item>Hạt</item>
+        <item>Văn bản</item>
+        <item>Đôi cánh</item>
+        <item>Thiên thần</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Hai tấc</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+</resources>

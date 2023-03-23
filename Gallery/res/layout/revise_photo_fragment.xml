@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/revise_photo_divide_line" android:layout_width="fill_parent" android:layout_height="@dimen/ocr_divide_line_height" android:layout_marginTop="@dimen/ocr_photo_text_line_margin_start" />
+    <com.github.chrisbanes.photoview.PhotoView android:id="@id/photoview" android:duplicateParentState="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/ocr_photo_text_line_margin_start" />
+</LinearLayout>

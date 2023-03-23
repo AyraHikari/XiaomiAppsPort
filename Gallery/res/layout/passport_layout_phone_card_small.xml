@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/passport_phone_number_card_bg" android:layout_width="fill_parent" android:layout_height="88.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/card_title_avatar" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/passport_ic_user_avatar_sim1" android:scaleType="fitCenter" android:layout_centerVertical="true" android:layout_marginStart="20.0dip" android:layout_alignParentStart="true" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="15.0dip" android:layout_marginEnd="20.0dip" android:layout_toEndOf="@id/card_title_avatar">
+        <TextView android:textSize="18.0sp" android:textColor="@color/passport_phone_number_card_small_title" android:ellipsize="end" android:gravity="start" android:id="@id/card_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="87****99" android:singleLine="true" android:textDirection="anyRtl" />
+        <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/passport_phone_number_card_small_sub_title" android:ellipsize="end" android:gravity="start" android:id="@id/card_sub_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="150****6135" android:singleLine="true" android:textDirection="ltr" />
+    </LinearLayout>
+</RelativeLayout>

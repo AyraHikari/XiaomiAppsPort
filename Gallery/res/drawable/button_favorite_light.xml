@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:variablePadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/button_favorite_selected_light" />
+    <item android:state_enabled="false" android:drawable="@drawable/button_favorite_disable_light" />
+    <item android:drawable="@drawable/button_favorite_normal_light" />
+</selector>

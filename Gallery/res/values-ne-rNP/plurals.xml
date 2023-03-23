@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 घण्टा अघि</item>
+        <item quantity="one">1 घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 घण्टा अघि</item>
+        <item quantity="one">1 घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">आधा घण्टा पहिले</item>
+        <item quantity="one">आधा घण्टा अघि</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 घण्टामा</item>
+        <item quantity="one">1 घण्टामा</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">आधा घण्टामा</item>
+        <item quantity="one">आधा घण्टामा</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">तुरून्तै</item>
+        <item quantity="one">तुरून्तै</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d मिनेटमा</item>
+        <item quantity="one">1 मिनेटमा</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">अहिले भर्खरै</item>
+        <item quantity="one">अहिले भर्खरै</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d मिनेट अघि</item>
+        <item quantity="one">1 मिनेट अघि</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">यी वस्तुहरू निजी एल्बममा थप्नुहुन्छ?</item>
+        <item quantity="one">यो वस्तु निजी एल्बममा थप्नुहुन्छ?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">थपिएको %d क्लाउड फोटोहरू, हेर्नको लागि \"स्थानिय एल्बमहरू मात्र देखाउनुहोस्\" लाई बन्द गर्नुहोस्।</item>
+        <item quantity="one">थपिएको %d क्लाउड फोटो, हेर्नको लागि \"स्थानिय एल्बमहरू मात्र देखाउनुहोस्\" लाई बन्द गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">" %2$dवस्तुहरु एल्बममा थप्न सकिँदैन।%1$s।"</item>
+        <item quantity="one">" %2$dवस्तु एल्बममा थप्न सकिँदैन।%1$s।"</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d वस्तुहरू निजी एल्बममा थप्न सकिँदैन। %1$s.</item>
+        <item quantity="one">%2$d वस्तुहरू निजी एल्बममा थप्न सकिँदैन। %1$s.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d दिनहरू</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d महिनाहरू</item>
+        <item quantity="one">%d महिना</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d वर्षहरू</item>
+        <item quantity="one">%d वर्ष</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">%d मानिसहरूलाई साझा गरिएको</item>
+        <item quantity="one">%d व्यक्तिलाई साझा गरिएको</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d तस्वीरहरू</item>
+        <item quantity="one">%d तस्वीर</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d वस्तुहरू | %2$s</item>
+        <item quantity="one">%1$d वस्तु | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d वस्तुहरू)</item>
+        <item quantity="one">(%d वस्तु)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d एल्बमहरू</item>
+        <item quantity="one">%d एल्बम</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s व्यक्तिहरूले यो एल्बम हेर्न सक्छन्</item>
+        <item quantity="one">%s व्यक्तिले यो एल्बम हेर्न सक्छ</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d एत्बमहरू %1$s समेत</item>
+        <item quantity="one">%2$d एत्बम %1$s समेत</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d वस्तुहरू</item>
+        <item quantity="one">%1$d वस्तु</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d स्मृतिहरू</item>
+        <item quantity="one">%d स्मृति</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%2$s को %1$d फोटोहरू थपिनेछन्</item>
+        <item quantity="one">%2$s को %1$d फोटो थपिनेछ</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%2$s को %1$d फोटोहरू थपिनेछन्</item>
+        <item quantity="one">%2$s को %1$d फोटो थपिनेछ</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">%d घण्टाहरुमा ब्याकअप पुन: सुरु गर्नुहोस्</item>
+        <item quantity="one">%d घण्टामा ब्याकअप पुन: सुरु गर्नुहोस्</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">ब्याकअप लिन %d धेरै ठूलो छ</item>
+        <item quantity="one">ब्याकअप लिन %d धेरै ठूलो छ</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d मिनेटमा चालू गरिनेछ</item>
+        <item quantity="one">%d मिनेटमा चालू गरिनेछ</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">%d मिनेटको लागि क्लाउडमा फोटोहरू, भिडियोहरू, सम्पर्कहरू, नोटहरू, र अन्य वस्तुहरू सिंक गर्न रोक्नुहोस्।</item>
+        <item quantity="one">%d मिनेटको लागि क्लाउडमा फोटोहरू, भिडियोहरू, सम्पर्कहरू, नोटहरू, र अन्य वस्तुहरू सिंक गर्न रोक्नुहोस्।</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d फोटो वा भिडियोहरू | %2$s</item>
+        <item quantity="one">%1$d फोटो वा भिडियो | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d फोटो वा भिडियोहरू</item>
+        <item quantity="one">%1$d फोटो वा भिडियो</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d फोटोहरू</item>
+        <item quantity="one">%d फोटो</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">तपाईंले चयन नगर्नुभएको %d फोटोहरू मेटाउनुहुने?</item>
+        <item quantity="one">तपाईंले चयन नगर्नुभएको %d फोटो मेटाउनुहुने?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">%d फोटोहरू मेटाउनुहोस्</item>
+        <item quantity="one">%d फोटो मेटाउनुहोस्</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">%d चयन गरिएको फोटोहरू राख्नुहोस्</item>
+        <item quantity="one">%d चयन गरिएको फोटो राख्नुहोस्</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d तस्वीरहरू</item>
+        <item quantity="one">%d तस्वीर</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d भिडियोहरू</item>
+        <item quantity="one">%d भिडियो</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">अपर्याप्त क्लाउड भण्डारण भएकोले गर्दा %d वस्तुहरू सिंक गर्न सकिएन</item>
+        <item quantity="one">अपर्याप्त क्लाउड भण्डारण भएकोले गर्दा %d वस्तु सिंक गर्न सकिएन</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">कोलाजमा %1$d-%2$d फोटोहरू हुनसक्छ</item>
+        <item quantity="one">कोलाजमा %1$d-%2$d फोटो हुनसक्छ</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">%d फोटोहरू सम्म चयन गर्नुहोस्</item>
+        <item quantity="one">%d फोटो सम्मस चयन गर्नुहोस्</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d वस्तुहरू चयन गरियो</item>
+        <item quantity="one">%d वस्तु चयन गरियो</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d बर्स्ट शटहरू Xiaomi क्लाउड र सबै सिंक गरिएका डिभाइसहरूबाट मेटाउने हो?</item>
+        <item quantity="one">%d बर्स्ट शट Xiaomi क्लाउड र सबै सिंक गरिएका डिभाइसहरूबाट मेटाउने हो?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">%d ब्रस्ट शटहरू मेटाउने?</item>
+        <item quantity="one">%d ब्रस्ट शट मेटाउने?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d वस्तुहरू मेटाइयो</item>
+        <item quantity="one">%d वस्तु मेटाइयो</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">Xiaomi क्लाउड र सबै डिभाइसबाट %d वस्तुहरू मेटाउनुहुने?</item>
+        <item quantity="one">Xiaomi क्लाउड र सबै डिभाइसबाट %d वस्तु मेटाउनुहुने?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">%d वस्तुहरु मेट्ने?</item>
+        <item quantity="one">%d वस्तु मेट्ने?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Xiaomi क्लाउड र सबै डिभाइसबाट %d फोटोहरू मेटाउनुहुने?</item>
+        <item quantity="one">Xiaomi क्लाउड र सबै डिभाइसबाट %d फोटो मेटाउनुहुने?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">%d ब्रस्ट शटहरू तपाईंको डिभाइसबाट मेटाउने हो?</item>
+        <item quantity="one">%d ब्रस्ट शट तपाईंको डिभाइसबाट मेटाउने?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">Xiaomi क्लाउड र सबै डिभाइसबाट %d भिडियोहरू मेटाउनुहुने?</item>
+        <item quantity="one">Xiaomi क्लाउड र सबै डिभाइसबाट %d भिडियो मेटाउनुहुने?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">%1$d फाइलहरू डाउनलोड हुन सकेनन्</item>
+        <item quantity="one">%1$d फाइल डाउनलोड हुन सकेन</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">%1$d फाइलहरु डाउनलोड गर्न सकेन, सञ्जाल जडान जाँच्नुहोस् र फेरि प्रयास गर्नुहोस्</item>
+        <item quantity="one">%1$d फाइल डाउनलोड गर्न सकेन, सञ्जाल जडान जाँच्नुहोस् र फेरि प्रयास गर्नुहोस्</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">वस्तुहरू क्लाउडबाट डाउनलोड हुँदैछ(%2$d/%1$d)</item>
+        <item quantity="one">वस्तु क्लाउडबाट डाउनलोड हुँदैछ(%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">जम्मा %d फोटोहरू</item>
+        <item quantity="one">जम्मा %d फोटो</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">फोटोहरु प्रक्रिया गर्दैछ…</item>
+        <item quantity="one">फोटो प्रक्रिया गर्दैछ…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">रेन्डर गर्न नसकिने %1$d फोटोहरू छोडियो</item>
+        <item quantity="one">रेन्डर गर्न नसकिने %1$d फोटो छोडियो</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d फाइलहरू</item>
+        <item quantity="one">%1$d फाइल</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">आधा घण्टा अघि</item>
+        <item quantity="one">आधा घण्टा अघि</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 घण्टामा</item>
+        <item quantity="one">1 घण्टामा</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">आधा घण्टामा</item>
+        <item quantity="one">आधा घण्टामा</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">तुरून्तै</item>
+        <item quantity="one">तुरून्तै</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d मिनेटमा</item>
+        <item quantity="one">1 मिनेटमा</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">अहिले भर्खरै</item>
+        <item quantity="one">अहिले भर्खरै</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d मिनेट</item>
+        <item quantity="one">%d मिनेट</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d सेकेन्ड</item>
+        <item quantity="one">%d सेकेन्ड</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d वस्तुहरू चयन गरियो</item>
+        <item quantity="one">%d वस्तु चयन गरियो</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d मिनेट अघि</item>
+        <item quantity="one">1 मिनेट अघि</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d वस्तुहरू सिंक हुन पर्खिरहेको छ</item>
+        <item quantity="one">%1$d वस्तु सिंक हुन पर्खिरहेको छ</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d फोटोहरू</item>
+        <item quantity="one">%1$d फोटो</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d फोटोहरू सिंक हुन पर्खिरहेको छ</item>
+        <item quantity="one">%1$d फोटो सिंक हुन पर्खिरहेको छ</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">%1$d फोटोहरू सिंक हुँदैछ…</item>
+        <item quantity="one">%1$d फोटो सिंक हुँदैछ…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">%1$d वस्तुहरू सिंक हुँदैछ…</item>
+        <item quantity="one">%1$d वस्तु सिंक हुँदैछ…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">%1$d भिडियोहरू सिंक हुँदैछ…</item>
+        <item quantity="one">%1$d भिडियो सिंक हुँदैछ…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d भिडियोहरू</item>
+        <item quantity="one">%1$d भिडियो</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d भिडियोहरू सिंक हुन पर्खिरहेको छ</item>
+        <item quantity="one">%1$d भिडियो सिंक हुन पर्खिरहेको छ</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d फोटोहरू</item>
+        <item quantity="one">%d फोटो</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">जम्मा %1$d वस्तुहरू</item>
+        <item quantity="one">जम्मा %1$d वस्तु</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d डिग्री घुमाउनुहोस्</item>
+        <item quantity="one">%d डिग्री घुमाउनुहोस्</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d दिन</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d घ</item>
+        <item quantity="one">%d घ</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">%d असमर्थित वस्तुहरू फिल्टर गरियो</item>
+        <item quantity="one">%d असमर्थित वस्तु फिल्टर गरियो</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF फाइलमा %d सम्म छविहरू हुनसक्छ</item>
+        <item quantity="one">PDF फाइलमा %d सम्म छवि हुनसक्छ</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">चयन गरिएका फोटोहरू डिभाइसमा छैनन्, मोबाइल डाटा प्रयोग गरेर डाउनलोड गर्ने?</item>
+        <item quantity="one">चयन गरिएको फोटोहरू डिभाइसमा छैनन्, तिनीहरूलाई मोबाइल डाटा प्रयोग गरेर डाउनलोड गर्ने?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">चयन गरिएका फोटोहरू डिभाइसमा छैनन्। तिनीहरू डाउनलोड हुनेछन्।</item>
+        <item quantity="one">चयन गरिएको फोटो डिभाइसमा छैन। यो डाउनलोड हुनेछ।</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">चयन गरिएको फोटोहरू (%d MB) डिभाइसमा छैनन्, तिनीहरूलाई मोबाइल डाटा प्रयोग गरेर डाउनलोड गर्नुहुन्छ?</item>
+        <item quantity="one">चयन गरिएको फोटो (%d MB) डिभाइसमा छैन, यसलाई मोबाइल डाटा प्रयोग गरेर डाउनलोड गर्नुहुन्छ?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d फाइलहरू अझसम्म डाउनलोड भएको छैन। रद्द गर्नुहुन्छ?</item>
+        <item quantity="one">%d फाइल अझसम्म डाउनलोड भएको छैन। रद्द गर्नुहुन्छ?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">बाँकी %d फाइलहरू डाउनलोड हुँदैछ</item>
+        <item quantity="one">बाँकी %d फाइल डाउनलोड हुँदैछ</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">%1$d फोटोहरू डाउनलोड हुन सकेन, नेटवर्कमा जडान हुनुहोस् र फेरि प्रयास गर्नुहोस्</item>
+        <item quantity="one">%1$d फोटो डाउनलोड हुन सकेन, नेटवर्कमा जडान हुनुहोस् र फेरि प्रयास गर्नुहोस्</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">%1$d फाइलहरू (%2$d MB) डाउनलोड गर्न सकिएन। नेटवर्कमा जडान हुनुहोस् र फेरि प्रयास गर्नुहोस।</item>
+        <item quantity="one">%1$d फाइल (%2$d MB) डाउनलोड गर्न सकिएन। नेटवर्कमा जडान हुनुहोस् र फेरि प्रयास गर्नुहोस।</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d फाइल (%2$d MB) अझसम्म डाउनलोड भएको छैन। मोबाइल डाटा प्रयोग गरेर डाउनलोड गर्नुहुन्छ?</item>
+        <item quantity="one">%1$d फाइल (%2$d MB) अझसम्म डाउनलोड भएको छैन। मोबाइल डाटा प्रयोग गरेर डाउनलोड गर्नुहुन्छ?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">%1$d फोटोहरू डाउनलोड हुन सकेन, फेरि प्रयास गर्ने?</item>
+        <item quantity="one">%1$d फोटो डाउनलोड हुन सकेन, फेरि प्रयास गर्ने?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">%1$d फोटाहरू (%2$d MB) डाउनलोड गर्न सकिएन, फेरि प्रयास गर्नुहुन्छ?</item>
+        <item quantity="one">%1$d फोटो (%2$d MB) डाउनलोड गर्न सकिएन, फेरि प्रयास गर्नुहुन्छ?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">%d फोटोहरू छोडियो जुन डिभाइसमा छैन।</item>
+        <item quantity="one">%d फोटो छोडियो जुन डिभाइसमा छैन।</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d नयाँ फोटोहरू फेला पर्यो</item>
+        <item quantity="one">%1$d नयाँ फोटो फेला पर्यो</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">जम्मा %d फोटोहरू</item>
+        <item quantity="one">जम्मा %d फोटो</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d वस्तुहरू निजी एल्बमबाट हटाउन सकिँदैन। %1$s.</item>
+        <item quantity="one">%2$d वस्तुहरू निजी एल्बमबाट हटाउन सकिँदैन। %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">\"%2$s\" बाट %1$d फोटोहरु थपेको छ र डाटाबेसमा फोटो थपेको छ।</item>
+        <item quantity="one">\"%2$s\" बाट %1$d फोटो थपेको छ र डाटाबेसमा फोटो थपेको छ।</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">\"%2$s\" बाट %1$d फोटो हटाएको छ र डाटाबेसमा फोटोहरु थपेको छ।</item>
+        <item quantity="one">\"%2$s\" बाट %1$d फोटो हटाएको छ र डाटाबेसमा फोटो थपेको छ।</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">\"%2$s\" बाट %1$d फोटोहरु थपेको छ।</item>
+        <item quantity="one">\"%2$s\" बाट %1$d फोटो थपेको छ।</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">\"%2$s\" बाट %1$d फोटोहरु हताएको छ।</item>
+        <item quantity="one">\"%2$s\" बाट %1$d फोटो हताएको छ।</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s बाट %2$d इन्स्टलेसन प्याकेजहरू (%3$s)</item>
+        <item quantity="one">%1$s बाट %2$d इन्स्टलेसन प्याकेज (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s बाट %2$d इन्स्टलेसन प्याकेजहरू (%3$s) प्राप्त भयो</item>
+        <item quantity="one">%1$s बाट %2$d इन्स्टलेसन प्याकेज (%3$s) प्राप्त भयो</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s बाट %2$d इन्स्टलेसन प्याकेजहरू (%3$s) प्राप्त गर्दै…</item>
+        <item quantity="one">%1$s बाट %2$d इन्स्टलेसन प्याकेज (%3$s) प्राप्त गर्दै…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s बाट %2$d अडियो फाइलहरू (%3$s)</item>
+        <item quantity="one">%1$s बाट %2$d अडियो फाइल (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s बाट %2$d अडियो फाइलहरू (%3$s) प्राप्त भयो</item>
+        <item quantity="one">%1$s बाट %2$d अडियो फाइल (%3$s) प्राप्त भयो</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s बाट %2$d अडियो फाइलहरू (%3$s) प्राप्त गर्दै…</item>
+        <item quantity="one">%1$s बाट %2$d अडियो फाइल (%3$s) प्राप्त गर्दै…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$sबाट %2$d %3$s फाइलहरू (%4$s)</item>
+        <item quantity="one">%1$s बाट %2$d %3$s फाइल (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s बाट %2$d %3$s फाइलहरू (%4$s) प्राप्त भयो</item>
+        <item quantity="one">%1$s बाट %2$d %3$s फाइल (%4$s) प्राप्त भयो</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s बाट %2$d %3$s फाइलहरू (%4$s) प्राप्त हुँदैछ …</item>
+        <item quantity="one">%1$s बाट %2$d %3$s फाइल (%4$s) प्राप्त हुँदैछ …</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s बाट %2$d छविहरू</item>
+        <item quantity="one">%1$s बाट %2$d छवि</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s बाट %2$d छविहरू प्राप्त भयो</item>
+        <item quantity="one">%1$s बाट %2$d छवि प्राप्त भयो</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s बाट %2$d छविहरू प्राप्त गर्दै…</item>
+        <item quantity="one">%1$s बाट %2$d छवि प्राप्त गर्दै…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s बाट %2$d छवि वा भिडियोहरू</item>
+        <item quantity="one">%1$s बाट %2$d छवि वा भिडियो</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s बाट %2$d छविहरू वा भिडियोहरू प्राप्त भयो</item>
+        <item quantity="one">%1$s बाट %2$d छवि वा भिडियो प्राप्त भयो</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s बाट %2$d छविहरू वा भिडियोहरू प्राप्त गर्दै…</item>
+        <item quantity="one">%1$s बाट %2$d छवि वा भिडियो प्राप्त गर्दै…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s बाट %2$d फाइलहरू</item>
+        <item quantity="one">%1$s बाट %2$d फाइल</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s बाट %2$d फाइलहरू प्राप्त भयो</item>
+        <item quantity="one">%1$s बाट %2$d फाइल प्राप्त भयो</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s बाट %2$d फाइलहरू प्राप्त गर्दै…</item>
+        <item quantity="one">%1$s बाट %2$d फाइल प्राप्त गर्दै…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">साझेदारी गर्न सकिएन।%d फोटोहरु अझै प्रक्रिया गर्दैछ…</item>
+        <item quantity="one">साझेदारी गर्न सकिएन।%d फोटो अझै प्रक्रिया गर्दैछ…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s बाट %2$d भिडियोहरू</item>
+        <item quantity="one">%1$s बाट %2$d भिडियो</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s बाट %2$d भिडियोहरू प्राप्त भयो</item>
+        <item quantity="one">%1$s बाट %2$d भिडियो प्राप्त भयो</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s बाट %2$d भिडियोहरू प्राप्त गर्दै…</item>
+        <item quantity="one">%1$s बाट %2$d भिडियो प्राप्त गर्दै…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s बाट %2$d आर्काइभहरू (%3$s)</item>
+        <item quantity="one">%1$s बाट %2$d आर्काइभ (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s बाट %2$d आर्काइभहरू (%3$s) प्राप्त भयो</item>
+        <item quantity="one">%1$s बाट %2$d आर्काइभ (%3$s) प्राप्त भयो</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s बाट %2$d आर्काइभहरू (%3$s) प्राप्त गर्दै…</item>
+        <item quantity="one">%1$s बाट %2$d आर्काइभ (%3$s) प्राप्त गर्दै…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">%d फोटोहरू अपलोड गरियो</item>
+        <item quantity="one">%d फोटो अपलोड गरियो</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d कोठाहरू</item>
+        <item quantity="one">%1$d कोठा</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d स्क्रिनहरू</item>
+        <item quantity="one">%1$d स्क्रिन</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d स्क्रिनहरू</item>
+        <item quantity="one">%1$d स्क्रिन</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">शेयर गरिएको %1$d स्क्रिन</item>
+        <item quantity="one">शेयर गरिएको %1$d स्क्रिन</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d वस्तुहरू सिंक गर्न धेरै ठूला छन्</item>
+        <item quantity="one">%d वस्तु सिंक गर्न धेरै ठूलो छ</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">%d वस्तुहरू सिंक गर्न सकेन। तपाईँको भण्डारण प्लान अपग्रेड गर्नुहोस् ।</item>
+        <item quantity="one">%d वस्तु सिंक गर्न सकेन । तपाईँको भण्डारण प्लान अपग्रेड गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">%d वस्तुहरू सिंक गर्न सकिएन। फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">%d वस्तु सिंक गर्न सकिएन। फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">%d वस्तुहरू सिंक गर्न सकेन । यो एल्बमको मालिकको क्लाउड स्टोरेज भरिएको छ।</item>
+        <item quantity="one">%d वस्तु सिंक गर्न सकेन । यो एल्बमको मालिकको क्लाउड स्टोरेज भरिएको छ।</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d सकेन्ड</item>
+        <item quantity="one">%1$d सेकेण्ड</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d फोटोहरु अप्टिमाइज गरीयो</item>
+        <item quantity="one">%d फोटो अप्टिमाइज गरीयो</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">%d फोटोहरू अप्टिमाइज गरियो</item>
+        <item quantity="one">%d फोटो अप्टिमाइज गरियो</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">%d भिडियोहरू अप्टिमाइज गरियो</item>
+        <item quantity="one">%d भिडियो अप्टिमाइज गरियो</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d फोटोहरु अप्टिमाइज गरिएको छैन। अहिले बन्द गर्नुहुन्छ?</item>
+        <item quantity="one">%d फोटो अप्टिमाइज गरिएको छैन। अहिले बन्द गर्नुहुन्छ?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d फोटोहरू</item>
+        <item quantity="one">%d फोटो</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d फोटोहरु बाँकी छ</item>
+        <item quantity="one">%d फोटो बाँकी छ</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">अप्टिमाइज गर्न %d वस्तुहरू बाँकी छ</item>
+        <item quantity="one">अप्टिमाइज गर्न %d वस्तु बाँकी छ</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d भिडियोहरू</item>
+        <item quantity="one">%d भिडियो</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">%d फोटो वा भिडियोहरू ब्याकअप भएका छैनन्</item>
+        <item quantity="one">%d फोटो वा भिडियो ब्याकअप भएको छैन</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d वस्तु ब्याकप लिनका लागि धेरै ठूलो छ</item>
+        <item quantity="one">%d वस्तु ब्याकप लिनका लागि धेरै ठूलो छ</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d वस्तुहरू</item>
+        <item quantity="one">%d वस्तु</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d फोटोहरू सिंक भयो</item>
+        <item quantity="one">%d फोटो सिंक भयो</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d भिडियोहरू सिंक भयो</item>
+        <item quantity="one">%d भिडियो सिंक भयो</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">मोबाइल डाटा प्रयोग गरेर %d वस्तुहरू सिंक हुँदैछ</item>
+        <item quantity="one">मोबाइल डाटा प्रयोग गरेर %d वस्तु सिंक हुँदैछ</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">%d वस्तुहरू सिंक हुँदैछ</item>
+        <item quantity="one">%d वस्तु सिंक हुँदैछ</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s वस्तुहरू</item>
+        <item quantity="one">%1$s, %2$s वस्तु</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d दिनहरू</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d महिनाहरू</item>
+        <item quantity="one">%d महिना</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d वर्षहरू</item>
+        <item quantity="one">%d वर्ष</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">चयन गरिएका %d वस्तु क्लाउड र सिंक गरिएका सबै डिभाइसहरूबाट स्थायी रूपमा मेटिनेछ । जे भए पनि मेट्नुहुन्छ?</item>
+        <item quantity="one">चयन गरिएका %d वस्तु क्लाउड र सिंक गरिएका सबै डिभाइसहरूबाट स्थायी रूपमा मेटिनेछ । जे भए पनि मेट्नुहुन्छ?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">तपाईंले %d मेटाउनुहुन्छ भने यो चयनित वस्तुहरू पुनर्स्थापना गर्न सक्षम हुनुहुने छैन। जे भए पनि मेटाउने हो?</item>
+        <item quantity="one">तपाईंले %d मेटाउनुहुन्छ भने यो चयनित वस्तु पुनर्स्थापना गर्न सक्षम हुनुहुने छैन। जे भए पनि मेटाउने हो?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">चयन गरिएको %d वस्तुहरू स्थायी रूपमा मेटिनेछ। जो भए पनि मेट्नुहुन्छ?</item>
+        <item quantity="one">चयन गरिएको %d वस्तु स्थायी रूपमा मेटिनेछ। जो भए पनि मेट्नुहुन्छ?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">तपाईंले %d मेटाउनुहुन्छ भने यो चयनित वस्तुहरू पुनर्स्थापना गर्न सक्षम हुनुहुने छैन। जे भए पनि मेटाउने हो?</item>
+        <item quantity="one">तपाईंले चयन गरेको %d वस्तु मेटाउनुभयो भने यसलाई फेरि पुनर्स्थापना गर्न सक्नुहुन्न। जे भए पनि मेटाउनुहुने?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">तपाईंले चयन गरेको %d वस्तुहरू मेटाउनुभयो भने यसलाई फेरि पुनर्स्थापना गर्न सक्नुहुन्न। जे भए पनि मेटाउनुहुने?</item>
+        <item quantity="one">तपाईंले चयन गरेको %d वस्तु मेटाउनुभयो भने यसलाई फेरि पुनर्स्थापना गर्न सक्नुहुन्न। जे भए पनि मेटाउनुहुने?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">वस्तुहरू यहाँ %1$d दिन (%2$s) को लागि भण्डार गर्न सकिन्छ</item>
+        <item quantity="one">वस्तुहरू यहाँ %1$d दिन (%2$s) को लागि भण्डार गर्न सकिन्छ</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">वस्तुहरू यहाँ %1$d दिनको लागि भण्डारण गर्न सकिन्छ। यो अवधि बढाउन तपाईंको प्लान अपग्रेड गर्नुहोस्।</item>
+        <item quantity="one">वस्तुहरू यहाँ %1$d दिनको लागि भण्डारण गर्न सकिन्छ। यो अवधि बढाउन तपाईंको प्लान अपग्रेड गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d फाइलहरू</item>
+        <item quantity="one">%1$d फाइल</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d भिडियोहरू</item>
+        <item quantity="one">%d भिडियो</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="root"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <miuix.preference.TextPreference android:title="@string/privacy_permission_storage" android:key="storage" android:summary="@string/privacy_permission_storage_detail" />
+    <miuix.preference.TextPreference android:title="@string/privacy_permission_contact" android:key="contact" android:summary="@string/privacy_permission_contact_detail" />
+    <miuix.preference.TextPreference android:title="@string/privacy_permission_location" android:key="location" android:summary="@string/privacy_permission_location_detail" />
+</PreferenceScreen>

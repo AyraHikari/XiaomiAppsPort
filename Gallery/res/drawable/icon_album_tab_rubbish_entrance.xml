@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="66.0dip" android:width="67.0dip" android:autoMirrored="true" android:viewportWidth="67.0" android:viewportHeight="66.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$icon_album_tab_rubbish_entrance__0" android:pathData="M12.5668,0C11.075,0 9.8658,1.2093 9.8658,2.701C9.8658,4.1927 11.075,5.402 12.5668,5.402H54.4321C55.9238,5.402 57.1331,4.1927 57.1331,2.701C57.1331,1.2093 55.9238,0 54.4321,0H12.5668ZM7.1626,10.1299C3.4333,10.1299 0.4102,13.1531 0.4102,16.8824V58.7478C0.4102,62.4771 3.4333,65.5003 7.1626,65.5003H59.832C63.5613,65.5003 66.5844,62.4771 66.5844,58.7478V16.8824C66.5844,13.1531 63.5613,10.1299 59.832,10.1299H7.1626Z" android:fillType="evenOdd" />
+    <path android:fillColor="@color/album_tab_tool_item_bg_secondary_color" android:pathData="M12.5668,0C11.075,0 9.8658,1.2093 9.8658,2.701C9.8658,4.1927 11.075,5.402 12.5668,5.402H54.4321C55.9238,5.402 57.1331,4.1927 57.1331,2.701C57.1331,1.2093 55.9238,0 54.4321,0H12.5668ZM7.1626,10.1299C3.4333,10.1299 0.4102,13.1531 0.4102,16.8824V58.7478C0.4102,62.4771 3.4333,65.5003 7.1626,65.5003H59.832C63.5613,65.5003 66.5844,62.4771 66.5844,58.7478V16.8824C66.5844,13.1531 63.5613,10.1299 59.832,10.1299H7.1626Z" />
+</vector>

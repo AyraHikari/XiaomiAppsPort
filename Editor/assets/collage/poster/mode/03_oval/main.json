@@ -1,0 +1,21 @@
+{
+  "background": "#ffffff",
+  "ratio": 1,
+  "collagePositions": [
+    {
+      "margin": 0,
+      "position": [
+        0.263,
+        0.263,
+        0.737,
+        0.737
+      ],
+      "masks": [
+        "mask_01.png"
+      ]
+    }
+  ],
+  "collageModels": [
+    10
+  ]
+}

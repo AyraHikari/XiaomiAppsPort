@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vlog_video_origin_ratio_gap">100.0px</dimen>
+    <dimen name="vlog_video_origin_ratio_gap_has_bar">225.0px</dimen>
+</resources>

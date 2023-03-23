@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:id="@id/pre_content" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollableView="@id/scrolling_layout" app:springBackMode="bottom">
+        <com.miui.gallery.widget.GalleryPullZoomLayout android:orientation="vertical" android:id="@id/scrolling_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:gpzl_contentView="@id/recycler_view" app:gpzl_headerView="@id/face_header_item" app:gpzl_zoomableView="@id/header_layout">
+            <RelativeLayout android:orientation="vertical" android:id="@id/face_header_item" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <FrameLayout android:id="@id/header_layout" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="@dimen/story_slide_header_height" />
+                <FrameLayout android:id="@id/header_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/story_album_header_text_container_margin_top" android:layout_below="@id/header_layout">
+                    <ImageView android:layout_gravity="bottom" android:id="@id/title_bg" android:layout_width="fill_parent" android:layout_height="@dimen/story_header_divider_header" android:src="@drawable/story_album_fragment_header_text_bg_2" />
+                    <LinearLayout android:orientation="vertical" android:background="@drawable/story_album_fragment_header_text_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <ImageView android:layout_gravity="center_horizontal" android:id="@id/touchBar" android:background="@drawable/album_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/story_header_bar_margin_top" />
+                        <TextView android:textSize="@dimen/story_album_header_text_title_textsize" android:textColor="@color/story_title_text_color" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/story_header_name_margin_top" android:maxWidth="@dimen/story_header_name_width" android:singleLine="true" style="@style/Gallery.TextAppearance.ActionMode.Title" />
+                        <TextView android:textSize="@dimen/story_album_header_text_description_textsize" android:textColor="@color/story_desc_text_color" android:gravity="center" android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/story_header_description_margin_top" android:layout_marginBottom="@dimen/story_album_header_text_description_margin_bottom" />
+                    </LinearLayout>
+                </FrameLayout>
+                <ImageView android:id="@id/play_icon" android:visibility="gone" android:layout_width="@dimen/story_play_icon_width" android:layout_height="@dimen/story_play_icon_width" android:layout_marginTop="@dimen/story_slide_header_play_icon_top_margin" android:src="@drawable/card_detail_play" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+            <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/recycler_view" android:paddingBottom="@dimen/safe_distance_bottom" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never" />
+        </com.miui.gallery.widget.GalleryPullZoomLayout>
+    </miuix.springback.view.SpringBackLayout>
+</FrameLayout>

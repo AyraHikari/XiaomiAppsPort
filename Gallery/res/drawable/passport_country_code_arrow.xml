@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="5.0dip" android:width="6.0dip" android:viewportWidth="6.0" android:viewportHeight="5.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/passport_edit_text_input_color" android:pathData="M2.6038,4.48532C2.80395,4.74532 3.19605,4.74532 3.3962,4.48532L5.84441,1.305C6.09751,0.97621 5.86313,0.5 5.44821,0.5H0.55179C0.13687,0.5 -0.09751,0.97621 0.15559,1.305L2.6038,4.48532Z" />
+</vector>

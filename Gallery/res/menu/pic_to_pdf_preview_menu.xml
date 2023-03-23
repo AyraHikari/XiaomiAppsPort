@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/action_button_rename_light" android:id="@id/menu_rename" android:title="@string/operation_rename" android:showAsAction="always" />
+    <item android:icon="?actionBarSaveIcon" android:id="@id/menu_save" android:title="@string/operation_save" android:showAsAction="always" />
+    <item android:icon="?actionBarSendIcon" android:id="@id/menu_send" android:title="@string/operation_send" android:showAsAction="always" />
+</menu>

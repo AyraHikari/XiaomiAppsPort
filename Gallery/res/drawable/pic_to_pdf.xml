@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/icon_pic_to_pdf_width_height" android:width="@dimen/icon_pic_to_pdf_width_height" android:viewportWidth="110.0" android:viewportHeight="110.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/pic_to_pdf_icon" android:pathData="M22,0L88,0A22,22 0,0 1,110 22L110,88A22,22 0,0 1,88 110L22,110A22,22 0,0 1,0 88L0,22A22,22 0,0 1,22 0z" />
+    <path android:fillColor="#ffffffff" android:pathData="M43,36C40.791,36 39,37.791 39,40V66C39,68.761 41.239,71 44,71H66C68.761,71 71,68.761 71,66V49.485C71,47.364 70.157,45.329 68.657,43.828L63.172,38.343C61.671,36.843 59.637,36 57.515,36H43ZM54,40H43V66C43,66.552 43.448,67 44,67H66C66.552,67 67,66.552 67,66V53H58C55.791,53 54,51.209 54,49V40ZM66.97,49C66.863,48.118 66.463,47.292 65.828,46.657L60.343,41.172C59.708,40.537 58.882,40.137 58,40.029V49H66.97Z" android:fillType="evenOdd" />
+</vector>

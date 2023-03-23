@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton android:textSize="@dimen/collage_operation_text_size" android:textColor="@color/collage_tab_text_color" android:paddingTop="@dimen/collage_title_button_padding_top" android:paddingBottom="@dimen/collage_title_button_padding_top" android:layout_width="wrap_content" android:layout_height="fill_parent" android:button="@null" android:fontFamily="mipro-medium" android:paddingStart="@dimen/collage_title_button_padding_start" android:paddingEnd="@dimen/collage_title_button_padding_start"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

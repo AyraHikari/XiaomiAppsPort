@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RadioGroup android:gravity="center" android:orientation="horizontal" android:id="@id/radio_group_controller" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_constrainedHeight="true" app:layout_constraintTop_toTopOf="parent">
+        <RadioButton android:id="@id/radio_button_template" android:checked="true" android:text="@string/movie_tab_template" style="@style/movieRadioButton" />
+        <RadioButton android:id="@id/radio_button_music" android:text="@string/movie_tab_music" android:layout_marginStart="@dimen/photo_movie_edit_title_radio_margin_start" android:layout_marginEnd="@dimen/photo_movie_edit_title_radio_margin_start" style="@style/movieRadioButton" />
+        <RadioButton android:id="@id/radio_button_edit" android:text="@string/movie_tab_edit" style="@style/movieRadioButton" />
+    </RadioGroup>
+    <include android:id="@id/divide_top" android:layout_width="fill_parent" android:layout_height="@dimen/movie_divide_height" app:layout_constrainedHeight="true" app:layout_constraintBottom_toBottomOf="parent" layout="@layout/movie_divide" />
+</androidx.constraintlayout.widget.ConstraintLayout>

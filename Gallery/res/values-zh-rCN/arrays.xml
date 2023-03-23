@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>白色底</item>
+        <item>深蓝色底</item>
+        <item>浅蓝色底</item>
+        <item>红色底</item>
+        <item>绿色底</item>
+        <item>粉色底</item>
+        <item>浅褐色底</item>
+        <item>灰色底</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>选择图片</item>
+        <item>透明背景</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>特别的日子</item>
+        <item>缤纷生活</item>
+        <item>精彩时刻</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>吃货的这一年</item>
+        <item>三餐四季</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>丈量这世界</item>
+        <item>在路上</item>
+        <item>世界那么大</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>秋日私语</item>
+        <item>秋是人间理想</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>男孩</item>
+        <item>女孩</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>相册备份</item>
+        <item>相册云同步</item>
+    </string-array>
+    <string-array name="card_last_week_day">
+        <item>上周一回忆</item>
+        <item>上周二时刻</item>
+        <item>上周三故事</item>
+        <item>上周四回忆</item>
+        <item>上周五时刻</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>去年除夕</item>
+        <item>去年春节</item>
+        <item>去年元宵</item>
+        <item>去年端午</item>
+        <item>去年七夕</item>
+        <item>去年中秋</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>往年除夕</item>
+        <item>往年春节</item>
+        <item>往年元宵</item>
+        <item>往年端午</item>
+        <item>往年七夕</item>
+        <item>往年中秋</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>难忘今宵</item>
+        <item>辞旧迎新</item>
+        <item>爆竹声中一岁除</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>恭喜发财</item>
+        <item>过大年</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>猴年</item>
+        <item>鸡年</item>
+        <item>狗年</item>
+        <item>猪年</item>
+        <item>鼠年</item>
+        <item>牛年</item>
+        <item>虎年</item>
+        <item>兔年</item>
+        <item>龙年</item>
+        <item>蛇年</item>
+        <item>马年</item>
+        <item>羊年</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>城市风光</item>
+        <item>漫步城市</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>那些花儿</item>
+        <item>听见花开的声音</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>探索大自然</item>
+        <item>绿野仙踪</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>又见面啦</item>
+        <item>相聚此刻</item>
+        <item>相聚时光</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>去年元旦</item>
+        <item>去年情人节</item>
+        <item>去年五一</item>
+        <item>去年儿童节</item>
+        <item>去年国庆节</item>
+        <item>去年圣诞节</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>往年元旦</item>
+        <item>往年情人节</item>
+        <item>往年五一</item>
+        <item>往年儿童节</item>
+        <item>往年国庆节</item>
+        <item>往年圣诞节</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>出镜最多</item>
+        <item>生活的模样</item>
+        <item>捕捉生活的温柔</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>宝贝日记</item>
+        <item>日渐可爱</item>
+        <item>家有儿女</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>健身日常</item>
+        <item>我要马甲线</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>好好吃饭</item>
+        <item>寻味</item>
+        <item>吃了吗</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>快乐星球</item>
+        <item>畅玩时刻</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>冰与雪之歌</item>
+        <item>冰雪之约</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>元气满满</item>
+        <item>遇见更好的自己</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>大日子</item>
+        <item>终极浪漫</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>宝宝的周末时光</item>
+        <item>萌宝周末日记</item>
+        <item>宝贝的小时光</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>周末时光</item>
+        <item>生活点滴</item>
+        <item>双休日记</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>旧时光</item>
+        <item>去年合影</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>徜徉</item>
+        <item>微风</item>
+        <item>如梦</item>
+        <item>归云</item>
+        <item>拾忆</item>
+        <item>萌芽</item>
+        <item>蜿蜒</item>
+        <item>深音</item>
+        <item>流影</item>
+        <item>简约</item>
+        <item>迷离</item>
+        <item>浮岚</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>背景素描风，照片新玩法</item>
+        <item>背景水彩风，让照片更具艺术感</item>
+        <item>错位故障，营造多彩复古感</item>
+        <item>分割错位线条，让照片更具时尚感</item>
+        <item>玻璃窗雾效果，让照片更具朦胧感</item>
+        <item>科技故障感，秒变潮酷大片</item>
+    </string-array>
+    <string-array name="magic_effects_icon">
+        <item>magic_special_sketch</item>
+        <item>magic_special_watercolour</item>
+        <item>magic_special_rbg</item>
+        <item>magic_special_window_shades</item>
+        <item>magic_special_window_fog</item>
+        <item>magic_special_fault_style</item>
+    </string-array>
+    <string-array name="magic_effects_icon_thumb">
+        <item>magic_special_thumb_sketch</item>
+        <item>magic_special_thumb_watercolour</item>
+        <item>magic_special_thumb_rbg</item>
+        <item>magic_special_thumb_window_shades</item>
+        <item>magic_special_thumb_window_fog</item>
+        <item>magic_special_thumb_fault_style</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>素描</item>
+        <item>水彩</item>
+        <item>RGB</item>
+        <item>百叶窗</item>
+        <item>窗雾</item>
+        <item>故障风</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>彩色描边</item>
+        <item>虚线描边</item>
+        <item>荧光描边</item>
+        <item>彩色拖影</item>
+        <item>电波扫过</item>
+        <item>对称流动</item>
+        <item>流动电波</item>
+        <item>粒子环绕</item>
+        <item>文字排版</item>
+        <item>恶魔翅膀</item>
+        <item>天使翅膀</item>
+    </string-array>
+    <string-array name="magic_id_photo_edit_hint_mm_array">
+        <item>10-120</item>
+        <item>10-120</item>
+    </string-array>
+    <string-array name="magic_id_photo_edit_hint_px_array">
+        <item>100-1024</item>
+        <item>100-1024</item>
+    </string-array>
+    <string-array name="magic_idp_color_common">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>常用</item>
+        <item>签证</item>
+        <item>职业</item>
+        <item>证件</item>
+        <item>升学</item>
+        <item>考试</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>社保卡</item>
+        <item>健康证</item>
+        <item>医保卡</item>
+        <item>身份证</item>
+        <item>居住证</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates_value">
+        <item>358×441+26×32</item>
+        <item>295×413+25×35</item>
+        <item>358×441+26×32</item>
+        <item>358×441+26×32</item>
+        <item>358×441+26×32</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>一寸</item>
+        <item>二寸</item>
+        <item>小一寸</item>
+        <item>小二寸</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common_value">
+        <item>100-1024+25-87</item>
+        <item>295×413+25×35</item>
+        <item>413×579+35×49</item>
+        <item>260×378+22×32</item>
+        <item>413×531+35×45</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>入学报名</item>
+        <item>学籍网</item>
+        <item>小学生学籍</item>
+        <item>学籍照片</item>
+        <item>大学入学</item>
+        <item>高考报名</item>
+        <item>简历照</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education_value">
+        <item>295×413+25×35</item>
+        <item>472×630+80×107</item>
+        <item>300×420+25×36</item>
+        <item>390×480+33×41</item>
+        <item>413×531+35×45</item>
+        <item>390×567+33×48</item>
+        <item>295×413+25×35</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>英语四六级考试1</item>
+        <item>英语四六级考试2</item>
+        <item>英语四六级考试3</item>
+        <item>普通话水平测试1</item>
+        <item>普通话水平测试2</item>
+        <item>学位英语</item>
+        <item>英语AB级</item>
+        <item>英语三级考试</item>
+        <item>计算机等级考试1</item>
+        <item>计算机等级考试2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination_value">
+        <item>144×192+12×16</item>
+        <item>240×320+20×27</item>
+        <item>150×200+13×17</item>
+        <item>144×192+12×16</item>
+        <item>390×567+33×48</item>
+        <item>140×180+12×15</item>
+        <item>295×413+25×35</item>
+        <item>144×192+33×48</item>
+        <item>240×320+20×27</item>
+        <item>144×192+33×48</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>中小学生教师资格证</item>
+        <item>教师资格证</item>
+        <item>驾驶证</item>
+        <item>导游证</item>
+        <item>电子导游证</item>
+        <item>国家司法考试</item>
+        <item>一级建造师证（电子版）</item>
+        <item>二级建造师证</item>
+        <item>初级会计职称考试</item>
+        <item>注册会计师</item>
+        <item>北京导游证</item>
+        <item>中级会计职称考试</item>
+        <item>高级会计职称考试</item>
+        <item>会计资格证</item>
+        <item>注册会计师考试</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession_value">
+        <item>295×413+25×35</item>
+        <item>180×240+15×20</item>
+        <item>260×378+22×32</item>
+        <item>285×385+23×33</item>
+        <item>413×626+35×53</item>
+        <item>413×626+35×53</item>
+        <item>295×413+25×35</item>
+        <item>215×300+18×25</item>
+        <item>295×413+25×35</item>
+        <item>178×220+15×19</item>
+        <item>413×531+35×45</item>
+        <item>114×156+10×13</item>
+        <item>114×156+10×13</item>
+        <item>500×700+42×59</item>
+        <item>295×413+25×35</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>美国签证</item>
+        <item>越南签证</item>
+        <item>日本签证</item>
+        <item>港澳通行证</item>
+        <item>韩国签证</item>
+        <item>泰国签证(旅游签)</item>
+        <item>泰国签证(落地签)</item>
+        <item>印度签证</item>
+        <item>以色列签证</item>
+        <item>入台证</item>
+        <item>马来西亚签证</item>
+        <item>新西兰签证</item>
+        <item>意大利签证</item>
+        <item>阿根廷签证</item>
+        <item>巴西签证</item>
+        <item>冰岛签证</item>
+        <item>肯尼亚签证</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa_value">
+        <item>600×600+51×51</item>
+        <item>413×531+35×45</item>
+        <item>531×531+45×45</item>
+        <item>390×567+33×48</item>
+        <item>413×531+35×45</item>
+        <item>413×531+35×45</item>
+        <item>472×708+40×60</item>
+        <item>591×591+51×51</item>
+        <item>591×591+51×51</item>
+        <item>413×531+35×45</item>
+        <item>413×531+35×45</item>
+        <item>900×1200+76×102</item>
+        <item>413×472+35×40</item>
+        <item>472×472+40×40</item>
+        <item>413×531+40×50</item>
+        <item>413×531+40×50</item>
+        <item>591×591+50×50</item>
+    </string-array>
+    <string-array name="magic_system_model">
+        <item>Mi 10</item>
+        <item>Mi 10 Pro</item>
+        <item>Mi 11</item>
+        <item>Mi 11 Pro</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>移动</item>
+        <item>复制</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>去年1月</item>
+        <item>去年2月</item>
+        <item>去年3月</item>
+        <item>去年4月</item>
+        <item>去年5月</item>
+        <item>去年6月</item>
+        <item>去年7月</item>
+        <item>去年8月</item>
+        <item>去年9月</item>
+        <item>去年10月</item>
+        <item>去年11月</item>
+        <item>去年12月</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>你长大了</item>
+        <item>你又长大了</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>食记</item>
+        <item>美食纪念</item>
+        <item>美食打卡</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>高耸入云</item>
+        <item>登高望远</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>爸爸</item>
+        <item>妈妈</item>
+        <item>爷爷</item>
+        <item>奶奶</item>
+        <item>外公</item>
+        <item>外婆</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>欢聚时光</item>
+        <item>美好记忆</item>
+        <item>相聚时刻</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>和你一起旅游</item>
+        <item>跟你一起逛世界</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>宝宝的春天</item>
+        <item>宝宝的夏天</item>
+        <item>宝宝的秋天</item>
+        <item>宝宝的冬天</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>春天觅食</item>
+        <item>夏日小厨</item>
+        <item>贴秋膘</item>
+        <item>冬日之鲜</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>美好相聚</item>
+        <item>相聚的日子</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>自己</item>
+        <item>孩子</item>
+        <item>家人</item>
+        <item>同事</item>
+        <item>同学</item>
+        <item>朋友</item>
+        <item>未分组</item>
+    </string-array>
+    <string-array name="season">
+        <item>春季</item>
+        <item>夏季</item>
+        <item>秋季</item>
+        <item>冬季</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>去年春季</item>
+        <item>去年夏季</item>
+        <item>去年秋季</item>
+        <item>去年冬季</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>爸爸</item>
+        <item>妈妈</item>
+        <item>爷爷</item>
+        <item>奶奶</item>
+        <item>外公</item>
+        <item>外婆</item>
+    </string-array>
+    <string-array name="spinner_list">
+        <item>px</item>
+        <item>mm</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>健康生活</item>
+        <item>活力一天</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>春满人间</item>
+        <item>春意盎然</item>
+        <item>春晓</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>夏天悄悄过去</item>
+        <item>盛夏光阴</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>流金岁月</item>
+        <item>光阴似箭</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>成长日记</item>
+        <item>宝贝纪念册</item>
+    </string-array>
+    <string-array name="weekend_title">
+        <item>曾经周末时光</item>
+        <item>往日时光</item>
+        <item>慢调生活</item>
+        <item>平凡的日子</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>那年冬天</item>
+        <item>冬去春来</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.editor.photo.widgets.UndoRedoView android:id="@id/undo_redo" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/operation_revoke" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_undo" android:contentDescription="@string/editor_talkback_undo" android:paddingStart="@dimen/menu_redo_btn_margin_left" android:paddingEnd="@dimen/menu_undo_btn_margin_right" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/center_line" app:layout_constraintTop_toTopOf="parent" />
+    <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@id/center_line" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_percent="0.5" />
+    <ImageView android:id="@id/operation_revert" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_redo" android:contentDescription="@string/editor_talkback_redo" android:paddingStart="@dimen/menu_redo_btn_margin_left" android:paddingEnd="@dimen/menu_undo_btn_margin_right" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toEndOf="@id/center_line" app:layout_constraintTop_toTopOf="parent" />
+</com.miui.gallery.editor.photo.widgets.UndoRedoView>

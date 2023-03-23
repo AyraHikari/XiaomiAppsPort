@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="editor_menu_text_radio_button_bubble_width">@dimen/px_184</item>
+    <item type="dimen" name="magic_galery_top">@dimen/px_53</item>
+    <item type="dimen" name="magic_id_photo_guide_text_content_height">@dimen/px_50</item>
+    <item type="dimen" name="magic_id_photo_guide_text_height">@dimen/px_130</item>
+    <item type="dimen" name="magic_id_photo_guide_text_margin_left">@dimen/px_142</item>
+    <item type="dimen" name="magic_id_photo_guide_text_margin_top">@dimen/px_100</item>
+    <item type="dimen" name="magic_id_photo_guide_text_size">@dimen/px_45</item>
+    <item type="dimen" name="magic_id_photo_guide_text_title_size">@dimen/px_65</item>
+    <item type="dimen" name="magic_id_photo_guide_text_width">@dimen/px_816</item>
+    <item type="dimen" name="magic_idp_bottom_height">@dimen/px_1485</item>
+    <item type="dimen" name="magic_idp_bottom_margin_top">@dimen/px_225</item>
+    <item type="dimen" name="magic_idp_guide_btn1h">@dimen/px_260</item>
+    <item type="dimen" name="magic_idp_guide_btn1w">@dimen/px_422</item>
+    <item type="dimen" name="magic_idp_guide_btn_halfGap">@dimen/px_30</item>
+    <item type="dimen" name="magic_idp_guide_text_margin_2">@dimen/px_79</item>
+    <item type="dimen" name="magic_idp_guide_text_margin_3">@dimen/px_100</item>
+    <item type="dimen" name="magic_idp_icon">@dimen/px_90</item>
+    <item type="dimen" name="magic_idp_make_search_height_left">@dimen/px_66</item>
+    <item type="dimen" name="magic_idp_make_tab_margin_left">@dimen/px_176</item>
+    <item type="dimen" name="magic_idp_make_tab_width">@dimen/px_176</item>
+    <item type="dimen" name="magic_idp_search_edit_font">@dimen/px_40</item>
+    <item type="dimen" name="magic_search_edit_width">@dimen/px_940</item>
+    <item type="dimen" name="magic_search_list_width">@dimen/px_950</item>
+    <item type="dimen" name="magic_status_bar_height">@dimen/px_88</item>
+    <item type="dimen" name="magic_text_top">@dimen/px_10</item>
+    <item type="dimen" name="magic_idp_guide_photo_height">@dimen/magic_px_521</item>
+    <item type="dimen" name="magic_idp_guide_photo_width">@dimen/magic_px_721</item>
+</resources>

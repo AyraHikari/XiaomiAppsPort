@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Wit</item>
+        <item>Donkerblauw</item>
+        <item>Lichtblauw</item>
+        <item>Rood</item>
+        <item>Groen</item>
+        <item>Roze</item>
+        <item>Bruin</item>
+        <item>Grijs</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Afbeelding kiezen</item>
+        <item>Transparante achtergrond</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Man</item>
+        <item>Vrouw</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Speciale dag</item>
+        <item>Dag om te herinneren</item>
+        <item>Levendige momenten</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Een heerlijk jaar</item>
+        <item>Drie cursussen. Vier jaargetijden.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Hallo wereld!</item>
+        <item>Op de weg</item>
+        <item>Een caleidoscoop van plaatsen</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Herfst pracht</item>
+        <item>Stralende herfst</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Jongen</item>
+        <item>Meisje</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>"Back-up maken van foto's"</item>
+        <item>"Foto's synchroniseren met de cloud"</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Een memorabele nacht</item>
+        <item>Nieuwe pagina</item>
+        <item>Vuurwerk</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Gelukkig nieuwjaar!</item>
+        <item>Dageraad van het nieuwe jaar</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Jaar van de Aap</item>
+        <item>Jaar van de Haan</item>
+        <item>Jaar van de Hond</item>
+        <item>Jaar van het Varken</item>
+        <item>Jaar van de Rat</item>
+        <item>Jaar van de Os</item>
+        <item>Jaar van de Tijger</item>
+        <item>Jaar van het Konijn</item>
+        <item>Jaar van de Draak</item>
+        <item>Jaar van de Slang</item>
+        <item>Jaar van het Paard</item>
+        <item>Jaar van de Geit</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Stadsgezichten</item>
+        <item>Straten en hoeken</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Zachte bloemblaadjes</item>
+        <item>In volle bloei</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>In de wildernis</item>
+        <item>Wild en vrij</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Onze borrels</item>
+        <item>In het gezelschap van vrienden</item>
+        <item>Lang niet gezien</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Uw favoriete onderwerpen</item>
+        <item>Gelijkgestemden</item>
+        <item>De heldere momenten van het leven</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Druk bezig met opgroeien</item>
+        <item>Schattiger en schattiger</item>
+        <item>Kleine ontdekkingsreiziger</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Fitness dagboek</item>
+        <item>Sterker en sterker</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Eet smakelijk!</item>
+        <item>Nog een hapje?</item>
+        <item>Geniet van uw maaltijd!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Lach en zwaai!</item>
+        <item>Speeltijd</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>De wijde natuur</item>
+        <item>Sporen in de sneeuw</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Niet te stoppen</item>
+        <item>Fit blijven</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Een grote dag</item>
+        <item>Down the aisle!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Tijd om te spelen</item>
+        <item>Kind weekend</item>
+        <item>De kleine</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Mijn weekenden</item>
+        <item>Stukjes uit mijn leven</item>
+        <item>Weekend herinneringen</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Nieuwe vrienden en oude vrienden</item>
+        <item>De bijeenkomsten van vorig jaar</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Vrije tijd</item>
+        <item>Bries</item>
+        <item>Dromen</item>
+        <item>Wolken</item>
+        <item>Gedachten</item>
+        <item>Knoppen</item>
+        <item>Metamorfose</item>
+        <item>Diepte</item>
+        <item>Reflecties</item>
+        <item>Minimalistisch</item>
+        <item>Mysterie</item>
+        <item>Mist</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Verander achtergronden in schetsen</item>
+        <item>Aquarel stijl achtergronden</item>
+        <item>Cyberpunk retro</item>
+        <item>Misplaatste verticale segmenten</item>
+        <item>Wazige vervaging</item>
+        <item>Futuristisch gevoel</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Schets</item>
+        <item>Aquarel</item>
+        <item>RGB</item>
+        <item>Gordijnen</item>
+        <item>Mistig raam</item>
+        <item>Technologie</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Gekleurde contour</item>
+        <item>Gestippelde contour</item>
+        <item>Fluorescerende contour</item>
+        <item>Gekleurde schaduw</item>
+        <item>Elektrische golf</item>
+        <item>Stroom</item>
+        <item>Golven</item>
+        <item>Deeltjes</item>
+        <item>Tekst</item>
+        <item>Vleugels</item>
+        <item>Engel</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Verplaatsen</item>
+        <item>Kopiëren</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maart</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Augustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>U bent volwassen geworden!</item>
+        <item>U bent weer volwassen geworden!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Mijn persoonlijke menu</item>
+        <item>Lekkere herinneringen</item>
+        <item>Een tweede portie, graag!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>"'s Werelds beste uitzichten"</item>
+        <item>Blijf klimmen</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Vader</item>
+        <item>Moeder</item>
+        <item>Grootvader van vaderszijde</item>
+        <item>Grootmoeder van vaderszijde</item>
+        <item>Grootvader van moederszijde</item>
+        <item>Grootmoeder van moederszijde</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Samen</item>
+        <item>Goede tijden</item>
+        <item>Gezamelijk</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Waar de weg ons brengt</item>
+        <item>Reizen goed gedeeld</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Een vrolijke lente</item>
+        <item>Een vrolijke zomer</item>
+        <item>Een fijne herfst</item>
+        <item>Een vrolijke winter</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Lente maaltijden</item>
+        <item>Zomerse lekkernijen</item>
+        <item>Herfstfeesten</item>
+        <item>Winterstops</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Samen</item>
+        <item>Bindingen en betrekkingen</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Ik</item>
+        <item>Kind</item>
+        <item>Familie</item>
+        <item>"Collega's"</item>
+        <item>Klasgenoten</item>
+        <item>Vrienden</item>
+        <item>Niet gegroepeerd</item>
+    </string-array>
+    <string-array name="season">
+        <item>Lente</item>
+        <item>Zomer</item>
+        <item>Herfst</item>
+        <item>Winter</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Vader</item>
+        <item>Moeder</item>
+        <item>Grootvader van vaderszijde</item>
+        <item>Grootmoeder van vaderszijde</item>
+        <item>Grootvader van moederszijde</item>
+        <item>Grootmoeder van moederszijde</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Verdergaan</item>
+        <item>Vol energie</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Bloei van de lente</item>
+        <item>Lente is in de lucht</item>
+        <item>Hallo lente!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Een beetje zomer</item>
+        <item>Waar de zomer nooit eindigt</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Gouden uren</item>
+        <item>Stralen van goud</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Ze groeien zo snel</item>
+        <item>"Kind foto's"</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Winterdagen</item>
+        <item>Winter wonderland</item>
+    </string-array>
+</resources>

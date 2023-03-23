@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/delete" android:visible="false" android:title="@string/delete" />
+    <item android:id="@id/hide" android:visible="false" android:title="@string/operation_hide" />
+    <item android:id="@id/unhide" android:visible="false" android:title="@string/operation_unhide" />
+    <item android:id="@id/share" android:visible="false" android:title="@string/operation_share" />
+    <item android:id="@id/rename" android:visible="false" android:title="@string/operation_rename" />
+    <item android:id="@id/remove_from_other_albums" android:visible="false" android:title="@string/operation_remove_from_other_albums" />
+    <item android:id="@id/move_to_other_albums" android:visible="false" android:title="@string/operation_move_to_other_albums" />
+    <item android:id="@id/enable_show_in_photos_tab" android:visible="false" android:title="@string/operation_show_in_photos_tab" />
+    <item android:id="@id/disable_show_in_photos_tab" android:visible="false" android:title="@string/operation_not_show_in_photos_tab" />
+    <item android:id="@id/enable_auto_upload" android:visible="false" android:title="@string/operation_enable_auto_upload" />
+    <item android:id="@id/disable_auto_upload" android:visible="false" android:title="@string/operation_disable_auto_upload" />
+</menu>

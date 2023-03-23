@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textSize="@dimen/editor_menu_compare_btn_text_size" android:textColor="@color/compare_btn_color" android:layout_gravity="end|center|top" android:id="@id/compare_btn" android:background="@drawable/btn_beauty_compare" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/editor_menu_compare_btn_width" android:minHeight="@dimen/editor_menu_compare_btn_height" android:text="@string/photo_editor_beauty_compare" android:singleLine="true" />
+    <ProgressBar android:layout_gravity="center_horizontal" android:id="@id/progress" android:background="@drawable/progressbar_bg" android:visibility="gone" android:layout_width="@dimen/remover_render_progress_bar_size" android:layout_height="@dimen/remover_render_progress_bar_size" android:indeterminateDrawable="@drawable/editor_progressbar_indeterminate_dark" style="@style/Widget.ProgressBar" />
+</FrameLayout>

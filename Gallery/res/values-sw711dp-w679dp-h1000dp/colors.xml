@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="story_desc_text_color">@color/white_100_transparent</color>
+    <color name="story_dialog_bg_color">#00000000</color>
+    <color name="story_title_text_color">@color/white_100_transparent</color>
+</resources>

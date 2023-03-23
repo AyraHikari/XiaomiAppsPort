@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:persistent="false" android:title="@string/ai_album_setting_title" android:key="ai_album_status" android:summary="@string/ai_album_setting_sub_title" android:defaultValue="true" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/enable_face_album_title" android:key="cloud_face_local_status" android:summary="@string/enable_face_album_summary" android:defaultValue="false" />
+</PreferenceScreen>

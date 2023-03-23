@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/ts_base_banner_save_cancel" />
+    <LinearLayout android:gravity="center" android:paddingTop="@dimen/magic_top_height_36" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.miui.gallery.magic.widget.BitmapSingleFingerGestureView android:id="@id/magic_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/magic_id_photo_people" />
+            <Button android:textSize="@dimen/magic_special_effects_btn_size" android:textColor="@color/white" android:gravity="center" android:id="@id/magic_contrast" android:background="@drawable/magic_special_effects_btn" android:visibility="gone" android:layout_width="62.0dip" android:layout_height="33.0dip" android:layout_marginTop="@dimen/magic_special_btn_margin_t" android:layout_marginRight="@dimen/magic_special_btn_margin_r" android:text="@string/magic_comparison" android:layout_alignParentRight="true" android:onClick="onClick" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

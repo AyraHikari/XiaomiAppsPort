@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>سفید</item>
+        <item>گہرا نیلا</item>
+        <item>ہلکا نیلا</item>
+        <item>سرخ</item>
+        <item>سبز</item>
+        <item>گلابی</item>
+        <item>بھورا</item>
+        <item>سرمئی</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>تصویر منتخب کریں</item>
+        <item>شفاف پس منظر</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>فرصت</item>
+        <item>بریز</item>
+        <item>خواب</item>
+        <item>بادل</item>
+        <item>خیالات</item>
+        <item>کلی</item>
+        <item>میٹامارفوسس</item>
+        <item>گہرائی</item>
+        <item>انعکاس</item>
+        <item>منیملسٹ</item>
+        <item>معمہ</item>
+        <item>کہرا</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>مستقبل کا جیومٹری پس منظر</item>
+        <item>پرانے ماسٹر پرنٹس کا ماحول</item>
+        <item>پس منظر کو اسکیچ میں بدلیں</item>
+        <item>واٹر کلر اسٹائل پس منظر</item>
+        <item>سائبرپنک ریٹرو</item>
+        <item>غلط طریقے سے رکھے گئے عمودی ٹکڑے</item>
+        <item>غیر واضح دھند</item>
+        <item>مستقبل کا احساس</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>کثیر ضلعی جال</item>
+        <item>نقاشی</item>
+        <item>اسکیچ</item>
+        <item>واٹر کلر</item>
+        <item>RGB</item>
+        <item>بلائنڈز</item>
+        <item>کہردار کھڑکی</item>
+        <item>تکنیک</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>رنگین آؤٹ لائن</item>
+        <item>ڈیش آؤٹ لائن</item>
+        <item>فلوری آؤٹ لائن</item>
+        <item>رنگین سایہ</item>
+        <item>برقی لہر</item>
+        <item>بہاؤ</item>
+        <item>لہریں</item>
+        <item>ذرات</item>
+        <item>ٹیکسٹ</item>
+        <item>پنکھ</item>
+        <item>فرشتہ</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>دو کون</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+</resources>

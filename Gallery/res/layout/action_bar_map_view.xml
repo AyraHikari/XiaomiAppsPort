@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="horizontal" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="@dimen/map_page_action_bar_height" app:layout_gravity="center|top"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.support.cardview.CardView android:layout_gravity="start|bottom|center" android:id="@id/back" android:layout_width="@dimen/map_action_btn_size" android:layout_height="@dimen/map_action_btn_size" android:contentDescription="@string/back" app:cardCornerRadius="@dimen/map_floating_menu_corner_radius" style="@style/Gallery.Widget.CardView.Map">
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_action_bar_back" />
+    </com.miui.support.cardview.CardView>
+    <com.miui.support.cardview.CardView android:layout_gravity="end|bottom|center" android:id="@id/more" android:layout_width="@dimen/map_action_btn_size" android:layout_height="@dimen/map_action_btn_size" android:contentDescription="@string/more" app:cardCornerRadius="@dimen/map_floating_menu_corner_radius" style="@style/Gallery.Widget.CardView.Map">
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_action_bar_more" />
+    </com.miui.support.cardview.CardView>
+</FrameLayout>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ทันที</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">ใน %d นาที</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">เมื่อสักครู่</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">เพิ่มรายการนี้ไปยังอัลบั้มส่วนตัว?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">เพิ่ม %d รูปภาพคลาวด์แล้ว ปิดใช้งาน \"แสดงอัลบั้มในเครื่องเท่านั้น\" เพื่อเรียกดู</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">ไม่สามารถเพิ่ม %1$s รายการไปยังอัลบั้มได้ เนื่องจาก %2$d</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">ไม่สามารถเพิ่ม %2$d รายการไปยังอัลบั้มส่วนตัวได้ เนื่องจาก %1$s</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d วัน</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d เดือน</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d ปี</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">แชร์ให้ %d คนแล้ว</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d รูปภาพ</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d รายการ  |  %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d รายการ)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d อัลบั้ม</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s คนสามารถดูอัลบั้มนี้</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d อัลบั้ม รวมถึง %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d รายการ</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d ความทรงจำ</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">รูปภาพ %1$d รูปของ%2$s ได้ทำการเพิ่มแล้ว</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">รูปภาพ %1$d รูปของ%2$s ได้ทำการเพิ่มแล้ว</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">ดำเนินการสำรองข้อมูลใน %d ชั่งโมง</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d รายการ มีขนาดใหญ่เกินไปที่จะสำรองข้อมูล</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">จะดำเนินการต่อใน %d นาที</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">พักการซิงค์รูปภาพวิดีโอผู้ติดต่อบันทึกย่อและรายการอื่นๆ ด้วยคลาวด์เป็นเวลา %d นาที</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d รูปภาพและวิดีโอ| %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d รูปภาพและวิดีโอ</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d รูปภาพ</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">ลบ %d ภาพที่คุณไม่ได้เลือก?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">ลบ %d รูปภาพ</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">เก็บ %d ภาพที่เลือก</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d รูปภาพ</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d วิดีโอ</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">ไม่สามารถซิงค์ %d รายการเนื่องจากที่เก็บข้อมูลบนคลาวด์ไม่เพียงพอ</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">ภาพปะติดสามารถมีได้ %1$d-%2$d รูปถ่าย</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">เลือกได้สูงสุด %d รูป</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">เลือกไว้ %d รายการ</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจาก Xiaomi คลาวด์และอุปกรณ์ที่ซิงค์ทั้งหมด?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพ?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d รายการถูกลบ</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">ลบ %d รายการจากอุปกรณ์และ Xiaomi คลาวด์ทั้งหมด?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">ลบ %d รายการ?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">ลบ %d รูปภาพจากอุปกรณ์และ Xiaomi คลาวด์ทั้งหมด?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">ลบภาพถ่ายต่อเนื่อง %d ภาพจากอุปกรณ์นี้?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">ลบ %d วีดีโอจากอุปกรณ์และ Xiaomi คลาวด์ทั้งหมด?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">ไม่สามารถดาวน์โหลด %1$d ไฟล์ได้</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">ไม่สามารถดาวน์โหลดไฟล์ %1$d ได้ ตรวจสอบการเชื่อมต่อเครือข่าย แล้วลองอีกครั้ง</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">กำลังดาวน์โหลดรายการจากคลาวด์ (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">รวมทั้งหมด %d รูป</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">กำลังประมวลภาพ…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">ข้าม %1$d รูปภาพที่ไม่สามารถแสดงผลได้</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ไฟล์</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">ในอีก 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ในครึ่งชั่วโมง</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ทันที</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">ใน%d นาที</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">เมื่อสักครู่</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d นาที</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d วินาที</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">เลือกไว้ %d รายการ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d รายการกำลังรอการซิงค์</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d รูป</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d ภาพกำลังรอการซิงค์</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">กำลังซิงค์ %1$d รูปภาพ…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">กำลังซิงค์ %1$d รายการ…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">กำลังซิงค์ %1$d วิดีโอ…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d วิดีโอ</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">ยังมี %1$d วิดีโอรอการซิงค์</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d รูปภาพ</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">รวมทั้งหมด %1$d รายการ</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">หมุน %d องศา</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d วัน</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">กรอง %d รายการที่ไม่รองรับ</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">ไฟล์ PDF สามารถมีได้ถึง %d รูปภาพ</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">รูปภาพที่เลือกไว้ไม่ได้อยู่บนอุปกรณ์ ดาวน์โหลดผ่านข้อมูลมือถือหรือไม่?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">รูปภาพที่เลือกไว้ไม่ได้อยู่บนอุปกรณ์ กำลังจะดาวน์โหลด</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">รูปภาพที่เลือกไว้ (%d MB) ไม่ได้อยู่บนอุปกรณ์ ดาวน์โหลดผ่านข้อมูลมือถือหรือไม่?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d ไฟล์ยังไม่ได้ดาวน์โหลด ยกเลิกหรือไม่?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">กำลังดาวน์โหลด %d ไฟล์ที่เหลือ</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">ไม่สามารถดาวน์โหลด %1$d รูปภาพได้ เชื่อมต่อกับเครือข่ายและลองอีกครั้ง</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">ไม่สามารถดาวน์โหลด %1$d ไฟล์ (%2$d MB) ได้ เชื่อมต่อกับเครือข่ายและลองอีกครั้ง</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d ไฟล์ (%2$d MB) ยังไม่ได้ดาวน์โหลด ดาวน์โหลดโดยใช้ข้อมูลมือถือ?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">ไม่สามารถดาวน์โหลด %1$d รูปภาพได้ ลองอีกครั้ง?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">ไม่สามารถดาวน์โหลด %1$d รูปภาพได้ (%2$d MB) ลองอีกครั้ง?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">ข้าม %d รูปภาพที่ไม่ได้อยู่บนอุปกรณ์แล้ว</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">พบ %1$d รูปภาพใหม่</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">รวมทั้งหมด %d รูป</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">ไม่สามารถเพิ่ม %2$d รายการไปยังอัลบั้มส่วนตัวได้ เนื่องจาก %1$s</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">เพิ่มแล้ว %1$d รูปภาพไปยัง \"%2$s\" และเพิ่มไปยังฐานข้อมูลแล้ว</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">ลบ %1$d รูปภาพจาก \"%2$s\" และเพิ่มไปยังฐานข้อมูลแล้ว</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">เพิ่มแล้ว %1$d รูปภาพไปยัง \"%2$s\"</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">ลบ %1$d รูปภาพจาก \"%2$s\"</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d แพ็คเกจติตดั้ง (%3$s) จาก %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">ได้รับ %2$d แพ็คเกจติตตั้ง (%3$s) จาก %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">กำลังรับ %2$d แพ็คเกจติตตั้ง (%3$s) จาก %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d ไฟล์เสียง (%3$s) จาก %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">ได้รับ %2$d ไฟล์เสียง (%3$s) จาก %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">กำลังรับ %2$d ไฟล์เสียง (%3$s) จาก %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s ไฟล์ (%4$s) จาก %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">ได้รับ %2$d %3$s ไฟล์ (%4$s) จาก %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">กำลังรับ %2$d %3$s ไฟล์ (%4$s) จาก %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d รูปภาพจาก %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">ได้รับ %2$d รูปภาพจาก %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">กำลัง %2$d รูปภาพจาก %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d รูปภาพและ/หรือวิดีโอจาก %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">ได้รับ %2$d รูปภาพและ/หรือวิดีโอจาก %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">กำลังรับ %2$d รูปภาพและ/หรือวิดีโอจาก %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d ไฟล์จาก %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">ได้รับ %2$d ไฟล์จาก %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">กำลังรับ %2$d ไฟล์จาก %1$s…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">ไม่สามารถแชร์ กำลังประมวลผล %d ภาพ …</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d วิดีโอจาก %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">ได้รับ %2$d วิดีโอจาก %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">กำลังรับ %2$d วิดีโอจาก %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d ไฟล์บีบอัด (%3$s) จาก %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">ได้รับ %2$d ไฟล์บีบอัด (%3$s) จาก %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">กำลังรับ %2$d ไฟล์บีบอัด (%3$s) จาก %1$s…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">อัปโหลดแล้ว %d รูปภาพ</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d ห้อง</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d หน้าจอ</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d หน้าจอ</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d หน้าจอแชร์</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d รายการใหญ่เกินกว่าจะซิงค์</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">ไม่สามารถซิงค์ %d รายการ อัปเกรดแผนบริการพื้นที่เก็บข้อมูลของคุณ</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">ไม่สามารถซิงค์ได้ %d รายการ ลองอีกครั้ง</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">ไม่สามารถซิงค์ได้ %d รายการ เจ้าของอัลบั้มนี้ไม่มีที่เก็บข้อมูลบนคลาวด์แล้ว</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d วินาที</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">เพิ่มประสิทธิภาพ %d รูปภาพ</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">เพิ่มประสิทธิภาพ %d รูปภาพ</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">เพิ่มประสิทธิภาพ %d วีดีโอ</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d รูปภาพยังไม่ได้เพิ่มประสิทธิภาพ หยุดตอนนี้หรือไม่?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d รูปภาพ</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">เหลืออีก %d รูป</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">เหลืออีก %d รายการเพื่อเพิ่มประสิทธิภาพ</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d วิดีโอ</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">มี %d รูปภาพและวิดีโอยังไม่ได้สำรองข้อมูล</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d รายการ มีขนาดใหญ่เกินไปที่จะสำรองข้อมูล</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d รายการ</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">ซิงค์แล้ว %d รูปภาพ</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">ซิงค์แล้ว %d วีดีโอ</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">กำลังซิงค์ %d รายการโดยใช้ข้อมูลมือถือ</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">กำลังซิงค์ %d รายการ</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s รายการ</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d วัน</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d เดือน</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d ปี</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d รายการที่เลือกจะถูกลบออกจากคลาวด์และอุปกรณ์ที่ซิงค์ทั้งหมดอย่างถาวร ยืนยันลบหรือไม่?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">คุณจะไม่สามารถเรียกคืน %d รายการที่เลือกได้หากคุณลบ ลบหรือไม่?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d รายการที่เลือกจะถูกลบออกอย่างถาวร ยืนยันลบหรือไม่?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">คุณจะไม่สามารถเรียกคืน %d รายการที่เลือกได้หากคุณลบ ลบหรือไม่?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">คุณจะไม่สามารถเรียกคืน %d รายการที่เลือกได้หากคุณลบ ลบหรือไม่?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">รายการต่างๆสามารถเก็บไว้ที่นี่ได้นานถึง %1$d วัน (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">รายการต่างๆสามารถเก็บไว้ที่นี่ได้นานถึง %1$d วัน อัปเกรดแผนของคุณเพื่อขยายช่วงเวลานี้</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d ไฟล์</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d วิดีโอ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="vector" android:height="@dimen/miuix_appcompat_check_widget_height" android:width="@dimen/miuix_appcompat_check_widget_width" android:alpha="0.5" android:viewportWidth="25.5" android:viewportHeight="25.5"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="path" android:fillColor="?checkWidgetDisableDrawableBackgroundColor" android:pathData="M 12.8 1.4 C 9.778 1.4 6.876 2.602 4.739 4.739 C 2.602 6.876 1.4 9.778 1.4 12.8 C 1.4 15.822 2.602 18.724 4.739 20.861 C 6.876 22.998 9.778 24.2 12.8 24.2 C 15.822 24.2 18.724 22.998 20.861 20.861 C 22.998 18.724 24.2 15.822 24.2 12.8 C 24.2 9.778 22.998 6.876 20.861 4.739 C 18.724 2.602 15.822 1.4 12.8 1.4 Z" android:strokeColor="#ffffffff" android:strokeWidth="0.5" android:strokeAlpha="0.2" android:fillAlpha="0.18" />
+</vector>

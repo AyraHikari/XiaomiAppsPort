@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="album_page_main_recycleview_margin_top">6.549988dip</dimen>
+    <dimen name="tab_or_assistant_place_holder_height">81.78dip</dimen>
+</resources>

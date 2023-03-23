@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="root"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/privacy" android:key="policy">
+        <miuix.preference.TextPreference android:title="@string/privacy_detail" android:key="see_privacy_policy" />
+        <miuix.preference.TextPreference android:title="@string/privacy_map_detail_content_new" android:key="see_map_privacy_policy" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/privacy_permission" android:key="permission">
+        <miuix.preference.TextPreference android:title="@string/privacy_permission_detail" android:key="see_permission_detail" />
+        <CheckBoxPreference android:title="@string/impunity_declaration_settings" android:key="impunity_declaration" android:summary="@string/impunity_declaration_summary" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/privacy_rejected" android:key="rejected">
+        <miuix.preference.TextPreference android:title="@string/privacy_rejected_map_new" android:key="rejected_map" />
+    </PreferenceCategory>
+</PreferenceScreen>

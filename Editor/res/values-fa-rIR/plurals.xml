@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">۱ ساعت پیش</item>
+        <item quantity="one">۱ ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">۱ ساعت پیش</item>
+        <item quantity="one">۱ ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">در ۱ ساعت</item>
+        <item quantity="one">در ۱ ساعت</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">در %d دقیقه</item>
+        <item quantity="one">در ۱ دقیقه</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d فایل</item>
+        <item quantity="one">%1$d فایل</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">در ۱ ساعت</item>
+        <item quantity="one">در ۱ ساعت</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">در %d دقیقه</item>
+        <item quantity="one">در ۱ دقیقه</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d مورد انتخاب شد</item>
+        <item quantity="one">%d مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">چرخش %d درجه</item>
+        <item quantity="one">چرخش %d درجه</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d بسته نصب (%3$s) از %1$s</item>
+        <item quantity="one">%2$d بسته نصب (%3$s) از %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%2$d بسته نصب (%3$s) از %1$s دریافت شد</item>
+        <item quantity="one">%2$d بسته نصب (%3$s) از %1$s دریافت شد</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">درحال دریافت %2$d بسته نصب (%3$s) از %1$s…</item>
+        <item quantity="one">درحال دریافت %2$d بسته نصب (%3$s) از %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d فایل صوتی (%3$s) از %1$s</item>
+        <item quantity="one">%2$d فایل صوتی (%3$s) از %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%2$d فایل صوتی (%3$s) از %1$s دریافت شد</item>
+        <item quantity="one">%2$d فایل صوتی (%3$s) از %1$s دریافت شد</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">درحال دریافت %2$d فایل صوتی (%3$s) از %1$s…</item>
+        <item quantity="one">درحال دریافت %2$d فایل صوتی (%3$s) از %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d فایل %3$s (%4$s) از %1$s</item>
+        <item quantity="one">%2$d فایل %3$s (%4$s) از %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%2$d فایل %3$s (%4$s) از %1$s دریافت شد</item>
+        <item quantity="one">%2$d فایل %3$s (%4$s) از %1$s دریافت شد</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">درحال دریافت %2$d فایل %3$s (%4$s) از %1$s…</item>
+        <item quantity="one">درحال دریافت %2$d فایل %3$s (%4$s) از %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d تصویر از %1$s</item>
+        <item quantity="one">%2$d تصویر از %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%2$d تصویر از %1$s دریافت شد</item>
+        <item quantity="one">%2$d تصویر از %1$s دریافت شد</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">درحال دریافت %2$d تصویر از %1$s…</item>
+        <item quantity="one">درحال دریافت %2$d تصویر از %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d تصویر یا ویدئو از %1$s</item>
+        <item quantity="one">%2$d تصویر یا ویدئو از %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%2$d تصویر یا ویدئو از %1$s دریافت شد</item>
+        <item quantity="one">%2$d تصویر یا ویدئو از %1$s دریافت شد</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">درحال دریافت %2$d تصویر یا ویدئو از %1$s…</item>
+        <item quantity="one">درحال دریافت %2$d تصویر یا ویدئو از %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d فایل از %1$s</item>
+        <item quantity="one">%2$d فایل از %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%2$d فایل از %1$s دریافت شد</item>
+        <item quantity="one">%2$d فایل از %1$s دریافت شد</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">درحال دریافت %2$d فایل از %1$s…</item>
+        <item quantity="one">درحال دریافت %2$d فایل از %1$s…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d ویدئو از %1$s</item>
+        <item quantity="one">%2$d ویدئو از %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%2$d ویدئو از %1$s دریافت شد</item>
+        <item quantity="one">%2$d ویدئو از %1$s دریافت شد</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">درحال دریافت %2$d ویدئو از %1$s…</item>
+        <item quantity="one">درحال دریافت %2$d ویدئو از %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d بایگانی (%3$s) از %1$s</item>
+        <item quantity="one">%2$d بایگانی (%3$s) از %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%2$d بایگانی (%3$s) از %1$s دریافت شد</item>
+        <item quantity="one">%2$d بایگانی (%3$s) از %1$s دریافت شد</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">درحال دریافت %2$d بایگانی (%3$s) از %1$s…</item>
+        <item quantity="one">درحال دریافت %2$d بایگانی (%3$s) از %1$s…</item>
+    </plurals>
+</resources>

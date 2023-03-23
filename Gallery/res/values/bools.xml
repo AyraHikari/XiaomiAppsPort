@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abc_split_action_bar_is_narrow">true</bool>
+    <bool name="action_bar_embed_tabs">true</bool>
+    <bool name="action_bar_tight_title">false</bool>
+    <bool name="action_menu_blur_enabled">true</bool>
+    <bool name="bottomMenu_config_withText">true</bool>
+    <bool name="check_widget_anim_enable">true</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+    <bool name="enable_system_alarm_service_default">false</bool>
+    <bool name="enable_system_foreground_service_default">true</bool>
+    <bool name="enable_system_job_service_default">true</bool>
+    <bool name="homepage_alwaysShowTargetViewDivider">true</bool>
+    <bool name="map_entrance_show_as_action">false</bool>
+    <bool name="miuix_appcompat_floating_window_is_translucent">false</bool>
+    <bool name="miuix_appcompat_window_floating">false</bool>
+    <bool name="passport_abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="preference_item_bg_enable_variablePadding">false</bool>
+    <bool name="priority_storage">false</bool>
+    <bool name="search_should_jump_when_single_suggestion">false</bool>
+    <bool name="show_top_divider">true</bool>
+    <bool name="spinner_popup_item_bg_enable_variablePadding">false</bool>
+    <bool name="theme_crop_share_icon">false</bool>
+    <bool name="treat_as_land">false</bool>
+    <bool name="workmanager_test_configuration">false</bool>
+</resources>

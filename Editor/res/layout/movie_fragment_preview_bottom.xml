@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/ll_movie_preview_bottom_area" android:paddingTop="@dimen/movie_preview_title_padding_top" android:layout_width="fill_parent" android:layout_height="@dimen/movie_preview_bottom_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/movie_tab_size" android:textColor="@color/movie_tab_normal" android:gravity="center" android:id="@id/tv_movie_editor" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/movie_tab_edit" android:fontFamily="mipro-medium" android:paddingStart="@dimen/movie_bottom_text_margin" android:paddingEnd="@dimen/movie_bottom_text_margin" />
+    <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <FrameLayout android:id="@id/fl_preview_play_area" android:layout_width="@dimen/movie_preview_play_area_width" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/iv_movie_play" android:background="@drawable/movie_preview_selector_play_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" />
+    </FrameLayout>
+    <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <TextView android:textSize="@dimen/movie_tab_size" android:textColor="@color/movie_tab_normal" android:gravity="center" android:id="@id/tv_movie_save" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/movie_save" android:fontFamily="mipro-medium" android:paddingStart="@dimen/movie_bottom_text_margin" android:paddingEnd="@dimen/movie_bottom_text_margin" />
+</LinearLayout>

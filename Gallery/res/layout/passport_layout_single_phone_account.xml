@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="@dimen/passport_login_page_padding_top" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:passport="http://schemas.android.com/apk/res-auto">
+    <com.xiaomi.passport.ui.view.PhoneAccountCard android:id="@id/phone_account" android:layout_width="wrap_content" android:layout_height="wrap_content" passport:card_mode="big" />
+    <FrameLayout android:id="@id/protocal_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/single_dialog_protocal_agree_tv_phoneaccount" android:layout_below="@id/phone_account" />
+    <Button android:id="@id/btn_login_other" android:layout_marginTop="@dimen/passport_account_login_margin_normal" android:text="@string/login_other" android:layout_below="@id/phone_account" style="@style/Passport.CommonRoundButton" />
+    <com.xiaomi.passport.ui.view.AgreementView android:id="@id/agreement_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_below="@id/btn_login_other" />
+</RelativeLayout>

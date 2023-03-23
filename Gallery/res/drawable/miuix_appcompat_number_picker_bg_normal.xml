@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/miuix_appcompat_number_picker_bg_corners" />
+            <solid android:color="?pickerBackgroundColor" />
+            <size android:height="@dimen/miuix_appcompat_number_picker_bg_height" android:width="@dimen/miuix_appcompat_number_picker_bg_width" />
+        </shape>
+    </item>
+</layer-list>

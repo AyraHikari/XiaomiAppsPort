@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Valkoinen</item>
+        <item>Tummansininen</item>
+        <item>Vaaleansininen</item>
+        <item>Punainen</item>
+        <item>Vihreä</item>
+        <item>Vaaleanpunainen</item>
+        <item>Ruskea</item>
+        <item>Harmaa</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Valitse kuva</item>
+        <item>Läpikuultava tausta</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Mies</item>
+        <item>Nainen</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Erityinen päivä</item>
+        <item>Tämä muistetaan</item>
+        <item>Vilkkaat hetket</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>A delicious year</item>
+        <item>Three courses. Four seasons.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Hello world!</item>
+        <item>On the road</item>
+        <item>A kaleidoscope of places</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Autumn splendor</item>
+        <item>Radiant fall</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Poika</item>
+        <item>Tyttö</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Varmuuskopioi kuvat</item>
+        <item>Synkronoi kuvat pilven kanssa</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>A night to remember</item>
+        <item>New page</item>
+        <item>Fireworks</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Happy New Year!</item>
+        <item>Dawn of the new year</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Year of the Monkey</item>
+        <item>Year of the Rooster</item>
+        <item>Year of the Dog</item>
+        <item>Year of the Pig</item>
+        <item>Year of the Rat</item>
+        <item>Year of the Ox</item>
+        <item>Year of the Tiger</item>
+        <item>Year of the Rabbit</item>
+        <item>Year of the Dragon</item>
+        <item>Year of the Snake</item>
+        <item>Year of the Horse</item>
+        <item>Year of the Goat</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Cityscapes</item>
+        <item>Streets and corners</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Gentle petals</item>
+        <item>In full bloom</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Into the wild</item>
+        <item>Wild and free</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Our get-togethers</item>
+        <item>In the company of friends</item>
+        <item>Long time no see</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Your favorite subjects</item>
+        <item>Kindred spirits</item>
+        <item>"Life's bright moments"</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Busy growing up</item>
+        <item>Cuter and cuter</item>
+        <item>Little explorer</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Fitness diary</item>
+        <item>Stronger and stronger</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Bon appétit!</item>
+        <item>Another bite?</item>
+        <item>Enjoy your meal!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Smile and wave!</item>
+        <item>Playtime</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>The great outdoors</item>
+        <item>Tracks in the snow</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Unstoppable</item>
+        <item>Staying fit</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>A big day</item>
+        <item>Down the aisle!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Aika leikkiä</item>
+        <item>Lapsen viikonloppu</item>
+        <item>Pienokainen</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Minun viikonloppuni</item>
+        <item>Osasia elämästä</item>
+        <item>Viikonloppumuistot</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Uudet ja vanhat ystävät</item>
+        <item>Viime vuoden yhdessäolot</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Vapaa-aika</item>
+        <item>Tuulahdus</item>
+        <item>Uni</item>
+        <item>Pilvet</item>
+        <item>Ajatukset</item>
+        <item>Versot</item>
+        <item>Metamorfoosi</item>
+        <item>Syvyys</item>
+        <item>Mietteet</item>
+        <item>Minimalistinen</item>
+        <item>Mysteeri</item>
+        <item>Sumu</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Muuta taustat luonnoksiksi</item>
+        <item>Akvarellityyliset taustat</item>
+        <item>Kyberpunk retro</item>
+        <item>Väärin sijoitetut pystysegmentit</item>
+        <item>Utuinen sumennus</item>
+        <item>Futuristinen tunnelma</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Luonnos</item>
+        <item>Akvarelli</item>
+        <item>RGB</item>
+        <item>Kaihtimet</item>
+        <item>Sumuinen ikkuna</item>
+        <item>Teknologia</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Värillinen ääriviiva</item>
+        <item>Katkoviiva</item>
+        <item>Loisteääriviiva</item>
+        <item>Värillinen varjo</item>
+        <item>Sähköaalto</item>
+        <item>Virtaus</item>
+        <item>Aallot</item>
+        <item>Hiukkaset</item>
+        <item>Teksti</item>
+        <item>Siivet</item>
+        <item>Enkeli</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Siirrä</item>
+        <item>Kopioi</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Tammikuu</item>
+        <item>Helmikuu</item>
+        <item>Maaliskuu</item>
+        <item>Huhtikuu</item>
+        <item>Toukokuu</item>
+        <item>Kesäkuu</item>
+        <item>Heinäkuu</item>
+        <item>Elokuu</item>
+        <item>Syyskuu</item>
+        <item>Lokakuu</item>
+        <item>Marraskuu</item>
+        <item>Joulukuu</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>"You've grown up!"</item>
+        <item>"You've grown up again!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>My personal menu</item>
+        <item>Tasty memories</item>
+        <item>Second helping, please!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>"World's best views"</item>
+        <item>Keep climbing</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Isä</item>
+        <item>Äiti</item>
+        <item>Isänisä</item>
+        <item>Isänäiti</item>
+        <item>Äidinisä</item>
+        <item>Äidinäiti</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Yhdessä</item>
+        <item>Hyvät ajat</item>
+        <item>Yhteen ääneen</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Where the road takes us</item>
+        <item>Journeys well shared</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>A cheerful spring</item>
+        <item>A joyful summer</item>
+        <item>A happy autumn</item>
+        <item>A jolly winter</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Spring meals</item>
+        <item>Summer treats</item>
+        <item>Autumn feasts</item>
+        <item>Winter tuck-ins</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Yhdessä</item>
+        <item>Tunnesiteet</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Minä</item>
+        <item>Lapsi</item>
+        <item>Perhe</item>
+        <item>Kollegat</item>
+        <item>Luokkakaverit</item>
+        <item>Ystävät</item>
+        <item>Ei määritelty</item>
+    </string-array>
+    <string-array name="season">
+        <item>Kevät</item>
+        <item>Kesä</item>
+        <item>Syksy</item>
+        <item>Talvi</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Isä</item>
+        <item>Äiti</item>
+        <item>Isänisä</item>
+        <item>Isänäiti</item>
+        <item>Äidinisä</item>
+        <item>Äidinäiti</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Eteneminen</item>
+        <item>Täynnä energiaa</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Blooms of spring</item>
+        <item>Spring is in the air</item>
+        <item>Hello spring!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>A bit of summer</item>
+        <item>Where summer never ends</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Golden hours</item>
+        <item>Rays of gold</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>He kasvavat niin nopeasti</item>
+        <item>Lapsen kuvat</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Winter days</item>
+        <item>Winter wonderland</item>
+    </string-array>
+</resources>

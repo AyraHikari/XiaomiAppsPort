@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/photo_page_top_bar_action_back_size" android:width="@dimen/photo_page_top_bar_action_back_size" android:viewportWidth="100.0" android:viewportHeight="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="_R_G">
+        <group android:name="_R_G_L_1_G_T_1" android:translateX="49.983" android:translateY="28.75">
+            <group android:name="_R_G_L_1_G" android:translateX="0.017" android:translateY="19.5">
+                <path android:name="_R_G_L_1_G_D_0_P_0" android:fillColor="@color/action_button_v20_normal" android:pathData=" M0 -28.75 C-8.56,-28.75 -15.5,-21.81 -15.5,-13.25 C-15.5,-13.25 -15.5,-5.25 -15.5,-5.25 C-15.5,-5.25 -10.5,-5.25 -10.5,-5.25 C-10.5,-5.25 -10.5,-13.25 -10.5,-13.25 C-10.5,-19.05 -5.8,-23.75 0,-23.75 C0,-23.75 1,-23.75 1,-23.75 C5.91,-23.75 9.95,-20.03 10.45,-15.25 C10.45,-15.25 10.46,-15.25 10.46,-15.25 C10.46,-15.25 15.46,-15.25 15.46,-15.25 C15.46,-15.25 15.47,-15.25 15.47,-15.25 C14.95,-22.79 8.67,-28.75 1,-28.75 C1,-28.75 0,-28.75 0,-28.75c " android:fillAlpha="1.0" android:fillType="nonZero" />
+            </group>
+        </group>
+        <group android:name="_R_G_L_0_G" android:translateX="50.0" android:translateY="50.0">
+            <path android:name="_R_G_L_0_G_D_0_P_0" android:fillColor="@color/action_button_v20_normal" android:pathData=" M23.5 -3.5 C23.5,-3.5 23.5,18.5 23.5,18.5 C23.5,21.81 20.81,24.5 17.5,24.5 C17.5,24.5 -17.5,24.5 -17.5,24.5 C-20.81,24.5 -23.5,21.81 -23.5,18.5 C-23.5,18.5 -23.5,-3.5 -23.5,-3.5 C-23.5,-6.81 -20.81,-9.5 -17.5,-9.5 C-17.5,-9.5 17.5,-9.5 17.5,-9.5 C20.81,-9.5 23.5,-6.81 23.5,-3.5c " android:strokeColor="@color/action_button_v20_normal" android:strokeWidth="5.0" android:strokeLineCap="round" android:strokeLineJoin="round" android:strokeAlpha="1.0" android:fillAlpha="0.0" android:fillType="nonZero" />
+        </group>
+    </group>
+    <group android:name="time_group" />
+</vector>

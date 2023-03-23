@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/activity_main" android:background="@color/photo_editor_window_bg" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/display_panel" android:background="@color/photo_editor_window_bg" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="@id/menu_render_line" app:layout_constraintTop_toTopOf="parent" />
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@id/menu_render_line" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintGuide_end="@dimen/editor_menu_zone_height" />
+    <FrameLayout android:id="@id/menu_panel" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="@id/menu_render_line" />
+    <FrameLayout android:id="@id/extra_container" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" />
+    <FrameLayout android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="@id/menu_render_line" app:layout_constraintTop_toTopOf="parent">
+        <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center" android:id="@id/progress" android:background="@drawable/editor_loading_background" android:visibility="gone" android:layout_width="@dimen/px_260" android:layout_height="@dimen/px_260" app:lottie_autoPlay="true" app:lottie_loop="true" app:lottie_rawRes="@raw/loading" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

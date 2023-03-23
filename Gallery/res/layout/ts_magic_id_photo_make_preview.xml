@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/banner" android:background="#00000000" android:paddingLeft="@dimen/magic_width_10" android:paddingRight="@dimen/magic_width_10" android:layout_width="fill_parent" android:layout_height="@dimen/magic_top_bar" android:layout_alignParentTop="true">
+        <TextView android:layout_gravity="start|center" android:id="@id/idp_make_cancel" android:text="@string/magic_cancel" android:onClick="onClick" style="@style/magic_action_bar_text" />
+        <TextView android:layout_gravity="end|center" android:id="@id/idp_make_save" android:text="@string/magic_save" android:onClick="onClick" style="@style/magic_action_bar_text" />
+        <RadioGroup android:layout_gravity="center" android:orientation="horizontal" android:id="@id/magic_idp_make_change" style="@style/magic_idp_make_radio_group">
+            <RadioButton android:id="@id/magic_idp_make_single" android:layout_marginLeft="@dimen/magic_px_8" android:checked="true" android:text="@string/magic_preview_1" style="@style/magic_idp_make_radio_btn" />
+            <RadioButton android:id="@id/magic_idp_make_multiple" android:layout_marginLeft="@dimen/magic_px_13" android:text="@string/magic_typesetting_n" style="@style/magic_idp_make_radio_btn" />
+        </RadioGroup>
+    </FrameLayout>
+    <LinearLayout android:gravity="center" android:id="@id/idp_make_photo_ll" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.miui.gallery.magic.widget.idphoto.IDPhotoView android:id="@id/idp_make_photo" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+            <com.miui.gallery.magic.widget.PhotoPaper android:id="@id/idp_make_photo_multiple_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

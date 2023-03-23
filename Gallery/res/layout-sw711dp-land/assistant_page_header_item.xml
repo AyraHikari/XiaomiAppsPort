@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.ui.AssistantPageHeaderItem android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_gravity="center|top" android:id="@id/icon" android:layout_width="@dimen/assistant_page_header_icon_size" android:layout_height="@dimen/assistant_page_header_icon_size" />
+    <TextView android:textSize="@dimen/assistant_page_header_title_text_size" android:textStyle="bold" android:textColor="@color/assistant_page_header_title_text" android:ellipsize="end" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:textFontWeight="500" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/red_dot" android:background="@drawable/red_dot_ic_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/assistant_page_header_red_dot_margin_start" />
+</com.miui.gallery.ui.AssistantPageHeaderItem>

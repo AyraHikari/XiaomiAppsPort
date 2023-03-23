@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/id_bottom_control" android:layout_width="fill_parent" android:layout_height="@dimen/magic_menu_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="30.0dip">
+        <ImageView android:id="@id/magic_video_close" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/magic_video_audio_volume_left" android:onClick="onClick" />
+        <com.miui.gallery.magic.widget.MagicBubbleSeekBar android:layout_gravity="center" android:id="@id/magic_video_audio_seek" android:layout_width="@dimen/magic_bubble_seek_width" android:layout_height="@dimen/magic_px_70" app:bsb_color_empty="#24ffffff" app:bsb_color_fill="#ffffce16" app:bsb_color_slider="#ffffffff" app:bsb_current_progress="40.0" app:bsb_empty_progress_height="@dimen/magic_px_50" app:bsb_hide_bubble="true" app:bsb_max_progress="100" app:bsb_slider_width="@dimen/magic_list_margin_25" app:bsb_visibility_width="@dimen/magic_bubble_seek_visibility_width" />
+        <ImageView android:id="@id/magic_video_open" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/magic_video_audio_volume_right" android:onClick="onClick" />
+    </LinearLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/magic_video_audio_bg" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <RelativeLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="@dimen/magic_idp_make_edit_icon_height_60" android:paddingRight="@dimen/magic_idp_make_edit_icon_height_60" android:layout_width="fill_parent" android:layout_height="@dimen/magic_tab_radio_height">
+        <ImageView android:id="@id/magic_cancel" android:layout_width="@dimen/magic_image_width_120" android:layout_height="@dimen/magic_image_width_120" android:src="@drawable/magic_cancel" android:layout_alignParentLeft="true" android:onClick="onClick" />
+        <ImageView android:id="@id/magic_ok" android:layout_width="@dimen/magic_image_width_120" android:layout_height="@dimen/magic_image_width_120" android:src="@drawable/magic_ok" android:layout_alignParentRight="true" android:onClick="onClick" />
+    </RelativeLayout>
+</LinearLayout>

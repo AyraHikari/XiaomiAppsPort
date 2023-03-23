@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="album_page_empty_text_vertical_percent">44.000008%</fraction>
+    <fraction name="drop_down_anim_pivot_x">0.0%</fraction>
+    <fraction name="immersion_menu_anim_pivot_x">100.0%</fraction>
+    <fraction name="private_entry_unlock_distance_percent">34.000004%</fraction>
+    <fraction name="private_entry_view_height_percent">77.0%</fraction>
+    <fraction name="share_channel_slip_padding_ratio">0.0%</fraction>
+</resources>

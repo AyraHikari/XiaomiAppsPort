@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="@dimen/album_cover_stroke_size" android:color="@color/image_stroke_color" />
+    <corners android:radius="@dimen/album_rubbish_tip_image_round_corner_value" />
+</shape>

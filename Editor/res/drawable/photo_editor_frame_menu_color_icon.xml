@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/frame_menu_item_color_selector_color" />
+    <corners android:radius="@dimen/photo_editor_frame_item_top_color_delete_size" />
+    <size android:height="@dimen/photo_editor_frame_item_top_color_selector_size" android:width="@dimen/photo_editor_frame_item_top_color_selector_size" />
+</shape>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="search_navigation_category_item_count">9</integer>
+    <integer name="search_navigation_location_item_count">9</integer>
+    <integer name="search_navigation_people_column_count">10</integer>
+    <integer name="search_navigation_people_item_count">9</integer>
+    <integer name="share_family_sharer_grid_column_count">8</integer>
+    <integer name="share_home_device_grid_column_count">4</integer>
+</resources>

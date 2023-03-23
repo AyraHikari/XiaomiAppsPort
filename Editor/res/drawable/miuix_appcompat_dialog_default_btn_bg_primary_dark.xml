@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/miuix_appcompat_dialog_default_btn_bg_primary_dark_common" android:minLevel="2" android:maxLevel="999" />
+    <item android:drawable="@drawable/miuix_appcompat_dialog_default_btn_bg_primary_dark_smooth" android:maxLevel="1" />
+</level-list>

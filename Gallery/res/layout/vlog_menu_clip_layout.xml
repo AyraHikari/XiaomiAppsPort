@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/navRoot" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/operation_panel" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/vlog_menu_common_operation_height" app:layout_constraintTop_toTopOf="parent">
+        <FrameLayout android:id="@id/operation_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.miui.gallery.editor.ui.view.SlideSwitchView android:id="@id/speed_switch_view" android:visibility="gone" android:layout_width="@dimen/vlog_mutli_clip_slide_swirch_width" android:layout_height="@dimen/vlog_mutli_clip_slide_swirch_height" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <FrameLayout android:id="@id/clip_content" android:paddingTop="@dimen/vlog_clip_multi_video_clip_content_padding_top" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="@dimen/vlog_clip_content_frame_height" android:layout_marginTop="@dimen/vlog_mutli_clip_clip_content_margin_top" app:layout_constraintTop_toTopOf="parent">
+        <com.miui.gallery.vlog.clip.widget.MultiVideoEditView android:id="@id/multi_video_edit_view" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent">
+            <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:layout_gravity="center_vertical" android:id="@id/recycle_view" android:paddingTop="@dimen/vlog_clip_content_recycler_view_padding_top_bottom" android:paddingBottom="@dimen/vlog_clip_content_recycler_view_padding_top_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <com.miui.gallery.vlog.clip.widget.VideoTransitionEnterView android:id="@id/video_transition_enter" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <TextView android:textSize="@dimen/clip_menu_duration_text_size" android:textColor="@color/white_100_transparent" android:ellipsize="end" android:layout_gravity="start|bottom|center" android:id="@id/duration_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/clip_edit_cur_video_time_margin_bottom" android:maxLines="1" android:shadowColor="@color/text_shadow" android:shadowDx="1.0" android:shadowDy="2.0" android:shadowRadius="0.1" android:fontFamily="mipro-medium" android:paddingStart="@dimen/px_15" />
+            <com.miui.gallery.vlog.clip.widget.VideoClipBar android:layout_gravity="center_vertical" android:id="@id/video_clip_view" android:layout_width="fill_parent" android:layout_height="@dimen/vlog_clip_bar_height" android:importantForAccessibility="no" />
+            <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/vlog_seek_bar_divider" android:scaleType="fitXY" />
+        </com.miui.gallery.vlog.clip.widget.MultiVideoEditView>
+        <ImageView android:layout_gravity="end|center" android:id="@id/iv_add_clips" android:layout_width="@dimen/px_118" android:layout_height="@dimen/px_118" android:src="@drawable/add_clips" android:contentDescription="@string/vlog_talkback_clip_add_videos" android:layout_marginEnd="@dimen/px_36" />
+        <View android:layout_gravity="center" android:id="@id/white_line" android:background="@drawable/vlog_clip_center_line" android:paddingTop="@dimen/vlog_clip_white_line_padding" android:paddingBottom="@dimen/vlog_clip_white_line_padding" android:layout_width="@dimen/vlog_clip_white_view_width" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@id/trans_apply_layout_line" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_end="0.0dip" />
+    <FrameLayout android:id="@id/edit_nav" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="@id/trans_apply_layout_line" app:layout_constraintStart_toStartOf="parent">
+        <com.miui.gallery.vlog.clip.ClipEditNavView android:id="@id/clip_edit_nav" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/px_160" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/trans_apply_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="@id/trans_apply_layout_line">
+        <com.miui.gallery.vlog.clip.TransResView android:id="@id/edit_trans_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/sort_apply_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="@id/trans_apply_layout_line">
+        <com.miui.gallery.vlog.base.widget.EditTimelineSortView android:id="@id/edit_time_sort_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

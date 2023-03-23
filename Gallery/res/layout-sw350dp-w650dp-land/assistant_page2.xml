@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <miuix.springback.view.SpringBackLayout android:gravity="center" android:layout_gravity="center" android:id="@id/assistant_page_spring_back" android:layout_width="fill_parent" android:layout_height="wrap_content" app:scrollableView="@id/assistant_page_view">
+        <miuix.core.widget.NestedScrollView android:id="@id/assistant_page_view" android:paddingBottom="35.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/assistant_page_margin_end">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/assistant_banner_card_height" android:layout_marginBottom="@dimen/assistant_banner_margin_bottom">
+                    <com.miui.gallery.widget.recyclerview.CustomCardBanner android:id="@id/assistant_page_banner" android:layout_width="0.0dip" android:layout_height="@dimen/assistant_banner_card_height" android:layout_weight="1.0" android:importantForAccessibility="no" />
+                    <LinearLayout android:gravity="end" android:orientation="vertical" android:layout_width="@dimen/assistant_all_cards_width" android:layout_height="fill_parent">
+                        <include android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" layout="@layout/view_today_of_year" />
+                        <include android:layout_width="fill_parent" android:layout_height="@dimen/assistant_all_cards_height" android:layout_marginTop="@dimen/assistant_today_of_year_margin_top" layout="@layout/view_all_time_cards" />
+                    </LinearLayout>
+                </LinearLayout>
+                <com.miui.gallery.widget.recyclerview.HorizontalRecyclerView android:id="@id/recycler_view" android:background="@color/assistant_operator_item_layout_bg_color" android:paddingTop="@dimen/assistant_header_top_bottom_divider" android:paddingBottom="@dimen/assistant_header_top_bottom_divider" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="35.0dip" android:importantForAccessibility="no" android:layout_marginStart="@dimen/assistant_page_margin_start" app:outlineCornerRadius="@dimen/assistant_header_item_radius" app:spanCount="4" app:view_grid="true" />
+            </LinearLayout>
+        </miuix.core.widget.NestedScrollView>
+    </miuix.springback.view.SpringBackLayout>
+</FrameLayout>

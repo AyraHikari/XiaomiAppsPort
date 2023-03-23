@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="magic_effects_guide_item_h">398.20312dip</dimen>
+    <dimen name="magic_effects_guide_item_w">302.21875dip</dimen>
+    <dimen name="magic_effects_guide_list_magin_end">21.329987dip</dimen>
+    <dimen name="magic_effects_guide_list_magin_start">21.329987dip</dimen>
+    <dimen name="magic_icon_width_34">9.769989dip</dimen>
+    <dimen name="magic_icon_width_69">22.21997dip</dimen>
+</resources>

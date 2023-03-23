@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="@dimen/proportion_tag_border_width" android:color="@color/proportion_tag_border" />
+    <solid android:color="@color/proportion_tag_background" />
+    <corners android:radius="@dimen/proportion_tag_radius" />
+    <size android:height="@dimen/proportion_tag_height" android:width="@dimen/proportion_tag_width" />
+</shape>

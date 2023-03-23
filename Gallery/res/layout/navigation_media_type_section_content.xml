@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.search.navigationpage.NavigationMediaTypeView android:paddingBottom="@dimen/search_navigation_tag_view_bottom_padding" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@null" android:verticalSpacing="@dimen/search_navigation_tag_vertical_spacing" android:stretchMode="spacingWidth" android:columnWidth="@dimen/people_face_size_regular" android:overScrollMode="never"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

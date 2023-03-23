@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/magic_effects_guide_item_h" android:layout_marginTop="@dimen/magic_icon_width_69" android:layout_marginBottom="@dimen/magic_icon_width_34"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="@dimen/magic_effects_guide_item_w" android:layout_height="@dimen/magic_effects_guide_item_h" android:layout_centerInParent="true">
+        <ImageView android:id="@id/magic_image" android:layout_width="@dimen/magic_effects_guide_item_w" android:layout_height="@dimen/magic_effects_guide_item_h" android:scaleType="fitCenter" />
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true">
+            <ImageView android:id="@id/magic_download_bg" android:visibility="gone" android:layout_width="@dimen/magic_px_72" android:layout_height="@dimen/magic_px_72" android:src="@drawable/magic_download_bg" />
+            <ImageView android:id="@id/magic_download" android:visibility="gone" android:layout_width="@dimen/magic_px_28_42" android:layout_height="@dimen/magic_px_31_26" android:src="@drawable/magic_download" android:layout_centerInParent="true" />
+            <ImageView android:id="@id/magic_downloading" android:visibility="gone" android:layout_width="@dimen/magic_px_33" android:layout_height="@dimen/magic_px_33" android:src="@drawable/magic_downloading" android:layout_centerInParent="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/magic_special_guide_b_bg" android:paddingLeft="@dimen/magic_effects_guide_bot_layout_padding_l" android:paddingRight="@dimen/magic_effects_guide_bot_layout_padding_l" android:layout_width="@dimen/magic_effects_guide_item_w" android:layout_height="@dimen/magic_effects_guide_bot_layout_h" android:layout_alignParentBottom="true" android:layout_centerInParent="true">
+        <TextView android:textSize="@dimen/magic_list_item_title_size" android:textColor="@color/white" android:id="@id/magic_list_item_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/magic_effects_text_layout_margin_50" android:fallbackLineSpacing="false" style="@style/magic_style_medium" />
+        <TextView android:textSize="@dimen/magic_list_item_dsc_size" android:textColor="@color/white" android:ellipsize="end" android:id="@id/magic_list_item_dsc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/magic_effects_text_layout_margin_7" android:singleLine="true" android:alpha="0.6" android:fallbackLineSpacing="false" style="@style/magic_style_medium" />
+    </LinearLayout>
+</RelativeLayout>

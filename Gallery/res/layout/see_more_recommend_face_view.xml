@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/see_more_recommend_face_container" android:paddingTop="@dimen/face_page_footer_margin_top" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@drawable/face_page_divider" android:layout_width="fill_parent" android:layout_height="@dimen/face_page_header_divider_height" />
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.People.List.Large" android:gravity="center_vertical" android:id="@id/see_more_recommend_face" android:layout_width="fill_parent" android:layout_height="@dimen/more_recommend_face_height" android:text="@string/more_face" android:drawableEnd="@drawable/miuix_appcompat_arrow_right" android:paddingStart="@dimen/more_recommend_face_padding" android:paddingEnd="@dimen/more_recommend_face_padding" />
+    <View android:background="@drawable/face_page_divider" android:layout_width="fill_parent" android:layout_height="@dimen/more_recommend_face_padding_bottom" />
+</LinearLayout>

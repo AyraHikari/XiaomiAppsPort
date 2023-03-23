@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/share_album_detail_empty_view_btn_background" />
+    <corners android:radius="25.5dip" />
+</shape>

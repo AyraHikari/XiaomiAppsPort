@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/DesktopWidgetRootBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/layout_root" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/image_view" android:layout_width="@dimen/gallery_widget_small_2_3_min_width" android:layout_height="@dimen/gallery_widget_small_2_3_min_height" android:src="@drawable/widget_recommend_replace_2_3" android:scaleType="fitCenter" android:layout_centerInParent="true" android:contentDescription="@string/widget_talkback_recommend" />
+        <ImageView android:id="@id/mask_view" android:layout_width="@dimen/gallery_widget_small_2_3_min_width" android:layout_height="@dimen/gallery_widget_small_2_3_min_height" android:src="@drawable/widget_recommend_small_mark_2_3" android:scaleType="fitCenter" android:layout_alignBottom="@id/image_view" android:layout_alignStart="@id/image_view" android:layout_alignEnd="@id/image_view" />
+        <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/gallery_widget_small_margin_bottom_2_3" android:layout_alignTop="@id/image_view" android:layout_alignBottom="@id/image_view" android:layout_marginStart="@dimen/gallery_widget_margin_start" android:layout_marginEnd="@dimen/gallery_widget_margin_start" android:layout_alignStart="@id/image_view" android:layout_alignEnd="@id/image_view">
+            <TextView android:textSize="@dimen/gallery_widget_title_font_size_small" android:textColor="@color/gallery_widget_recommend_title_color" android:ellipsize="end" android:id="@id/text_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:fontFamily="mipro-medium" />
+            <TextView android:textSize="@dimen/gallery_widget_description_font_size" android:textColor="@color/gallery_widget_recommend_desc_color" android:ellipsize="end" android:id="@id/text_desc" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:fontFamily="mipro-regular" />
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>

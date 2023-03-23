@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingTop="@dimen/passport_login_page_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/mi_logo" android:layout_width="@dimen/passport_logo_title_size" android:layout_height="@dimen/passport_logo_title_size" android:src="@drawable/passport_auth_logo" android:importantForAccessibility="no" />
+    <TextView android:textColor="@color/passport_notice_title" android:ellipsize="end" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/passport_logo_sub_title_margin" android:text="@string/passport_mi_account_first_title" android:maxLines="2" />
+    <com.xiaomi.passport.ui.view.EditTextGroupView android:id="@id/phone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/passport_view_group_internal_margin_vertical" app:inputHintText="@string/passport_input_phone_number_hint" app:inputTextType="phoneNumber" />
+    <com.xiaomi.passport.ui.view.AgreementView android:id="@id/agreement_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/passport_view_group_internal_margin_vertical" />
+    <Button android:id="@id/get_login_type" android:layout_marginTop="@dimen/passport_view_group_external_margin_vertical" android:text="@string/passport_get_login_type_next" style="@style/Passport.HighlightRoundButton" />
+    <Button android:id="@id/password_login" android:layout_marginTop="@dimen/passport_view_group_internal_margin_vertical" android:text="@string/passport_to_password_login" style="@style/Passport.CommonRoundButton" />
+</LinearLayout>

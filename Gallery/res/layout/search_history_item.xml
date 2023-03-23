@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="horizontal" android:id="@id/click_view" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/search_history_item_textSize" android:ellipsize="end" android:layout_gravity="start" android:id="@id/title" android:paddingTop="@dimen/search_history_item_padding_top_bottom" android:paddingBottom="@dimen/search_history_item_padding_top_bottom" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxLines="1" android:fontFamily="sans-serif-condensed-medium" android:layout_marginEnd="@dimen/clear_history_item_width" />
+    <ImageView android:layout_gravity="end|center" android:id="@id/icon" android:paddingTop="@dimen/search_history_icon_padding_top_bottom" android:paddingBottom="@dimen/search_history_icon_padding_top_bottom" android:layout_width="@dimen/clear_history_item_width" android:layout_height="@dimen/clear_history_item_width" android:src="@drawable/ic_clear_history" android:contentDescription="@string/talkback_delete_search_history" />
+</FrameLayout>

@@ -1,0 +1,62 @@
+{
+  "name": "effect6",
+  "talkbackName": "@string/text_item_type_talkback_bubble_watermark_6",
+  "version": 0,
+  "width": 158.91,
+  "height": 134.55,
+  "offsetX": 0,
+  "offsetY": 0,
+  "icon": "icon.png",
+  "bgPost": "bg.png",
+  "bgPostRect": [
+    15.63,
+    13.45,
+    142.91,
+    114.91
+  ],
+  "textPieceList": [
+    {
+      "frameRect": [
+        25.82,
+        61.82,
+        132.73,
+        77.1
+      ],
+      "size": 15.27,
+      "text": "跨界永无极限",
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": 0.2,
+      "lines": 1
+    },
+    {
+      "frameRect": [
+        40.73,
+        82.55,
+        118.55,
+        96.37
+      ],
+      "size": 10.91,
+      "text": "2023",
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": 0.3
+    },
+    {
+      "frameRect": [
+        30.55,
+        100.36,
+        128,
+        112
+      ],
+      "size": 7.27,
+      "text": "MORNING",
+      "isVerticalText": 0,
+      "font": "",
+      "align": 1,
+      "letterSpacing": 1
+    }
+  ]
+}

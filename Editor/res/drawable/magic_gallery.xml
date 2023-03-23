@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/magic_idp_icon" android:width="@dimen/magic_idp_icon" android:viewportWidth="90.0" android:viewportHeight="90.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/color_magic_idp_guide_btn_icon_gallery" android:pathData="M38.1286,23.7794C36.9889,21.707 34.0111,21.707 32.8714,23.7794L10.4452,64.5542C9.3455,66.5536 10.792,69 13.0738,69H57.9262C60.208,69 61.6545,66.5536 60.5548,64.5542L38.1286,23.7794Z" android:fillAlpha="0.8" android:fillType="evenOdd" />
+    <path android:fillColor="@color/color_magic_idp_guide_btn_icon_gallery" android:pathData="M48.009,68.9992H69.4117L56.1711,45.4604L60.9226,36.9756C62.0681,34.93 65.0121,34.93 66.1576,36.9756L81.5908,64.5349C82.7107,66.5346 81.2653,69.0007 78.9733,69.0007H48.1069C48.0741,69.0007 48.0415,69.0002 48.009,68.9992Z" android:fillAlpha="0.8" android:fillType="evenOdd" />
+</vector>

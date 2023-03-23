@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="album_ai_other_item_horizontal_spacing">51.25dip</dimen>
+    <dimen name="album_ai_people_item_horizontal_spacing">51.25dip</dimen>
+    <dimen name="assistant_banner_card_height">432.0dip</dimen>
+    <dimen name="assistant_page_header_margin_top">0.0dip</dimen>
+    <dimen name="assistant_page_margin_end">20.0dip</dimen>
+    <dimen name="assistant_page_margin_start">20.0dip</dimen>
+    <dimen name="cloud_backup_space_bar_width">195.63998dip</dimen>
+    <dimen name="empty_page_landscape_margin_bottom">48.889984dip</dimen>
+    <dimen name="empty_page_margin_bottom">48.889984dip</dimen>
+    <dimen name="horizontal_spacing_very_huge">116.889984dip</dimen>
+    <dimen name="miplay_btn_margin_start_end">44.439972dip</dimen>
+    <dimen name="miplay_btn_margin_start_end_land">44.439972dip</dimen>
+    <dimen name="people_face_horizontal_spacing">51.25dip</dimen>
+    <dimen name="result_item_grid_horizontal_space">51.25dip</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="@dimen/slide_switch_view_width" android:layout_height="@dimen/slide_switch_view_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/slide_switch_view_tv_text_size" android:textColor="@color/slide_switch_view_text_color" android:ellipsize="marquee" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/tv_left" android:layout_width="@dimen/slide_switch_view_tv_width" android:layout_height="fill_parent" android:singleLine="true" android:fontFamily="mipro-medium" android:layout_marginStart="@dimen/slide_switch_view_tv_left_margin_start" />
+    <TextView android:textSize="@dimen/slide_switch_view_tv_text_size" android:textColor="@color/slide_switch_view_text_color" android:ellipsize="marquee" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/tv_right" android:layout_width="@dimen/slide_switch_view_tv_width" android:layout_height="fill_parent" android:singleLine="true" android:fontFamily="mipro-medium" android:layout_marginStart="@dimen/slide_switch_view_tv_right_margin_start" />
+</merge>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/click_view" android:layout_width="wrap_content" android:layout_height="@dimen/filter_bar_height_no_icon" android:paddingStart="@dimen/horizontal_spacing_secondary" android:paddingEnd="@dimen/horizontal_spacing_secondary"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/title" android:background="@drawable/navigation_tag_item_bg" android:paddingTop="@dimen/search_navigation_tag_item_vertical_padding" android:paddingBottom="@dimen/search_navigation_tag_item_vertical_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" android:paddingStart="@dimen/search_navigation_tag_item_end_padding" android:paddingEnd="@dimen/search_navigation_tag_item_end_padding" style="@style/Gallery.TextAppearance.Search.List.Primary" />
+</LinearLayout>

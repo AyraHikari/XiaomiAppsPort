@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#a3f2f2f2" />
+    <corners android:radius="@dimen/editor_crop_menu_degree_show_bg_corner" />
+</shape>

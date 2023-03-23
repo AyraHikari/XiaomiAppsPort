@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/magic_id_photo_search_frame_layout"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <miuix.androidbasewidget.widget.ClearableEditText android:ellipsize="end" android:gravity="start|center" android:id="@id/search_view_input" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:maxLength="100" android:inputType="textAutoComplete" android:paddingStart="@dimen/magic_px_39" android:paddingEnd="@dimen/magic_px_39" style="@style/magic_id_photo_search_edit" />
+    <ImageView android:layout_gravity="start|center" android:id="@id/search_btn_cancel" android:layout_width="@dimen/magic_px_39" android:layout_height="fill_parent" android:src="@drawable/magic_idp_search" android:scaleType="center" android:contentDescription="黑色" android:layout_marginStart="@dimen/magic_px_39" />
+    <ImageView android:layout_gravity="end|center" android:id="@id/search_btn_voice" android:visibility="gone" android:layout_width="@dimen/magic_px_39" android:layout_height="fill_parent" android:src="@drawable/magic_idp_search" android:scaleType="center" android:contentDescription="黑色" android:layout_marginEnd="@dimen/magic_px_39" />
+</FrameLayout>

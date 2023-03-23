@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/vlog_speedx_background_color" />
+            <corners android:radius="@dimen/clip_speedx_btn_bg_corner" />
+        </shape>
+    </item>
+</selector>

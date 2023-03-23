@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/vlog_trans_right_sel" />
+    <item android:drawable="@drawable/vlog_trans_right_nor" />
+</selector>

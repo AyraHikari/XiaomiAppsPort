@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingTop="@dimen/miuix_appcompat_arrow_popup_view_paddingTop" android:paddingBottom="@dimen/miuix_appcompat_arrow_popup_view_paddingBottom" android:paddingStart="@dimen/miuix_appcompat_arrow_popup_view_paddingStart" android:paddingEnd="@dimen/miuix_appcompat_arrow_popup_view_paddingEnd"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/miuix_appcompat_arrow_popup_view_paddingStart" android:top="@dimen/miuix_appcompat_arrow_popup_view_paddingTop" android:right="@dimen/miuix_appcompat_arrow_popup_view_paddingEnd" android:bottom="@dimen/miuix_appcompat_arrow_popup_view_paddingBottom">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/miuix_appcompat_arrow_popup_triangle_color_dark" />
+            <corners android:radius="@dimen/miuix_appcompat_arrow_popup_view_round_corners" />
+        </shape>
+    </item>
+</layer-list>

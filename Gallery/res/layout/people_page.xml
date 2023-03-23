@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ViewStub android:gravity="center" android:layout_gravity="center" android:id="@id/empty_view" android:layout="@layout/people_page_empty_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <miuix.springback.view.SpringBackLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" app:scrollableView="@id/grid">
+        <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/grid" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" android:paddingStart="@dimen/people_page_list_padding_left_right" android:paddingEnd="@dimen/people_page_list_padding_left_right" style="@style/Gallery.Widget.GridView.People" />
+    </miuix.springback.view.SpringBackLayout>
+</FrameLayout>

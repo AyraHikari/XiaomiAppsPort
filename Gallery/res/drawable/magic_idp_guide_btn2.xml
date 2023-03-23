@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/magic_idp_guide_btn1h" android:width="@dimen/magic_idp_guide_btn1w" android:viewportWidth="422.0" android:viewportHeight="260.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffc000" android:pathData="M48,0L374,0A48,48 0,0 1,422 48L422,212A48,48 0,0 1,374 260L48,260A48,48 0,0 1,0 212L0,48A48,48 0,0 1,48 0z" />
+</vector>

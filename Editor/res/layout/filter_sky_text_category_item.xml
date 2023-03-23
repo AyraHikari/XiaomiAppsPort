@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/filter_category_navi_item_text_size" android:textColor="@color/photo_editor_selector_tab_color" android:ellipsize="marquee" android:gravity="center" android:layout_gravity="center" android:id="@id/tv_filter_sky_categoty_item" android:focusable="true" android:layout_width="wrap_content" android:layout_height="@dimen/filter_category_navi_item_height" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:fontFamily="mipro-medium" android:paddingStart="@dimen/filter_category_text_padding" android:paddingEnd="@dimen/filter_category_text_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

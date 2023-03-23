@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.miuixbasewidget.widget.MessageView android:textSize="@dimen/trash_header_text_size" android:id="@id/trash_tip_banner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/trash_high_occupied_tip_banner" style="@style/Widget.MessageView.Warning.DayNight"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

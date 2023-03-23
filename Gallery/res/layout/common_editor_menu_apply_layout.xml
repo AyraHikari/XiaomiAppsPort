@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/editor_menu_margin_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/cancel" android:layout_width="@dimen/editor_apply_button_size" android:layout_height="@dimen/editor_apply_button_size" android:src="@drawable/photo_editor_discard_button_selector" android:scaleType="center" android:contentDescription="@string/editor_cancel" android:layout_marginStart="@dimen/editor_menu_discard_confirm_margin_horizontal_outer" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" />
+    <ImageView android:id="@id/ok" android:layout_width="@dimen/editor_apply_button_size" android:layout_height="@dimen/editor_apply_button_size" android:src="@drawable/photo_editor_confirm_button_selector" android:scaleType="fitCenter" android:contentDescription="@string/editor_export" android:layout_marginEnd="@dimen/editor_menu_discard_confirm_margin_horizontal_outer" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

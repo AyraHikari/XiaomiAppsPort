@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <padding android:top="@dimen/action_button_without_title_bg_top_padding" />
+    <size android:height="@dimen/action_button_default_height" android:width="@dimen/action_button_min_width" />
+</shape>

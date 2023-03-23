@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/passport_page_min_horizontal_padding" android:paddingEnd="@dimen/passport_page_min_horizontal_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.xiaomi.passport.ui.view.EditTextGroupView android:id="@id/nick_name" android:layout_width="fill_parent" android:layout_height="wrap_content" app:inputTextType="all" />
+</FrameLayout>

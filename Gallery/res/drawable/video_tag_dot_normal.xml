@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/photo_page_video_tags_color_normal" />
+    <stroke android:width="@dimen/video_tags_stroke_size" android:color="@color/photo_page_video_tags_stroke_normal" />
+</shape>

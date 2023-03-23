@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/album_group_tip_title_text_size" android:textStyle="bold" android:textColor="@color/album_default_title_color" android:id="@id/item_group_album_main" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/more_album_tip" android:textDirection="locale"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

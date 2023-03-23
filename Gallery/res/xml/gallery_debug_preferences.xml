@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="DEBUG选项" android:key="debug">
+        <CheckBoxPreference android:persistent="false" android:title="@string/print_log" android:key="print_log" android:defaultValue="true" />
+        <CheckBoxPreference android:persistent="false" android:title="防止HeifDecoder泄漏" android:key="hook_heif_decoder" android:defaultValue="true" />
+        <miuix.preference.TextPreference android:title="@string/correct_photo_time" android:key="correct_photo_time" />
+        <miuix.preference.TextPreference android:title="@string/clear_dup_medias" android:key="delete_dup_medias" />
+        <miuix.preference.TextPreference android:title="@string/thumbnail_build_error" android:key="thumbnail_build_error" />
+        <miuix.preference.TextPreference android:title="@string/dump_db_info" android:key="dump_dbinfo" />
+        <miuix.preference.TextPreference android:title="@string/start_debug" android:key="debug_gallery" />
+        <miuix.preference.TextPreference android:title="Storage Test" android:key="storage_test" />
+        <miuix.preference.TextPreference android:title="算法so检查" android:key="library_download_test" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/editor_menu_filter_rename_dialog_edit_text_cursor_color" />
+    <size android:width="@dimen/editor_menu_filter_rename_dialog_edit_text_cursor_width" />
+    <padding android:top="@dimen/editor_menu_filter_rename_dialog_edit_text_cursor_vertical_padding" android:bottom="@dimen/editor_menu_filter_rename_dialog_edit_text_cursor_vertical_padding" />
+</shape>

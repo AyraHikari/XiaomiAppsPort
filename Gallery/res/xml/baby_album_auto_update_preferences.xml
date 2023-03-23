@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/share_album"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:persistent="false" android:title="@string/auto_update_face" android:key="auto_update_face" android:summary="@string/auto_update_face_summary" android:defaultValue="true" />
+    <miuix.preference.TextPreference android:persistent="false" android:title="@string/associate_face_album" android:key="associate_face_album" android:dependency="auto_update_face" />
+</PreferenceScreen>

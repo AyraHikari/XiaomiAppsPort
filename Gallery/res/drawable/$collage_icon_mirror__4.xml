@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$collage_icon_mirror__5" android:duration="200" android:startOffset="0" android:propertyName="translateXY" android:pathData="M 38.327,29C 39.16,29 43.327,29 43.327,29" android:propertyXName="translateX" android:propertyYName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$collage_icon_mirror__6" android:duration="400" android:startOffset="200" android:propertyName="translateXY" android:pathData="M 43.327,29C 43.327,29 39.16,29 38.327,29" android:propertyXName="translateX" android:propertyYName="translateY" />
+</set>

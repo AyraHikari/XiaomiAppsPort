@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/title_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerVertical="true">
+        <ImageView android:id="@id/home_arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?android:homeAsUpIndicator" android:contentDescription="@string/back" />
+        <TextView android:id="@id/home_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/baby_album_page_title_max_width" style="@style/Gallery.TextAppearance.ActionMode.Title" />
+    </LinearLayout>
+    <Button android:id="@id/select_mode_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/custom_select_title_select_all" android:layout_centerVertical="true" android:layout_alignParentEnd="true" style="@style/Gallery.Widget.ActionMode.Button.Default" />
+</RelativeLayout>

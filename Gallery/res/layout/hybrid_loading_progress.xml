@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/progress" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" android:indeterminateOnly="false" android:progressDrawable="@drawable/hybrid_progressbar_determinate" />
+    <LinearLayout android:gravity="center" android:layout_gravity="top" android:orientation="vertical" android:id="@id/error_view_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="176.0dip">
+        <TextView android:gravity="center" android:id="@id/text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Miuix.AppCompat.TextAppearance.BlankPage" />
+        <Button android:textColor="@color/black_50_transparent_with_dark_mode" android:id="@id/button" android:visibility="gone" android:layout_marginTop="60.0dip" style="@style/Gallery.Widget.Button.Rect.BlankPage" />
+    </LinearLayout>
+</merge>

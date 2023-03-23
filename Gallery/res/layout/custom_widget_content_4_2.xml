@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/DesktopWidgetRootBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/layout_root" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/image_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/widget_custom_replace_4_2" android:scaleType="centerCrop" android:contentDescription="@string/widget_talkback_custom" />
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,339 @@
+.class public final Lko/c$a;
+.super Lvo/g;
+.source ""
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lko/c;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x11
+    name = "a"
+.end annotation
+
+.annotation runtime Lkotlin/Metadata;
+    bv = {}
+    d1 = {
+        "\u0000,\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\t\n\u0000\n\u0002\u0018\u0002\n\u0002\u0008\u0003\n\u0002\u0018\u0002\n\u0002\u0008\u0004\n\u0002\u0018\u0002\n\u0002\u0008\u0005\u0008\u0082\u0004\u0018\u00002\u00020\u0001B\u0017\u0012\u0006\u0010\u0010\u001a\u00020\u000f\u0012\u0006\u0010\u0011\u001a\u00020\u0004\u00a2\u0006\u0004\u0008\u0012\u0010\u0013J\u0018\u0010\u0007\u001a\u00020\u00062\u0006\u0010\u0003\u001a\u00020\u00022\u0006\u0010\u0005\u001a\u00020\u0004H\u0016J\u0008\u0010\u0008\u001a\u00020\u0006H\u0016J\u0008\u0010\t\u001a\u00020\u0006H\u0016J#\u0010\r\u001a\u00028\u0000\"\n\u0008\u0000\u0010\u000b*\u0004\u0018\u00010\n2\u0006\u0010\u000c\u001a\u00028\u0000H\u0002\u00a2\u0006\u0004\u0008\r\u0010\u000e\u00a8\u0006\u0014"
+    }
+    d2 = {
+        "Lko/c$a;",
+        "Lvo/g;",
+        "Lvo/c;",
+        "source",
+        "",
+        "byteCount",
+        "Lei/h;",
+        "t",
+        "flush",
+        "close",
+        "Ljava/io/IOException;",
+        "E",
+        "e",
+        "a",
+        "(Ljava/io/IOException;)Ljava/io/IOException;",
+        "Lvo/v;",
+        "delegate",
+        "contentLength",
+        "<init>",
+        "(Lko/c;Lvo/v;J)V",
+        "okhttp"
+    }
+    k = 0x1
+    mv = {
+        0x1,
+        0x6,
+        0x0
+    }
+.end annotation
+
+
+# instance fields
+.field public final f:J
+
+.field public g:Z
+
+.field public h:J
+
+.field public i:Z
+
+.field public final synthetic j:Lko/c;
+
+
+# direct methods
+.method public constructor <init>(Lko/c;Lvo/v;J)V
+    .locals 1
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Lvo/v;",
+            "J)V"
+        }
+    .end annotation
+
+    const-string v0, "this$0"
+
+    invoke-static {p1, v0}, Lri/h;->f(Ljava/lang/Object;Ljava/lang/String;)V
+
+    const-string v0, "delegate"
+
+    invoke-static {p2, v0}, Lri/h;->f(Ljava/lang/Object;Ljava/lang/String;)V
+
+    .line 1
+    iput-object p1, p0, Lko/c$a;->j:Lko/c;
+
+    .line 2
+    invoke-direct {p0, p2}, Lvo/g;-><init>(Lvo/v;)V
+
+    .line 3
+    iput-wide p3, p0, Lko/c$a;->f:J
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final a(Ljava/io/IOException;)Ljava/io/IOException;
+    .locals 7
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "<E:",
+            "Ljava/io/IOException;",
+            ">(TE;)TE;"
+        }
+    .end annotation
+
+    .line 1
+    iget-boolean v0, p0, Lko/c$a;->g:Z
+
+    if-eqz v0, :cond_0
+
+    return-object p1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    .line 2
+    iput-boolean v0, p0, Lko/c$a;->g:Z
+
+    .line 3
+    iget-object v1, p0, Lko/c$a;->j:Lko/c;
+
+    iget-wide v2, p0, Lko/c$a;->h:J
+
+    const/4 v4, 0x0
+
+    const/4 v5, 0x1
+
+    move-object v6, p1
+
+    invoke-virtual/range {v1 .. v6}, Lko/c;->a(JZZLjava/io/IOException;)Ljava/io/IOException;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public close()V
+    .locals 4
+
+    .line 1
+    iget-boolean v0, p0, Lko/c$a;->i:Z
+
+    if-eqz v0, :cond_0
+
+    return-void
+
+    :cond_0
+    const/4 v0, 0x1
+
+    .line 2
+    iput-boolean v0, p0, Lko/c$a;->i:Z
+
+    .line 3
+    iget-wide v0, p0, Lko/c$a;->f:J
+
+    const-wide/16 v2, -0x1
+
+    cmp-long v2, v0, v2
+
+    if-eqz v2, :cond_2
+
+    iget-wide v2, p0, Lko/c$a;->h:J
+
+    cmp-long v0, v2, v0
+
+    if-nez v0, :cond_1
+
+    goto :goto_0
+
+    .line 4
+    :cond_1
+    new-instance p0, Ljava/net/ProtocolException;
+
+    const-string v0, "unexpected end of stream"
+
+    invoke-direct {p0, v0}, Ljava/net/ProtocolException;-><init>(Ljava/lang/String;)V
+
+    throw p0
+
+    .line 5
+    :cond_2
+    :goto_0
+    :try_start_0
+    invoke-super {p0}, Lvo/g;->close()V
+
+    const/4 v0, 0x0
+
+    .line 6
+    invoke-virtual {p0, v0}, Lko/c$a;->a(Ljava/io/IOException;)Ljava/io/IOException;
+    :try_end_0
+    .catch Ljava/io/IOException; {:try_start_0 .. :try_end_0} :catch_0
+
+    return-void
+
+    :catch_0
+    move-exception v0
+
+    .line 7
+    invoke-virtual {p0, v0}, Lko/c$a;->a(Ljava/io/IOException;)Ljava/io/IOException;
+
+    move-result-object p0
+
+    throw p0
+.end method
+
+.method public flush()V
+    .locals 1
+
+    .line 1
+    :try_start_0
+    invoke-super {p0}, Lvo/g;->flush()V
+    :try_end_0
+    .catch Ljava/io/IOException; {:try_start_0 .. :try_end_0} :catch_0
+
+    return-void
+
+    :catch_0
+    move-exception v0
+
+    .line 2
+    invoke-virtual {p0, v0}, Lko/c$a;->a(Ljava/io/IOException;)Ljava/io/IOException;
+
+    move-result-object p0
+
+    throw p0
+.end method
+
+.method public t(Lvo/c;J)V
+    .locals 4
+
+    const-string v0, "source"
+
+    invoke-static {p1, v0}, Lri/h;->f(Ljava/lang/Object;Ljava/lang/String;)V
+
+    .line 1
+    iget-boolean v0, p0, Lko/c$a;->i:Z
+
+    xor-int/lit8 v0, v0, 0x1
+
+    if-eqz v0, :cond_2
+
+    .line 2
+    iget-wide v0, p0, Lko/c$a;->f:J
+
+    const-wide/16 v2, -0x1
+
+    cmp-long v2, v0, v2
+
+    if-eqz v2, :cond_1
+
+    iget-wide v2, p0, Lko/c$a;->h:J
+
+    add-long/2addr v2, p2
+
+    cmp-long v0, v2, v0
+
+    if-gtz v0, :cond_0
+
+    goto :goto_0
+
+    .line 3
+    :cond_0
+    new-instance p1, Ljava/net/ProtocolException;
+
+    .line 4
+    new-instance v0, Ljava/lang/StringBuilder;
+
+    invoke-direct {v0}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string v1, "expected "
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    iget-wide v1, p0, Lko/c$a;->f:J
+
+    invoke-virtual {v0, v1, v2}, Ljava/lang/StringBuilder;->append(J)Ljava/lang/StringBuilder;
+
+    const-string v1, " bytes but received "
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    iget-wide v1, p0, Lko/c$a;->h:J
+
+    add-long/2addr v1, p2
+
+    invoke-virtual {v0, v1, v2}, Ljava/lang/StringBuilder;->append(J)Ljava/lang/StringBuilder;
+
+    invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object p0
+
+    .line 5
+    invoke-direct {p1, p0}, Ljava/net/ProtocolException;-><init>(Ljava/lang/String;)V
+
+    throw p1
+
+    .line 6
+    :cond_1
+    :goto_0
+    :try_start_0
+    invoke-super {p0, p1, p2, p3}, Lvo/g;->t(Lvo/c;J)V
+
+    .line 7
+    iget-wide v0, p0, Lko/c$a;->h:J
+
+    add-long/2addr v0, p2
+
+    iput-wide v0, p0, Lko/c$a;->h:J
+    :try_end_0
+    .catch Ljava/io/IOException; {:try_start_0 .. :try_end_0} :catch_0
+
+    return-void
+
+    :catch_0
+    move-exception p1
+
+    .line 8
+    invoke-virtual {p0, p1}, Lko/c$a;->a(Ljava/io/IOException;)Ljava/io/IOException;
+
+    move-result-object p0
+
+    throw p0
+
+    .line 9
+    :cond_2
+    new-instance p0, Ljava/lang/IllegalStateException;
+
+    const-string p1, "closed"
+
+    invoke-virtual {p1}, Ljava/lang/Object;->toString()Ljava/lang/String;
+
+    move-result-object p1
+
+    invoke-direct {p0, p1}, Ljava/lang/IllegalStateException;-><init>(Ljava/lang/String;)V
+
+    throw p0
+.end method

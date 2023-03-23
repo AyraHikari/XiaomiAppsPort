@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Ya yi minti 1</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">a kara wadannan abubuwa zuwa alban na sirri?</item>
+        <item quantity="one">Ya kara wannan abu zuwa alban na sirri?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">An kara hotunan alban girgije %d, kashe\"Nuna alban asali kadai\" dan nunawa.</item>
+        <item quantity="one">An kara hoton alban girgije %d, kashe\"Nuna alban asali kadai\" dan nunawa.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">Ya kasa kara abubuwa %2$d zuwa cikin alban. %1$s.</item>
+        <item quantity="one">Ya kasa kara abu %2$d zuwa cikin alban. %1$s.</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">Ya kasa kara abubuwa %2$d zuwa cikin alban na sirri.. %1$s.</item>
+        <item quantity="one">Ya kasa kara abu %2$d zuwa cikin alban na sirri. %1$s.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">Ranaku%d</item>
+        <item quantity="one">Rana%d</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">Watani%d</item>
+        <item quantity="one">Wata%d</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">Shekaru%d</item>
+        <item quantity="one">Shekara%d</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">An rabar ma mutane %d</item>
+        <item quantity="one">An rabar ma mutum %d</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">Hotuna%d</item>
+        <item quantity="one">Hoto%d</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d abubuwa| %2$s</item>
+        <item quantity="one">%1$d abu| %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(Abubuwa%d)</item>
+        <item quantity="one">(Abu%d)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">alban %d</item>
+        <item quantity="one">alban %d</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">Mutane %s na iya ganin alban</item>
+        <item quantity="one">Mutum %s na iya ganin alban</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">alban %2$d kunshe da %1$s</item>
+        <item quantity="one">alban %2$d kunshe da %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">Abubuwa %1$d</item>
+        <item quantity="one">Abu %1$d</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">Tunani na da %d</item>
+        <item quantity="one">Tunani na da %d</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">Hoto%1$d na%2$s zai karu</item>
+        <item quantity="one">Hoto%1$d na%2$s zai karu</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">Hotunan%1$d na%2$s zasu karu</item>
+        <item quantity="one">Hoto%1$d na%2$s zai karu</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Ci gaba da adana bayanai nan da awowi %d</item>
+        <item quantity="one">Ci gaba da adana bayanai nan da awa %d</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">Abubuwa %d sun yi girma kwarai ma adanawa</item>
+        <item quantity="one">Abu %d ya yi girma kwarai ma adanawa</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">Zai sake somawa nan da mintuna %d</item>
+        <item quantity="one">Zai sake somawa nan da minti %d</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Dakatar da daidaitawar hoto, bidiyoyi, lambobi, rubutu, da wasu abubuwa da cloud ma mintuna %d.</item>
+        <item quantity="one">Dakatar da daidaitawar hoto, bidiyoyi, lambobi, rubutu, da wasu abubuwa da cloud ma minti %d.</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">Hotuna ko bidiyoyi%1$d | %2$s</item>
+        <item quantity="one">Hoto ko bidiyo%1$d | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">Hotunan ko bidiyoyi %1$d</item>
+        <item quantity="one">Hoto ko bidiyo %1$d</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">Hotuna %d</item>
+        <item quantity="one">Hoto %d</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">"Ya share hotuna %d wanda ba'a zaba ba?"</item>
+        <item quantity="one">"Ya share hoto %d wanda ba'a zaba ba?"</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Share hotuna %d</item>
+        <item quantity="one">Share hoto %d</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Bar hotuna %d da aka zaba</item>
+        <item quantity="one">Bar hoto %d da aka zaba</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">Hotuna %d</item>
+        <item quantity="one">Hoto %d</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">Bidiyoyi%d video</item>
+        <item quantity="one">Bidiyo%d video</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">"Ya kasa daidaita abubuwa %d saboda karamcin sarari a ma'aji na cloud"</item>
+        <item quantity="one">"Ya kasa daidaita abu %d saboda karamcin sarari a ma'aji na cloud"</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Hadawa na iya kunsar hotuna %1$d-%2$d</item>
+        <item quantity="one">Hadawa na iya kunsar hotuna %1$d-%2$d</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Zabi har zuwa hotuna %d</item>
+        <item quantity="one">Zabi har zuwa hoto %d</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Abubuwan da aka zaba %d</item>
+        <item quantity="one">Abun da aka zaba %d</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">"Ya share daukar hotuna na batsewa %d daga Cloud na Xiaomi da dukan na'urorin da aka daidaita?"</item>
+        <item quantity="one">"Ya share daukar hoto na batsewa %d daga Cloud na Xiaomi da dukan na'urorin da aka daidaita?"</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Ya share daukar hotuna na batsewa %d?</item>
+        <item quantity="one">Ya share daukar hoto na batsewa %d?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">An share abubuwa %d</item>
+        <item quantity="one">An share abu %d</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">"Ya share abubuwa %d daga dukan na'urori da kuma Cloud na Xiaomi?"</item>
+        <item quantity="one">"Ya share abu %d daga dukan na'urori da kuma Cloud na Xiaomi?"</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">A share abubuwa %d?</item>
+        <item quantity="one">A share abu %d?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">"Ya share hotunan %d daga dukan na'urori da kuma Cloud na Xiaomi?"</item>
+        <item quantity="one">"Ya share hoto %d daga dukan na'urori da kuma Cloud na Xiaomi?"</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">"Ya share daukar hotuna na batsewa %d daga cikin na'urarka?"</item>
+        <item quantity="one">"Ya share daukar hoto na batsewa %d daga cikin na'urarka?"</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">"Ya share bidiyoyi %d daga dukan na'urori da kuma Cloud na Xiaomi?"</item>
+        <item quantity="one">"Ya share bidiyo %d daga dukan na'urori da kuma Cloud na Xiaomi?"</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Ya kasa an sauke fayiloli %1$d ba</item>
+        <item quantity="one">Ya kasa an sauke fayil %1$d ba</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">Ya kasa an sauke fayiloli %1$d ba, binciki hanyar sadarwa sai ka sake gwadawa</item>
+        <item quantity="one">Ya kasa an sauke fayil %1$d ba, binciki hanyar sadarwa sai ka sake gwadawa</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Saukewar abubuwa daga cloud (%2$d/%1$d)</item>
+        <item quantity="one">Saukewar abubuwa daga cloud (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">%d ne duka hotunan</item>
+        <item quantity="one">%d ne duka hoto</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Ya na aikata hotuna…</item>
+        <item quantity="one">Ya na aikata hoto…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">An tsallake hotunan %1$d da ba iya sany.</item>
+        <item quantity="one">An tsallake hoto %1$d da ba iya sany.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">Fayiloli %1$d</item>
+        <item quantity="one">Fayil %1$d</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">mintuna %d</item>
+        <item quantity="one">minti %d</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">sakan %d</item>
+        <item quantity="one">sakan %d</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Abubuwan da aka zaba %d</item>
+        <item quantity="one">Abun da aka zaba %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Minti 1 daya wuce</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">Abubuwa %1$d na jiran su daidaita</item>
+        <item quantity="one">Abu %1$d na jiran ya daidaita</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">Hotuna %1$d</item>
+        <item quantity="one">Hoto %1$d</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">Hotuna %1$d na jiran zu daidaita</item>
+        <item quantity="one">Hoto %1$d na jiran ya daidaita</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Yana daidaita hotuna %1$d…</item>
+        <item quantity="one">Yana daidaita hoto %1$d…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Yana daidaita abubuwa%1$d…</item>
+        <item quantity="one">Yana daidaita abu %1$d…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Yana daidaita bidiyoyi %1$d…</item>
+        <item quantity="one">Yana daidaita bidiyo %1$d…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">Bidiyoyi %1$d</item>
+        <item quantity="one">Bidiyo %1$d</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">Bidiyoyi %1$d na jiran su daidaita</item>
+        <item quantity="one">Bidiyo %1$d na jiran ya daidaita</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">Hotuna %d</item>
+        <item quantity="one">Hotuna %d</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Dukan abubuwa %1$d</item>
+        <item quantity="one">Dukan abu %1$d</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Juya a digiri %d</item>
+        <item quantity="one">Juya a digiri %d</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">Kwanaki %d</item>
+        <item quantity="one">Kwana %d</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">awowi %d</item>
+        <item quantity="one">awa %d</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">An tace abubuwa %d da bai aiki dashi</item>
+        <item quantity="one">An tace abu %d da bai aiki dashi</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">Fayilolin PDF na iya ƙunsar hotuna har zuwa %d</item>
+        <item quantity="one">Fayilolin PDF na iya ƙunsar hoto har zuwa %d</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">"Hotunan da aka zaba baya kan na'urar. Yi amfani da sinadarin bayanai ka saukar?"</item>
+        <item quantity="one">"Hoton da aka zaba baya kan na'urar. Yi amfani da sinadarin bayanai ka saukar?"</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">"Hotunan da aka zaba baya cikin na'urar. Za'a saukesu."</item>
+        <item quantity="one">"Hoton da aka zaba baya cikin na'urar. Za'a saukeshi."</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">"Hotunan (%dMB) da aka zaba baya cikin na'urar. A sauke da bayanan mobayil?"</item>
+        <item quantity="one">"Hotunan (%dMB) da aka zaba baya cikin na'urar. A sauke da bayanan mobayil?"</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Fayiloli %d basu sauke ba tukuna. Ya soke duk da haka?</item>
+        <item quantity="one">Fayiloli %d b asu sauke ba tukuna. Ya soke duk da haka?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Saukewar fayilolin %d da suka saura</item>
+        <item quantity="one">Saukewar fayilin da ya saura %d</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Ya kasa an sauke hotuna %1$d, hada da hanyar sadarwa ka gwada kuma</item>
+        <item quantity="one">Ya kasa an sauke hotuna %1$d, hada da hanyar sadarwa ka gwada kuma</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Ya kasa sauke fayiloli %1$d na (%2$d MB). Hada da hanyar sadarwa ka gwada kuma.</item>
+        <item quantity="one">Ya kasa sauke fayil %1$d na (%2$d MB). Hada da hanyar sadarwa ka gwada kuma.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">Fayiloli %1$d na (%2$d MB) basu sauke ba tukunna. Ya sauke da bayanan mobayil?</item>
+        <item quantity="one">Fayil %1$d na (%2$d MB) basu sauke ba tukunna. Ya sauke da bayanan mobayil?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Ya kasa sauke hotuna %1$d, gwada kuma?</item>
+        <item quantity="one">Ya kasa sauke hoto %1$d, gwada kuma?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Ya kasa sauke hotuna %1$d na (%2$d MB), a gwada kuma?</item>
+        <item quantity="one">Ya kasa sauke hoto %1$d na (%2$d MB), a gwada kuma?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">"Tsallake hotunan %d da basu cikin na'urar."</item>
+        <item quantity="one">"Tsallake hoto %d da baya cikin na'urar."</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">An gano sababbin hotunan %1$d</item>
+        <item quantity="one">An gano sabon hoto %1$d</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Duka hotuna %d</item>
+        <item quantity="one">Duka hoto %d</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">Ya kasa cire abubuwa %2$d daga cikin alban na sirri.. %1$s.</item>
+        <item quantity="one">Ya kasa cire abu %2$d daga cikin balban na sirri.. %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">An kara hotunan %1$d zuwa \"%2$s\" sai aka kara ma tushen bayanai.</item>
+        <item quantity="one">An kara hoto %1$d zuwa \"%2$s\" sai aka kara ma tushen bayanai.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">An cire hotunan %1$d daga \"%2$s\" sai aka kara ma tushen bayanai.</item>
+        <item quantity="one">An cire hoto %1$d daga \"%2$s\" sai aka kara ma tushen bayanai.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">An kara hotunan %1$d zuwa \"%2$s\".</item>
+        <item quantity="one">An kara hoto %1$d zuwa \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">An cire hotunan %1$d daga \"%2$s\".</item>
+        <item quantity="one">An cire hoto %1$d daga \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d kunshin sanyawa (%3$s) daga %1$s</item>
+        <item quantity="one">%2$d kunshin sanyawa (%3$s) daga %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Ya karbi kunshin sanyawa %2$d (%3$s) daga %1$s</item>
+        <item quantity="one">Ya karbi kunshin sanyawa %2$d (%3$s) daga %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Yana karbar kunshin sanyawa %2$d (%3$s) daga %1$s…</item>
+        <item quantity="one">Yana karbar kunshin sanyawa %2$d (%3$s) daga %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d fayilolin odiyo (%3$s) daga %1$s</item>
+        <item quantity="one">%2$d fayil din odiyo (%3$s) daga %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Ya karbi fayilolin odiyo %2$d (%3$s) daga %1$s</item>
+        <item quantity="one">Ya karbi fayilin odiyo %2$d (%3$s) daga %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Yana karbar fayilolin odiyo %2$d (%3$s) daga %1$s…</item>
+        <item quantity="one">Yana karbar fayilin odiyo %2$d (%3$s) daga %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s fayiloli (%4$s) daga %1$s</item>
+        <item quantity="one">%2$d %3$s fayil (%4$s) daga %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Ya karbi %2$d %3$s file (%4$s) daga %1$s</item>
+        <item quantity="one">Ya karbi %2$d %3$s file (%4$s) daga %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Yana karbar %2$d %3$s fayiloli (%4$s) daga %1$s…</item>
+        <item quantity="one">Yana karbar %2$d %3$s file (%4$s) daga %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">hotuna %2$d daga %1$s</item>
+        <item quantity="one">hoto %2$d daga %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Yana karbi hotuna %2$d daga %1$s</item>
+        <item quantity="one">Ya karbi hoto %2$d daga %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Yana karbar hotuna %2$d daga %1$s…</item>
+        <item quantity="one">Yana karbar hoto %2$d daga %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">hotuna da bidiyoyi %2$d daga %1$s</item>
+        <item quantity="one">hoto da bidiyo %2$d daga %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Ya karbi hotuna ko bidiyoyi %2$d daga %1$s</item>
+        <item quantity="one">Ya karbi hoto ko bidiyo %2$d daga %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Yana karbar hotuna ko bidiyoyi %2$d daga %1$s…</item>
+        <item quantity="one">Yana karbar hoto ko bidiyo %2$d daga %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">fayiloli %2$d daga %1$s</item>
+        <item quantity="one">fayil %2$d daga %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Ya karbi fayiloli %2$d daga %1$s</item>
+        <item quantity="one">Ya karbi fayil %2$d file from %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Yana karbar fayiloli %2$d daga %1$s…</item>
+        <item quantity="one">Yana karbar fayil %2$d daga %1$s…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">Ya kasa rabawa. Yana cikin aiwatar da hotuna… %d</item>
+        <item quantity="one">Ya kasa rabawa. Yana cikin aiwatar da hoto… %d</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">bidiyoyi %2$d daga %1$s</item>
+        <item quantity="one">bidiyo %2$d daga %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Ya karbi bidiyoyi %2$d daga %1$s</item>
+        <item quantity="one">Yana karbar bidiyo %2$d daga %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Yana karbar bidiyoyi %2$d daga %1$s…</item>
+        <item quantity="one">Yana karbar bidiyo %2$d daga %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d rumbun ajiya (%3$s) daga %1$s</item>
+        <item quantity="one">rumbun ajiya %2$d archive (%3$s) daga %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Yana karbar rambun ajiya %2$d (%3$s) daga %1$s</item>
+        <item quantity="one">Ya karbi rambun ajiya %2$d (%3$s) daga %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Karbar rumbun ajiya %2$d (%3$s) daga %1$s…</item>
+        <item quantity="one">Yana karbar rambun ajiya %2$d (%3$s) daga %1$s…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">An sabunta hotuna %d</item>
+        <item quantity="one">An sabunta hoto %d</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">dakuna %1$d</item>
+        <item quantity="one">daki %1$d</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">alluna %1$d</item>
+        <item quantity="one">allo %1$d</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">alluna %1$d</item>
+        <item quantity="one">allo %1$d</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">An raba allo %1$d</item>
+        <item quantity="one">An raba allo %1$d</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">Abubuwa %d sun yi girma kwarai ma daidaitawa</item>
+        <item quantity="one">Abu %d ya yi girma kwarai ma daidaitawa</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">"Ya kasa daidaita abubuwa %d. Sabunta tsarin ma'ajinka"</item>
+        <item quantity="one">"Ya kasa daidaita abu %d. Sabunta tsarin ma'ajinka"</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">Ya kasa daidaita abubuwa %d. Sake gwadawa.</item>
+        <item quantity="one">Ya kasa daidaita abu %d. Sake gwadawa.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">"Ya kasa daidaita abubuwa %d. Wannan mai alban ba ya da ma'jin cloud."</item>
+        <item quantity="one">"Ya kasa daidaita abu %d. Wannan mai alban ba ya da ma'jin cloud."</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">Sakan %1$d</item>
+        <item quantity="one">sakan %1$d</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">An gyara hotunan %d</item>
+        <item quantity="one">An gyara hoto %d</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">An gyara hotunan %d</item>
+        <item quantity="one">An gyara hoto %d</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">An gyara bidiyoyi %d</item>
+        <item quantity="one">An gyara bidiyo %d</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">"Ba'a gayra hotunan %d ba. A tsayar yanzu?"</item>
+        <item quantity="one">"Ba'a gyara hoto %d ba. A tsayar yanzu?"</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">Hotuna %d</item>
+        <item quantity="one">Hoto %d</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">Hotunan %d suka saura</item>
+        <item quantity="one">Hoto %d ya saura</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">Abun %d suka saura a sabunta</item>
+        <item quantity="one">Abun %d ya rage a sabunta</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">Bidiyoyi %d</item>
+        <item quantity="one">Bidiyo %d</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">"Ba'a ajiye hotunan ko bidiyoyi %d ba"</item>
+        <item quantity="one">"Ba'a ajiye hoto ko bidiyo %d ba"</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">Abubuwa %d sun yi girma kwarai ma adanawa</item>
+        <item quantity="one">Abu %d ya yi girma kwarai ma adanawa</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">Abubuwa %d</item>
+        <item quantity="one">Abu %d</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">An daidaita hotuna %d</item>
+        <item quantity="one">An daidaita hoto %d</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">An daidaita bidiyoyi %d</item>
+        <item quantity="one">An daidaita bidiyo %d</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Yana daidaita abubuwa %d da bayanan mobayil</item>
+        <item quantity="one">Yana daidaita abu %d da bayanan mobayil</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Yana daidaita abubuwa %d</item>
+        <item quantity="one">Yana daidaita abu %d</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, abubuwa %2$s</item>
+        <item quantity="one">%1$s, abu %2$s</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">Kwanaki %d</item>
+        <item quantity="one">Kwana %d</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">Watani %d</item>
+        <item quantity="one">Watani %d</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">Shekaru %d</item>
+        <item quantity="one">Shekara %d</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">"Za a share abubuwa %d da aka zaɓa daga cloud da duk na'urorin da aka daidaita. A share ko yaya?"</item>
+        <item quantity="one">"Za a share abu %d da aka zaɓa daga cloud da duk na'urorin da aka daidaita. A share ko yaya?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Ba zaka iya maido da abubuwa %d da aka zaba ba idan ka share shi. Ya share duk da haka?</item>
+        <item quantity="one">Ba zaka iya maido da abu %d da aka zaba ba idan ka share shi. Ya share duk da haka?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">Za a share abubuwa %d da aka zaɓa har abada. A share ko yaya?</item>
+        <item quantity="one">Za a share abubu %d da aka zaɓa har abada. A share ko yaya?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Ba zaka iya maido da abubuwa %d da aka zaba ba idan ka share shi. Ya share duk da haka?</item>
+        <item quantity="one">Ba zaka iya maido da abu %d da aka zaba ba idan ka share shi. Ya share duk da haka?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Ba zaka iya maido da abubuwa %d da aka zaba ba idan ka share shi. Ya share duk da haka?</item>
+        <item quantity="one">Ba zaka iya maido da abu %d da aka zaba ba idan ka share shi. Ya share duk da haka?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Ana iya ajiye abubuwa a nan ma kwanaki %1$d da (%2$s)</item>
+        <item quantity="one">Ana iya ajiye abubuwa a nan ma kwana %1$d da (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Ana iya ajiye abubuwa a nan ma kwanaki %1$d. Inganta tsarinka don ka kara wannan lokaci.</item>
+        <item quantity="one">Ana iya ajiye abubuwa a nan ma kwana %1$d. Inganta tsarinka don ka kara wannan lokaci.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">fayiloli %1$d</item>
+        <item quantity="one">fayil %1$d</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">Bidiyoyi %d</item>
+        <item quantity="one">Bidiyoyi %d</item>
+    </plurals>
+</resources>

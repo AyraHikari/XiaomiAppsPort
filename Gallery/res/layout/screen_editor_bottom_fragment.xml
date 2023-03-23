@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/bottom_area" android:background="@color/screen_editor_frag_nav_bg" android:paddingTop="@dimen/screen_editor_bottom_padding" android:paddingBottom="@dimen/screen_editor_bottom_padding" android:layout_width="fill_parent" android:layout_height="@dimen/screen_editor_bottom_height" app:layout_constraintTop_toBottomOf="@id/bottom_guide_line"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.miui.gallery.widget.recyclerview.SimpleRecyclerViewNoSpring android:id="@id/screen_navigation" android:layout_width="wrap_content" android:layout_height="fill_parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

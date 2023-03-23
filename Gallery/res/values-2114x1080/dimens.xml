@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="beautify_bottom_margin">20.0px</dimen>
+    <dimen name="beautyedit_beauty_compare_margin_top">170.0px</dimen>
+    <dimen name="collage_poster_margin_bottom">0.0dip</dimen>
+    <dimen name="collage_poster_margin_top">0.0dip</dimen>
+    <dimen name="photo_editor_navigator_bottom_margin">43.5px</dimen>
+    <dimen name="photo_editor_preview_padding_top">224.0px</dimen>
+    <dimen name="video_editor_preview_padding_top">224.0px</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/menu_change_background" android:title="@string/share_album_change_background" android:showAsAction="never" />
+    <item android:id="@id/menu_send_shortcut" android:visible="true" android:title="@string/create_quick_icon_on_desk" android:showAsAction="never" />
+    <item android:id="@id/menu_set_as_baby_lock_wallpaper" android:visible="true" android:title="@string/set_as_baby_lock_wallpaper" android:showAsAction="never" />
+    <item android:id="@id/menu_baby_info" android:visible="true" android:title="@string/edit_baby_info" android:showAsAction="never" />
+    <item android:id="@id/menu_create_album" android:visible="true" android:title="@string/menu_album_new_album" android:showAsAction="never" />
+    <item android:id="@id/menu_create_share_album" android:visible="true" android:title="@string/menu_album_new_share_album" android:showAsAction="never" />
+</menu>

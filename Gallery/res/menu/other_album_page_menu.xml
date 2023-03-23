@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/action_button_rename_light" android:id="@id/menu_rename" android:orderInCategory="1" android:title="@string/operation_rename" android:showAsAction="always" />
+    <item android:icon="@drawable/action_button_move_to_rubbish_albums" android:id="@id/menu_move" android:orderInCategory="2" android:title="@string/operation_move" android:showAsAction="always" />
+    <item android:icon="?actionBarDeleteIcon" android:id="@id/menu_delete" android:orderInCategory="3" android:title="@string/delete" android:showAsAction="always" />
+</menu>

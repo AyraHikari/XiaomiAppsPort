@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="assistant_page_header_icon_margin_top">14.0dip</dimen>
+    <dimen name="assistant_page_header_margin_top">0.0dip</dimen>
+</resources>

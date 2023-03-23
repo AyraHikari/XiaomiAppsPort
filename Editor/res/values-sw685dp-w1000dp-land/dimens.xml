@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="editor_menu_sticker_top_guide_end">@dimen/px_690</item>
+</resources>

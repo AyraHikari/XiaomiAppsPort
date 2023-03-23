@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/loading_progress" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Gallery.Widget.ProgressBar.Dark" />
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.Info.Shadow.White" android:textSize="@dimen/download_text_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/download_text_margin_top" android:text="@string/loading_dual_tip" />
+</LinearLayout>

@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 soat oldin</item>
+        <item quantity="one">1 soat oldin</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 soat oldin</item>
+        <item quantity="one">1 soat oldin</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarim soat oldin</item>
+        <item quantity="one">Yarim soat oldin</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 soat ichida</item>
+        <item quantity="one">1 soat ichida</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarim soat ichida</item>
+        <item quantity="one">Yarim soat ichida</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Darhol</item>
+        <item quantity="one">Darhol</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d daqiqa ichida</item>
+        <item quantity="one">1 daqiqa ichida</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Hozirgina</item>
+        <item quantity="one">Hozirgina</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d daqiqa oldin</item>
+        <item quantity="one">1 daqiqa oldin</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Ushbu elementlar shaxsiy albomga qo‘shilsinmi?</item>
+        <item quantity="one">Ushbu element shaxsiy albomga qo‘shilsinmi?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">%d bulut rasmlari qo‘shildi, ko‘rish uchun \"Faqat mahalliy albomlarni ko‘rsatish\"ni o‘chiring.</item>
+        <item quantity="one">%d ta bulut rasmi qo‘shildi, ko‘rish uchun \"Faqat mahalliy albomlarni ko‘rsatish\"ni o‘chiring.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">" %2$d ta elementni albomga qo‘shib bo‘lmadi. %1$s."</item>
+        <item quantity="one">" %2$d ta elementni albomga qo‘shib bo‘lmadi. %1$s."</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d ta elementni yashirin albomga qo‘shib bo‘lmadi. %1$s.</item>
+        <item quantity="one">%2$d ta elementni yashirin albomga qo‘shib bo‘lmadi. %1$s.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d kun</item>
+        <item quantity="one">%d kun</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d oy</item>
+        <item quantity="one">%d oy</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d yil</item>
+        <item quantity="one">%d yil</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">%d odamga jo‘natildi</item>
+        <item quantity="one">%d odamga jo‘natildi</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d ta rasm</item>
+        <item quantity="one">%d ta rasm</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d element | %2$s</item>
+        <item quantity="one">%1$d element | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d ob‘ekt)</item>
+        <item quantity="one">(%d ob‘ekt)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d ta albom</item>
+        <item quantity="one">%d ta albom</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">Ushbu albomni %s odam ko‘ra oladi</item>
+        <item quantity="one">Ushbu albomni %s odam ko‘ra oladi</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d ta albom, shu jumladan %1$s</item>
+        <item quantity="one">%2$d ta albom, shu jumladan %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d ta element</item>
+        <item quantity="one">%1$d ta element</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d xotira</item>
+        <item quantity="one">%d xotira</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%2$sning %1$d rasmi qo‘shiladi</item>
+        <item quantity="one">%2$sning %1$d rasmi qo‘shiladi</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%2$sning %1$d rasmi qo‘shiladi</item>
+        <item quantity="one">%2$sning %1$d rasmi qo‘shiladi</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Nusxalashni %d soat ichida davom ettirish</item>
+        <item quantity="one">Nusxalashni %d soat ichida davom ettirish</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d ta juda katta ob‘ekt</item>
+        <item quantity="one">%d ta juda katta ob‘ekt</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d daq ichida davom ettiriladi</item>
+        <item quantity="one">%d daq ichida davom ettiriladi</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Rasmlar, videolar, kontaktlar, qaydlar va boshqa elementlarni bulut bilan sinxronlashni %d daqiqaga to‘xtatish.</item>
+        <item quantity="one">Rasmlar, videolar, kontaktlar, qaydlar va boshqa elementlarni bulut bilan sinxronlashni %d daqiqaga to‘xtatish.</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d ta rasm yoki video | %2$s</item>
+        <item quantity="one">%1$d ta rasm yoki video | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d rasm yoki video</item>
+        <item quantity="one">%1$d rasm yoki video</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d ta rasm</item>
+        <item quantity="one">%d ta rasm</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Tanlanmagan %d ta rasm o‘chirilsinmi?</item>
+        <item quantity="one">Tanlanmagan %d ta rasm o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">%d ta rasmni o‘chirish</item>
+        <item quantity="one">%d ta rasmni o‘chirish</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">%d ta tanlangan rasmni qoldirish</item>
+        <item quantity="one">%d ta tanlangan rasmni qoldirish</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d ta rasm</item>
+        <item quantity="one">%d ta rasm</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d ta video</item>
+        <item quantity="one">%d ta video</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">Bulut xotirasi yetarli emasligi sababli %d ta element sinxronlanmadi</item>
+        <item quantity="one">Bulut xotirasi yetarli emasligi sababli %d ta element sinxronlanmadi</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Kollajda %1$d-%2$d suratlar bo‘lishi mumkin</item>
+        <item quantity="one">Kollajda %1$d-%2$d suratlar bo‘lishi mumkin</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Eng ko‘p %d ta rasm tanlang</item>
+        <item quantity="one">Eng ko‘p %d ta rasm tanlang</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d ta element tanlandi</item>
+        <item quantity="one">%d ta element tanlandi</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Xiaomi Cloud va barcha sinxronlangan qurilmalardagi %d ta seriya rasmi o‘chirilsinmi?</item>
+        <item quantity="one">Xiaomi Cloud va barcha sinxronlangan qurilmalardagi %d ta seriya rasmi o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">%d ta seriya rasmi o‘chirilsinmi?</item>
+        <item quantity="one">%d ta seriya rasmi o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d ta element o‘chirildi</item>
+        <item quantity="one">%d ta element o‘chirildi</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d ta element barcha qurilmalar va Xiaomi Cloud‘dan o‘chirilsinmi?</item>
+        <item quantity="one">%d ta element barcha qurilmalar va Xiaomi Cloud‘dan o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">%d ta ob‘ekt o‘chirilsinmi?</item>
+        <item quantity="one">%d ta ob‘ekt o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d ta rasm barcha qurilmalar va Xiaomi Cloud‘dan o‘chirilsinmi?</item>
+        <item quantity="one">%d ta rasm barcha qurilmalar va Xiaomi Cloud‘dan o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Qurilmangizdagi %d ta seriya rasmi o‘chirilsinmi?</item>
+        <item quantity="one">Qurilmangizdagi %d ta seriya rasmi o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d ta video barcha qurilmalar va Xiaomi Cloud‘dan o‘chirilsinmi?</item>
+        <item quantity="one">%d ta video barcha qurilmalar va Xiaomi Cloud‘dan o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">%1$d faylni yuklab olib bo‘lmadi</item>
+        <item quantity="one">%1$d faylni yuklab olib bo‘lmadi</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">%1$d ta faylni yuklab olib bo‘lmadi, tarmoq bog‘lanishini tekshirib qaytadan urinib ko‘ring</item>
+        <item quantity="one">%1$d ta faylni yuklab olib bo‘lmadi, tarmoq bog‘lanishini tekshirib qaytadan urinib ko‘ring</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Bulutdan narsalar yuklab olinmoqda (%2$d/%1$d)</item>
+        <item quantity="one">Bulutdan narsalar yuklab olinmoqda (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">Jami %d ta rasm</item>
+        <item quantity="one">Jami %d ta rasm</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Rasmlar qayta ishlanmoqda…</item>
+        <item quantity="one">Rasm qayta ishlanmoqda…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">Chizib bo‘lmagan %1$d ta rasm o‘tkazildi.</item>
+        <item quantity="one">Chizib bo‘lmagan %1$d ta rasm o‘tkazildi.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d ta fayl</item>
+        <item quantity="one">%1$d ta fayl</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarim soat oldin</item>
+        <item quantity="one">Yarim soat oldin</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 soat ichida</item>
+        <item quantity="one">1 soat ichida</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarim soat ichida</item>
+        <item quantity="one">Yarim soat ichida</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Darhol</item>
+        <item quantity="one">Darhol</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d daqiqa ichida</item>
+        <item quantity="one">1 daqiqa ichida</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Hozirgina</item>
+        <item quantity="one">Hozirgina</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">%d daqiqa</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d soniya</item>
+        <item quantity="one">%d soniya</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ta element tanlandi</item>
+        <item quantity="one">%d ta element tanlandi</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d daqiqa oldin</item>
+        <item quantity="one">1 daqiqa oldin</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d ta element sinxronlashni kutmoqda</item>
+        <item quantity="one">%1$d ta element sinxronlashni kutmoqda</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d ta rasm</item>
+        <item quantity="one">Rasm: %1$d</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d ta rasm sinxronlashni kutmoqda</item>
+        <item quantity="one">%1$d ta rasm sinxronlashni kutmoqda</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">%1$d ta rasm sinxronlanmoqda…</item>
+        <item quantity="one">%1$d ta rasm sinxronlanmoqda…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">%1$d ta element sinxronlanmoqda…</item>
+        <item quantity="one">%1$d ta element sinxronlanmoqda…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">%1$d ta video sinxronlanmoqda…</item>
+        <item quantity="one">%1$d ta video sinxronlanmoqda…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d ta video</item>
+        <item quantity="one">%1$d ta video</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d ta video sinxronlashni kutmoqda</item>
+        <item quantity="one">%1$d ta video sinxronlashni kutmoqda</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d ta rasm</item>
+        <item quantity="one">%d ta rasm</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Jami %1$d ta element</item>
+        <item quantity="one">Jami %1$d ta element</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d darajaga aylantirish</item>
+        <item quantity="one">%d darajaga aylantirish</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d kun</item>
+        <item quantity="one">%d kun</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">%d soat</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Qo‘llanmaydigan %d ta element filtrlandi</item>
+        <item quantity="one">Qo‘llanmaydigan %d ta element filtrlandi</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF fayllarda %d tagacha rasm bo‘lishi mumkin</item>
+        <item quantity="one">PDF fayllarda %d gacha rasm bo‘lishi mumkin</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Tanlangan rasmlar qurilmada mavjud emas. Mobil internet orqali yuklab olinsinmi?</item>
+        <item quantity="one">Tanlangan rasm qurilmada mavjud emas. Mobil internet orqali yuklab olinsinmi?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Tanlangan rasmlar qurilmada mavjud emas. Ular yuklab olinadilar.</item>
+        <item quantity="one">Tanlangan rasm qurilmada mavjud emas. U yuklab olinadi.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Tanlangan rasmlar (%dMB) qurilmada mavjud emas. Mobil internet orqali yuklab olinsinmi?</item>
+        <item quantity="one">Tanlangan rasm (%dMB) qurilmada mavjud emas. Mobil internet orqali yuklab olinsinmi?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d ta fayl hali yuklab olinmadi. Baribir bekor qilinsinmi?</item>
+        <item quantity="one">%d ta fayl hali yuklab olinmadi. Baribir bekor qilinsinmi?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Qolgan %d ta fayl yuklab olinmoqda</item>
+        <item quantity="one">Qolgan %d ta fayl yuklab olinmoqda</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">%1$d ta rasmni yuklab olib bo‘lmadi, tarmoqqa bog‘lanib qaytadan ko‘ring</item>
+        <item quantity="one">%1$d ta rasmni yuklab olib bo‘lmadi, tarmoqqa bog‘lanib qaytadan ko‘ring</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">%1$d ta faylni yuklab olib bo‘lmadi (%2$d MB). Tarmoqqa bog‘lanib qaytadan ko‘ring.</item>
+        <item quantity="one">%1$d ta faylni yuklab olib bo‘lmadi (%2$d MB). Tarmoqqa bog‘lanib qaytadan ko‘ring.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d ta fayl hali yuklab olinmadi (%2$dMB). Mobil internet orqali yuklab olinsinmi?</item>
+        <item quantity="one">%1$d ta fayl hali yuklab olinmadi (%2$dMB). Mobil internet orqali yuklab olinsinmi?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">%1$d ta rasmni yuklab olib bo‘lmadi, takrorlansinmi?</item>
+        <item quantity="one">%1$d ta rasmni yuklab olib bo‘lmadi, takrorlansinmi?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">%1$d ta rasmni yuklab olib bo‘lmadi (%2$d MB), takrorlansinmi?</item>
+        <item quantity="one">%1$d ta rasmni yuklab olib bo‘lmadi (%2$d MB), takrorlansinmi?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Qurilmada mavjud bo‘lmagan %d ta rasm o‘tkazildi.</item>
+        <item quantity="one">Qurilmada mavjud bo‘lmagan %d ta rasm o‘tkazildi.</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d ta yangi rasm topildi</item>
+        <item quantity="one">%1$d ta yangi rasm topildi</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Jami %d ta rasm</item>
+        <item quantity="one">Jami %d ta rasm</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%2$d ta element shaxsiy albomdan olib tashlanmaydi. %1$s.</item>
+        <item quantity="one">%2$d ta element shaxsiy albomdan olib tashlanmaydi. %1$s.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">%1$d ta rasm \"%2$s\" va ma’lumotlar bazasiga qo‘shildi.</item>
+        <item quantity="one">%1$d ta rasm \"%2$s\" va ma’lumotlar bazasiga qo‘shildi.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">%1$d ta rasm \"%2$s\"dan olib tashlanib ma’lumotlar bazasiga qo‘shildi.</item>
+        <item quantity="one">%1$d ta rasm \"%2$s\"dan olib tashlanib ma’lumotlar bazasiga qo‘shildi.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">%1$d ta rasm \"%2$s\"ga qo‘shildi.</item>
+        <item quantity="one">%1$d ta rasm \"%2$s\"ga qo‘shildi.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">%1$d ta rasm \"%2$s\"dan olib tashlandi.</item>
+        <item quantity="one">%1$d ta rasm \"%2$s\"dan olib tashlandi.</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s dan %2$d ta o‘rnatish paketi (%3$s)</item>
+        <item quantity="one">%1$s dan %2$d ta o‘rnatish paketi (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s dan %2$d ta o‘rnatish paketi (%3$s) qabul qilindi</item>
+        <item quantity="one">%1$s dan %2$d ta o‘rnatish paketi (%3$s) qabul qilindi</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s dan %2$d ta o‘rnatish paketi (%3$s) qabul qilinmoqda…</item>
+        <item quantity="one">%1$s dan %2$d ta o‘rnatish paketi (%3$s) qabul qilinmoqda…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s dan %2$d ta audio fayl (%3$s)</item>
+        <item quantity="one">%1$s dan %2$d ta audio fayl (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s dan %2$d ta audio fayllar (%3$s) qabul qilindi</item>
+        <item quantity="one">%1$s dan %2$d ta audio fayllar (%3$s) qabul qilindi</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s dan %2$d ta audio fayllar (%3$s) qabul qilinmoqda…</item>
+        <item quantity="one">%1$s dan %2$d ta audio fayllar (%3$s) qabul qilinmoqda…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$s dan %2$d %3$s ta fayl (%4$s)</item>
+        <item quantity="one">%1$s dan %2$d %3$s ta fayl (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s dan %2$d %3$s ta fayl (%4$s) qabul qilindi</item>
+        <item quantity="one">%1$s dan %2$d %3$s ta fayl (%4$s) qabul qilindi</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s dan %2$d %3$s ta fayl (%4$s) qabul qilinmoqda…</item>
+        <item quantity="one">%1$s dan %2$d %3$s ta fayl (%4$s) qabul qilinmoqda…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s dan %2$d ta rasm</item>
+        <item quantity="one">%1$s dan %2$d ta rasm</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s dan %2$d ta rasm qabul qilindi</item>
+        <item quantity="one">%1$s dan %2$d ta rasm qabul qilindi</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s dan %2$d ta rasm qabul qilinmoqda…</item>
+        <item quantity="one">%1$s dan %2$d ta rasm qabul qilinmoqda…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s dan %2$d ta rasm va video</item>
+        <item quantity="one">%1$s dan %2$d ta rasm va video</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s dan %2$d ta video yoki rasm qabul qilindi</item>
+        <item quantity="one">%1$s dan %2$d ta video yoki rasm qabul qilindi</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s dan %2$d ta video yoki rasm qabul qilinmoqda…</item>
+        <item quantity="one">%1$s dan %2$d ta video yoki rasm qabul qilinmoqda…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s dan %2$d ta fayl</item>
+        <item quantity="one">%1$s dan %2$d ta fayl</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s dan %2$d ta fayl qabul qilindi</item>
+        <item quantity="one">%1$s dan %2$d ta fayl qabul qilindi</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s dan %2$d ta fayl qabul qilinmoqda…</item>
+        <item quantity="one">%1$s dan %2$d ta fayl qabul qilinmoqda…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">Ulashib bo‘lmadi. %d ta rasm ishlab chiqarilmoqda…</item>
+        <item quantity="one">Ulashib bo‘lmadi. %d ta rasm ishlab chiqarilmoqda…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s dan %2$d ta video</item>
+        <item quantity="one">%1$s dan %2$d ta video</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s dan %2$d ta video qabul qilindi</item>
+        <item quantity="one">%1$s dan %2$d ta video qabul qilindi</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s dan %2$d ta video qabul qilinmoqda…</item>
+        <item quantity="one">%1$s dan %2$d ta video qabul qilinmoqda…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s dan %2$d ta arxiv (%3$s)</item>
+        <item quantity="one">%1$s dan %2$d ta arxiv (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s dan %2$d ta arxiv (%3$s) qabul qilindi</item>
+        <item quantity="one">%1$s dan %2$d ta arxiv (%3$s) qabul qilindi</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s dan %2$d ta arxiv (%3$s) qabul qilinmoqda…</item>
+        <item quantity="one">%1$s dan %2$d ta arxiv (%3$s) qabul qilinmoqda…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">%d ta rasm yuklandi</item>
+        <item quantity="one">%d ta rasm yuklandi</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d ta xona</item>
+        <item quantity="one">%1$d ta xona</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d ta ekran</item>
+        <item quantity="one">%1$d ta ekran</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d ta ekran</item>
+        <item quantity="one">%1$d ta ekran</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d ta ulashilgan ekran</item>
+        <item quantity="one">%1$d ta ulashilgan ekran</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d ta element katta sababli sinxronlanmadi</item>
+        <item quantity="one">%d ta element katta sababli sinxronlanmadi</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">%d ta elementni sinxronlab bo‘lmadi. Xotira rejangizni oshiring.</item>
+        <item quantity="one">%d ta elementni sinxronlab bo‘lmadi. Xotira rejangizni oshiring.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">%d ta elementni sinxronlab bo‘lmadi. Qaytadan urinib ko‘ring.</item>
+        <item quantity="one">%d ta elementni sinxronlab bo‘lmadi. Qaytadan urinib ko‘ring.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">%d ta element sinxronlanmadi. Ushbu albom egasining bulutli xotirasida joy mavjud emas.</item>
+        <item quantity="one">%d ta element sinxronlanmadi. Ushbu albom egasining bulutli xotirasida joy mavjud emas.</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d soniya</item>
+        <item quantity="one">%1$d soniya</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d ta rasm optimallashtirildi</item>
+        <item quantity="one">%d ta rasm optimallashtirildi</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">%d ta rasm optimallashtirildi</item>
+        <item quantity="one">%d ta rasm optimallashtirildi</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">%d ta video optimallashtirildi</item>
+        <item quantity="one">%d ta video optimallashtirildi</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d ta rasmni oprtimallashtirib bo‘lmadi. To‘xtatilsinmi?</item>
+        <item quantity="one">%d ta rasmni oprtimallashtirib bo‘lmadi. To‘xtatilsinmi?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d ta rasm</item>
+        <item quantity="one">%d ta rasm</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d ta rasm qoldi</item>
+        <item quantity="one">%d ta rasm qoldi</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">Optimallashtiriladigan %d ta element qoldi</item>
+        <item quantity="one">Optimallashtiriladigan %d ta element qoldi</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d ta video</item>
+        <item quantity="one">%d ta video</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">%d ta rasm yoki video nusxalanmadi</item>
+        <item quantity="one">%d ta rasm yoki video nusxalanmadi</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d ta juda katta ob‘ekt</item>
+        <item quantity="one">%d ta juda katta ob‘ekt</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d ta element</item>
+        <item quantity="one">%d ta element</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d ta rasm sinxronlandi</item>
+        <item quantity="one">%d ta rasm sinxronlandi</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d ta video sinxronlandi</item>
+        <item quantity="one">%d ta video sinxronlandi</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Mobil internetdan foydalanib %d ta element sinxronlanmoqda</item>
+        <item quantity="one">Mobil internetdan foydalanib %d ta element sinxronlanmoqda</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">%d ta element sinxronlanmoqda</item>
+        <item quantity="one">%d ta element sinxronlanmoqda</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s ta element</item>
+        <item quantity="one">%1$s, %2$s ta element</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d kun</item>
+        <item quantity="one">%d kun</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d oy</item>
+        <item quantity="one">%d oy</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d yil</item>
+        <item quantity="one">%d yil</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d ta tanlangan element bulutdan va barcha sinxronlangan qurilmalardan butunlay o‘chirib tashlanadi. Baribir o‘chirilsinmi?</item>
+        <item quantity="one">%d ta tanlangan element bulutdan va barcha sinxronlangan qurilmalardan butunlay o‘chirib tashlanadi. Baribir o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Tanlangan %d ta elementni yo‘q qilsangiz, uni qayta tiklay olmaysiz. Baribir o‘chirilsinmi?</item>
+        <item quantity="one">Tanlangan %d ta elementni yo‘q qilsangiz, uni qayta tiklay olmaysiz. Baribir o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d ta tanlangan element butunlay o‘chirib tashlanadi. Baribir o‘chirilsinmi?</item>
+        <item quantity="one">%d ta tanlangan element butunlay o‘chirib tashlanadi. Baribir o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Tanlangan %d ta elementni yo‘q qilsangiz, uni qayta tiklay olmaysiz. Baribir o‘chirilsinmi?</item>
+        <item quantity="one">Tanlangan %d ta elementni yo‘q qilsangiz, uni qayta tiklay olmaysiz. Baribir o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Tanlangan %d ta elementni yo‘q qilsangiz, uni qayta tiklay olmaysiz. Baribir o‘chirilsinmi?</item>
+        <item quantity="one">Tanlangan %d ta elementni yo‘q qilsangiz, uni qayta tiklay olmaysiz. Baribir o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Bu yerdagi narsalarni %1$d kun (%2$s) uchun saqlash mumkin</item>
+        <item quantity="one">Bu yerdagi narsalarni %1$d kun (%2$s) uchun saqlash mumkin</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Bu yerdagi narsalarni %1$d kun davomida saqlash mumkin. Ushbu muddatni uzaytirish uchun rejangizni yangilang.</item>
+        <item quantity="one">Bu yerdagi narsalarni %1$d kun davomida saqlash mumkin. Ushbu muddatni uzaytirish uchun rejangizni yangilang.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d ta fayl</item>
+        <item quantity="one">%1$d ta fayl</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d ta video</item>
+        <item quantity="one">%d ta video</item>
+    </plurals>
+</resources>

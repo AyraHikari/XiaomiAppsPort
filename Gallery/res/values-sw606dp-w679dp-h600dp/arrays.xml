@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mark_pen_default_color_item">
+        <item>#ffbae7ff</item>
+        <item>#fffffb8f</item>
+        <item>#ffffd8bf</item>
+    </array>
+    <array name="pen_default_color_item">
+        <item>#ffff7a45</item>
+        <item>#ffffc53d</item>
+        <item>#ff40a9ff</item>
+    </array>
+    <array name="shape_default_color_item">
+        <item>#ffff7a45</item>
+        <item>#ffffc53d</item>
+        <item>#ff40a9ff</item>
+    </array>
+</resources>

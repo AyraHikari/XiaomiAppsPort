@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="arrow" android:height="@dimen/miuix_preference_btn_radio_height" android:width="@dimen/miuix_preference_btn_radio_width" android:viewportWidth="56.0" android:viewportHeight="56.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:name="arrowanimation" android:pathData="M 10.9 29 L 23.1 40.8 L 44 16" android:strokeColor="@color/miuix_preference_btn_radio_arrow_color" android:strokeWidth="7.0" android:trimPathEnd="0.0" android:strokeLineCap="round" android:strokeLineJoin="round" />
+</vector>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_page_top_bar_action_back_margin_start">20.399994dip</dimen>
+    <dimen name="photo_page_top_bar_action_back_size">37.799988dip</dimen>
+    <dimen name="photo_page_top_bar_immersion_menu_item_icon_horizontal_padding">12.380981dip</dimen>
+    <dimen name="photo_page_top_bar_immersion_menu_item_large_icon_horizontal_padding">4.7609863dip</dimen>
+    <dimen name="photo_page_top_bar_lock_rotate_btns_margin_end">13.359985dip</dimen>
+    <dimen name="photo_page_top_bar_map_entrance_width_height">38.099976dip</dimen>
+    <dimen name="photo_page_top_bar_subtitle_margin_start">6.019989dip</dimen>
+    <dimen name="photo_page_top_bar_subtitle_padding_bottom">6.0dip</dimen>
+    <dimen name="photo_page_top_bar_title_margin_start">64.78998dip</dimen>
+    <dimen name="photo_page_top_menu_bar_action_back_margin_start">46.939972dip</dimen>
+    <dimen name="photo_page_top_menu_bar_location_container_max_width">172.88dip</dimen>
+    <dimen name="photo_page_top_menu_bar_location_max_width">134.47998dip</dimen>
+    <dimen name="photo_page_top_menu_bar_menu_margin_end">36.47998dip</dimen>
+    <dimen name="photo_page_top_menu_bar_title_text_size">20.23999sp</dimen>
+    <dimen name="photo_page_top_menu_bar_min_height">62.75998dip</dimen>
+</resources>

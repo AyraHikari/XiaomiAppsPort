@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1시간 전</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1시간 전</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">30분 전</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1시간 후</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">30분 후</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d분 후</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d분 전</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d개 파일</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">30분 전</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1시간 후</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">30분 후</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d분 후</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d개 항목 선택됨</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">새 알림 %d개</item>
+        <item quantity="one">새 알림 %d개</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d분 전</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d도 회전</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 설치 파일 (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 설치 패키지 (%3$s) 수신됨</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 설치 패키지 (%3$s) 수신 중…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 오디오 파일 (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 오디오 파일 (%3$s) 수신됨</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 오디오 파일 (%3$s) 수신 중…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d %3$s개 파일 (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d %3$s개 파일 (%4$s) 수신됨</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d %3$s개 파일 (%4$s) 수신 중…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 이미지</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 이미지 수신됨</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 이미지 수신 중…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개의 이미지 및 동영상</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개의 이미지 및 동영상 수신됨</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개의 이미지 및 동영상 수신 중…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 파일</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 파일 수신됨</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 파일 수신 중…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 동영상</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 동영상 수신됨</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 동영상 수신 중…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 압축파일 (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 압축파일 (%3$s) 수신됨</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 압축파일 (%3$s) 수신 중…</item>
+    </plurals>
+</resources>

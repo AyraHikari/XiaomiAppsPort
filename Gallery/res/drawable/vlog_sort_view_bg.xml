@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/vlog_transparent" />
+            <stroke android:width="@dimen/vlog_sort_item_selected_width" android:color="@color/vlog_text_selected_color" />
+            <corners android:radius="@dimen/vlog_seek_bar_thumbnail_corner" />
+        </shape>
+    </item>
+</selector>

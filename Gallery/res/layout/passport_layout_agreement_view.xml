@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:id="@id/user_agreement_checkbox" android:layout_marginEnd="@dimen/passport_account_login_margin_small" style="@style/Passport.CheckBox" />
+    <TextView android:textSize="14.0sp" android:textColor="@color/passport_user_agreement_text" android:textColorHighlight="@android:color/transparent" android:gravity="start" android:id="@id/user_agreement_hint" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/user_agreement_hint_with_mobile" />
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/miuix_preference_category_background_light_0" android:left="@dimen/miuix_appcompat_two_state_extra_padding_horizontal_large" android:right="@dimen/miuix_appcompat_two_state_extra_padding_horizontal_large" />
+</layer-list>

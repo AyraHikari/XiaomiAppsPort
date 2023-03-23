@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:id="@id/invite_tip" android:paddingTop="@dimen/vertical_spacing_secondary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/vertical_spacing_very_huge" android:text="@string/invite_tip" android:layout_alignParentBottom="true" style="@style/Gallery.TextAppearance.Info.Tip" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/invite_tip" layout="@layout/share_album_manage_layout" />
+</RelativeLayout>

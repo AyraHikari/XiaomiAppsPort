@@ -1,0 +1,35 @@
+{
+    "themes": [], 
+    "effects": [
+        {
+            "package": "com.nexstreaming.kinemaster.builtin.transition.crossfade.20160216060155.kmt", 
+            "optional_dependencies": [], 
+            "package_type": "kedl", 
+            "id": "com.nexstreaming.kinemaster.builtin.transition.crossfade", 
+            "thumbnail": "transition_crossfade.1ab8b54ebbda716d73839c317a724fd230a3eae1.png", 
+            "version": "20160216060155", 
+            "dependencies": [
+                "transition_crossfade.1ab8b54ebbda716d73839c317a724fd230a3eae1.png", 
+                "transition_none.67cf91d13c68c91ca47b8b36d74d702e12e32e00.png"
+            ], 
+            "package_date": 736010, 
+            "preview": null, 
+            "strings": {}
+        }, 
+        {
+            "package": "com.nexstreaming.kinemaster.builtin.transition.crossfade.20160216060155.kmt", 
+            "optional_dependencies": [], 
+            "package_type": "kedl", 
+            "id": "none", 
+            "thumbnail": "transition_none.67cf91d13c68c91ca47b8b36d74d702e12e32e00.png", 
+            "version": "20160216060155", 
+            "dependencies": [
+                "transition_crossfade.1ab8b54ebbda716d73839c317a724fd230a3eae1.png", 
+                "transition_none.67cf91d13c68c91ca47b8b36d74d702e12e32e00.png"
+            ], 
+            "package_date": 736010, 
+            "preview": null, 
+            "strings": {}
+        }
+    ]
+}

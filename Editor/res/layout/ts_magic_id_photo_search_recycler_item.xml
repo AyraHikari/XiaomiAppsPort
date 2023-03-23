@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/magic_idp_make_recycler_root" android:background="@drawable/magic_idp_search_item_" android:layout_width="@dimen/magic_search_list_width" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/magic_px_50" android:minHeight="@dimen/magic_idp_search_item_height" android:layout_marginStart="@dimen/magic_idp_make_recycler_item_margin" android:layout_marginEnd="@dimen/magic_idp_make_recycler_item_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/magic_idp_make_recycler_title_size" android:textColor="@color/white" android:id="@id/magic_idp_make_recycler_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/magic_px_45" android:layout_marginStart="@dimen/magic_px_90" android:layout_marginEnd="@dimen/magic_px_90" />
+    <TextView android:textSize="@dimen/magic_text_size_38" android:textColor="#80ffffff" android:id="@id/magic_idp_make_recycler_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/magic_px_4" android:layout_below="@id/magic_idp_make_recycler_title" android:layout_marginStart="@dimen/magic_px_90" />
+    <View android:layout_width="0.0dip" android:layout_height="@dimen/magic_px_40" android:layout_below="@id/magic_idp_make_recycler_text" />
+</RelativeLayout>

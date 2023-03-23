@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/button_recovery_light" android:id="@id/recovery" android:visible="true" android:orderInCategory="1" android:title="@string/trash_menu_recovery" android:showAsAction="always" />
+    <item android:icon="?actionBarDeleteIcon" android:id="@id/purge" android:visible="true" android:orderInCategory="2" android:title="@string/trash_menu_delete" android:showAsAction="always" />
+</menu>

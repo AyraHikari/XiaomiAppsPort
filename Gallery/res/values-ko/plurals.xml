@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1시간 전</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1시간 전</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">30분 전</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1시간 후</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">30분 후</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d분 후</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d분 전</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">다음 항목들을 비공개 앨범에 추가하시겠습니까?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">추가된 사진 중 %d장의 클라우드 사진이 포함되어 있습니다. \"로컬 앨범에만 표시\"를 끄셔서 확인하실 수 있습니다.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">" %1$s 때문에 %2$d개 항목을 앨범에 추가할 수 없습니다."</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">%1$s의 원인으로 %2$d개 항목을 비공개 앨범에 추가할 수 없습니다.</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d일</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d개월</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d년</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">%d명의 사람에게 공유됨</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d개 사진</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d개 항목 | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d개 항목)</item>
+    </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d개 앨범</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">앨범 구성원 %s명</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%1$s은(는) %2$d개 앨범을 포함합니다</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d개 항목</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d개 추억</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%2$s의 %1$d장의 사진이 추가될 것입니다.</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%2$s의 %1$d장의 사진이 추가될 것입니다.</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">%d시간 후 백업 계속하기</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d개 항목은 파일 크기가 너무 커서 백업할 수 없음</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d분 후 재개될 것입니다</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">클라우드와의 사진, 동영상, 연락처, 메모 및 기타 항목 동기화가 %d분 동안 일시정지됩니다.</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d개 사진과 동영상 | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d개 사진과 동영상</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d개 사진</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">선택되지 않은 %d장의 사진을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">%d장의 사진 삭제</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">%d장의 선택한 사진 유지</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d개 사진</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d개 동영상</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">클라우드 저장소 부족으로 %d개 항목을 동기화할 수 없음</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">콜라주에 %1$d-%2$d장의 사진 포함 가능</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">최대 %d장의 사진 선택</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d개 항목 선택됨</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Xiaomi Cloud 및 모든 동기화 기기에서 %d장의 연속 촬영 사진을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">%d장의 연속 촬영 사진을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d개 항목 삭제됨</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">모든 기기 및 Xiaomi Cloud에서 %d개 항목을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">%d개 항목을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">모든 기기 및 Xiaomi Cloud에서 %d장의 사진을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">이 기기에서 %d장의 연속 촬영 사진을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">모든 기기 및 Xiaomi Cloud에서 %d개의 동영상을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">%1$d개 파일 다운로드 실패</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">%1$d개 파일을 다운로드할 수 없습니다. 네트워크 연결을 확인하신 후 다시 시도 하십시오.</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">클라우드에서 항목 다운로드 중 (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">총 %d개 사진</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">사진 처리 중…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">%1$d개 사진은 렌더링에 실패하여 건너 뛰어졌습니다.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d개 파일</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">30분 전</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1시간 후</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">30분 후</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d분 후</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d분</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d초</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d개 항목 선택됨</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d분 전</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d개의 항목 동기화 대기 중</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d개 사진</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d장의 사진 동기화 대기 중</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">%1$d장의 사진 동기화 중…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">%1$d개의 항목 동기화 중…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">%1$d개의 동영상 동기화 중…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d개 동영상</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d개의 동영상 동기화 대기 중</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d장의 사진</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">총 %1$d개 항목</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d도 회전</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d일</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d시간</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">지원되지 않는 %d개 항목 필터링됨</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF 파일에 최대 %d개 이미지 포함 가능</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">선택하신 사진이 기기에 없습니다. 모바일 데이터를 사용하여 다운로드 하시겠습니까?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">선택한 사진들은 기기에 없습니다. 다운로드될 것입니다.</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">선택하신 사진 (%d MB)이 기기에 없습니다. 모바일 데이터로 다운로드 하시겠습니까?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">%d개의 파일이 아직 다운로드되지 않음, 그래도 취소하시겠습니까?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">%d개 남은 파일 다운로드</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">%1$d장 사진을 다운로드할 수 없습니다. 네트워크 연결 후 다시 시도하십시오.</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">%1$d개 파일 (%2$d MB) 다운로드 실패, 네트워크에 연결 후 다시 시도하십시오.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d개 파일 (%2$d MB)이 다운로드되지 않음, 모바일 데이터를 사용하여 다운로드하시겠습니까?</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">%1$d개 사진 다운로드 실패, 다시 시도하시겠습니까?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">%1$d개 사진 (%2$d MB) 다운로드 실패, 다시 시도하시겠습니까?</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">이 기기에 존재하지 않는 %d장의 사진을 건너뛰었습니다.</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d개 새 사진 발견됨</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">총 %d개 사진</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">%1$s의 원인으로 %2$d개 항목을 비공개 앨범에서 제거할 수 없습니다.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">\"%2$s\"에서 %1$d장 사진이 추가되었고 데이터베이스에 추가되었습니다.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">\"%2$s\"에서 %1$d장 사진이 제거되었고 데이터베이스에 추가되었습니다.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">\"%2$s\"에 %1$d장 사진이 추가되었습니다.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">\"%2$s\"에서 %1$d장 사진이 제거되었습니다.</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 설치 파일 (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 설치 패키지 (%3$s) 수신됨</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 설치 패키지 (%3$s) 수신 중…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 오디오 파일 (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 오디오 파일 (%3$s) 수신됨</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 오디오 파일 (%3$s) 수신 중…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d %3$s개 파일 (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d %3$s개 파일 (%4$s) 수신됨</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d %3$s개 파일 (%4$s) 수신 중…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 이미지</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 이미지 수신됨</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 이미지 수신 중…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개의 이미지 및 동영상</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개의 이미지 및 동영상 수신됨</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개의 이미지 및 동영상 수신 중…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 파일</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 파일 수신됨</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 파일 수신 중…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">공유 실패, 아직 %d장 사진 처리 중…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 동영상</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 동영상 수신됨</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 동영상 수신 중…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s(으)로부터 %2$d개 압축파일 (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s(으)로부터 %2$d개 압축파일 (%3$s) 수신됨</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s(으)로부터 %2$d개 압축파일 (%3$s) 수신 중…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">%d개 사진 업로드됨</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d개 방</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d개 화면</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d개 화면</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d개 공유 화면</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d개 항목이 동기화하기에 너무 큽니다</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">%d개 항목을 동기화할 수 없습니다. 저장소 플랜을 업그레이드하십시오.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">%d개 항목 동기화 실패, 다시 시도하십시오.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">%d개 항목을 동기화할 수 없습니다. 이 앨범 소유자의 클라우드 저장소가 가득 찼습니다.</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d초</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d장 사진 최적화됨</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">%d장의 사진 최적화됨</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">%d개 동영상 최적화됨</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d장의 사진이 최적화되지 않았습니다. 지금 중지하시겠습니까?</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d장의 사진</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d장 사진 남음</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">최적화할 항목 %d개 남음</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d개 동영상</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">%d개 사진과 동영상을 백업하지 못했습니다</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d개 항목은 파일 크기가 너무 커서 백업할 수 없음</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d장의 사진 동기화됨</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d개의 동영상 동기화됨</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">모바일 데이터를 사용하여 %d개 항목 동기화 중</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">%d개 항목 동기화 중</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s개 항목</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d일</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d개월</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d년</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">선택한 %d개 항목이 클라우드와 동기화된 모든 기기에서 영구적으로 삭제될 것입니다. 그래도 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">삭제하시면 선택된 %d개 항목을 복구할 수 없게 됩니다. 그래도 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">선택한 %d개 항목이 영구적으로 삭제될 것입니다. 그래도 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">삭제하시면 선택된 %d개 항목을 복구할 수 없게 됩니다. 그래도 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">삭제하시면 선택된 %d개 항목을 복구할 수 없게 됩니다. 그래도 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">항목을 최대 %1$d일 (%2$s) 동안 보관할 수 있습니다</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">여기에 항목을 최대 %1$d일 동안 보관할 수 있습니다. 기간을 연장하시려면 플랜을 업그레이드 하십시오.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d개 파일</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d개 동영상</item>
+    </plurals>
+</resources>

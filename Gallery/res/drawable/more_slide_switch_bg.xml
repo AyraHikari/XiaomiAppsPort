@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/more_slide_switch_view_bg_corner" />
+    <solid android:color="@color/more_slide_switch_view_bg_color" />
+</shape>

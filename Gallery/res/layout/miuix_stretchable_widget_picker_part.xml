@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <miuix.pickerwidget.widget.DateTimePicker android:layout_gravity="center" android:id="@id/datetime_picker" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <RelativeLayout android:id="@id/lunar_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/miuix_picker_lunar_text_size" android:id="@id/lunar_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/miuix_picker_start_text_top_margin" android:layout_marginBottom="@dimen/miuix_picker_start_text_top_margin" android:layout_centerVertical="true" android:layout_marginStart="@dimen/miuix_picker_lunar_start_margin" />
+        <miuix.slidingwidget.widget.SlidingButton android:id="@id/lunar_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/miuix_picker_switch_vertical_margin" android:layout_marginBottom="@dimen/miuix_picker_switch_vertical_margin" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/miuix_picker_lunar_start_margin" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</LinearLayout>

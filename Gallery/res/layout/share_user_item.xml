@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" android:background="@drawable/album_sharer_background" android:layout_width="@dimen/share_album_sharer_icon_size" android:layout_height="@dimen/share_album_sharer_icon_size" android:scaleType="centerCrop" android:layout_alignParentTop="true" android:contentDescription="@null" android:layout_alignParentStart="true" />
+    <ImageView android:id="@id/mark" android:layout_width="@dimen/share_album_sharer_mark_size" android:layout_height="@dimen/share_album_sharer_mark_size" android:scaleType="centerCrop" android:layout_alignTop="@id/icon" android:contentDescription="@null" android:layout_alignEnd="@id/icon" />
+    <TextView android:textSize="@dimen/share_album_family_sharer_grid_item_text_size" android:gravity="center_horizontal" android:id="@id/text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/share_album_sharer_name_margin" android:layout_below="@id/icon" android:layout_centerHorizontal="true" android:alpha="0.8" android:fontFamily="misans-regular" android:layout_alignStart="@id/icon" android:layout_alignEnd="@id/icon" android:lineHeight="16.0dip" android:textFontWeight="400" />
+</RelativeLayout>

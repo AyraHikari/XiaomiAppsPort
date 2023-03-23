@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="@dimen/vlog_video_sort_padding_top" android:paddingBottom="@dimen/vlog_video_sort_padding_bottom" android:layout_width="@dimen/vlog_sort_item_width" android:layout_height="@dimen/px_270"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.gallery.vlog.clip.sort.VlogSortView android:id="@id/NvsThumbnailView" android:layout_width="@dimen/vlog_sort_item_width" android:layout_height="@dimen/vlog_sort_item_width" android:scaleType="centerCrop" />
+    <ImageView android:id="@id/iv_selected" android:background="@drawable/sel_filter_menu_item_selected" android:layout_width="@dimen/vlog_sort_item_width" android:layout_height="@dimen/vlog_sort_item_width" />
+    <TextView android:textSize="@dimen/clip_menu_sort_item_text_size" android:textColor="@color/vlog_bottom_panel_background" android:id="@id/time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/vlog_sort_item_time_bottom" android:shadowColor="@color/vlog_clip_sort_text_shadow_color" android:shadowDx="1.0" android:shadowDy="2.0" android:shadowRadius="0.1" android:layout_alignBottom="@id/NvsThumbnailView" android:fontFamily="mipro-medium" android:layout_marginStart="@dimen/vlog_sort_item_time_start" android:layout_marginEnd="@dimen/vlog_sort_item_time_end" />
+</RelativeLayout>

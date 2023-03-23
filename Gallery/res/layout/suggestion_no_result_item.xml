@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/search_list_item_background" android:layout_width="fill_parent" android:layout_height="@dimen/suggestion_no_result_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/search_suggestion_subtitle_textsize" android:textColor="@color/black_50_transparent_with_dark_mode" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

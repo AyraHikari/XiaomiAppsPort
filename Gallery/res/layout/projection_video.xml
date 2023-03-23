@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.projection.ProjectionVideoController android:id="@id/layout_video_control" android:background="@color/black_90_transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/layout_quit" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/play_in_other_device_imageview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/projection_video_icon" android:contentDescription="@string/projection_video_quit" />
+            <TextView android:textSize="@dimen/projection_slide_text" android:textColor="@color/white_100_transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/projection_video_quit" />
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout android:id="@id/layout_control" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/projection_video_progress_margin_bottom" android:layout_alignParentBottom="true">
+        <ImageView android:id="@id/iv_pause" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/projection_video_pause" android:layout_centerVertical="true" />
+        <TextView android:textSize="@dimen/projection_video_time_text" android:textColor="@color/white_100_transparent" android:id="@id/tv_cur_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/projection_video_time_margin" android:singleLine="true" android:layout_toEndOf="@id/iv_pause" />
+        <TextView android:textSize="@dimen/projection_video_time_text" android:textColor="@color/white_100_transparent" android:id="@id/tv_duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/projection_video_time_margin" android:singleLine="true" android:layout_alignParentEnd="true" />
+        <com.miui.gallery.widget.VideoSeekBar android:id="@id/sb_seek" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxHeight="1.5dip" android:progressDrawable="@drawable/projection_progress_bar" android:minHeight="1.5dip" android:thumb="@drawable/projection_seekbar_thumb" android:thumbOffset="12.0dip" android:layout_below="@id/tv_cur_time" android:layout_centerVertical="true" android:paddingStart="10.0dip" android:paddingEnd="10.0dip" android:layout_toEndOf="@id/iv_pause" />
+    </RelativeLayout>
+</com.miui.gallery.projection.ProjectionVideoController>

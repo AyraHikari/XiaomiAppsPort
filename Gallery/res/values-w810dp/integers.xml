@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="thumb_large_columns">6</integer>
+    <integer name="thumb_micro_columns">8</integer>
+    <integer name="thumb_mini_columns">16</integer>
+    <integer name="thumb_tiny_columns">32</integer>
+    <integer name="thumbnail_columns">8</integer>
+    <integer name="thumbnail_columns_land">8</integer>
+</resources>

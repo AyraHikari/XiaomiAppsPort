@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="root"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:persistent="false" android:title="@string/album_show_local_only" android:key="show_local_album_only" android:summary="@string/album_show_local_only_summary" android:defaultValue="false" />
+</PreferenceScreen>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/content_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/button_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <View android:background="@color/divider_line_color" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <TextView android:enabled="false" android:id="@id/report_button" android:layout_margin="@dimen/horizontal_spacing_big" android:text="@string/search_mark_feedback_false_negative_title" style="@style/Gallery.Widget.Button.Warning" />
+        </FrameLayout>
+        <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@id/grid" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/button_container" style="@style/Gallery.Widget.GridView.ThumbNail" />
+    </RelativeLayout>
+    <include layout="@layout/full_screen_status_views" />
+</FrameLayout>

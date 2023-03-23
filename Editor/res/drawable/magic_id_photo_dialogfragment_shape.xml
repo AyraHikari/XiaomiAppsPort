@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/dialog_fragment_shap_bg" />
+    <corners android:topLeftRadius="@dimen/dialg_fragment_shap_radius" android:topRightRadius="@dimen/dialg_fragment_shap_radius" />
+</shape>
